@@ -1,0 +1,2047 @@
+Banana Peel + Lure + Organic Birthday Cake + Organic Toontanic for 320 damage
+Organic Banana Peel + Lure + Wedding Cake + Organic Grand Piano for 320 damage
+Rake + Lure + Wedding Cake + Toontanic for 320 damage
+Rake + Lure + Safe + Toontanic for 320 damage
+Organic Rake + Lure + Birthday Cake + Organic Toontanic for 320 damage
+Marbles + Lure + Geyser + Toontanic for 320 damage
+Marbles + Lure + Organic Geyser + Grand Piano for 320 damage
+Quicksand + Lure + Opera Singer + Toontanic for 320 damage
+Quicksand + Lure + Birthday Cake + Grand Piano for 320 damage
+Quicksand + Lure + Big Weight + Toontanic for 320 damage
+Trapdoor + Lure + Organic Foghorn + Toontanic for 320 damage
+Trapdoor + Lure + Wedding Cake + Organic Geyser for 320 damage
+Organic Trapdoor + Lure + Opera Singer + Organic Opera Singer for 320 damage
+Organic Trapdoor + Lure + Organic Whole Fruit Pie + Organic Toontanic for 320 damage
+Organic Trapdoor + Lure + Whole Cream Pie + Organic Grand Piano for 320 damage
+Organic Trapdoor + Lure + Organic Sandbag + Grand Piano for 320 damage
+TNT + Lure + Organic Whistle + Organic Wedding Cake for 320 damage
+TNT + Lure + Organic Aoogah + Organic Opera Singer for 320 damage
+TNT + Lure + Cupcake + Organic Birthday Cake for 320 damage
+TNT + Lure + Organic Birthday Cake + Fire Hose for 320 damage
+TNT + Lure + Organic Birthday Cake + Anvil for 320 damage
+TNT + Lure + Organic Wedding Cake + Glass of Water for 320 damage
+Organic TNT + Lure + Whistle + Organic Geyser for 320 damage
+Organic TNT + Lure + Bugle + Opera Singer for 320 damage
+Organic TNT + Lure + Organic Bugle + Organic Birthday Cake for 320 damage
+Organic TNT + Lure + Organic Aoogah + Geyser for 320 damage
+Organic TNT + Lure + Organic Opera Singer + Organic Seltzer Bottle for 320 damage
+Organic TNT + Lure + Organic Cupcake + Organic Geyser for 320 damage
+Organic TNT + Lure + Cream Pie Slice + Geyser for 320 damage
+Organic TNT + Lure + Organic Birthday Cake + Squirt Gun for 320 damage
+Organic TNT + Lure + Organic Squirt Gun + Organic Storm Cloud for 320 damage
+Organic TNT + Lure + Seltzer Bottle + Storm Cloud for 320 damage
+Railroad + Lure + Organic Bike Horn + Organic Geyser for 320 damage
+Railroad + Lure + Foghorn + Foghorn for 320 damage
+Railroad + Lure + Foghorn + Safe for 320 damage
+Railroad + Lure + Opera Singer + Fire Hose for 320 damage
+Railroad + Lure + Opera Singer + Anvil for 320 damage
+Railroad + Lure + Organic Opera Singer + Seltzer Bottle for 320 damage
+Railroad + Lure + Whole Cream Pie + Storm Cloud for 320 damage
+Railroad + Lure + Organic Birthday Cake + Flower Pot for 320 damage
+Railroad + Lure + Wedding Cake for 320 damage
+Railroad + Lure + Squirt Gun + Organic Storm Cloud for 320 damage
+Railroad + Lure + Anvil + Safe for 320 damage
+Organic Railroad + Lure + Organic Bugle + Organic Storm Cloud for 320 damage
+Organic Railroad + Lure + Organic Elephant Trunk + Organic Safe for 320 damage
+Organic Railroad + Lure + Organic Foghorn + Big Weight for 320 damage
+Organic Railroad + Lure + Opera Singer + Fruit Pie Slice for 320 damage
+Organic Railroad + Lure + Opera Singer + Flower Pot for 320 damage
+Organic Railroad + Lure + Birthday Cake for 320 damage
+Organic Railroad + Lure + Organic Seltzer Bottle + Organic Safe for 320 damage
+Organic Railroad + Lure + Fire Hose + Safe for 320 damage
+Lure + Whistle + Organic Geyser + Organic Toontanic for 320 damage
+Lure + Organic Whistle + Organic Wedding Cake + Toontanic for 320 damage
+Lure + Bugle + Opera Singer + Organic Toontanic for 320 damage
+Lure + Bugle + Safe + Organic Grand Piano for 320 damage
+Lure + Bugle + Organic Safe + Toontanic for 320 damage
+Lure + Organic Bugle + Organic Birthday Cake + Organic Toontanic for 320 damage
+Lure + Organic Aoogah + Organic Opera Singer + Toontanic for 320 damage
+Lure + Organic Aoogah + Wedding Cake + Organic Wedding Cake for 320 damage
+Lure + Organic Aoogah + Geyser + Organic Toontanic for 320 damage
+Lure + Organic Elephant Trunk + Organic Birthday Cake + Organic Grand Piano for 320 damage
+Lure + Organic Elephant Trunk + Organic Big Weight + Organic Toontanic for 320 damage
+Lure + Organic Elephant Trunk + Organic Safe + Grand Piano for 320 damage
+Lure + Foghorn + Birthday Cake + Grand Piano for 320 damage
+Lure + Foghorn + Big Weight + Toontanic for 320 damage
+Lure + Opera Singer + Organic Flower Pot + Toontanic for 320 damage
+Lure + Organic Opera Singer + Organic Seltzer Bottle + Organic Toontanic for 320 damage
+Lure + Cupcake + Wedding Cake + Geyser for 320 damage
+Lure + Organic Cupcake + Safe + Organic Grand Piano for 320 damage
+Lure + Organic Cupcake + Organic Safe + Toontanic for 320 damage
+Lure + Organic Fruit Pie Slice + Geyser + Organic Toontanic for 320 damage
+Lure + Whole Fruit Pie + Organic Whole Fruit Pie + Organic Wedding Cake for 320 damage
+Lure + Whole Fruit Pie + Organic Whole Cream Pie + Organic Toontanic for 320 damage
+Lure + Whole Fruit Pie + Organic Wedding Cake + Organic Big Weight for 320 damage
+Lure + Whole Fruit Pie + Big Weight + Organic Grand Piano for 320 damage
+Lure + Organic Whole Fruit Pie + Organic Wedding Cake + Big Weight for 320 damage
+Lure + Organic Whole Fruit Pie + Organic Geyser + Organic Geyser for 320 damage
+Lure + Whole Cream Pie + Storm Cloud + Toontanic for 320 damage
+Lure + Whole Cream Pie + Sandbag + Organic Toontanic for 320 damage
+Lure + Organic Whole Cream Pie + Organic Whole Cream Pie + Birthday Cake for 320 damage
+Lure + Organic Whole Cream Pie + Organic Whole Cream Pie + Grand Piano for 320 damage
+Lure + Birthday Cake + Grand Piano for 320 damage
+Lure + Organic Wedding Cake + Organic Squirt Gun + Organic Storm Cloud for 320 damage
+Lure + Organic Wedding Cake + Seltzer Bottle + Storm Cloud for 320 damage
+Lure + Glass of Water + Storm Cloud + Grand Piano for 320 damage
+Lure + Squirt Gun + Organic Storm Cloud + Organic Storm Cloud for 320 damage
+Lure + Organic Squirt Gun + Safe + Toontanic for 320 damage
+Lure + Seltzer Bottle + Safe + Grand Piano for 320 damage
+Lure + Fire Hose + Organic Big Weight + Toontanic for 320 damage
+Lure + Organic Fire Hose + Big Weight + Toontanic for 320 damage
+Lure + Organic Geyser + Big Weight + Organic Safe for 320 damage
+Bike Horn + Organic Bike Horn + Safe + Organic Grand Piano for 320 damage
+Bike Horn + Organic Bike Horn + Organic Safe + Toontanic for 320 damage
+Bike Horn + Whistle + Opera Singer + Organic Toontanic for 320 damage
+Bike Horn + Bugle + Organic Wedding Cake + Grand Piano for 320 damage
+Bike Horn + Bugle + Organic Geyser + Organic Grand Piano for 320 damage
+Bike Horn + Organic Bugle + Wedding Cake + Toontanic for 320 damage
+Bike Horn + Organic Bugle + Safe + Toontanic for 320 damage
+Bike Horn + Elephant Trunk + Organic Birthday Cake + Toontanic for 320 damage
+Bike Horn + Elephant Trunk + Wedding Cake + Grand Piano for 320 damage
+Bike Horn + Organic Elephant Trunk + Birthday Cake + Organic Grand Piano for 320 damage
+Bike Horn + Opera Singer + Organic Opera Singer + Organic Storm Cloud for 320 damage
+Bike Horn + Opera Singer + Whole Fruit Pie + Toontanic for 320 damage
+Bike Horn + Opera Singer + Whole Cream Pie + Organic Wedding Cake for 320 damage
+Bike Horn + Opera Singer + Organic Glass of Water + Organic Toontanic for 320 damage
+Bike Horn + Organic Opera Singer + Organic Opera Singer + Organic Safe for 320 damage
+Bike Horn + Organic Opera Singer + Organic Glass of Water + Organic Grand Piano for 320 damage
+Bike Horn + Organic Cupcake + Birthday Cake + Organic Grand Piano for 320 damage
+Bike Horn + Organic Cupcake + Safe + Organic Grand Piano for 320 damage
+Bike Horn + Organic Cupcake + Organic Safe + Toontanic for 320 damage
+Bike Horn + Organic Fruit Pie Slice + Organic Birthday Cake + Grand Piano for 320 damage
+Bike Horn + Organic Fruit Pie Slice + Wedding Cake + Organic Wedding Cake for 320 damage
+Bike Horn + Whole Cream Pie + Organic Geyser + Organic Geyser for 320 damage
+Bike Horn + Birthday Cake + Flower Pot + Grand Piano for 320 damage
+Bike Horn + Organic Birthday Cake + Glass of Water + Organic Toontanic for 320 damage
+Bike Horn + Wedding Cake + Organic Wedding Cake + Organic Squirt Gun for 320 damage
+Bike Horn + Wedding Cake + Organic Glass of Water + Organic Grand Piano for 320 damage
+Bike Horn + Organic Wedding Cake + Squirting Flower + Toontanic for 320 damage
+Bike Horn + Glass of Water + Geyser + Toontanic for 320 damage
+Bike Horn + Organic Fire Hose + Storm Cloud + Toontanic for 320 damage
+Bike Horn + Organic Fire Hose + Organic Storm Cloud + Grand Piano for 320 damage
+Bike Horn + Organic Fire Hose + Organic Geyser + Organic Geyser for 320 damage
+Bike Horn + Organic Storm Cloud + Flower Pot + Toontanic for 320 damage
+Organic Bike Horn + Organic Bike Horn + Organic Birthday Cake + Organic Toontanic for 320 damage
+Organic Bike Horn + Bugle + Wedding Cake + Toontanic for 320 damage
+Organic Bike Horn + Bugle + Safe + Toontanic for 320 damage
+Organic Bike Horn + Organic Bugle + Organic Opera Singer + Toontanic for 320 damage
+Organic Bike Horn + Elephant Trunk + Opera Singer + Toontanic for 320 damage
+Organic Bike Horn + Elephant Trunk + Organic Opera Singer + Grand Piano for 320 damage
+Organic Bike Horn + Elephant Trunk + Wedding Cake + Wedding Cake for 320 damage
+Organic Bike Horn + Elephant Trunk + Safe + Grand Piano for 320 damage
+Organic Bike Horn + Organic Elephant Trunk + Organic Storm Cloud + Organic Toontanic for 320 damage
+Organic Bike Horn + Organic Foghorn + Organic Sandbag + Organic Grand Piano for 320 damage
+Organic Bike Horn + Opera Singer + Glass of Water + Organic Toontanic for 320 damage
+Organic Bike Horn + Organic Opera Singer + Glass of Water + Organic Grand Piano for 320 damage
+Organic Bike Horn + Cupcake + Birthday Cake + Organic Grand Piano for 320 damage
+Organic Bike Horn + Cupcake + Safe + Organic Grand Piano for 320 damage
+Organic Bike Horn + Cupcake + Organic Safe + Toontanic for 320 damage
+Organic Bike Horn + Fruit Pie Slice + Wedding Cake + Organic Wedding Cake for 320 damage
+Organic Bike Horn + Organic Cream Pie Slice + Organic Big Weight + Organic Toontanic for 320 damage
+Organic Bike Horn + Organic Cream Pie Slice + Organic Safe + Grand Piano for 320 damage
+Organic Bike Horn + Whole Fruit Pie + Safe + Grand Piano for 320 damage
+Organic Bike Horn + Organic Whole Fruit Pie + Organic Storm Cloud + Organic Toontanic for 320 damage
+Organic Bike Horn + Whole Cream Pie + Organic Storm Cloud + Organic Grand Piano for 320 damage
+Organic Bike Horn + Whole Cream Pie + Geyser + Grand Piano for 320 damage
+Organic Bike Horn + Whole Cream Pie + Organic Big Weight + Toontanic for 320 damage
+Organic Bike Horn + Wedding Cake + Organic Wedding Cake + Squirt Gun for 320 damage
+Organic Bike Horn + Wedding Cake + Glass of Water + Organic Grand Piano for 320 damage
+Organic Bike Horn + Organic Wedding Cake + Organic Squirt Gun + Grand Piano for 320 damage
+Organic Bike Horn + Organic Glass of Water + Organic Storm Cloud + Organic Toontanic for 320 damage
+Organic Bike Horn + Organic Seltzer Bottle + Big Weight + Organic Toontanic for 320 damage
+Organic Bike Horn + Organic Storm Cloud + Organic Sandbag + Grand Piano for 320 damage
+Organic Bike Horn + Organic Sandbag + Big Weight + Organic Toontanic for 320 damage
+Organic Bike Horn + Anvil + Big Weight + Organic Grand Piano for 320 damage
+Organic Bike Horn + Organic Anvil + Organic Big Weight + Toontanic for 320 damage
+Whistle + Whistle + Wedding Cake + Organic Wedding Cake for 320 damage
+Whistle + Whistle + Geyser + Organic Toontanic for 320 damage
+Whistle + Organic Whistle + Organic Wedding Cake + Grand Piano for 320 damage
+Whistle + Organic Whistle + Organic Geyser + Organic Grand Piano for 320 damage
+Whistle + Bugle + Birthday Cake + Organic Toontanic for 320 damage
+Whistle + Organic Bugle + Organic Birthday Cake + Organic Grand Piano for 320 damage
+Whistle + Organic Bugle + Organic Big Weight + Organic Toontanic for 320 damage
+Whistle + Organic Bugle + Organic Safe + Grand Piano for 320 damage
+Whistle + Aoogah + Geyser + Organic Grand Piano for 320 damage
+Whistle + Aoogah + Big Weight + Organic Toontanic for 320 damage
+Whistle + Organic Aoogah + Organic Birthday Cake + Organic Wedding Cake for 320 damage
+Whistle + Elephant Trunk + Organic Storm Cloud + Organic Toontanic for 320 damage
+Whistle + Organic Elephant Trunk + Organic Big Weight + Organic Grand Piano for 320 damage
+Whistle + Foghorn + Organic Opera Singer + Organic Wedding Cake for 320 damage
+Whistle + Foghorn + Organic Flower Pot + Organic Toontanic for 320 damage
+Whistle + Opera Singer + Organic Squirting Flower + Organic Toontanic for 320 damage
+Whistle + Opera Singer + Organic Seltzer Bottle + Toontanic for 320 damage
+Whistle + Opera Singer + Organic Fire Hose + Grand Piano for 320 damage
+Whistle + Organic Opera Singer + Whole Cream Pie + Wedding Cake for 320 damage
+Whistle + Organic Opera Singer + Organic Squirting Flower + Organic Grand Piano for 320 damage
+Whistle + Organic Opera Singer + Squirt Gun + Toontanic for 320 damage
+Whistle + Organic Opera Singer + Storm Cloud + Storm Cloud for 320 damage
+Whistle + Organic Opera Singer + Organic Geyser + Organic Safe for 320 damage
+Whistle + Fruit Pie Slice + Geyser + Organic Toontanic for 320 damage
+Whistle + Organic Fruit Pie Slice + Organic Geyser + Organic Grand Piano for 320 damage
+Whistle + Organic Cream Pie Slice + Organic Geyser + Toontanic for 320 damage
+Whistle + Whole Fruit Pie + Organic Storm Cloud + Organic Toontanic for 320 damage
+Whistle + Organic Whole Fruit Pie + Organic Big Weight + Organic Grand Piano for 320 damage
+Whistle + Birthday Cake + Wedding Cake + Organic Big Weight for 320 damage
+Whistle + Birthday Cake + Organic Fire Hose + Toontanic for 320 damage
+Whistle + Organic Birthday Cake + Organic Birthday Cake + Organic Big Weight for 320 damage
+Whistle + Organic Birthday Cake + Organic Squirting Flower + Organic Toontanic for 320 damage
+Whistle + Organic Birthday Cake + Organic Seltzer Bottle + Toontanic for 320 damage
+Whistle + Organic Birthday Cake + Organic Fire Hose + Grand Piano for 320 damage
+Whistle + Wedding Cake + Organic Wedding Cake + Flower Pot for 320 damage
+Whistle + Wedding Cake + Organic Squirt Gun + Toontanic for 320 damage
+Whistle + Wedding Cake + Organic Seltzer Bottle + Grand Piano for 320 damage
+Whistle + Squirting Flower + Organic Geyser + Grand Piano for 320 damage
+Whistle + Squirting Flower + Safe + Organic Grand Piano for 320 damage
+Whistle + Squirting Flower + Organic Safe + Toontanic for 320 damage
+Whistle + Organic Squirt Gun + Safe + Toontanic for 320 damage
+Whistle + Seltzer Bottle + Big Weight + Organic Toontanic for 320 damage
+Whistle + Geyser + Organic Geyser + Organic Big Weight for 320 damage
+Whistle + Organic Geyser + Organic Toontanic for 320 damage
+Organic Whistle + Organic Whistle + Wedding Cake + Toontanic for 320 damage
+Organic Whistle + Organic Whistle + Safe + Toontanic for 320 damage
+Organic Whistle + Bugle + Organic Birthday Cake + Organic Grand Piano for 320 damage
+Organic Whistle + Bugle + Organic Big Weight + Organic Toontanic for 320 damage
+Organic Whistle + Bugle + Organic Safe + Grand Piano for 320 damage
+Organic Whistle + Aoogah + Organic Birthday Cake + Organic Wedding Cake for 320 damage
+Organic Whistle + Organic Aoogah + Organic Birthday Cake + Toontanic for 320 damage
+Organic Whistle + Organic Aoogah + Wedding Cake + Grand Piano for 320 damage
+Organic Whistle + Elephant Trunk + Geyser + Toontanic for 320 damage
+Organic Whistle + Elephant Trunk + Organic Geyser + Grand Piano for 320 damage
+Organic Whistle + Foghorn + Storm Cloud + Grand Piano for 320 damage
+Organic Whistle + Foghorn + Flower Pot + Organic Toontanic for 320 damage
+Organic Whistle + Organic Foghorn + Organic Storm Cloud + Organic Geyser for 320 damage
+Organic Whistle + Organic Foghorn + Organic Anvil + Grand Piano for 320 damage
+Organic Whistle + Opera Singer + Organic Wedding Cake + Safe for 320 damage
+Organic Whistle + Opera Singer + Squirting Flower + Organic Toontanic for 320 damage
+Organic Whistle + Opera Singer + Storm Cloud + Organic Storm Cloud for 320 damage
+Organic Whistle + Organic Opera Singer + Organic Fruit Pie Slice + Toontanic for 320 damage
+Organic Whistle + Organic Opera Singer + Whole Fruit Pie + Organic Wedding Cake for 320 damage
+Organic Whistle + Organic Opera Singer + Squirting Flower + Organic Grand Piano for 320 damage
+Organic Whistle + Organic Opera Singer + Seltzer Bottle + Grand Piano for 320 damage
+Organic Whistle + Fruit Pie Slice + Birthday Cake + Toontanic for 320 damage
+Organic Whistle + Fruit Pie Slice + Organic Geyser + Organic Grand Piano for 320 damage
+Organic Whistle + Cream Pie Slice + Organic Geyser + Toontanic for 320 damage
+Organic Whistle + Organic Cream Pie Slice + Birthday Cake + Grand Piano for 320 damage
+Organic Whistle + Organic Cream Pie Slice + Organic Birthday Cake + Organic Wedding Cake for 320 damage
+Organic Whistle + Whole Fruit Pie + Geyser + Toontanic for 320 damage
+Organic Whistle + Whole Fruit Pie + Organic Geyser + Grand Piano for 320 damage
+Organic Whistle + Whole Cream Pie + Birthday Cake + Wedding Cake for 320 damage
+Organic Whistle + Whole Cream Pie + Organic Birthday Cake + Organic Birthday Cake for 320 damage
+Organic Whistle + Whole Cream Pie + Organic Wedding Cake + Geyser for 320 damage
+Organic Whistle + Organic Whole Cream Pie + Wedding Cake + Organic Geyser for 320 damage
+Organic Whistle + Organic Whole Cream Pie + Organic Storm Cloud + Toontanic for 320 damage
+Organic Whistle + Birthday Cake + Organic Wedding Cake + Organic Fire Hose for 320 damage
+Organic Whistle + Birthday Cake + Organic Wedding Cake + Organic Anvil for 320 damage
+Organic Whistle + Birthday Cake + Organic Storm Cloud + Organic Storm Cloud for 320 damage
+Organic Whistle + Organic Birthday Cake + Organic Wedding Cake + Seltzer Bottle for 320 damage
+Organic Whistle + Organic Birthday Cake + Squirting Flower + Organic Toontanic for 320 damage
+Organic Whistle + Organic Birthday Cake + Storm Cloud + Organic Storm Cloud for 320 damage
+Organic Whistle + Wedding Cake + Organic Wedding Cake + Organic Glass of Water for 320 damage
+Organic Whistle + Wedding Cake + Organic Squirting Flower + Organic Grand Piano for 320 damage
+Organic Whistle + Wedding Cake + Squirt Gun + Toontanic for 320 damage
+Organic Whistle + Wedding Cake + Storm Cloud + Storm Cloud for 320 damage
+Organic Whistle + Wedding Cake + Organic Geyser + Organic Safe for 320 damage
+Organic Whistle + Organic Wedding Cake + Toontanic for 320 damage
+Organic Whistle + Organic Squirting Flower + Geyser + Toontanic for 320 damage
+Organic Whistle + Squirt Gun + Safe + Toontanic for 320 damage
+Organic Whistle + Organic Squirt Gun + Geyser + Grand Piano for 320 damage
+Organic Whistle + Fire Hose + Storm Cloud + Toontanic for 320 damage
+Organic Whistle + Fire Hose + Organic Storm Cloud + Grand Piano for 320 damage
+Organic Whistle + Fire Hose + Organic Geyser + Organic Geyser for 320 damage
+Organic Whistle + Organic Fire Hose + Big Weight + Organic Grand Piano for 320 damage
+Organic Whistle + Flower Pot + Safe + Toontanic for 320 damage
+Organic Whistle + Big Weight + Big Weight + Grand Piano for 320 damage
+Bugle + Organic Bugle + Geyser + Organic Grand Piano for 320 damage
+Bugle + Organic Bugle + Big Weight + Organic Toontanic for 320 damage
+Bugle + Aoogah + Birthday Cake + Organic Grand Piano for 320 damage
+Bugle + Organic Aoogah + Organic Storm Cloud + Organic Toontanic for 320 damage
+Bugle + Organic Elephant Trunk + Birthday Cake + Organic Wedding Cake for 320 damage
+Bugle + Organic Elephant Trunk + Big Weight + Organic Grand Piano for 320 damage
+Bugle + Foghorn + Organic Foghorn + Toontanic for 320 damage
+Bugle + Foghorn + Sandbag + Organic Grand Piano for 320 damage
+Bugle + Organic Foghorn + Opera Singer + Organic Wedding Cake for 320 damage
+Bugle + Organic Foghorn + Birthday Cake + Birthday Cake for 320 damage
+Bugle + Organic Foghorn + Anvil + Grand Piano for 320 damage
+Bugle + Opera Singer + Organic Opera Singer + Storm Cloud for 320 damage
+Bugle + Opera Singer + Organic Fruit Pie Slice + Organic Grand Piano for 320 damage
+Bugle + Opera Singer + Organic Cream Pie Slice + Toontanic for 320 damage
+Bugle + Opera Singer + Organic Birthday Cake + Organic Storm Cloud for 320 damage
+Bugle + Opera Singer + Organic Toontanic for 320 damage
+Bugle + Organic Opera Singer + Organic Cream Pie Slice + Grand Piano for 320 damage
+Bugle + Organic Opera Singer + Birthday Cake + Organic Storm Cloud for 320 damage
+Bugle + Organic Opera Singer + Glass of Water + Toontanic for 320 damage
+Bugle + Cupcake + Geyser + Organic Toontanic for 320 damage
+Bugle + Organic Cupcake + Birthday Cake + Toontanic for 320 damage
+Bugle + Organic Cupcake + Organic Geyser + Organic Grand Piano for 320 damage
+Bugle + Cream Pie Slice + Wedding Cake + Wedding Cake for 320 damage
+Bugle + Cream Pie Slice + Geyser + Organic Grand Piano for 320 damage
+Bugle + Cream Pie Slice + Big Weight + Organic Toontanic for 320 damage
+Bugle + Whole Fruit Pie + Organic Birthday Cake + Wedding Cake for 320 damage
+Bugle + Organic Whole Fruit Pie + Organic Wedding Cake + Organic Geyser for 320 damage
+Bugle + Birthday Cake + Wedding Cake + Big Weight for 320 damage
+Bugle + Birthday Cake + Organic Wedding Cake + Fire Hose for 320 damage
+Bugle + Birthday Cake + Organic Wedding Cake + Anvil for 320 damage
+Bugle + Organic Birthday Cake + Organic Birthday Cake + Big Weight for 320 damage
+Bugle + Organic Birthday Cake + Wedding Cake + Organic Fire Hose for 320 damage
+Bugle + Organic Birthday Cake + Wedding Cake + Organic Anvil for 320 damage
+Bugle + Organic Birthday Cake + Organic Wedding Cake + Sandbag for 320 damage
+Bugle + Organic Birthday Cake + Squirt Gun + Organic Grand Piano for 320 damage
+Bugle + Wedding Cake + Wedding Cake + Seltzer Bottle for 320 damage
+Bugle + Wedding Cake + Organic Glass of Water + Toontanic for 320 damage
+Bugle + Organic Wedding Cake + Safe + Organic Safe for 320 damage
+Bugle + Squirting Flower + Organic Storm Cloud + Organic Toontanic for 320 damage
+Bugle + Organic Glass of Water + Safe + Toontanic for 320 damage
+Bugle + Squirt Gun + Storm Cloud + Organic Toontanic for 320 damage
+Bugle + Squirt Gun + Organic Big Weight + Organic Toontanic for 320 damage
+Bugle + Squirt Gun + Organic Safe + Grand Piano for 320 damage
+Bugle + Organic Squirt Gun + Organic Storm Cloud + Organic Grand Piano for 320 damage
+Bugle + Seltzer Bottle + Storm Cloud + Organic Grand Piano for 320 damage
+Bugle + Seltzer Bottle + Safe + Grand Piano for 320 damage
+Bugle + Fire Hose + Big Weight + Organic Grand Piano for 320 damage
+Bugle + Organic Storm Cloud + Geyser + Organic Safe for 320 damage
+Bugle + Geyser + Organic Geyser + Big Weight for 320 damage
+Bugle + Organic Geyser + Organic Geyser + Organic Anvil for 320 damage
+Bugle + Flower Pot + Organic Big Weight + Organic Toontanic for 320 damage
+Bugle + Flower Pot + Organic Safe + Grand Piano for 320 damage
+Bugle + Safe + Organic Grand Piano for 320 damage
+Bugle + Organic Safe + Toontanic for 320 damage
+Organic Bugle + Organic Bugle + Organic Birthday Cake + Organic Wedding Cake for 320 damage
+Organic Bugle + Aoogah + Organic Storm Cloud + Organic Toontanic for 320 damage
+Organic Bugle + Organic Aoogah + Geyser + Toontanic for 320 damage
+Organic Bugle + Organic Aoogah + Organic Geyser + Grand Piano for 320 damage
+Organic Bugle + Elephant Trunk + Birthday Cake + Toontanic for 320 damage
+Organic Bugle + Elephant Trunk + Organic Birthday Cake + Grand Piano for 320 damage
+Organic Bugle + Organic Elephant Trunk + Opera Singer + Grand Piano for 320 damage
+Organic Bugle + Organic Elephant Trunk + Storm Cloud + Organic Toontanic for 320 damage
+Organic Bugle + Organic Elephant Trunk + Organic Anvil + Organic Toontanic for 320 damage
+Organic Bugle + Organic Foghorn + Organic Opera Singer + Wedding Cake for 320 damage
+Organic Bugle + Organic Foghorn + Organic Sandbag + Toontanic for 320 damage
+Organic Bugle + Opera Singer + Fruit Pie Slice + Organic Grand Piano for 320 damage
+Organic Bugle + Opera Singer + Cream Pie Slice + Toontanic for 320 damage
+Organic Bugle + Opera Singer + Whole Fruit Pie + Grand Piano for 320 damage
+Organic Bugle + Opera Singer + Organic Whole Cream Pie + Wedding Cake for 320 damage
+Organic Bugle + Opera Singer + Wedding Cake + Organic Safe for 320 damage
+Organic Bugle + Organic Opera Singer + Cupcake + Toontanic for 320 damage
+Organic Bugle + Cupcake + Birthday Cake + Toontanic for 320 damage
+Organic Bugle + Cupcake + Organic Geyser + Organic Grand Piano for 320 damage
+Organic Bugle + Organic Fruit Pie Slice + Organic Big Weight + Organic Toontanic for 320 damage
+Organic Bugle + Organic Fruit Pie Slice + Organic Safe + Grand Piano for 320 damage
+Organic Bugle + Organic Whole Fruit Pie + Big Weight + Organic Grand Piano for 320 damage
+Organic Bugle + Whole Cream Pie + Organic Storm Cloud + Toontanic for 320 damage
+Organic Bugle + Organic Whole Cream Pie + Geyser + Organic Geyser for 320 damage
+Organic Bugle + Organic Whole Cream Pie + Organic Anvil + Organic Grand Piano for 320 damage
+Organic Bugle + Birthday Cake + Seltzer Bottle + Organic Grand Piano for 320 damage
+Organic Bugle + Organic Birthday Cake + Organic Toontanic for 320 damage
+Organic Bugle + Wedding Cake + Organic Wedding Cake + Organic Squirting Flower for 320 damage
+Organic Bugle + Wedding Cake + Glass of Water + Toontanic for 320 damage
+Organic Bugle + Glass of Water + Safe + Toontanic for 320 damage
+Organic Bugle + Fire Hose + Organic Anvil + Organic Toontanic for 320 damage
+Organic Bugle + Organic Fire Hose + Organic Big Weight + Toontanic for 320 damage
+Organic Bugle + Storm Cloud + Organic Storm Cloud + Organic Storm Cloud for 320 damage
+Organic Bugle + Storm Cloud + Flower Pot + Toontanic for 320 damage
+Aoogah + Organic Aoogah + Birthday Cake + Toontanic for 320 damage
+Aoogah + Organic Aoogah + Organic Birthday Cake + Grand Piano for 320 damage
+Aoogah + Elephant Trunk + Organic Storm Cloud + Organic Grand Piano for 320 damage
+Aoogah + Elephant Trunk + Geyser + Grand Piano for 320 damage
+Aoogah + Elephant Trunk + Organic Big Weight + Toontanic for 320 damage
+Aoogah + Foghorn + Foghorn + Toontanic for 320 damage
+Aoogah + Foghorn + Opera Singer + Organic Wedding Cake for 320 damage
+Aoogah + Foghorn + Birthday Cake + Birthday Cake for 320 damage
+Aoogah + Foghorn + Anvil + Grand Piano for 320 damage
+Aoogah + Organic Foghorn + Storm Cloud + Organic Geyser for 320 damage
+Aoogah + Opera Singer + Whole Cream Pie + Wedding Cake for 320 damage
+Aoogah + Opera Singer + Organic Squirting Flower + Organic Grand Piano for 320 damage
+Aoogah + Opera Singer + Squirt Gun + Toontanic for 320 damage
+Aoogah + Opera Singer + Storm Cloud + Storm Cloud for 320 damage
+Aoogah + Opera Singer + Organic Geyser + Organic Safe for 320 damage
+Aoogah + Organic Opera Singer + Squirt Gun + Grand Piano for 320 damage
+Aoogah + Organic Opera Singer + Geyser + Organic Safe for 320 damage
+Aoogah + Organic Cupcake + Organic Big Weight + Organic Toontanic for 320 damage
+Aoogah + Organic Cupcake + Organic Safe + Grand Piano for 320 damage
+Aoogah + Organic Fruit Pie Slice + Birthday Cake + Grand Piano for 320 damage
+Aoogah + Organic Fruit Pie Slice + Organic Birthday Cake + Organic Wedding Cake for 320 damage
+Aoogah + Organic Cream Pie Slice + Organic Storm Cloud + Organic Toontanic for 320 damage
+Aoogah + Organic Whole Fruit Pie + Organic Storm Cloud + Organic Grand Piano for 320 damage
+Aoogah + Organic Whole Fruit Pie + Geyser + Grand Piano for 320 damage
+Aoogah + Organic Whole Fruit Pie + Organic Big Weight + Toontanic for 320 damage
+Aoogah + Whole Cream Pie + Geyser + Organic Geyser for 320 damage
+Aoogah + Whole Cream Pie + Organic Anvil + Organic Grand Piano for 320 damage
+Aoogah + Organic Whole Cream Pie + Organic Whole Cream Pie + Organic Toontanic for 320 damage
+Aoogah + Organic Whole Cream Pie + Storm Cloud + Toontanic for 320 damage
+Aoogah + Organic Whole Cream Pie + Sandbag + Organic Toontanic for 320 damage
+Aoogah + Organic Birthday Cake + Organic Wedding Cake + Organic Squirt Gun for 320 damage
+Aoogah + Wedding Cake + Squirting Flower + Toontanic for 320 damage
+Aoogah + Squirting Flower + Safe + Toontanic for 320 damage
+Aoogah + Glass of Water + Storm Cloud + Organic Toontanic for 320 damage
+Aoogah + Organic Glass of Water + Organic Storm Cloud + Organic Grand Piano for 320 damage
+Aoogah + Squirt Gun + Big Weight + Organic Toontanic for 320 damage
+Aoogah + Organic Seltzer Bottle + Storm Cloud + Toontanic for 320 damage
+Aoogah + Organic Seltzer Bottle + Organic Storm Cloud + Grand Piano for 320 damage
+Aoogah + Organic Seltzer Bottle + Organic Geyser + Organic Geyser for 320 damage
+Aoogah + Fire Hose + Anvil + Organic Toontanic for 320 damage
+Aoogah + Organic Fire Hose + Geyser + Organic Geyser for 320 damage
+Aoogah + Storm Cloud + Organic Geyser + Safe for 320 damage
+Aoogah + Organic Storm Cloud + Flower Pot + Grand Piano for 320 damage
+Aoogah + Flower Pot + Big Weight + Organic Toontanic for 320 damage
+Aoogah + Organic Anvil + Organic Anvil + Organic Grand Piano for 320 damage
+Organic Aoogah + Organic Aoogah + Birthday Cake + Organic Wedding Cake for 320 damage
+Organic Aoogah + Organic Aoogah + Big Weight + Organic Grand Piano for 320 damage
+Organic Aoogah + Elephant Trunk + Anvil + Organic Toontanic for 320 damage
+Organic Aoogah + Foghorn + Organic Opera Singer + Wedding Cake for 320 damage
+Organic Aoogah + Foghorn + Organic Sandbag + Toontanic for 320 damage
+Organic Aoogah + Opera Singer + Organic Fruit Pie Slice + Toontanic for 320 damage
+Organic Aoogah + Opera Singer + Whole Fruit Pie + Organic Wedding Cake for 320 damage
+Organic Aoogah + Opera Singer + Squirting Flower + Organic Grand Piano for 320 damage
+Organic Aoogah + Opera Singer + Seltzer Bottle + Grand Piano for 320 damage
+Organic Aoogah + Organic Opera Singer + Fruit Pie Slice + Grand Piano for 320 damage
+Organic Aoogah + Organic Opera Singer + Organic Cream Pie Slice + Organic Wedding Cake for 320 damage
+Organic Aoogah + Organic Opera Singer + Whole Cream Pie + Organic Birthday Cake for 320 damage
+Organic Aoogah + Organic Opera Singer + Birthday Cake + Storm Cloud for 320 damage
+Organic Aoogah + Organic Opera Singer + Organic Birthday Cake + Safe for 320 damage
+Organic Aoogah + Organic Opera Singer + Toontanic for 320 damage
+Organic Aoogah + Cupcake + Organic Big Weight + Organic Toontanic for 320 damage
+Organic Aoogah + Cupcake + Organic Safe + Grand Piano for 320 damage
+Organic Aoogah + Fruit Pie Slice + Organic Birthday Cake + Organic Wedding Cake for 320 damage
+Organic Aoogah + Organic Fruit Pie Slice + Geyser + Organic Grand Piano for 320 damage
+Organic Aoogah + Organic Fruit Pie Slice + Big Weight + Organic Toontanic for 320 damage
+Organic Aoogah + Cream Pie Slice + Organic Storm Cloud + Organic Toontanic for 320 damage
+Organic Aoogah + Organic Cream Pie Slice + Geyser + Toontanic for 320 damage
+Organic Aoogah + Organic Cream Pie Slice + Organic Geyser + Grand Piano for 320 damage
+Organic Aoogah + Whole Fruit Pie + Organic Geyser + Organic Geyser for 320 damage
+Organic Aoogah + Organic Whole Fruit Pie + Anvil + Organic Toontanic for 320 damage
+Organic Aoogah + Whole Cream Pie + Organic Big Weight + Grand Piano for 320 damage
+Organic Aoogah + Birthday Cake + Organic Squirting Flower + Organic Toontanic for 320 damage
+Organic Aoogah + Birthday Cake + Organic Seltzer Bottle + Toontanic for 320 damage
+Organic Aoogah + Birthday Cake + Organic Fire Hose + Grand Piano for 320 damage
+Organic Aoogah + Organic Birthday Cake + Organic Wedding Cake + Squirt Gun for 320 damage
+Organic Aoogah + Organic Birthday Cake + Organic Squirt Gun + Toontanic for 320 damage
+Organic Aoogah + Organic Birthday Cake + Organic Seltzer Bottle + Grand Piano for 320 damage
+Organic Aoogah + Wedding Cake + Organic Wedding Cake for 320 damage
+Organic Aoogah + Wedding Cake + Organic Squirt Gun + Grand Piano for 320 damage
+Organic Aoogah + Glass of Water + Organic Storm Cloud + Organic Grand Piano for 320 damage
+Organic Aoogah + Organic Fire Hose + Big Weight + Toontanic for 320 damage
+Organic Aoogah + Geyser + Organic Toontanic for 320 damage
+Organic Aoogah + Organic Anvil + Organic Big Weight + Grand Piano for 320 damage
+Elephant Trunk + Organic Elephant Trunk + Storm Cloud + Organic Grand Piano for 320 damage
+Elephant Trunk + Foghorn + Storm Cloud + Organic Geyser for 320 damage
+Elephant Trunk + Organic Foghorn + Opera Singer + Wedding Cake for 320 damage
+Elephant Trunk + Organic Foghorn + Organic Opera Singer + Organic Birthday Cake for 320 damage
+Elephant Trunk + Organic Foghorn + Fire Hose + Organic Toontanic for 320 damage
+Elephant Trunk + Organic Foghorn + Flower Pot + Toontanic for 320 damage
+Elephant Trunk + Opera Singer + Cupcake + Toontanic for 320 damage
+Elephant Trunk + Organic Opera Singer + Cupcake + Grand Piano for 320 damage
+Elephant Trunk + Organic Cupcake + Birthday Cake + Grand Piano for 320 damage
+Elephant Trunk + Organic Cupcake + Organic Birthday Cake + Organic Wedding Cake for 320 damage
+Elephant Trunk + Organic Cupcake + Geyser + Organic Grand Piano for 320 damage
+Elephant Trunk + Organic Cupcake + Big Weight + Organic Toontanic for 320 damage
+Elephant Trunk + Organic Fruit Pie Slice + Safe + Grand Piano for 320 damage
+Elephant Trunk + Cream Pie Slice + Birthday Cake + Organic Wedding Cake for 320 damage
+Elephant Trunk + Organic Whole Fruit Pie + Birthday Cake + Wedding Cake for 320 damage
+Elephant Trunk + Organic Whole Fruit Pie + Organic Birthday Cake + Organic Birthday Cake for 320 damage
+Elephant Trunk + Organic Whole Fruit Pie + Organic Wedding Cake + Geyser for 320 damage
+Elephant Trunk + Organic Whole Fruit Pie + Big Weight + Toontanic for 320 damage
+Elephant Trunk + Whole Cream Pie + Organic Whole Cream Pie + Organic Toontanic for 320 damage
+Elephant Trunk + Birthday Cake + Squirt Gun + Organic Grand Piano for 320 damage
+Elephant Trunk + Organic Birthday Cake + Wedding Cake + Organic Seltzer Bottle for 320 damage
+Elephant Trunk + Organic Birthday Cake + Organic Wedding Cake + Glass of Water for 320 damage
+Elephant Trunk + Organic Birthday Cake + Organic Glass of Water + Toontanic for 320 damage
+Elephant Trunk + Wedding Cake + Wedding Cake + Organic Flower Pot for 320 damage
+Elephant Trunk + Wedding Cake + Organic Glass of Water + Grand Piano for 320 damage
+Elephant Trunk + Squirting Flower + Storm Cloud + Organic Toontanic for 320 damage
+Elephant Trunk + Organic Squirting Flower + Organic Storm Cloud + Organic Grand Piano for 320 damage
+Elephant Trunk + Organic Squirt Gun + Storm Cloud + Organic Grand Piano for 320 damage
+Elephant Trunk + Seltzer Bottle + Organic Anvil + Organic Toontanic for 320 damage
+Elephant Trunk + Storm Cloud + Geyser + Organic Safe for 320 damage
+Elephant Trunk + Sandbag + Organic Anvil + Organic Toontanic for 320 damage
+Elephant Trunk + Anvil + Organic Big Weight + Grand Piano for 320 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Foghorn + Organic Toontanic for 320 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Birthday Cake + Wedding Cake for 320 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Birthday Cake + Organic Birthday Cake for 320 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Geyser + Organic Geyser for 320 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Anvil + Organic Grand Piano for 320 damage
+Organic Elephant Trunk + Foghorn + Organic Storm Cloud + Geyser for 320 damage
+Organic Elephant Trunk + Organic Foghorn + Sandbag + Grand Piano for 320 damage
+Organic Elephant Trunk + Opera Singer + Squirting Flower + Toontanic for 320 damage
+Organic Elephant Trunk + Organic Opera Singer + Organic Whole Cream Pie + Birthday Cake for 320 damage
+Organic Elephant Trunk + Organic Cupcake + Wedding Cake + Wedding Cake for 320 damage
+Organic Elephant Trunk + Organic Fruit Pie Slice + Organic Storm Cloud + Organic Toontanic for 320 damage
+Organic Elephant Trunk + Cream Pie Slice + Organic Birthday Cake + Wedding Cake for 320 damage
+Organic Elephant Trunk + Organic Cream Pie Slice + Big Weight + Organic Grand Piano for 320 damage
+Organic Elephant Trunk + Whole Fruit Pie + Birthday Cake + Wedding Cake for 320 damage
+Organic Elephant Trunk + Whole Fruit Pie + Organic Birthday Cake + Organic Birthday Cake for 320 damage
+Organic Elephant Trunk + Whole Fruit Pie + Big Weight + Toontanic for 320 damage
+Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Storm Cloud + Toontanic for 320 damage
+Organic Elephant Trunk + Whole Cream Pie + Wedding Cake + Geyser for 320 damage
+Organic Elephant Trunk + Birthday Cake + Organic Birthday Cake + Big Weight for 320 damage
+Organic Elephant Trunk + Birthday Cake + Wedding Cake + Organic Fire Hose for 320 damage
+Organic Elephant Trunk + Birthday Cake + Wedding Cake + Organic Anvil for 320 damage
+Organic Elephant Trunk + Birthday Cake + Organic Wedding Cake + Sandbag for 320 damage
+Organic Elephant Trunk + Organic Birthday Cake + Organic Birthday Cake + Organic Fire Hose for 320 damage
+Organic Elephant Trunk + Organic Birthday Cake + Organic Birthday Cake + Organic Anvil for 320 damage
+Organic Elephant Trunk + Organic Birthday Cake + Wedding Cake + Seltzer Bottle for 320 damage
+Organic Elephant Trunk + Organic Birthday Cake + Organic Grand Piano for 320 damage
+Organic Elephant Trunk + Wedding Cake + Wedding Cake + Organic Glass of Water for 320 damage
+Organic Elephant Trunk + Wedding Cake + Safe + Organic Safe for 320 damage
+Organic Elephant Trunk + Organic Wedding Cake + Organic Storm Cloud + Organic Safe for 320 damage
+Organic Elephant Trunk + Organic Squirting Flower + Big Weight + Organic Toontanic for 320 damage
+Organic Elephant Trunk + Organic Glass of Water + Organic Storm Cloud + Toontanic for 320 damage
+Organic Elephant Trunk + Organic Glass of Water + Safe + Grand Piano for 320 damage
+Organic Elephant Trunk + Organic Squirt Gun + Organic Big Weight + Organic Grand Piano for 320 damage
+Organic Elephant Trunk + Organic Seltzer Bottle + Anvil + Organic Toontanic for 320 damage
+Organic Elephant Trunk + Organic Fire Hose + Organic Anvil + Organic Grand Piano for 320 damage
+Organic Elephant Trunk + Geyser + Geyser + Big Weight for 320 damage
+Organic Elephant Trunk + Geyser + Organic Geyser + Organic Anvil for 320 damage
+Organic Elephant Trunk + Organic Flower Pot + Organic Big Weight + Organic Grand Piano for 320 damage
+Organic Elephant Trunk + Sandbag + Organic Big Weight + Toontanic for 320 damage
+Organic Elephant Trunk + Organic Sandbag + Anvil + Organic Toontanic for 320 damage
+Organic Elephant Trunk + Anvil + Anvil + Organic Grand Piano for 320 damage
+Organic Elephant Trunk + Organic Big Weight + Organic Toontanic for 320 damage
+Organic Elephant Trunk + Organic Safe + Grand Piano for 320 damage
+Foghorn + Foghorn + Wedding Cake + Storm Cloud for 320 damage
+Foghorn + Foghorn + Organic Squirt Gun + Organic Grand Piano for 320 damage
+Foghorn + Foghorn + Fire Hose + Grand Piano for 320 damage
+Foghorn + Organic Foghorn + Organic Cupcake + Organic Grand Piano for 320 damage
+Foghorn + Organic Foghorn + Organic Whole Fruit Pie + Organic Wedding Cake for 320 damage
+Foghorn + Opera Singer + Opera Singer + Organic Whole Cream Pie for 320 damage
+Foghorn + Opera Singer + Organic Opera Singer + Organic Fire Hose for 320 damage
+Foghorn + Opera Singer + Organic Opera Singer + Organic Anvil for 320 damage
+Foghorn + Opera Singer + Cupcake + Wedding Cake for 320 damage
+Foghorn + Opera Singer + Seltzer Bottle + Geyser for 320 damage
+Foghorn + Opera Singer + Organic Big Weight + Organic Safe for 320 damage
+Foghorn + Organic Opera Singer + Organic Cupcake + Organic Birthday Cake for 320 damage
+Foghorn + Organic Opera Singer + Cream Pie Slice + Birthday Cake for 320 damage
+Foghorn + Organic Opera Singer + Wedding Cake + Seltzer Bottle for 320 damage
+Foghorn + Organic Opera Singer + Organic Wedding Cake + Organic Glass of Water for 320 damage
+Foghorn + Organic Opera Singer + Squirt Gun + Geyser for 320 damage
+Foghorn + Cupcake + Geyser + Organic Geyser for 320 damage
+Foghorn + Cupcake + Organic Anvil + Organic Grand Piano for 320 damage
+Foghorn + Organic Cupcake + Organic Big Weight + Grand Piano for 320 damage
+Foghorn + Fruit Pie Slice + Storm Cloud + Toontanic for 320 damage
+Foghorn + Fruit Pie Slice + Sandbag + Organic Toontanic for 320 damage
+Foghorn + Cream Pie Slice + Wedding Cake + Geyser for 320 damage
+Foghorn + Organic Cream Pie Slice + Geyser + Geyser for 320 damage
+Foghorn + Organic Cream Pie Slice + Anvil + Toontanic for 320 damage
+Foghorn + Whole Fruit Pie + Organic Birthday Cake + Geyser for 320 damage
+Foghorn + Organic Whole Fruit Pie + Whole Cream Pie + Organic Grand Piano for 320 damage
+Foghorn + Organic Whole Fruit Pie + Birthday Cake + Organic Geyser for 320 damage
+Foghorn + Whole Cream Pie + Organic Flower Pot + Toontanic for 320 damage
+Foghorn + Organic Whole Cream Pie + Sandbag + Grand Piano for 320 damage
+Foghorn + Birthday Cake + Birthday Cake + Fire Hose for 320 damage
+Foghorn + Birthday Cake + Birthday Cake + Anvil for 320 damage
+Foghorn + Birthday Cake + Organic Birthday Cake + Sandbag for 320 damage
+Foghorn + Birthday Cake + Grand Piano for 320 damage
+Foghorn + Organic Birthday Cake + Organic Geyser + Big Weight for 320 damage
+Foghorn + Wedding Cake + Storm Cloud + Safe for 320 damage
+Foghorn + Wedding Cake + Geyser + Big Weight for 320 damage
+Foghorn + Organic Wedding Cake + Geyser + Organic Anvil for 320 damage
+Foghorn + Organic Wedding Cake + Big Weight + Safe for 320 damage
+Foghorn + Organic Squirting Flower + Geyser + Organic Geyser for 320 damage
+Foghorn + Organic Glass of Water + Organic Sandbag + Organic Toontanic for 320 damage
+Foghorn + Organic Glass of Water + Anvil + Organic Grand Piano for 320 damage
+Foghorn + Squirt Gun + Big Weight + Grand Piano for 320 damage
+Foghorn + Fire Hose + Fire Hose + Organic Toontanic for 320 damage
+Foghorn + Fire Hose + Storm Cloud + Organic Geyser for 320 damage
+Foghorn + Fire Hose + Anvil + Grand Piano for 320 damage
+Foghorn + Organic Fire Hose + Flower Pot + Organic Grand Piano for 320 damage
+Foghorn + Geyser + Geyser + Sandbag for 320 damage
+Foghorn + Flower Pot + Big Weight + Grand Piano for 320 damage
+Foghorn + Organic Sandbag + Organic Sandbag + Organic Grand Piano for 320 damage
+Foghorn + Big Weight + Toontanic for 320 damage
+Organic Foghorn + Organic Foghorn + Opera Singer + Storm Cloud for 320 damage
+Organic Foghorn + Organic Foghorn + Organic Cream Pie Slice + Grand Piano for 320 damage
+Organic Foghorn + Organic Foghorn + Birthday Cake + Organic Storm Cloud for 320 damage
+Organic Foghorn + Organic Foghorn + Glass of Water + Toontanic for 320 damage
+Organic Foghorn + Opera Singer + Organic Opera Singer + Whole Fruit Pie for 320 damage
+Organic Foghorn + Opera Singer + Organic Fruit Pie Slice + Organic Birthday Cake for 320 damage
+Organic Foghorn + Opera Singer + Organic Fire Hose + Organic Storm Cloud for 320 damage
+Organic Foghorn + Organic Opera Singer + Geyser + Anvil for 320 damage
+Organic Foghorn + Organic Cupcake + Organic Storm Cloud + Grand Piano for 320 damage
+Organic Foghorn + Organic Cupcake + Big Weight + Grand Piano for 320 damage
+Organic Foghorn + Cream Pie Slice + Organic Sandbag + Organic Grand Piano for 320 damage
+Organic Foghorn + Whole Fruit Pie + Wedding Cake + Organic Storm Cloud for 320 damage
+Organic Foghorn + Whole Fruit Pie + Organic Flower Pot + Organic Grand Piano for 320 damage
+Organic Foghorn + Whole Fruit Pie + Sandbag + Toontanic for 320 damage
+Organic Foghorn + Organic Whole Cream Pie + Organic Birthday Cake + Storm Cloud for 320 damage
+Organic Foghorn + Organic Whole Cream Pie + Organic Seltzer Bottle + Organic Toontanic for 320 damage
+Organic Foghorn + Birthday Cake + Organic Birthday Cake + Organic Squirt Gun for 320 damage
+Organic Foghorn + Birthday Cake + Organic Storm Cloud + Organic Safe for 320 damage
+Organic Foghorn + Wedding Cake + Organic Geyser + Anvil for 320 damage
+Organic Foghorn + Organic Wedding Cake + Organic Storm Cloud + Big Weight for 320 damage
+Organic Foghorn + Organic Wedding Cake + Organic Geyser + Sandbag for 320 damage
+Organic Foghorn + Squirting Flower + Organic Sandbag + Organic Toontanic for 320 damage
+Organic Foghorn + Squirting Flower + Anvil + Organic Grand Piano for 320 damage
+Organic Foghorn + Organic Squirting Flower + Sandbag + Organic Toontanic for 320 damage
+Organic Foghorn + Organic Glass of Water + Organic Anvil + Toontanic for 320 damage
+Organic Foghorn + Organic Squirt Gun + Anvil + Toontanic for 320 damage
+Organic Foghorn + Seltzer Bottle + Organic Anvil + Grand Piano for 320 damage
+Organic Foghorn + Storm Cloud + Organic Safe + Organic Safe for 320 damage
+Organic Foghorn + Organic Storm Cloud + Geyser + Organic Anvil for 320 damage
+Organic Foghorn + Organic Storm Cloud + Safe + Organic Safe for 320 damage
+Opera Singer + Opera Singer + Whole Fruit Pie + Organic Safe for 320 damage
+Opera Singer + Opera Singer + Birthday Cake + Squirting Flower for 320 damage
+Opera Singer + Organic Opera Singer + Organic Whole Cream Pie + Organic Big Weight for 320 damage
+Opera Singer + Organic Opera Singer + Organic Seltzer Bottle + Safe for 320 damage
+Opera Singer + Cupcake + Organic Whole Cream Pie + Grand Piano for 320 damage
+Opera Singer + Organic Cupcake + Wedding Cake + Organic Safe for 320 damage
+Opera Singer + Fruit Pie Slice + Whole Cream Pie + Grand Piano for 320 damage
+Opera Singer + Fruit Pie Slice + Organic Fire Hose + Organic Grand Piano for 320 damage
+Opera Singer + Organic Fruit Pie Slice + Seltzer Bottle + Organic Toontanic for 320 damage
+Opera Singer + Cream Pie Slice + Organic Birthday Cake + Organic Safe for 320 damage
+Opera Singer + Cream Pie Slice + Organic Fire Hose + Toontanic for 320 damage
+Opera Singer + Organic Cream Pie Slice + Birthday Cake + Organic Storm Cloud for 320 damage
+Opera Singer + Organic Cream Pie Slice + Organic Storm Cloud + Organic Storm Cloud for 320 damage
+Opera Singer + Whole Fruit Pie + Organic Whole Cream Pie + Wedding Cake for 320 damage
+Opera Singer + Whole Fruit Pie + Birthday Cake + Organic Safe for 320 damage
+Opera Singer + Whole Fruit Pie + Organic Squirting Flower + Organic Toontanic for 320 damage
+Opera Singer + Whole Fruit Pie + Organic Seltzer Bottle + Toontanic for 320 damage
+Opera Singer + Whole Fruit Pie + Organic Fire Hose + Grand Piano for 320 damage
+Opera Singer + Organic Whole Fruit Pie + Seltzer Bottle + Toontanic for 320 damage
+Opera Singer + Whole Cream Pie + Organic Wedding Cake + Organic Seltzer Bottle for 320 damage
+Opera Singer + Organic Whole Cream Pie + Organic Birthday Cake + Big Weight for 320 damage
+Opera Singer + Organic Whole Cream Pie + Wedding Cake + Organic Fire Hose for 320 damage
+Opera Singer + Organic Whole Cream Pie + Wedding Cake + Organic Anvil for 320 damage
+Opera Singer + Organic Whole Cream Pie + Organic Wedding Cake + Sandbag for 320 damage
+Opera Singer + Organic Birthday Cake + Squirt Gun + Organic Storm Cloud for 320 damage
+Opera Singer + Organic Birthday Cake + Anvil + Safe for 320 damage
+Opera Singer + Wedding Cake + Organic Fire Hose + Organic Safe for 320 damage
+Opera Singer + Wedding Cake + Storm Cloud + Anvil for 320 damage
+Opera Singer + Organic Wedding Cake + Seltzer Bottle + Organic Safe for 320 damage
+Opera Singer + Organic Wedding Cake + Storm Cloud + Sandbag for 320 damage
+Opera Singer + Organic Wedding Cake + Organic Storm Cloud + Flower Pot for 320 damage
+Opera Singer + Organic Wedding Cake + Organic Flower Pot + Safe for 320 damage
+Opera Singer + Squirting Flower + Sandbag + Grand Piano for 320 damage
+Opera Singer + Organic Squirting Flower + Seltzer Bottle + Organic Toontanic for 320 damage
+Opera Singer + Glass of Water + Organic Fire Hose + Toontanic for 320 damage
+Opera Singer + Squirt Gun + Organic Geyser + Organic Safe for 320 damage
+Opera Singer + Squirt Gun + Organic Flower Pot + Grand Piano for 320 damage
+Opera Singer + Organic Squirt Gun + Organic Squirt Gun + Organic Toontanic for 320 damage
+Opera Singer + Organic Seltzer Bottle + Storm Cloud + Organic Storm Cloud for 320 damage
+Opera Singer + Organic Storm Cloud + Organic Storm Cloud + Sandbag for 320 damage
+Opera Singer + Flower Pot + Organic Flower Pot + Grand Piano for 320 damage
+Opera Singer + Organic Flower Pot + Toontanic for 320 damage
+Organic Opera Singer + Organic Opera Singer + Organic Squirting Flower + Organic Safe for 320 damage
+Organic Opera Singer + Organic Opera Singer + Squirt Gun + Safe for 320 damage
+Organic Opera Singer + Organic Opera Singer + Organic Fire Hose + Organic Big Weight for 320 damage
+Organic Opera Singer + Organic Opera Singer + Organic Sandbag + Organic Big Weight for 320 damage
+Organic Opera Singer + Organic Cupcake + Whole Fruit Pie + Toontanic for 320 damage
+Organic Opera Singer + Organic Cupcake + Organic Birthday Cake + Storm Cloud for 320 damage
+Organic Opera Singer + Fruit Pie Slice + Organic Cream Pie Slice + Organic Grand Piano for 320 damage
+Organic Opera Singer + Fruit Pie Slice + Organic Birthday Cake + Organic Safe for 320 damage
+Organic Opera Singer + Fruit Pie Slice + Organic Squirt Gun + Organic Toontanic for 320 damage
+Organic Opera Singer + Organic Fruit Pie Slice + Cream Pie Slice + Organic Grand Piano for 320 damage
+Organic Opera Singer + Organic Fruit Pie Slice + Organic Wedding Cake + Organic Big Weight for 320 damage
+Organic Opera Singer + Organic Fruit Pie Slice + Squirt Gun + Organic Toontanic for 320 damage
+Organic Opera Singer + Organic Fruit Pie Slice + Organic Seltzer Bottle + Organic Grand Piano for 320 damage
+Organic Opera Singer + Organic Fruit Pie Slice + Fire Hose + Toontanic for 320 damage
+Organic Opera Singer + Cream Pie Slice + Cream Pie Slice + Toontanic for 320 damage
+Organic Opera Singer + Cream Pie Slice + Birthday Cake + Storm Cloud for 320 damage
+Organic Opera Singer + Organic Cream Pie Slice + Organic Squirting Flower + Organic Toontanic for 320 damage
+Organic Opera Singer + Organic Cream Pie Slice + Organic Seltzer Bottle + Toontanic for 320 damage
+Organic Opera Singer + Organic Cream Pie Slice + Organic Fire Hose + Grand Piano for 320 damage
+Organic Opera Singer + Whole Fruit Pie + Organic Wedding Cake + Fire Hose for 320 damage
+Organic Opera Singer + Whole Fruit Pie + Organic Wedding Cake + Anvil for 320 damage
+Organic Opera Singer + Organic Whole Fruit Pie + Organic Squirting Flower + Organic Grand Piano for 320 damage
+Organic Opera Singer + Organic Whole Fruit Pie + Squirt Gun + Toontanic for 320 damage
+Organic Opera Singer + Organic Whole Fruit Pie + Storm Cloud + Storm Cloud for 320 damage
+Organic Opera Singer + Organic Whole Fruit Pie + Organic Geyser + Organic Safe for 320 damage
+Organic Opera Singer + Whole Cream Pie + Organic Whole Cream Pie + Birthday Cake for 320 damage
+Organic Opera Singer + Organic Whole Cream Pie + Organic Whole Cream Pie + Organic Geyser for 320 damage
+Organic Opera Singer + Organic Whole Cream Pie + Organic Wedding Cake + Organic Glass of Water for 320 damage
+Organic Opera Singer + Organic Whole Cream Pie + Safe + Organic Safe for 320 damage
+Organic Opera Singer + Birthday Cake + Organic Storm Cloud + Organic Anvil for 320 damage
+Organic Opera Singer + Organic Birthday Cake + Squirting Flower + Organic Storm Cloud for 320 damage
+Organic Opera Singer + Organic Birthday Cake + Squirt Gun + Storm Cloud for 320 damage
+Organic Opera Singer + Wedding Cake + Squirting Flower + Storm Cloud for 320 damage
+Organic Opera Singer + Organic Wedding Cake + Squirt Gun + Organic Safe for 320 damage
+Organic Opera Singer + Squirting Flower + Fire Hose + Toontanic for 320 damage
+Organic Opera Singer + Organic Squirting Flower + Organic Seltzer Bottle + Organic Grand Piano for 320 damage
+Organic Opera Singer + Organic Squirting Flower + Organic Geyser + Organic Safe for 320 damage
+Organic Opera Singer + Organic Squirting Flower + Flower Pot + Grand Piano for 320 damage
+Organic Opera Singer + Glass of Water + Organic Storm Cloud + Organic Storm Cloud for 320 damage
+Organic Opera Singer + Organic Glass of Water + Organic Fire Hose + Grand Piano for 320 damage
+Organic Opera Singer + Squirt Gun + Fire Hose + Grand Piano for 320 damage
+Organic Opera Singer + Organic Squirt Gun + Seltzer Bottle + Toontanic for 320 damage
+Organic Opera Singer + Seltzer Bottle + Seltzer Bottle + Grand Piano for 320 damage
+Organic Opera Singer + Organic Seltzer Bottle + Organic Toontanic for 320 damage
+Organic Opera Singer + Storm Cloud + Organic Storm Cloud + Organic Sandbag for 320 damage
+Organic Opera Singer + Geyser + Organic Sandbag + Organic Safe for 320 damage
+Organic Opera Singer + Organic Geyser + Organic Flower Pot + Organic Safe for 320 damage
+Organic Opera Singer + Organic Geyser + Sandbag + Safe for 320 damage
+Organic Opera Singer + Anvil + Organic Safe + Organic Safe for 320 damage
+Cupcake + Fruit Pie Slice + Birthday Cake + Toontanic for 320 damage
+Cupcake + Fruit Pie Slice + Safe + Toontanic for 320 damage
+Cupcake + Cream Pie Slice + Geyser + Organic Grand Piano for 320 damage
+Cupcake + Cream Pie Slice + Big Weight + Organic Toontanic for 320 damage
+Cupcake + Organic Cream Pie Slice + Organic Birthday Cake + Organic Wedding Cake for 320 damage
+Cupcake + Organic Whole Fruit Pie + Storm Cloud + Organic Toontanic for 320 damage
+Cupcake + Organic Whole Fruit Pie + Organic Anvil + Organic Toontanic for 320 damage
+Cupcake + Whole Cream Pie + Birthday Cake + Wedding Cake for 320 damage
+Cupcake + Whole Cream Pie + Organic Birthday Cake + Organic Birthday Cake for 320 damage
+Cupcake + Whole Cream Pie + Geyser + Organic Geyser for 320 damage
+Cupcake + Whole Cream Pie + Organic Anvil + Organic Grand Piano for 320 damage
+Cupcake + Organic Whole Cream Pie + Storm Cloud + Toontanic for 320 damage
+Cupcake + Organic Whole Cream Pie + Sandbag + Organic Toontanic for 320 damage
+Cupcake + Birthday Cake + Organic Squirting Flower + Organic Grand Piano for 320 damage
+Cupcake + Birthday Cake + Squirt Gun + Toontanic for 320 damage
+Cupcake + Birthday Cake + Storm Cloud + Storm Cloud for 320 damage
+Cupcake + Birthday Cake + Organic Geyser + Organic Safe for 320 damage
+Cupcake + Organic Birthday Cake + Toontanic for 320 damage
+Cupcake + Wedding Cake + Organic Wedding Cake + Flower Pot for 320 damage
+Cupcake + Wedding Cake + Safe + Safe for 320 damage
+Cupcake + Organic Wedding Cake + Organic Squirt Gun + Organic Geyser for 320 damage
+Cupcake + Organic Wedding Cake + Organic Seltzer Bottle + Geyser for 320 damage
+Cupcake + Organic Wedding Cake + Geyser + Organic Big Weight for 320 damage
+Cupcake + Organic Squirting Flower + Organic Geyser + Grand Piano for 320 damage
+Cupcake + Organic Squirting Flower + Safe + Organic Grand Piano for 320 damage
+Cupcake + Organic Squirting Flower + Organic Safe + Toontanic for 320 damage
+Cupcake + Glass of Water + Organic Storm Cloud + Organic Toontanic for 320 damage
+Cupcake + Organic Seltzer Bottle + Organic Storm Cloud + Toontanic for 320 damage
+Cupcake + Fire Hose + Organic Big Weight + Organic Grand Piano for 320 damage
+Cupcake + Organic Storm Cloud + Organic Geyser + Safe for 320 damage
+Cupcake + Organic Storm Cloud + Sandbag + Grand Piano for 320 damage
+Cupcake + Organic Flower Pot + Safe + Toontanic for 320 damage
+Cupcake + Sandbag + Big Weight + Organic Toontanic for 320 damage
+Cupcake + Anvil + Organic Anvil + Organic Toontanic for 320 damage
+Organic Cupcake + Organic Cupcake + Wedding Cake + Organic Wedding Cake for 320 damage
+Organic Cupcake + Organic Cupcake + Geyser + Organic Toontanic for 320 damage
+Organic Cupcake + Cream Pie Slice + Organic Birthday Cake + Organic Wedding Cake for 320 damage
+Organic Cupcake + Organic Cream Pie Slice + Birthday Cake + Grand Piano for 320 damage
+Organic Cupcake + Whole Fruit Pie + Birthday Cake + Organic Wedding Cake for 320 damage
+Organic Cupcake + Whole Fruit Pie + Big Weight + Organic Grand Piano for 320 damage
+Organic Cupcake + Organic Whole Fruit Pie + Organic Birthday Cake + Wedding Cake for 320 damage
+Organic Cupcake + Organic Whole Fruit Pie + Organic Geyser + Organic Geyser for 320 damage
+Organic Cupcake + Whole Cream Pie + Organic Wedding Cake + Geyser for 320 damage
+Organic Cupcake + Whole Cream Pie + Organic Big Weight + Grand Piano for 320 damage
+Organic Cupcake + Organic Whole Cream Pie + Organic Storm Cloud + Grand Piano for 320 damage
+Organic Cupcake + Organic Whole Cream Pie + Big Weight + Grand Piano for 320 damage
+Organic Cupcake + Birthday Cake + Organic Wedding Cake + Organic Fire Hose for 320 damage
+Organic Cupcake + Birthday Cake + Organic Wedding Cake + Organic Anvil for 320 damage
+Organic Cupcake + Birthday Cake + Squirting Flower + Organic Grand Piano for 320 damage
+Organic Cupcake + Birthday Cake + Seltzer Bottle + Grand Piano for 320 damage
+Organic Cupcake + Organic Birthday Cake + Organic Wedding Cake + Seltzer Bottle for 320 damage
+Organic Cupcake + Organic Birthday Cake + Organic Glass of Water + Grand Piano for 320 damage
+Organic Cupcake + Wedding Cake + Wedding Cake + Organic Seltzer Bottle for 320 damage
+Organic Cupcake + Wedding Cake + Organic Wedding Cake + Organic Glass of Water for 320 damage
+Organic Cupcake + Organic Wedding Cake + Squirt Gun + Organic Geyser for 320 damage
+Organic Cupcake + Squirting Flower + Organic Geyser + Grand Piano for 320 damage
+Organic Cupcake + Squirting Flower + Safe + Organic Grand Piano for 320 damage
+Organic Cupcake + Squirting Flower + Organic Safe + Toontanic for 320 damage
+Organic Cupcake + Organic Squirt Gun + Safe + Toontanic for 320 damage
+Organic Cupcake + Seltzer Bottle + Big Weight + Organic Toontanic for 320 damage
+Organic Cupcake + Geyser + Organic Geyser + Organic Big Weight for 320 damage
+Organic Cupcake + Organic Geyser + Organic Toontanic for 320 damage
+Fruit Pie Slice + Organic Cream Pie Slice + Organic Storm Cloud + Organic Toontanic for 320 damage
+Fruit Pie Slice + Whole Fruit Pie + Organic Storm Cloud + Organic Grand Piano for 320 damage
+Fruit Pie Slice + Whole Fruit Pie + Geyser + Grand Piano for 320 damage
+Fruit Pie Slice + Whole Fruit Pie + Organic Big Weight + Toontanic for 320 damage
+Fruit Pie Slice + Whole Cream Pie + Storm Cloud + Toontanic for 320 damage
+Fruit Pie Slice + Whole Cream Pie + Sandbag + Organic Toontanic for 320 damage
+Fruit Pie Slice + Birthday Cake + Glass of Water + Toontanic for 320 damage
+Fruit Pie Slice + Wedding Cake + Organic Wedding Cake + Organic Squirting Flower for 320 damage
+Fruit Pie Slice + Wedding Cake + Seltzer Bottle + Organic Geyser for 320 damage
+Fruit Pie Slice + Wedding Cake + Organic Geyser + Organic Big Weight for 320 damage
+Fruit Pie Slice + Organic Wedding Cake + Organic Glass of Water + Organic Geyser for 320 damage
+Fruit Pie Slice + Organic Squirting Flower + Organic Storm Cloud + Organic Toontanic for 320 damage
+Fruit Pie Slice + Organic Squirt Gun + Storm Cloud + Organic Toontanic for 320 damage
+Fruit Pie Slice + Organic Squirt Gun + Organic Big Weight + Organic Toontanic for 320 damage
+Fruit Pie Slice + Organic Squirt Gun + Organic Safe + Grand Piano for 320 damage
+Fruit Pie Slice + Storm Cloud + Organic Flower Pot + Toontanic for 320 damage
+Fruit Pie Slice + Organic Flower Pot + Organic Big Weight + Organic Toontanic for 320 damage
+Fruit Pie Slice + Organic Flower Pot + Organic Safe + Grand Piano for 320 damage
+Fruit Pie Slice + Sandbag + Safe + Grand Piano for 320 damage
+Fruit Pie Slice + Anvil + Anvil + Organic Toontanic for 320 damage
+Fruit Pie Slice + Organic Anvil + Big Weight + Toontanic for 320 damage
+Organic Fruit Pie Slice + Cream Pie Slice + Organic Storm Cloud + Organic Toontanic for 320 damage
+Organic Fruit Pie Slice + Organic Cream Pie Slice + Geyser + Toontanic for 320 damage
+Organic Fruit Pie Slice + Organic Cream Pie Slice + Organic Geyser + Grand Piano for 320 damage
+Organic Fruit Pie Slice + Whole Fruit Pie + Anvil + Organic Toontanic for 320 damage
+Organic Fruit Pie Slice + Whole Cream Pie + Organic Storm Cloud + Grand Piano for 320 damage
+Organic Fruit Pie Slice + Whole Cream Pie + Big Weight + Grand Piano for 320 damage
+Organic Fruit Pie Slice + Organic Birthday Cake + Wedding Cake + Fire Hose for 320 damage
+Organic Fruit Pie Slice + Organic Birthday Cake + Wedding Cake + Anvil for 320 damage
+Organic Fruit Pie Slice + Organic Birthday Cake + Squirting Flower + Grand Piano for 320 damage
+Organic Fruit Pie Slice + Organic Birthday Cake + Fire Hose + Organic Geyser for 320 damage
+Organic Fruit Pie Slice + Wedding Cake + Wedding Cake + Sandbag for 320 damage
+Organic Fruit Pie Slice + Wedding Cake + Organic Wedding Cake + Squirting Flower for 320 damage
+Organic Fruit Pie Slice + Wedding Cake + Fire Hose + Geyser for 320 damage
+Organic Fruit Pie Slice + Organic Wedding Cake + Glass of Water + Organic Geyser for 320 damage
+Organic Fruit Pie Slice + Organic Wedding Cake + Organic Geyser + Organic Anvil for 320 damage
+Organic Fruit Pie Slice + Squirting Flower + Organic Storm Cloud + Organic Toontanic for 320 damage
+Organic Fruit Pie Slice + Organic Glass of Water + Safe + Toontanic for 320 damage
+Organic Fruit Pie Slice + Squirt Gun + Storm Cloud + Organic Toontanic for 320 damage
+Organic Fruit Pie Slice + Squirt Gun + Organic Big Weight + Organic Toontanic for 320 damage
+Organic Fruit Pie Slice + Squirt Gun + Organic Safe + Grand Piano for 320 damage
+Organic Fruit Pie Slice + Organic Squirt Gun + Organic Storm Cloud + Organic Grand Piano for 320 damage
+Organic Fruit Pie Slice + Seltzer Bottle + Storm Cloud + Organic Grand Piano for 320 damage
+Organic Fruit Pie Slice + Seltzer Bottle + Safe + Grand Piano for 320 damage
+Organic Fruit Pie Slice + Fire Hose + Big Weight + Organic Grand Piano for 320 damage
+Organic Fruit Pie Slice + Organic Storm Cloud + Geyser + Organic Safe for 320 damage
+Organic Fruit Pie Slice + Geyser + Organic Geyser + Big Weight for 320 damage
+Organic Fruit Pie Slice + Organic Geyser + Organic Geyser + Organic Anvil for 320 damage
+Organic Fruit Pie Slice + Flower Pot + Organic Big Weight + Organic Toontanic for 320 damage
+Organic Fruit Pie Slice + Flower Pot + Organic Safe + Grand Piano for 320 damage
+Organic Fruit Pie Slice + Safe + Organic Grand Piano for 320 damage
+Organic Fruit Pie Slice + Organic Safe + Toontanic for 320 damage
+Cream Pie Slice + Cream Pie Slice + Birthday Cake + Organic Wedding Cake for 320 damage
+Cream Pie Slice + Cream Pie Slice + Big Weight + Organic Grand Piano for 320 damage
+Cream Pie Slice + Organic Cream Pie Slice + Storm Cloud + Organic Toontanic for 320 damage
+Cream Pie Slice + Organic Cream Pie Slice + Organic Anvil + Organic Toontanic for 320 damage
+Cream Pie Slice + Whole Fruit Pie + Storm Cloud + Organic Grand Piano for 320 damage
+Cream Pie Slice + Organic Whole Fruit Pie + Birthday Cake + Wedding Cake for 320 damage
+Cream Pie Slice + Organic Whole Fruit Pie + Organic Birthday Cake + Organic Birthday Cake for 320 damage
+Cream Pie Slice + Organic Whole Fruit Pie + Geyser + Organic Geyser for 320 damage
+Cream Pie Slice + Organic Whole Fruit Pie + Organic Anvil + Organic Grand Piano for 320 damage
+Cream Pie Slice + Whole Cream Pie + Organic Whole Cream Pie + Organic Toontanic for 320 damage
+Cream Pie Slice + Whole Cream Pie + Organic Flower Pot + Organic Toontanic for 320 damage
+Cream Pie Slice + Organic Whole Cream Pie + Organic Wedding Cake + Organic Storm Cloud for 320 damage
+Cream Pie Slice + Organic Whole Cream Pie + Sandbag + Organic Grand Piano for 320 damage
+Cream Pie Slice + Birthday Cake + Organic Wedding Cake + Seltzer Bottle for 320 damage
+Cream Pie Slice + Birthday Cake + Organic Glass of Water + Grand Piano for 320 damage
+Cream Pie Slice + Organic Birthday Cake + Wedding Cake + Organic Seltzer Bottle for 320 damage
+Cream Pie Slice + Organic Birthday Cake + Organic Wedding Cake + Organic Glass of Water for 320 damage
+Cream Pie Slice + Wedding Cake + Wedding Cake + Organic Flower Pot for 320 damage
+Cream Pie Slice + Organic Wedding Cake + Squirt Gun + Geyser for 320 damage
+Cream Pie Slice + Glass of Water + Organic Storm Cloud + Organic Grand Piano for 320 damage
+Cream Pie Slice + Organic Fire Hose + Big Weight + Toontanic for 320 damage
+Cream Pie Slice + Geyser + Organic Toontanic for 320 damage
+Cream Pie Slice + Organic Anvil + Organic Big Weight + Grand Piano for 320 damage
+Organic Cream Pie Slice + Organic Cream Pie Slice + Organic Birthday Cake + Wedding Cake for 320 damage
+Organic Cream Pie Slice + Organic Cream Pie Slice + Organic Geyser + Organic Geyser for 320 damage
+Organic Cream Pie Slice + Organic Whole Fruit Pie + Organic Wedding Cake + Geyser for 320 damage
+Organic Cream Pie Slice + Organic Whole Fruit Pie + Organic Big Weight + Grand Piano for 320 damage
+Organic Cream Pie Slice + Whole Cream Pie + Storm Cloud + Grand Piano for 320 damage
+Organic Cream Pie Slice + Whole Cream Pie + Flower Pot + Organic Toontanic for 320 damage
+Organic Cream Pie Slice + Birthday Cake + Glass of Water + Grand Piano for 320 damage
+Organic Cream Pie Slice + Birthday Cake + Organic Fire Hose + Organic Geyser for 320 damage
+Organic Cream Pie Slice + Organic Birthday Cake + Organic Wedding Cake + Glass of Water for 320 damage
+Organic Cream Pie Slice + Organic Birthday Cake + Organic Seltzer Bottle + Organic Geyser for 320 damage
+Organic Cream Pie Slice + Organic Birthday Cake + Organic Fire Hose + Geyser for 320 damage
+Organic Cream Pie Slice + Wedding Cake + Wedding Cake + Flower Pot for 320 damage
+Organic Cream Pie Slice + Wedding Cake + Organic Squirt Gun + Organic Geyser for 320 damage
+Organic Cream Pie Slice + Wedding Cake + Organic Seltzer Bottle + Geyser for 320 damage
+Organic Cream Pie Slice + Wedding Cake + Geyser + Organic Big Weight for 320 damage
+Organic Cream Pie Slice + Organic Squirting Flower + Geyser + Grand Piano for 320 damage
+Organic Cream Pie Slice + Organic Squirting Flower + Organic Big Weight + Organic Toontanic for 320 damage
+Organic Cream Pie Slice + Organic Squirting Flower + Organic Safe + Grand Piano for 320 damage
+Organic Cream Pie Slice + Organic Squirt Gun + Organic Storm Cloud + Toontanic for 320 damage
+Organic Cream Pie Slice + Seltzer Bottle + Storm Cloud + Toontanic for 320 damage
+Organic Cream Pie Slice + Seltzer Bottle + Organic Geyser + Organic Geyser for 320 damage
+Organic Cream Pie Slice + Organic Seltzer Bottle + Big Weight + Organic Grand Piano for 320 damage
+Organic Cream Pie Slice + Fire Hose + Storm Cloud + Grand Piano for 320 damage
+Organic Cream Pie Slice + Organic Storm Cloud + Geyser + Safe for 320 damage
+Organic Cream Pie Slice + Organic Geyser + Organic Grand Piano for 320 damage
+Organic Cream Pie Slice + Organic Flower Pot + Safe + Grand Piano for 320 damage
+Organic Cream Pie Slice + Organic Sandbag + Big Weight + Organic Grand Piano for 320 damage
+Whole Fruit Pie + Organic Whole Fruit Pie + Birthday Cake + Organic Birthday Cake for 320 damage
+Whole Fruit Pie + Organic Whole Fruit Pie + Geyser + Geyser for 320 damage
+Whole Fruit Pie + Organic Whole Fruit Pie + Anvil + Toontanic for 320 damage
+Whole Fruit Pie + Whole Cream Pie + Organic Sandbag + Toontanic for 320 damage
+Whole Fruit Pie + Organic Whole Cream Pie + Storm Cloud + Organic Geyser for 320 damage
+Whole Fruit Pie + Birthday Cake + Wedding Cake + Organic Seltzer Bottle for 320 damage
+Whole Fruit Pie + Birthday Cake + Organic Wedding Cake + Organic Glass of Water for 320 damage
+Whole Fruit Pie + Organic Birthday Cake + Organic Birthday Cake + Organic Seltzer Bottle for 320 damage
+Whole Fruit Pie + Organic Birthday Cake + Wedding Cake + Organic Flower Pot for 320 damage
+Whole Fruit Pie + Wedding Cake + Squirting Flower + Organic Geyser for 320 damage
+Whole Fruit Pie + Wedding Cake + Organic Big Weight + Safe for 320 damage
+Whole Fruit Pie + Organic Wedding Cake + Storm Cloud + Organic Big Weight for 320 damage
+Whole Fruit Pie + Organic Wedding Cake + Anvil + Organic Safe for 320 damage
+Whole Fruit Pie + Organic Squirting Flower + Safe + Grand Piano for 320 damage
+Whole Fruit Pie + Glass of Water + Storm Cloud + Organic Grand Piano for 320 damage
+Whole Fruit Pie + Organic Glass of Water + Organic Big Weight + Organic Grand Piano for 320 damage
+Whole Fruit Pie + Organic Seltzer Bottle + Big Weight + Toontanic for 320 damage
+Whole Fruit Pie + Fire Hose + Organic Big Weight + Grand Piano for 320 damage
+Whole Fruit Pie + Organic Fire Hose + Sandbag + Organic Toontanic for 320 damage
+Whole Fruit Pie + Organic Storm Cloud + Organic Geyser + Organic Big Weight for 320 damage
+Whole Fruit Pie + Organic Sandbag + Big Weight + Toontanic for 320 damage
+Organic Whole Fruit Pie + Organic Whole Fruit Pie + Storm Cloud + Grand Piano for 320 damage
+Organic Whole Fruit Pie + Organic Whole Fruit Pie + Flower Pot + Organic Toontanic for 320 damage
+Organic Whole Fruit Pie + Whole Cream Pie + Organic Birthday Cake + Geyser for 320 damage
+Organic Whole Fruit Pie + Whole Cream Pie + Flower Pot + Organic Grand Piano for 320 damage
+Organic Whole Fruit Pie + Organic Whole Cream Pie + Wedding Cake + Organic Storm Cloud for 320 damage
+Organic Whole Fruit Pie + Organic Whole Cream Pie + Organic Storm Cloud + Geyser for 320 damage
+Organic Whole Fruit Pie + Birthday Cake + Birthday Cake + Big Weight for 320 damage
+Organic Whole Fruit Pie + Birthday Cake + Organic Birthday Cake + Organic Fire Hose for 320 damage
+Organic Whole Fruit Pie + Birthday Cake + Organic Birthday Cake + Organic Anvil for 320 damage
+Organic Whole Fruit Pie + Birthday Cake + Wedding Cake + Seltzer Bottle for 320 damage
+Organic Whole Fruit Pie + Birthday Cake + Organic Storm Cloud + Organic Safe for 320 damage
+Organic Whole Fruit Pie + Organic Birthday Cake + Organic Birthday Cake + Seltzer Bottle for 320 damage
+Organic Whole Fruit Pie + Organic Birthday Cake + Wedding Cake + Organic Glass of Water for 320 damage
+Organic Whole Fruit Pie + Organic Birthday Cake + Squirt Gun + Organic Geyser for 320 damage
+Organic Whole Fruit Pie + Wedding Cake + Squirt Gun + Geyser for 320 damage
+Organic Whole Fruit Pie + Organic Wedding Cake + Organic Geyser + Organic Flower Pot for 320 damage
+Organic Whole Fruit Pie + Squirting Flower + Organic Storm Cloud + Toontanic for 320 damage
+Organic Whole Fruit Pie + Squirt Gun + Storm Cloud + Toontanic for 320 damage
+Organic Whole Fruit Pie + Squirt Gun + Organic Geyser + Organic Geyser for 320 damage
+Organic Whole Fruit Pie + Squirt Gun + Big Weight + Organic Grand Piano for 320 damage
+Organic Whole Fruit Pie + Organic Squirt Gun + Organic Anvil + Organic Toontanic for 320 damage
+Organic Whole Fruit Pie + Seltzer Bottle + Big Weight + Toontanic for 320 damage
+Organic Whole Fruit Pie + Fire Hose + Organic Sandbag + Organic Toontanic for 320 damage
+Organic Whole Fruit Pie + Fire Hose + Anvil + Organic Grand Piano for 320 damage
+Organic Whole Fruit Pie + Organic Fire Hose + Big Weight + Grand Piano for 320 damage
+Organic Whole Fruit Pie + Flower Pot + Big Weight + Organic Grand Piano for 320 damage
+Organic Whole Fruit Pie + Organic Flower Pot + Organic Anvil + Organic Toontanic for 320 damage
+Whole Cream Pie + Whole Cream Pie + Wedding Cake + Storm Cloud for 320 damage
+Whole Cream Pie + Organic Whole Cream Pie + Seltzer Bottle + Organic Toontanic for 320 damage
+Whole Cream Pie + Birthday Cake + Wedding Cake + Glass of Water for 320 damage
+Whole Cream Pie + Birthday Cake + Seltzer Bottle + Geyser for 320 damage
+Whole Cream Pie + Birthday Cake + Organic Big Weight + Organic Safe for 320 damage
+Whole Cream Pie + Organic Birthday Cake + Organic Birthday Cake + Glass of Water for 320 damage
+Whole Cream Pie + Organic Wedding Cake + Storm Cloud + Organic Anvil for 320 damage
+Whole Cream Pie + Organic Wedding Cake + Big Weight + Organic Big Weight for 320 damage
+Whole Cream Pie + Organic Squirting Flower + Organic Big Weight + Toontanic for 320 damage
+Whole Cream Pie + Organic Squirt Gun + Geyser + Organic Geyser for 320 damage
+Whole Cream Pie + Organic Seltzer Bottle + Geyser + Geyser for 320 damage
+Whole Cream Pie + Fire Hose + Organic Storm Cloud + Organic Geyser for 320 damage
+Whole Cream Pie + Fire Hose + Flower Pot + Organic Toontanic for 320 damage
+Whole Cream Pie + Sandbag + Big Weight + Grand Piano for 320 damage
+Whole Cream Pie + Anvil + Organic Anvil + Grand Piano for 320 damage
+Organic Whole Cream Pie + Organic Whole Cream Pie + Wedding Cake + Safe for 320 damage
+Organic Whole Cream Pie + Birthday Cake + Big Weight + Organic Safe for 320 damage
+Organic Whole Cream Pie + Organic Birthday Cake + Geyser + Anvil for 320 damage
+Organic Whole Cream Pie + Wedding Cake + Geyser + Sandbag for 320 damage
+Organic Whole Cream Pie + Organic Wedding Cake + Big Weight + Big Weight for 320 damage
+Organic Whole Cream Pie + Glass of Water + Storm Cloud + Grand Piano for 320 damage
+Organic Whole Cream Pie + Squirt Gun + Organic Anvil + Organic Grand Piano for 320 damage
+Organic Whole Cream Pie + Organic Squirt Gun + Organic Big Weight + Grand Piano for 320 damage
+Organic Whole Cream Pie + Fire Hose + Sandbag + Organic Grand Piano for 320 damage
+Organic Whole Cream Pie + Organic Geyser + Organic Geyser for 320 damage
+Organic Whole Cream Pie + Flower Pot + Organic Anvil + Organic Grand Piano for 320 damage
+Organic Whole Cream Pie + Organic Flower Pot + Organic Big Weight + Grand Piano for 320 damage
+Organic Whole Cream Pie + Anvil + Anvil + Grand Piano for 320 damage
+Birthday Cake + Birthday Cake + Organic Fire Hose + Organic Fire Hose for 320 damage
+Birthday Cake + Birthday Cake + Storm Cloud for 320 damage
+Birthday Cake + Birthday Cake + Organic Anvil + Organic Anvil for 320 damage
+Birthday Cake + Organic Birthday Cake + Organic Seltzer Bottle + Organic Fire Hose for 320 damage
+Birthday Cake + Organic Birthday Cake + Organic Seltzer Bottle + Big Weight for 320 damage
+Birthday Cake + Organic Birthday Cake + Organic Flower Pot + Big Weight for 320 damage
+Birthday Cake + Wedding Cake + Organic Squirt Gun + Organic Fire Hose for 320 damage
+Birthday Cake + Wedding Cake + Organic Seltzer Bottle + Organic Seltzer Bottle for 320 damage
+Birthday Cake + Wedding Cake + Organic Seltzer Bottle + Organic Anvil for 320 damage
+Birthday Cake + Organic Wedding Cake + Squirting Flower + Fire Hose for 320 damage
+Birthday Cake + Organic Wedding Cake + Glass of Water + Organic Anvil for 320 damage
+Birthday Cake + Organic Wedding Cake + Organic Squirt Gun + Seltzer Bottle for 320 damage
+Birthday Cake + Organic Wedding Cake + Organic Seltzer Bottle + Sandbag for 320 damage
+Birthday Cake + Organic Wedding Cake + Fire Hose + Organic Flower Pot for 320 damage
+Birthday Cake + Squirting Flower + Organic Seltzer Bottle + Organic Grand Piano for 320 damage
+Birthday Cake + Squirting Flower + Organic Geyser + Organic Safe for 320 damage
+Birthday Cake + Squirting Flower + Flower Pot + Grand Piano for 320 damage
+Birthday Cake + Organic Squirting Flower + Organic Squirt Gun + Organic Toontanic for 320 damage
+Birthday Cake + Glass of Water + Organic Fire Hose + Grand Piano for 320 damage
+Birthday Cake + Organic Glass of Water + Organic Glass of Water + Organic Toontanic for 320 damage
+Birthday Cake + Squirt Gun + Seltzer Bottle + Toontanic for 320 damage
+Birthday Cake + Organic Seltzer Bottle + Storm Cloud + Storm Cloud for 320 damage
+Birthday Cake + Organic Fire Hose + Organic Grand Piano for 320 damage
+Birthday Cake + Storm Cloud + Organic Storm Cloud + Sandbag for 320 damage
+Birthday Cake + Organic Storm Cloud + Organic Anvil + Organic Safe for 320 damage
+Birthday Cake + Organic Geyser + Flower Pot + Organic Safe for 320 damage
+Organic Birthday Cake + Organic Birthday Cake + Organic Squirt Gun + Organic Fire Hose for 320 damage
+Organic Birthday Cake + Organic Birthday Cake + Organic Seltzer Bottle + Organic Seltzer Bottle for 320 damage
+Organic Birthday Cake + Organic Birthday Cake + Organic Seltzer Bottle + Organic Anvil for 320 damage
+Organic Birthday Cake + Wedding Cake + Organic Squirt Gun + Organic Seltzer Bottle for 320 damage
+Organic Birthday Cake + Wedding Cake + Organic Fire Hose + Organic Flower Pot for 320 damage
+Organic Birthday Cake + Wedding Cake + Sandbag + Sandbag for 320 damage
+Organic Birthday Cake + Organic Wedding Cake + Squirt Gun + Squirt Gun for 320 damage
+Organic Birthday Cake + Squirting Flower + Seltzer Bottle + Toontanic for 320 damage
+Organic Birthday Cake + Organic Squirting Flower + Organic Squirting Flower + Organic Toontanic for 320 damage
+Organic Birthday Cake + Squirt Gun + Organic Squirt Gun + Toontanic for 320 damage
+Organic Birthday Cake + Squirt Gun + Seltzer Bottle + Grand Piano for 320 damage
+Organic Birthday Cake + Squirt Gun + Organic Toontanic for 320 damage
+Organic Birthday Cake + Organic Seltzer Bottle + Organic Grand Piano for 320 damage
+Organic Birthday Cake + Fire Hose + Fire Hose + Organic Geyser for 320 damage
+Organic Birthday Cake + Fire Hose + Toontanic for 320 damage
+Organic Birthday Cake + Organic Fire Hose + Safe + Organic Safe for 320 damage
+Organic Birthday Cake + Storm Cloud + Storm Cloud + Sandbag for 320 damage
+Organic Birthday Cake + Geyser + Flower Pot + Organic Safe for 320 damage
+Organic Birthday Cake + Organic Geyser + Anvil + Organic Big Weight for 320 damage
+Organic Birthday Cake + Organic Big Weight + Organic Big Weight + Organic Safe for 320 damage
+Wedding Cake + Wedding Cake + Organic Squirting Flower + Seltzer Bottle for 320 damage
+Wedding Cake + Wedding Cake + Organic Squirt Gun + Organic Squirt Gun for 320 damage
+Wedding Cake + Wedding Cake + Organic Squirt Gun + Organic Sandbag for 320 damage
+Wedding Cake + Wedding Cake + Seltzer Bottle + Organic Flower Pot for 320 damage
+Wedding Cake + Organic Wedding Cake + Organic Squirting Flower + Organic Glass of Water for 320 damage
+Wedding Cake + Squirting Flower + Squirt Gun + Toontanic for 320 damage
+Wedding Cake + Squirting Flower + Seltzer Bottle + Grand Piano for 320 damage
+Wedding Cake + Glass of Water + Glass of Water + Toontanic for 320 damage
+Wedding Cake + Squirt Gun + Organic Squirt Gun + Grand Piano for 320 damage
+Wedding Cake + Organic Squirt Gun + Organic Grand Piano for 320 damage
+Wedding Cake + Seltzer Bottle + Fire Hose + Organic Geyser for 320 damage
+Wedding Cake + Organic Seltzer Bottle + Safe + Organic Safe for 320 damage
+Wedding Cake + Fire Hose + Grand Piano for 320 damage
+Wedding Cake + Storm Cloud + Anvil + Safe for 320 damage
+Wedding Cake + Geyser + Anvil + Organic Big Weight for 320 damage
+Wedding Cake + Organic Sandbag + Safe + Organic Safe for 320 damage
+Organic Wedding Cake + Squirting Flower + Organic Storm Cloud + Organic Safe for 320 damage
+Organic Wedding Cake + Squirting Flower + Organic Geyser + Big Weight for 320 damage
+Organic Wedding Cake + Glass of Water + Organic Fire Hose + Organic Geyser for 320 damage
+Organic Wedding Cake + Glass of Water + Toontanic for 320 damage
+Organic Wedding Cake + Squirt Gun + Storm Cloud + Organic Safe for 320 damage
+Organic Wedding Cake + Seltzer Bottle + Fire Hose + Geyser for 320 damage
+Organic Wedding Cake + Organic Fire Hose + Organic Geyser + Flower Pot for 320 damage
+Organic Wedding Cake + Storm Cloud + Big Weight + Big Weight for 320 damage
+Organic Wedding Cake + Anvil + Organic Big Weight + Organic Safe for 320 damage
+Squirting Flower + Organic Squirting Flower + Safe + Organic Grand Piano for 320 damage
+Squirting Flower + Organic Squirting Flower + Organic Safe + Toontanic for 320 damage
+Squirting Flower + Organic Glass of Water + Organic Storm Cloud + Organic Toontanic for 320 damage
+Squirting Flower + Squirt Gun + Safe + Toontanic for 320 damage
+Squirting Flower + Fire Hose + Big Weight + Organic Grand Piano for 320 damage
+Squirting Flower + Organic Fire Hose + Organic Storm Cloud + Grand Piano for 320 damage
+Squirting Flower + Organic Fire Hose + Organic Big Weight + Toontanic for 320 damage
+Squirting Flower + Organic Geyser + Safe + Organic Safe for 320 damage
+Organic Squirting Flower + Organic Squirting Flower + Organic Geyser + Grand Piano for 320 damage
+Organic Squirting Flower + Glass of Water + Organic Storm Cloud + Organic Toontanic for 320 damage
+Organic Squirting Flower + Seltzer Bottle + Safe + Grand Piano for 320 damage
+Organic Squirting Flower + Organic Seltzer Bottle + Organic Storm Cloud + Toontanic for 320 damage
+Organic Squirting Flower + Fire Hose + Organic Anvil + Organic Toontanic for 320 damage
+Organic Squirting Flower + Organic Fire Hose + Anvil + Organic Toontanic for 320 damage
+Organic Squirting Flower + Storm Cloud + Organic Flower Pot + Grand Piano for 320 damage
+Organic Squirting Flower + Organic Storm Cloud + Organic Geyser + Safe for 320 damage
+Organic Squirting Flower + Organic Sandbag + Big Weight + Organic Toontanic for 320 damage
+Organic Squirting Flower + Anvil + Big Weight + Organic Grand Piano for 320 damage
+Organic Squirting Flower + Organic Anvil + Organic Big Weight + Toontanic for 320 damage
+Glass of Water + Glass of Water + Safe + Toontanic for 320 damage
+Glass of Water + Squirt Gun + Geyser + Grand Piano for 320 damage
+Glass of Water + Organic Squirt Gun + Storm Cloud + Organic Toontanic for 320 damage
+Glass of Water + Fire Hose + Anvil + Organic Toontanic for 320 damage
+Glass of Water + Organic Fire Hose + Big Weight + Toontanic for 320 damage
+Glass of Water + Flower Pot + Safe + Toontanic for 320 damage
+Glass of Water + Big Weight + Big Weight + Grand Piano for 320 damage
+Organic Glass of Water + Squirt Gun + Storm Cloud + Organic Toontanic for 320 damage
+Organic Glass of Water + Seltzer Bottle + Organic Big Weight + Organic Grand Piano for 320 damage
+Organic Glass of Water + Organic Storm Cloud + Geyser + Organic Safe for 320 damage
+Organic Glass of Water + Geyser + Organic Geyser + Big Weight for 320 damage
+Organic Glass of Water + Organic Geyser + Organic Geyser + Organic Anvil for 320 damage
+Organic Glass of Water + Organic Sandbag + Safe + Grand Piano for 320 damage
+Organic Glass of Water + Anvil + Organic Big Weight + Toontanic for 320 damage
+Squirt Gun + Organic Seltzer Bottle + Organic Anvil + Organic Toontanic for 320 damage
+Squirt Gun + Organic Fire Hose + Storm Cloud + Grand Piano for 320 damage
+Organic Squirt Gun + Organic Squirt Gun + Safe + Grand Piano for 320 damage
+Organic Squirt Gun + Seltzer Bottle + Big Weight + Organic Grand Piano for 320 damage
+Organic Squirt Gun + Organic Seltzer Bottle + Storm Cloud + Toontanic for 320 damage
+Organic Squirt Gun + Organic Seltzer Bottle + Organic Geyser + Organic Geyser for 320 damage
+Organic Squirt Gun + Organic Fire Hose + Geyser + Organic Geyser for 320 damage
+Organic Squirt Gun + Organic Fire Hose + Organic Anvil + Organic Grand Piano for 320 damage
+Organic Squirt Gun + Storm Cloud + Organic Geyser + Safe for 320 damage
+Organic Squirt Gun + Organic Storm Cloud + Organic Toontanic for 320 damage
+Seltzer Bottle + Fire Hose + Big Weight + Grand Piano for 320 damage
+Seltzer Bottle + Storm Cloud + Organic Toontanic for 320 damage
+Seltzer Bottle + Geyser + Organic Geyser + Anvil for 320 damage
+Seltzer Bottle + Geyser + Safe + Safe for 320 damage
+Seltzer Bottle + Organic Geyser + Organic Geyser + Sandbag for 320 damage
+Seltzer Bottle + Sandbag + Organic Anvil + Organic Toontanic for 320 damage
+Seltzer Bottle + Anvil + Organic Big Weight + Grand Piano for 320 damage
+Organic Seltzer Bottle + Organic Seltzer Bottle + Geyser + Organic Geyser for 320 damage
+Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Anvil + Organic Grand Piano for 320 damage
+Organic Seltzer Bottle + Fire Hose + Organic Anvil + Toontanic for 320 damage
+Organic Seltzer Bottle + Organic Fire Hose + Geyser + Geyser for 320 damage
+Organic Seltzer Bottle + Organic Fire Hose + Anvil + Toontanic for 320 damage
+Organic Seltzer Bottle + Storm Cloud + Geyser + Safe for 320 damage
+Organic Seltzer Bottle + Organic Flower Pot + Organic Big Weight + Organic Grand Piano for 320 damage
+Organic Seltzer Bottle + Sandbag + Organic Big Weight + Toontanic for 320 damage
+Organic Seltzer Bottle + Organic Sandbag + Anvil + Organic Toontanic for 320 damage
+Organic Seltzer Bottle + Anvil + Anvil + Organic Grand Piano for 320 damage
+Organic Seltzer Bottle + Organic Big Weight + Organic Toontanic for 320 damage
+Organic Seltzer Bottle + Organic Safe + Grand Piano for 320 damage
+Fire Hose + Fire Hose + Organic Sandbag + Organic Grand Piano for 320 damage
+Fire Hose + Organic Fire Hose + Organic Storm Cloud + Organic Geyser for 320 damage
+Fire Hose + Organic Fire Hose + Organic Anvil + Grand Piano for 320 damage
+Fire Hose + Flower Pot + Organic Anvil + Organic Toontanic for 320 damage
+Organic Fire Hose + Organic Fire Hose + Anvil + Grand Piano for 320 damage
+Organic Fire Hose + Flower Pot + Organic Big Weight + Toontanic for 320 damage
+Organic Fire Hose + Organic Flower Pot + Anvil + Organic Toontanic for 320 damage
+Organic Fire Hose + Organic Sandbag + Organic Anvil + Organic Grand Piano for 320 damage
+Storm Cloud + Organic Storm Cloud + Organic Big Weight + Organic Big Weight for 320 damage
+Storm Cloud + Geyser + Organic Flower Pot + Safe for 320 damage
+Storm Cloud + Flower Pot + Flower Pot + Toontanic for 320 damage
+Storm Cloud + Organic Flower Pot + Organic Sandbag + Grand Piano for 320 damage
+Storm Cloud + Anvil + Grand Piano for 320 damage
+Organic Storm Cloud + Organic Storm Cloud + Big Weight + Big Weight for 320 damage
+Organic Storm Cloud + Organic Geyser + Sandbag + Big Weight for 320 damage
+Organic Storm Cloud + Organic Geyser + Anvil + Organic Anvil for 320 damage
+Geyser + Geyser + Organic Flower Pot + Big Weight for 320 damage
+Organic Geyser + Organic Geyser + Sandbag + Sandbag for 320 damage
+Organic Flower Pot + Organic Sandbag + Organic Big Weight + Organic Grand Piano for 320 damage
+Organic Flower Pot + Anvil + Big Weight + Toontanic for 320 damage
+Sandbag + Organic Sandbag + Organic Big Weight + Toontanic for 320 damage
+Sandbag + Organic Anvil + Big Weight + Grand Piano for 320 damage
+Organic Sandbag + Organic Sandbag + Anvil + Organic Toontanic for 320 damage
+Organic Sandbag + Anvil + Anvil + Organic Grand Piano for 320 damage
+Organic Sandbag + Organic Big Weight + Organic Toontanic for 320 damage
+Organic Sandbag + Organic Safe + Grand Piano for 320 damage
+Anvil + Organic Anvil + Organic Anvil + Grand Piano for 320 damage
+Anvil + Organic Big Weight + Organic Grand Piano for 320 damage
+Organic Big Weight + Safe + Safe + Organic Safe for 320 damage
+(Lured) + Bike Horn + Organic Bike Horn + Safe + Organic Grand Piano for 320 damage
+(Lured) + Bike Horn + Organic Bike Horn + Organic Safe + Toontanic for 320 damage
+(Lured) + Bike Horn + Whistle + Opera Singer + Organic Toontanic for 320 damage
+(Lured) + Bike Horn + Bugle + Organic Wedding Cake + Grand Piano for 320 damage
+(Lured) + Bike Horn + Bugle + Organic Geyser + Organic Grand Piano for 320 damage
+(Lured) + Bike Horn + Organic Bugle + Wedding Cake + Toontanic for 320 damage
+(Lured) + Bike Horn + Organic Bugle + Safe + Toontanic for 320 damage
+(Lured) + Bike Horn + Elephant Trunk + Organic Birthday Cake + Toontanic for 320 damage
+(Lured) + Bike Horn + Elephant Trunk + Wedding Cake + Grand Piano for 320 damage
+(Lured) + Bike Horn + Organic Elephant Trunk + Birthday Cake + Organic Grand Piano for 320 damage
+(Lured) + Bike Horn + Opera Singer + Organic Opera Singer + Organic Storm Cloud for 320 damage
+(Lured) + Bike Horn + Opera Singer + Whole Fruit Pie + Toontanic for 320 damage
+(Lured) + Bike Horn + Opera Singer + Whole Cream Pie + Organic Wedding Cake for 320 damage
+(Lured) + Bike Horn + Opera Singer + Organic Glass of Water + Organic Toontanic for 320 damage
+(Lured) + Bike Horn + Organic Opera Singer + Organic Opera Singer + Organic Safe for 320 damage
+(Lured) + Bike Horn + Organic Opera Singer + Organic Glass of Water + Organic Grand Piano for 320 damage
+(Lured) + Bike Horn + Organic Cupcake + Birthday Cake + Organic Grand Piano for 320 damage
+(Lured) + Bike Horn + Organic Cupcake + Safe + Organic Grand Piano for 320 damage
+(Lured) + Bike Horn + Organic Cupcake + Organic Safe + Toontanic for 320 damage
+(Lured) + Bike Horn + Organic Fruit Pie Slice + Organic Birthday Cake + Grand Piano for 320 damage
+(Lured) + Bike Horn + Organic Fruit Pie Slice + Wedding Cake + Organic Wedding Cake for 320 damage
+(Lured) + Bike Horn + Whole Cream Pie + Organic Geyser + Organic Geyser for 320 damage
+(Lured) + Bike Horn + Birthday Cake + Flower Pot + Grand Piano for 320 damage
+(Lured) + Bike Horn + Organic Birthday Cake + Glass of Water + Organic Toontanic for 320 damage
+(Lured) + Bike Horn + Wedding Cake + Organic Wedding Cake + Organic Squirt Gun for 320 damage
+(Lured) + Bike Horn + Wedding Cake + Organic Glass of Water + Organic Grand Piano for 320 damage
+(Lured) + Bike Horn + Organic Wedding Cake + Squirting Flower + Toontanic for 320 damage
+(Lured) + Bike Horn + Glass of Water + Geyser + Toontanic for 320 damage
+(Lured) + Bike Horn + Organic Fire Hose + Storm Cloud + Toontanic for 320 damage
+(Lured) + Bike Horn + Organic Fire Hose + Organic Storm Cloud + Grand Piano for 320 damage
+(Lured) + Bike Horn + Organic Fire Hose + Organic Geyser + Organic Geyser for 320 damage
+(Lured) + Bike Horn + Organic Storm Cloud + Flower Pot + Toontanic for 320 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn + Organic Birthday Cake + Organic Toontanic for 320 damage
+(Lured) + Organic Bike Horn + Bugle + Wedding Cake + Toontanic for 320 damage
+(Lured) + Organic Bike Horn + Bugle + Safe + Toontanic for 320 damage
+(Lured) + Organic Bike Horn + Organic Bugle + Organic Opera Singer + Toontanic for 320 damage
+(Lured) + Organic Bike Horn + Elephant Trunk + Opera Singer + Toontanic for 320 damage
+(Lured) + Organic Bike Horn + Elephant Trunk + Organic Opera Singer + Grand Piano for 320 damage
+(Lured) + Organic Bike Horn + Elephant Trunk + Wedding Cake + Wedding Cake for 320 damage
+(Lured) + Organic Bike Horn + Elephant Trunk + Safe + Grand Piano for 320 damage
+(Lured) + Organic Bike Horn + Organic Elephant Trunk + Organic Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Organic Bike Horn + Organic Foghorn + Organic Sandbag + Organic Grand Piano for 320 damage
+(Lured) + Organic Bike Horn + Opera Singer + Glass of Water + Organic Toontanic for 320 damage
+(Lured) + Organic Bike Horn + Organic Opera Singer + Glass of Water + Organic Grand Piano for 320 damage
+(Lured) + Organic Bike Horn + Cupcake + Birthday Cake + Organic Grand Piano for 320 damage
+(Lured) + Organic Bike Horn + Cupcake + Safe + Organic Grand Piano for 320 damage
+(Lured) + Organic Bike Horn + Cupcake + Organic Safe + Toontanic for 320 damage
+(Lured) + Organic Bike Horn + Fruit Pie Slice + Wedding Cake + Organic Wedding Cake for 320 damage
+(Lured) + Organic Bike Horn + Organic Cream Pie Slice + Organic Big Weight + Organic Toontanic for 320 damage
+(Lured) + Organic Bike Horn + Organic Cream Pie Slice + Organic Safe + Grand Piano for 320 damage
+(Lured) + Organic Bike Horn + Whole Fruit Pie + Safe + Grand Piano for 320 damage
+(Lured) + Organic Bike Horn + Organic Whole Fruit Pie + Organic Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Organic Bike Horn + Whole Cream Pie + Organic Storm Cloud + Organic Grand Piano for 320 damage
+(Lured) + Organic Bike Horn + Whole Cream Pie + Geyser + Grand Piano for 320 damage
+(Lured) + Organic Bike Horn + Whole Cream Pie + Organic Big Weight + Toontanic for 320 damage
+(Lured) + Organic Bike Horn + Wedding Cake + Organic Wedding Cake + Squirt Gun for 320 damage
+(Lured) + Organic Bike Horn + Wedding Cake + Glass of Water + Organic Grand Piano for 320 damage
+(Lured) + Organic Bike Horn + Organic Wedding Cake + Organic Squirt Gun + Grand Piano for 320 damage
+(Lured) + Organic Bike Horn + Organic Glass of Water + Organic Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Organic Bike Horn + Organic Seltzer Bottle + Big Weight + Organic Toontanic for 320 damage
+(Lured) + Organic Bike Horn + Organic Storm Cloud + Organic Sandbag + Grand Piano for 320 damage
+(Lured) + Organic Bike Horn + Organic Sandbag + Big Weight + Organic Toontanic for 320 damage
+(Lured) + Organic Bike Horn + Anvil + Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Organic Bike Horn + Organic Anvil + Organic Big Weight + Toontanic for 320 damage
+(Lured) + Whistle + Whistle + Wedding Cake + Organic Wedding Cake for 320 damage
+(Lured) + Whistle + Whistle + Geyser + Organic Toontanic for 320 damage
+(Lured) + Whistle + Organic Whistle + Organic Wedding Cake + Grand Piano for 320 damage
+(Lured) + Whistle + Organic Whistle + Organic Geyser + Organic Grand Piano for 320 damage
+(Lured) + Whistle + Bugle + Birthday Cake + Organic Toontanic for 320 damage
+(Lured) + Whistle + Organic Bugle + Organic Birthday Cake + Organic Grand Piano for 320 damage
+(Lured) + Whistle + Organic Bugle + Organic Big Weight + Organic Toontanic for 320 damage
+(Lured) + Whistle + Organic Bugle + Organic Safe + Grand Piano for 320 damage
+(Lured) + Whistle + Aoogah + Geyser + Organic Grand Piano for 320 damage
+(Lured) + Whistle + Aoogah + Big Weight + Organic Toontanic for 320 damage
+(Lured) + Whistle + Organic Aoogah + Organic Birthday Cake + Organic Wedding Cake for 320 damage
+(Lured) + Whistle + Elephant Trunk + Organic Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Whistle + Organic Elephant Trunk + Organic Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Whistle + Foghorn + Organic Opera Singer + Organic Wedding Cake for 320 damage
+(Lured) + Whistle + Foghorn + Organic Flower Pot + Organic Toontanic for 320 damage
+(Lured) + Whistle + Opera Singer + Organic Squirting Flower + Organic Toontanic for 320 damage
+(Lured) + Whistle + Opera Singer + Organic Seltzer Bottle + Toontanic for 320 damage
+(Lured) + Whistle + Opera Singer + Organic Fire Hose + Grand Piano for 320 damage
+(Lured) + Whistle + Organic Opera Singer + Whole Cream Pie + Wedding Cake for 320 damage
+(Lured) + Whistle + Organic Opera Singer + Organic Squirting Flower + Organic Grand Piano for 320 damage
+(Lured) + Whistle + Organic Opera Singer + Squirt Gun + Toontanic for 320 damage
+(Lured) + Whistle + Organic Opera Singer + Storm Cloud + Storm Cloud for 320 damage
+(Lured) + Whistle + Organic Opera Singer + Organic Geyser + Organic Safe for 320 damage
+(Lured) + Whistle + Fruit Pie Slice + Geyser + Organic Toontanic for 320 damage
+(Lured) + Whistle + Organic Fruit Pie Slice + Organic Geyser + Organic Grand Piano for 320 damage
+(Lured) + Whistle + Organic Cream Pie Slice + Organic Geyser + Toontanic for 320 damage
+(Lured) + Whistle + Whole Fruit Pie + Organic Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Whistle + Organic Whole Fruit Pie + Organic Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Whistle + Birthday Cake + Wedding Cake + Organic Big Weight for 320 damage
+(Lured) + Whistle + Birthday Cake + Organic Fire Hose + Toontanic for 320 damage
+(Lured) + Whistle + Organic Birthday Cake + Organic Birthday Cake + Organic Big Weight for 320 damage
+(Lured) + Whistle + Organic Birthday Cake + Organic Squirting Flower + Organic Toontanic for 320 damage
+(Lured) + Whistle + Organic Birthday Cake + Organic Seltzer Bottle + Toontanic for 320 damage
+(Lured) + Whistle + Organic Birthday Cake + Organic Fire Hose + Grand Piano for 320 damage
+(Lured) + Whistle + Wedding Cake + Organic Wedding Cake + Flower Pot for 320 damage
+(Lured) + Whistle + Wedding Cake + Organic Squirt Gun + Toontanic for 320 damage
+(Lured) + Whistle + Wedding Cake + Organic Seltzer Bottle + Grand Piano for 320 damage
+(Lured) + Whistle + Squirting Flower + Organic Geyser + Grand Piano for 320 damage
+(Lured) + Whistle + Squirting Flower + Safe + Organic Grand Piano for 320 damage
+(Lured) + Whistle + Squirting Flower + Organic Safe + Toontanic for 320 damage
+(Lured) + Whistle + Organic Squirt Gun + Safe + Toontanic for 320 damage
+(Lured) + Whistle + Seltzer Bottle + Big Weight + Organic Toontanic for 320 damage
+(Lured) + Whistle + Geyser + Organic Geyser + Organic Big Weight for 320 damage
+(Lured) + Whistle + Organic Geyser + Organic Toontanic for 320 damage
+(Lured) + Organic Whistle + Organic Whistle + Wedding Cake + Toontanic for 320 damage
+(Lured) + Organic Whistle + Organic Whistle + Safe + Toontanic for 320 damage
+(Lured) + Organic Whistle + Bugle + Organic Birthday Cake + Organic Grand Piano for 320 damage
+(Lured) + Organic Whistle + Bugle + Organic Big Weight + Organic Toontanic for 320 damage
+(Lured) + Organic Whistle + Bugle + Organic Safe + Grand Piano for 320 damage
+(Lured) + Organic Whistle + Aoogah + Organic Birthday Cake + Organic Wedding Cake for 320 damage
+(Lured) + Organic Whistle + Organic Aoogah + Organic Birthday Cake + Toontanic for 320 damage
+(Lured) + Organic Whistle + Organic Aoogah + Wedding Cake + Grand Piano for 320 damage
+(Lured) + Organic Whistle + Elephant Trunk + Geyser + Toontanic for 320 damage
+(Lured) + Organic Whistle + Elephant Trunk + Organic Geyser + Grand Piano for 320 damage
+(Lured) + Organic Whistle + Foghorn + Storm Cloud + Grand Piano for 320 damage
+(Lured) + Organic Whistle + Foghorn + Flower Pot + Organic Toontanic for 320 damage
+(Lured) + Organic Whistle + Organic Foghorn + Organic Storm Cloud + Organic Geyser for 320 damage
+(Lured) + Organic Whistle + Organic Foghorn + Organic Anvil + Grand Piano for 320 damage
+(Lured) + Organic Whistle + Opera Singer + Organic Wedding Cake + Safe for 320 damage
+(Lured) + Organic Whistle + Opera Singer + Squirting Flower + Organic Toontanic for 320 damage
+(Lured) + Organic Whistle + Opera Singer + Storm Cloud + Organic Storm Cloud for 320 damage
+(Lured) + Organic Whistle + Organic Opera Singer + Organic Fruit Pie Slice + Toontanic for 320 damage
+(Lured) + Organic Whistle + Organic Opera Singer + Whole Fruit Pie + Organic Wedding Cake for 320 damage
+(Lured) + Organic Whistle + Organic Opera Singer + Squirting Flower + Organic Grand Piano for 320 damage
+(Lured) + Organic Whistle + Organic Opera Singer + Seltzer Bottle + Grand Piano for 320 damage
+(Lured) + Organic Whistle + Fruit Pie Slice + Birthday Cake + Toontanic for 320 damage
+(Lured) + Organic Whistle + Fruit Pie Slice + Organic Geyser + Organic Grand Piano for 320 damage
+(Lured) + Organic Whistle + Cream Pie Slice + Organic Geyser + Toontanic for 320 damage
+(Lured) + Organic Whistle + Organic Cream Pie Slice + Birthday Cake + Grand Piano for 320 damage
+(Lured) + Organic Whistle + Organic Cream Pie Slice + Organic Birthday Cake + Organic Wedding Cake for 320 damage
+(Lured) + Organic Whistle + Whole Fruit Pie + Geyser + Toontanic for 320 damage
+(Lured) + Organic Whistle + Whole Fruit Pie + Organic Geyser + Grand Piano for 320 damage
+(Lured) + Organic Whistle + Whole Cream Pie + Birthday Cake + Wedding Cake for 320 damage
+(Lured) + Organic Whistle + Whole Cream Pie + Organic Birthday Cake + Organic Birthday Cake for 320 damage
+(Lured) + Organic Whistle + Whole Cream Pie + Organic Wedding Cake + Geyser for 320 damage
+(Lured) + Organic Whistle + Organic Whole Cream Pie + Wedding Cake + Organic Geyser for 320 damage
+(Lured) + Organic Whistle + Organic Whole Cream Pie + Organic Storm Cloud + Toontanic for 320 damage
+(Lured) + Organic Whistle + Birthday Cake + Organic Wedding Cake + Organic Fire Hose for 320 damage
+(Lured) + Organic Whistle + Birthday Cake + Organic Wedding Cake + Organic Anvil for 320 damage
+(Lured) + Organic Whistle + Birthday Cake + Organic Storm Cloud + Organic Storm Cloud for 320 damage
+(Lured) + Organic Whistle + Organic Birthday Cake + Organic Wedding Cake + Seltzer Bottle for 320 damage
+(Lured) + Organic Whistle + Organic Birthday Cake + Squirting Flower + Organic Toontanic for 320 damage
+(Lured) + Organic Whistle + Organic Birthday Cake + Storm Cloud + Organic Storm Cloud for 320 damage
+(Lured) + Organic Whistle + Wedding Cake + Organic Wedding Cake + Organic Glass of Water for 320 damage
+(Lured) + Organic Whistle + Wedding Cake + Organic Squirting Flower + Organic Grand Piano for 320 damage
+(Lured) + Organic Whistle + Wedding Cake + Squirt Gun + Toontanic for 320 damage
+(Lured) + Organic Whistle + Wedding Cake + Storm Cloud + Storm Cloud for 320 damage
+(Lured) + Organic Whistle + Wedding Cake + Organic Geyser + Organic Safe for 320 damage
+(Lured) + Organic Whistle + Organic Wedding Cake + Toontanic for 320 damage
+(Lured) + Organic Whistle + Organic Squirting Flower + Geyser + Toontanic for 320 damage
+(Lured) + Organic Whistle + Squirt Gun + Safe + Toontanic for 320 damage
+(Lured) + Organic Whistle + Organic Squirt Gun + Geyser + Grand Piano for 320 damage
+(Lured) + Organic Whistle + Fire Hose + Storm Cloud + Toontanic for 320 damage
+(Lured) + Organic Whistle + Fire Hose + Organic Storm Cloud + Grand Piano for 320 damage
+(Lured) + Organic Whistle + Fire Hose + Organic Geyser + Organic Geyser for 320 damage
+(Lured) + Organic Whistle + Organic Fire Hose + Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Organic Whistle + Flower Pot + Safe + Toontanic for 320 damage
+(Lured) + Organic Whistle + Big Weight + Big Weight + Grand Piano for 320 damage
+(Lured) + Bugle + Organic Bugle + Geyser + Organic Grand Piano for 320 damage
+(Lured) + Bugle + Organic Bugle + Big Weight + Organic Toontanic for 320 damage
+(Lured) + Bugle + Aoogah + Birthday Cake + Organic Grand Piano for 320 damage
+(Lured) + Bugle + Organic Aoogah + Organic Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Bugle + Organic Elephant Trunk + Birthday Cake + Organic Wedding Cake for 320 damage
+(Lured) + Bugle + Organic Elephant Trunk + Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Bugle + Foghorn + Organic Foghorn + Toontanic for 320 damage
+(Lured) + Bugle + Foghorn + Sandbag + Organic Grand Piano for 320 damage
+(Lured) + Bugle + Organic Foghorn + Opera Singer + Organic Wedding Cake for 320 damage
+(Lured) + Bugle + Organic Foghorn + Birthday Cake + Birthday Cake for 320 damage
+(Lured) + Bugle + Organic Foghorn + Anvil + Grand Piano for 320 damage
+(Lured) + Bugle + Opera Singer + Organic Opera Singer + Storm Cloud for 320 damage
+(Lured) + Bugle + Opera Singer + Organic Fruit Pie Slice + Organic Grand Piano for 320 damage
+(Lured) + Bugle + Opera Singer + Organic Cream Pie Slice + Toontanic for 320 damage
+(Lured) + Bugle + Opera Singer + Organic Birthday Cake + Organic Storm Cloud for 320 damage
+(Lured) + Bugle + Opera Singer + Organic Toontanic for 320 damage
+(Lured) + Bugle + Organic Opera Singer + Organic Cream Pie Slice + Grand Piano for 320 damage
+(Lured) + Bugle + Organic Opera Singer + Birthday Cake + Organic Storm Cloud for 320 damage
+(Lured) + Bugle + Organic Opera Singer + Glass of Water + Toontanic for 320 damage
+(Lured) + Bugle + Cupcake + Geyser + Organic Toontanic for 320 damage
+(Lured) + Bugle + Organic Cupcake + Birthday Cake + Toontanic for 320 damage
+(Lured) + Bugle + Organic Cupcake + Organic Geyser + Organic Grand Piano for 320 damage
+(Lured) + Bugle + Cream Pie Slice + Wedding Cake + Wedding Cake for 320 damage
+(Lured) + Bugle + Cream Pie Slice + Geyser + Organic Grand Piano for 320 damage
+(Lured) + Bugle + Cream Pie Slice + Big Weight + Organic Toontanic for 320 damage
+(Lured) + Bugle + Whole Fruit Pie + Organic Birthday Cake + Wedding Cake for 320 damage
+(Lured) + Bugle + Organic Whole Fruit Pie + Organic Wedding Cake + Organic Geyser for 320 damage
+(Lured) + Bugle + Birthday Cake + Wedding Cake + Big Weight for 320 damage
+(Lured) + Bugle + Birthday Cake + Organic Wedding Cake + Fire Hose for 320 damage
+(Lured) + Bugle + Birthday Cake + Organic Wedding Cake + Anvil for 320 damage
+(Lured) + Bugle + Organic Birthday Cake + Organic Birthday Cake + Big Weight for 320 damage
+(Lured) + Bugle + Organic Birthday Cake + Wedding Cake + Organic Fire Hose for 320 damage
+(Lured) + Bugle + Organic Birthday Cake + Wedding Cake + Organic Anvil for 320 damage
+(Lured) + Bugle + Organic Birthday Cake + Organic Wedding Cake + Sandbag for 320 damage
+(Lured) + Bugle + Organic Birthday Cake + Squirt Gun + Organic Grand Piano for 320 damage
+(Lured) + Bugle + Wedding Cake + Wedding Cake + Seltzer Bottle for 320 damage
+(Lured) + Bugle + Wedding Cake + Organic Glass of Water + Toontanic for 320 damage
+(Lured) + Bugle + Organic Wedding Cake + Safe + Organic Safe for 320 damage
+(Lured) + Bugle + Squirting Flower + Organic Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Bugle + Organic Glass of Water + Safe + Toontanic for 320 damage
+(Lured) + Bugle + Squirt Gun + Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Bugle + Squirt Gun + Organic Big Weight + Organic Toontanic for 320 damage
+(Lured) + Bugle + Squirt Gun + Organic Safe + Grand Piano for 320 damage
+(Lured) + Bugle + Organic Squirt Gun + Organic Storm Cloud + Organic Grand Piano for 320 damage
+(Lured) + Bugle + Seltzer Bottle + Storm Cloud + Organic Grand Piano for 320 damage
+(Lured) + Bugle + Seltzer Bottle + Safe + Grand Piano for 320 damage
+(Lured) + Bugle + Fire Hose + Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Bugle + Organic Storm Cloud + Geyser + Organic Safe for 320 damage
+(Lured) + Bugle + Geyser + Organic Geyser + Big Weight for 320 damage
+(Lured) + Bugle + Organic Geyser + Organic Geyser + Organic Anvil for 320 damage
+(Lured) + Bugle + Flower Pot + Organic Big Weight + Organic Toontanic for 320 damage
+(Lured) + Bugle + Flower Pot + Organic Safe + Grand Piano for 320 damage
+(Lured) + Bugle + Safe + Organic Grand Piano for 320 damage
+(Lured) + Bugle + Organic Safe + Toontanic for 320 damage
+(Lured) + Organic Bugle + Organic Bugle + Organic Birthday Cake + Organic Wedding Cake for 320 damage
+(Lured) + Organic Bugle + Aoogah + Organic Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Organic Bugle + Organic Aoogah + Geyser + Toontanic for 320 damage
+(Lured) + Organic Bugle + Organic Aoogah + Organic Geyser + Grand Piano for 320 damage
+(Lured) + Organic Bugle + Elephant Trunk + Birthday Cake + Toontanic for 320 damage
+(Lured) + Organic Bugle + Elephant Trunk + Organic Birthday Cake + Grand Piano for 320 damage
+(Lured) + Organic Bugle + Organic Elephant Trunk + Opera Singer + Grand Piano for 320 damage
+(Lured) + Organic Bugle + Organic Elephant Trunk + Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Organic Bugle + Organic Elephant Trunk + Organic Anvil + Organic Toontanic for 320 damage
+(Lured) + Organic Bugle + Organic Foghorn + Organic Opera Singer + Wedding Cake for 320 damage
+(Lured) + Organic Bugle + Organic Foghorn + Organic Sandbag + Toontanic for 320 damage
+(Lured) + Organic Bugle + Opera Singer + Fruit Pie Slice + Organic Grand Piano for 320 damage
+(Lured) + Organic Bugle + Opera Singer + Cream Pie Slice + Toontanic for 320 damage
+(Lured) + Organic Bugle + Opera Singer + Whole Fruit Pie + Grand Piano for 320 damage
+(Lured) + Organic Bugle + Opera Singer + Organic Whole Cream Pie + Wedding Cake for 320 damage
+(Lured) + Organic Bugle + Opera Singer + Wedding Cake + Organic Safe for 320 damage
+(Lured) + Organic Bugle + Organic Opera Singer + Cupcake + Toontanic for 320 damage
+(Lured) + Organic Bugle + Cupcake + Birthday Cake + Toontanic for 320 damage
+(Lured) + Organic Bugle + Cupcake + Organic Geyser + Organic Grand Piano for 320 damage
+(Lured) + Organic Bugle + Organic Fruit Pie Slice + Organic Big Weight + Organic Toontanic for 320 damage
+(Lured) + Organic Bugle + Organic Fruit Pie Slice + Organic Safe + Grand Piano for 320 damage
+(Lured) + Organic Bugle + Organic Whole Fruit Pie + Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Organic Bugle + Whole Cream Pie + Organic Storm Cloud + Toontanic for 320 damage
+(Lured) + Organic Bugle + Organic Whole Cream Pie + Geyser + Organic Geyser for 320 damage
+(Lured) + Organic Bugle + Organic Whole Cream Pie + Organic Anvil + Organic Grand Piano for 320 damage
+(Lured) + Organic Bugle + Birthday Cake + Seltzer Bottle + Organic Grand Piano for 320 damage
+(Lured) + Organic Bugle + Organic Birthday Cake + Organic Toontanic for 320 damage
+(Lured) + Organic Bugle + Wedding Cake + Organic Wedding Cake + Organic Squirting Flower for 320 damage
+(Lured) + Organic Bugle + Wedding Cake + Glass of Water + Toontanic for 320 damage
+(Lured) + Organic Bugle + Glass of Water + Safe + Toontanic for 320 damage
+(Lured) + Organic Bugle + Fire Hose + Organic Anvil + Organic Toontanic for 320 damage
+(Lured) + Organic Bugle + Organic Fire Hose + Organic Big Weight + Toontanic for 320 damage
+(Lured) + Organic Bugle + Storm Cloud + Organic Storm Cloud + Organic Storm Cloud for 320 damage
+(Lured) + Organic Bugle + Storm Cloud + Flower Pot + Toontanic for 320 damage
+(Lured) + Aoogah + Organic Aoogah + Birthday Cake + Toontanic for 320 damage
+(Lured) + Aoogah + Organic Aoogah + Organic Birthday Cake + Grand Piano for 320 damage
+(Lured) + Aoogah + Elephant Trunk + Organic Storm Cloud + Organic Grand Piano for 320 damage
+(Lured) + Aoogah + Elephant Trunk + Geyser + Grand Piano for 320 damage
+(Lured) + Aoogah + Elephant Trunk + Organic Big Weight + Toontanic for 320 damage
+(Lured) + Aoogah + Foghorn + Foghorn + Toontanic for 320 damage
+(Lured) + Aoogah + Foghorn + Opera Singer + Organic Wedding Cake for 320 damage
+(Lured) + Aoogah + Foghorn + Birthday Cake + Birthday Cake for 320 damage
+(Lured) + Aoogah + Foghorn + Anvil + Grand Piano for 320 damage
+(Lured) + Aoogah + Organic Foghorn + Storm Cloud + Organic Geyser for 320 damage
+(Lured) + Aoogah + Opera Singer + Whole Cream Pie + Wedding Cake for 320 damage
+(Lured) + Aoogah + Opera Singer + Organic Squirting Flower + Organic Grand Piano for 320 damage
+(Lured) + Aoogah + Opera Singer + Squirt Gun + Toontanic for 320 damage
+(Lured) + Aoogah + Opera Singer + Storm Cloud + Storm Cloud for 320 damage
+(Lured) + Aoogah + Opera Singer + Organic Geyser + Organic Safe for 320 damage
+(Lured) + Aoogah + Organic Opera Singer + Squirt Gun + Grand Piano for 320 damage
+(Lured) + Aoogah + Organic Opera Singer + Geyser + Organic Safe for 320 damage
+(Lured) + Aoogah + Organic Cupcake + Organic Big Weight + Organic Toontanic for 320 damage
+(Lured) + Aoogah + Organic Cupcake + Organic Safe + Grand Piano for 320 damage
+(Lured) + Aoogah + Organic Fruit Pie Slice + Birthday Cake + Grand Piano for 320 damage
+(Lured) + Aoogah + Organic Fruit Pie Slice + Organic Birthday Cake + Organic Wedding Cake for 320 damage
+(Lured) + Aoogah + Organic Cream Pie Slice + Organic Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Aoogah + Organic Whole Fruit Pie + Organic Storm Cloud + Organic Grand Piano for 320 damage
+(Lured) + Aoogah + Organic Whole Fruit Pie + Geyser + Grand Piano for 320 damage
+(Lured) + Aoogah + Organic Whole Fruit Pie + Organic Big Weight + Toontanic for 320 damage
+(Lured) + Aoogah + Whole Cream Pie + Geyser + Organic Geyser for 320 damage
+(Lured) + Aoogah + Whole Cream Pie + Organic Anvil + Organic Grand Piano for 320 damage
+(Lured) + Aoogah + Organic Whole Cream Pie + Organic Whole Cream Pie + Organic Toontanic for 320 damage
+(Lured) + Aoogah + Organic Whole Cream Pie + Storm Cloud + Toontanic for 320 damage
+(Lured) + Aoogah + Organic Whole Cream Pie + Sandbag + Organic Toontanic for 320 damage
+(Lured) + Aoogah + Organic Birthday Cake + Organic Wedding Cake + Organic Squirt Gun for 320 damage
+(Lured) + Aoogah + Wedding Cake + Squirting Flower + Toontanic for 320 damage
+(Lured) + Aoogah + Squirting Flower + Safe + Toontanic for 320 damage
+(Lured) + Aoogah + Glass of Water + Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Aoogah + Organic Glass of Water + Organic Storm Cloud + Organic Grand Piano for 320 damage
+(Lured) + Aoogah + Squirt Gun + Big Weight + Organic Toontanic for 320 damage
+(Lured) + Aoogah + Organic Seltzer Bottle + Storm Cloud + Toontanic for 320 damage
+(Lured) + Aoogah + Organic Seltzer Bottle + Organic Storm Cloud + Grand Piano for 320 damage
+(Lured) + Aoogah + Organic Seltzer Bottle + Organic Geyser + Organic Geyser for 320 damage
+(Lured) + Aoogah + Fire Hose + Anvil + Organic Toontanic for 320 damage
+(Lured) + Aoogah + Organic Fire Hose + Geyser + Organic Geyser for 320 damage
+(Lured) + Aoogah + Storm Cloud + Organic Geyser + Safe for 320 damage
+(Lured) + Aoogah + Organic Storm Cloud + Flower Pot + Grand Piano for 320 damage
+(Lured) + Aoogah + Flower Pot + Big Weight + Organic Toontanic for 320 damage
+(Lured) + Aoogah + Organic Anvil + Organic Anvil + Organic Grand Piano for 320 damage
+(Lured) + Organic Aoogah + Organic Aoogah + Birthday Cake + Organic Wedding Cake for 320 damage
+(Lured) + Organic Aoogah + Organic Aoogah + Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Organic Aoogah + Elephant Trunk + Anvil + Organic Toontanic for 320 damage
+(Lured) + Organic Aoogah + Foghorn + Organic Opera Singer + Wedding Cake for 320 damage
+(Lured) + Organic Aoogah + Foghorn + Organic Sandbag + Toontanic for 320 damage
+(Lured) + Organic Aoogah + Opera Singer + Organic Fruit Pie Slice + Toontanic for 320 damage
+(Lured) + Organic Aoogah + Opera Singer + Whole Fruit Pie + Organic Wedding Cake for 320 damage
+(Lured) + Organic Aoogah + Opera Singer + Squirting Flower + Organic Grand Piano for 320 damage
+(Lured) + Organic Aoogah + Opera Singer + Seltzer Bottle + Grand Piano for 320 damage
+(Lured) + Organic Aoogah + Organic Opera Singer + Fruit Pie Slice + Grand Piano for 320 damage
+(Lured) + Organic Aoogah + Organic Opera Singer + Organic Cream Pie Slice + Organic Wedding Cake for 320 damage
+(Lured) + Organic Aoogah + Organic Opera Singer + Whole Cream Pie + Organic Birthday Cake for 320 damage
+(Lured) + Organic Aoogah + Organic Opera Singer + Birthday Cake + Storm Cloud for 320 damage
+(Lured) + Organic Aoogah + Organic Opera Singer + Organic Birthday Cake + Safe for 320 damage
+(Lured) + Organic Aoogah + Organic Opera Singer + Toontanic for 320 damage
+(Lured) + Organic Aoogah + Cupcake + Organic Big Weight + Organic Toontanic for 320 damage
+(Lured) + Organic Aoogah + Cupcake + Organic Safe + Grand Piano for 320 damage
+(Lured) + Organic Aoogah + Fruit Pie Slice + Organic Birthday Cake + Organic Wedding Cake for 320 damage
+(Lured) + Organic Aoogah + Organic Fruit Pie Slice + Geyser + Organic Grand Piano for 320 damage
+(Lured) + Organic Aoogah + Organic Fruit Pie Slice + Big Weight + Organic Toontanic for 320 damage
+(Lured) + Organic Aoogah + Cream Pie Slice + Organic Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Organic Aoogah + Organic Cream Pie Slice + Geyser + Toontanic for 320 damage
+(Lured) + Organic Aoogah + Organic Cream Pie Slice + Organic Geyser + Grand Piano for 320 damage
+(Lured) + Organic Aoogah + Whole Fruit Pie + Organic Geyser + Organic Geyser for 320 damage
+(Lured) + Organic Aoogah + Organic Whole Fruit Pie + Anvil + Organic Toontanic for 320 damage
+(Lured) + Organic Aoogah + Whole Cream Pie + Organic Big Weight + Grand Piano for 320 damage
+(Lured) + Organic Aoogah + Birthday Cake + Organic Squirting Flower + Organic Toontanic for 320 damage
+(Lured) + Organic Aoogah + Birthday Cake + Organic Seltzer Bottle + Toontanic for 320 damage
+(Lured) + Organic Aoogah + Birthday Cake + Organic Fire Hose + Grand Piano for 320 damage
+(Lured) + Organic Aoogah + Organic Birthday Cake + Organic Wedding Cake + Squirt Gun for 320 damage
+(Lured) + Organic Aoogah + Organic Birthday Cake + Organic Squirt Gun + Toontanic for 320 damage
+(Lured) + Organic Aoogah + Organic Birthday Cake + Organic Seltzer Bottle + Grand Piano for 320 damage
+(Lured) + Organic Aoogah + Wedding Cake + Organic Wedding Cake for 320 damage
+(Lured) + Organic Aoogah + Wedding Cake + Organic Squirt Gun + Grand Piano for 320 damage
+(Lured) + Organic Aoogah + Glass of Water + Organic Storm Cloud + Organic Grand Piano for 320 damage
+(Lured) + Organic Aoogah + Organic Fire Hose + Big Weight + Toontanic for 320 damage
+(Lured) + Organic Aoogah + Geyser + Organic Toontanic for 320 damage
+(Lured) + Organic Aoogah + Organic Anvil + Organic Big Weight + Grand Piano for 320 damage
+(Lured) + Elephant Trunk + Organic Elephant Trunk + Storm Cloud + Organic Grand Piano for 320 damage
+(Lured) + Elephant Trunk + Foghorn + Storm Cloud + Organic Geyser for 320 damage
+(Lured) + Elephant Trunk + Organic Foghorn + Opera Singer + Wedding Cake for 320 damage
+(Lured) + Elephant Trunk + Organic Foghorn + Organic Opera Singer + Organic Birthday Cake for 320 damage
+(Lured) + Elephant Trunk + Organic Foghorn + Fire Hose + Organic Toontanic for 320 damage
+(Lured) + Elephant Trunk + Organic Foghorn + Flower Pot + Toontanic for 320 damage
+(Lured) + Elephant Trunk + Opera Singer + Cupcake + Toontanic for 320 damage
+(Lured) + Elephant Trunk + Organic Opera Singer + Cupcake + Grand Piano for 320 damage
+(Lured) + Elephant Trunk + Organic Cupcake + Birthday Cake + Grand Piano for 320 damage
+(Lured) + Elephant Trunk + Organic Cupcake + Organic Birthday Cake + Organic Wedding Cake for 320 damage
+(Lured) + Elephant Trunk + Organic Cupcake + Geyser + Organic Grand Piano for 320 damage
+(Lured) + Elephant Trunk + Organic Cupcake + Big Weight + Organic Toontanic for 320 damage
+(Lured) + Elephant Trunk + Organic Fruit Pie Slice + Safe + Grand Piano for 320 damage
+(Lured) + Elephant Trunk + Cream Pie Slice + Birthday Cake + Organic Wedding Cake for 320 damage
+(Lured) + Elephant Trunk + Organic Whole Fruit Pie + Birthday Cake + Wedding Cake for 320 damage
+(Lured) + Elephant Trunk + Organic Whole Fruit Pie + Organic Birthday Cake + Organic Birthday Cake for 320 damage
+(Lured) + Elephant Trunk + Organic Whole Fruit Pie + Organic Wedding Cake + Geyser for 320 damage
+(Lured) + Elephant Trunk + Organic Whole Fruit Pie + Big Weight + Toontanic for 320 damage
+(Lured) + Elephant Trunk + Whole Cream Pie + Organic Whole Cream Pie + Organic Toontanic for 320 damage
+(Lured) + Elephant Trunk + Birthday Cake + Squirt Gun + Organic Grand Piano for 320 damage
+(Lured) + Elephant Trunk + Organic Birthday Cake + Wedding Cake + Organic Seltzer Bottle for 320 damage
+(Lured) + Elephant Trunk + Organic Birthday Cake + Organic Wedding Cake + Glass of Water for 320 damage
+(Lured) + Elephant Trunk + Organic Birthday Cake + Organic Glass of Water + Toontanic for 320 damage
+(Lured) + Elephant Trunk + Wedding Cake + Wedding Cake + Organic Flower Pot for 320 damage
+(Lured) + Elephant Trunk + Wedding Cake + Organic Glass of Water + Grand Piano for 320 damage
+(Lured) + Elephant Trunk + Squirting Flower + Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Elephant Trunk + Organic Squirting Flower + Organic Storm Cloud + Organic Grand Piano for 320 damage
+(Lured) + Elephant Trunk + Organic Squirt Gun + Storm Cloud + Organic Grand Piano for 320 damage
+(Lured) + Elephant Trunk + Seltzer Bottle + Organic Anvil + Organic Toontanic for 320 damage
+(Lured) + Elephant Trunk + Storm Cloud + Geyser + Organic Safe for 320 damage
+(Lured) + Elephant Trunk + Sandbag + Organic Anvil + Organic Toontanic for 320 damage
+(Lured) + Elephant Trunk + Anvil + Organic Big Weight + Grand Piano for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Elephant Trunk + Organic Foghorn + Organic Toontanic for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Elephant Trunk + Birthday Cake + Wedding Cake for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Elephant Trunk + Organic Birthday Cake + Organic Birthday Cake for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Elephant Trunk + Geyser + Organic Geyser for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Elephant Trunk + Organic Anvil + Organic Grand Piano for 320 damage
+(Lured) + Organic Elephant Trunk + Foghorn + Organic Storm Cloud + Geyser for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Foghorn + Sandbag + Grand Piano for 320 damage
+(Lured) + Organic Elephant Trunk + Opera Singer + Squirting Flower + Toontanic for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Opera Singer + Organic Whole Cream Pie + Birthday Cake for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Cupcake + Wedding Cake + Wedding Cake for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Fruit Pie Slice + Organic Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Organic Elephant Trunk + Cream Pie Slice + Organic Birthday Cake + Wedding Cake for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Cream Pie Slice + Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Organic Elephant Trunk + Whole Fruit Pie + Birthday Cake + Wedding Cake for 320 damage
+(Lured) + Organic Elephant Trunk + Whole Fruit Pie + Organic Birthday Cake + Organic Birthday Cake for 320 damage
+(Lured) + Organic Elephant Trunk + Whole Fruit Pie + Big Weight + Toontanic for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Storm Cloud + Toontanic for 320 damage
+(Lured) + Organic Elephant Trunk + Whole Cream Pie + Wedding Cake + Geyser for 320 damage
+(Lured) + Organic Elephant Trunk + Birthday Cake + Organic Birthday Cake + Big Weight for 320 damage
+(Lured) + Organic Elephant Trunk + Birthday Cake + Wedding Cake + Organic Fire Hose for 320 damage
+(Lured) + Organic Elephant Trunk + Birthday Cake + Wedding Cake + Organic Anvil for 320 damage
+(Lured) + Organic Elephant Trunk + Birthday Cake + Organic Wedding Cake + Sandbag for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Birthday Cake + Organic Birthday Cake + Organic Fire Hose for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Birthday Cake + Organic Birthday Cake + Organic Anvil for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Birthday Cake + Wedding Cake + Seltzer Bottle for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Birthday Cake + Organic Grand Piano for 320 damage
+(Lured) + Organic Elephant Trunk + Wedding Cake + Wedding Cake + Organic Glass of Water for 320 damage
+(Lured) + Organic Elephant Trunk + Wedding Cake + Safe + Organic Safe for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Wedding Cake + Organic Storm Cloud + Organic Safe for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Squirting Flower + Big Weight + Organic Toontanic for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Glass of Water + Organic Storm Cloud + Toontanic for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Glass of Water + Safe + Grand Piano for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Squirt Gun + Organic Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Seltzer Bottle + Anvil + Organic Toontanic for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Fire Hose + Organic Anvil + Organic Grand Piano for 320 damage
+(Lured) + Organic Elephant Trunk + Geyser + Geyser + Big Weight for 320 damage
+(Lured) + Organic Elephant Trunk + Geyser + Organic Geyser + Organic Anvil for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Flower Pot + Organic Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Organic Elephant Trunk + Sandbag + Organic Big Weight + Toontanic for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Sandbag + Anvil + Organic Toontanic for 320 damage
+(Lured) + Organic Elephant Trunk + Anvil + Anvil + Organic Grand Piano for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Big Weight + Organic Toontanic for 320 damage
+(Lured) + Organic Elephant Trunk + Organic Safe + Grand Piano for 320 damage
+(Lured) + Foghorn + Foghorn + Wedding Cake + Storm Cloud for 320 damage
+(Lured) + Foghorn + Foghorn + Organic Squirt Gun + Organic Grand Piano for 320 damage
+(Lured) + Foghorn + Foghorn + Fire Hose + Grand Piano for 320 damage
+(Lured) + Foghorn + Organic Foghorn + Organic Cupcake + Organic Grand Piano for 320 damage
+(Lured) + Foghorn + Organic Foghorn + Organic Whole Fruit Pie + Organic Wedding Cake for 320 damage
+(Lured) + Foghorn + Opera Singer + Opera Singer + Organic Whole Cream Pie for 320 damage
+(Lured) + Foghorn + Opera Singer + Organic Opera Singer + Organic Fire Hose for 320 damage
+(Lured) + Foghorn + Opera Singer + Organic Opera Singer + Organic Anvil for 320 damage
+(Lured) + Foghorn + Opera Singer + Cupcake + Wedding Cake for 320 damage
+(Lured) + Foghorn + Opera Singer + Seltzer Bottle + Geyser for 320 damage
+(Lured) + Foghorn + Opera Singer + Organic Big Weight + Organic Safe for 320 damage
+(Lured) + Foghorn + Organic Opera Singer + Organic Cupcake + Organic Birthday Cake for 320 damage
+(Lured) + Foghorn + Organic Opera Singer + Cream Pie Slice + Birthday Cake for 320 damage
+(Lured) + Foghorn + Organic Opera Singer + Wedding Cake + Seltzer Bottle for 320 damage
+(Lured) + Foghorn + Organic Opera Singer + Organic Wedding Cake + Organic Glass of Water for 320 damage
+(Lured) + Foghorn + Organic Opera Singer + Squirt Gun + Geyser for 320 damage
+(Lured) + Foghorn + Cupcake + Geyser + Organic Geyser for 320 damage
+(Lured) + Foghorn + Cupcake + Organic Anvil + Organic Grand Piano for 320 damage
+(Lured) + Foghorn + Organic Cupcake + Organic Big Weight + Grand Piano for 320 damage
+(Lured) + Foghorn + Fruit Pie Slice + Storm Cloud + Toontanic for 320 damage
+(Lured) + Foghorn + Fruit Pie Slice + Sandbag + Organic Toontanic for 320 damage
+(Lured) + Foghorn + Cream Pie Slice + Wedding Cake + Geyser for 320 damage
+(Lured) + Foghorn + Organic Cream Pie Slice + Geyser + Geyser for 320 damage
+(Lured) + Foghorn + Organic Cream Pie Slice + Anvil + Toontanic for 320 damage
+(Lured) + Foghorn + Whole Fruit Pie + Organic Birthday Cake + Geyser for 320 damage
+(Lured) + Foghorn + Organic Whole Fruit Pie + Whole Cream Pie + Organic Grand Piano for 320 damage
+(Lured) + Foghorn + Organic Whole Fruit Pie + Birthday Cake + Organic Geyser for 320 damage
+(Lured) + Foghorn + Whole Cream Pie + Organic Flower Pot + Toontanic for 320 damage
+(Lured) + Foghorn + Organic Whole Cream Pie + Sandbag + Grand Piano for 320 damage
+(Lured) + Foghorn + Birthday Cake + Birthday Cake + Fire Hose for 320 damage
+(Lured) + Foghorn + Birthday Cake + Birthday Cake + Anvil for 320 damage
+(Lured) + Foghorn + Birthday Cake + Organic Birthday Cake + Sandbag for 320 damage
+(Lured) + Foghorn + Birthday Cake + Grand Piano for 320 damage
+(Lured) + Foghorn + Organic Birthday Cake + Organic Geyser + Big Weight for 320 damage
+(Lured) + Foghorn + Wedding Cake + Storm Cloud + Safe for 320 damage
+(Lured) + Foghorn + Wedding Cake + Geyser + Big Weight for 320 damage
+(Lured) + Foghorn + Organic Wedding Cake + Geyser + Organic Anvil for 320 damage
+(Lured) + Foghorn + Organic Wedding Cake + Big Weight + Safe for 320 damage
+(Lured) + Foghorn + Organic Squirting Flower + Geyser + Organic Geyser for 320 damage
+(Lured) + Foghorn + Organic Glass of Water + Organic Sandbag + Organic Toontanic for 320 damage
+(Lured) + Foghorn + Organic Glass of Water + Anvil + Organic Grand Piano for 320 damage
+(Lured) + Foghorn + Squirt Gun + Big Weight + Grand Piano for 320 damage
+(Lured) + Foghorn + Fire Hose + Fire Hose + Organic Toontanic for 320 damage
+(Lured) + Foghorn + Fire Hose + Storm Cloud + Organic Geyser for 320 damage
+(Lured) + Foghorn + Fire Hose + Anvil + Grand Piano for 320 damage
+(Lured) + Foghorn + Organic Fire Hose + Flower Pot + Organic Grand Piano for 320 damage
+(Lured) + Foghorn + Geyser + Geyser + Sandbag for 320 damage
+(Lured) + Foghorn + Flower Pot + Big Weight + Grand Piano for 320 damage
+(Lured) + Foghorn + Organic Sandbag + Organic Sandbag + Organic Grand Piano for 320 damage
+(Lured) + Foghorn + Big Weight + Toontanic for 320 damage
+(Lured) + Organic Foghorn + Organic Foghorn + Opera Singer + Storm Cloud for 320 damage
+(Lured) + Organic Foghorn + Organic Foghorn + Organic Cream Pie Slice + Grand Piano for 320 damage
+(Lured) + Organic Foghorn + Organic Foghorn + Birthday Cake + Organic Storm Cloud for 320 damage
+(Lured) + Organic Foghorn + Organic Foghorn + Glass of Water + Toontanic for 320 damage
+(Lured) + Organic Foghorn + Opera Singer + Organic Opera Singer + Whole Fruit Pie for 320 damage
+(Lured) + Organic Foghorn + Opera Singer + Organic Fruit Pie Slice + Organic Birthday Cake for 320 damage
+(Lured) + Organic Foghorn + Opera Singer + Organic Fire Hose + Organic Storm Cloud for 320 damage
+(Lured) + Organic Foghorn + Organic Opera Singer + Geyser + Anvil for 320 damage
+(Lured) + Organic Foghorn + Organic Cupcake + Organic Storm Cloud + Grand Piano for 320 damage
+(Lured) + Organic Foghorn + Organic Cupcake + Big Weight + Grand Piano for 320 damage
+(Lured) + Organic Foghorn + Cream Pie Slice + Organic Sandbag + Organic Grand Piano for 320 damage
+(Lured) + Organic Foghorn + Whole Fruit Pie + Wedding Cake + Organic Storm Cloud for 320 damage
+(Lured) + Organic Foghorn + Whole Fruit Pie + Organic Flower Pot + Organic Grand Piano for 320 damage
+(Lured) + Organic Foghorn + Whole Fruit Pie + Sandbag + Toontanic for 320 damage
+(Lured) + Organic Foghorn + Organic Whole Cream Pie + Organic Birthday Cake + Storm Cloud for 320 damage
+(Lured) + Organic Foghorn + Organic Whole Cream Pie + Organic Seltzer Bottle + Organic Toontanic for 320 damage
+(Lured) + Organic Foghorn + Birthday Cake + Organic Birthday Cake + Organic Squirt Gun for 320 damage
+(Lured) + Organic Foghorn + Birthday Cake + Organic Storm Cloud + Organic Safe for 320 damage
+(Lured) + Organic Foghorn + Wedding Cake + Organic Geyser + Anvil for 320 damage
+(Lured) + Organic Foghorn + Organic Wedding Cake + Organic Storm Cloud + Big Weight for 320 damage
+(Lured) + Organic Foghorn + Organic Wedding Cake + Organic Geyser + Sandbag for 320 damage
+(Lured) + Organic Foghorn + Squirting Flower + Organic Sandbag + Organic Toontanic for 320 damage
+(Lured) + Organic Foghorn + Squirting Flower + Anvil + Organic Grand Piano for 320 damage
+(Lured) + Organic Foghorn + Organic Squirting Flower + Sandbag + Organic Toontanic for 320 damage
+(Lured) + Organic Foghorn + Organic Glass of Water + Organic Anvil + Toontanic for 320 damage
+(Lured) + Organic Foghorn + Organic Squirt Gun + Anvil + Toontanic for 320 damage
+(Lured) + Organic Foghorn + Seltzer Bottle + Organic Anvil + Grand Piano for 320 damage
+(Lured) + Organic Foghorn + Storm Cloud + Organic Safe + Organic Safe for 320 damage
+(Lured) + Organic Foghorn + Organic Storm Cloud + Geyser + Organic Anvil for 320 damage
+(Lured) + Organic Foghorn + Organic Storm Cloud + Safe + Organic Safe for 320 damage
+(Lured) + Opera Singer + Opera Singer + Whole Fruit Pie + Organic Safe for 320 damage
+(Lured) + Opera Singer + Opera Singer + Birthday Cake + Squirting Flower for 320 damage
+(Lured) + Opera Singer + Organic Opera Singer + Organic Whole Cream Pie + Organic Big Weight for 320 damage
+(Lured) + Opera Singer + Organic Opera Singer + Organic Seltzer Bottle + Safe for 320 damage
+(Lured) + Opera Singer + Cupcake + Organic Whole Cream Pie + Grand Piano for 320 damage
+(Lured) + Opera Singer + Organic Cupcake + Wedding Cake + Organic Safe for 320 damage
+(Lured) + Opera Singer + Fruit Pie Slice + Whole Cream Pie + Grand Piano for 320 damage
+(Lured) + Opera Singer + Fruit Pie Slice + Organic Fire Hose + Organic Grand Piano for 320 damage
+(Lured) + Opera Singer + Organic Fruit Pie Slice + Seltzer Bottle + Organic Toontanic for 320 damage
+(Lured) + Opera Singer + Cream Pie Slice + Organic Birthday Cake + Organic Safe for 320 damage
+(Lured) + Opera Singer + Cream Pie Slice + Organic Fire Hose + Toontanic for 320 damage
+(Lured) + Opera Singer + Organic Cream Pie Slice + Birthday Cake + Organic Storm Cloud for 320 damage
+(Lured) + Opera Singer + Organic Cream Pie Slice + Organic Storm Cloud + Organic Storm Cloud for 320 damage
+(Lured) + Opera Singer + Whole Fruit Pie + Organic Whole Cream Pie + Wedding Cake for 320 damage
+(Lured) + Opera Singer + Whole Fruit Pie + Birthday Cake + Organic Safe for 320 damage
+(Lured) + Opera Singer + Whole Fruit Pie + Organic Squirting Flower + Organic Toontanic for 320 damage
+(Lured) + Opera Singer + Whole Fruit Pie + Organic Seltzer Bottle + Toontanic for 320 damage
+(Lured) + Opera Singer + Whole Fruit Pie + Organic Fire Hose + Grand Piano for 320 damage
+(Lured) + Opera Singer + Organic Whole Fruit Pie + Seltzer Bottle + Toontanic for 320 damage
+(Lured) + Opera Singer + Whole Cream Pie + Organic Wedding Cake + Organic Seltzer Bottle for 320 damage
+(Lured) + Opera Singer + Organic Whole Cream Pie + Organic Birthday Cake + Big Weight for 320 damage
+(Lured) + Opera Singer + Organic Whole Cream Pie + Wedding Cake + Organic Fire Hose for 320 damage
+(Lured) + Opera Singer + Organic Whole Cream Pie + Wedding Cake + Organic Anvil for 320 damage
+(Lured) + Opera Singer + Organic Whole Cream Pie + Organic Wedding Cake + Sandbag for 320 damage
+(Lured) + Opera Singer + Organic Birthday Cake + Squirt Gun + Organic Storm Cloud for 320 damage
+(Lured) + Opera Singer + Organic Birthday Cake + Anvil + Safe for 320 damage
+(Lured) + Opera Singer + Wedding Cake + Organic Fire Hose + Organic Safe for 320 damage
+(Lured) + Opera Singer + Wedding Cake + Storm Cloud + Anvil for 320 damage
+(Lured) + Opera Singer + Organic Wedding Cake + Seltzer Bottle + Organic Safe for 320 damage
+(Lured) + Opera Singer + Organic Wedding Cake + Storm Cloud + Sandbag for 320 damage
+(Lured) + Opera Singer + Organic Wedding Cake + Organic Storm Cloud + Flower Pot for 320 damage
+(Lured) + Opera Singer + Organic Wedding Cake + Organic Flower Pot + Safe for 320 damage
+(Lured) + Opera Singer + Squirting Flower + Sandbag + Grand Piano for 320 damage
+(Lured) + Opera Singer + Organic Squirting Flower + Seltzer Bottle + Organic Toontanic for 320 damage
+(Lured) + Opera Singer + Glass of Water + Organic Fire Hose + Toontanic for 320 damage
+(Lured) + Opera Singer + Squirt Gun + Organic Geyser + Organic Safe for 320 damage
+(Lured) + Opera Singer + Squirt Gun + Organic Flower Pot + Grand Piano for 320 damage
+(Lured) + Opera Singer + Organic Squirt Gun + Organic Squirt Gun + Organic Toontanic for 320 damage
+(Lured) + Opera Singer + Organic Seltzer Bottle + Storm Cloud + Organic Storm Cloud for 320 damage
+(Lured) + Opera Singer + Organic Storm Cloud + Organic Storm Cloud + Sandbag for 320 damage
+(Lured) + Opera Singer + Flower Pot + Organic Flower Pot + Grand Piano for 320 damage
+(Lured) + Opera Singer + Organic Flower Pot + Toontanic for 320 damage
+(Lured) + Organic Opera Singer + Organic Opera Singer + Organic Squirting Flower + Organic Safe for 320 damage
+(Lured) + Organic Opera Singer + Organic Opera Singer + Squirt Gun + Safe for 320 damage
+(Lured) + Organic Opera Singer + Organic Opera Singer + Organic Fire Hose + Organic Big Weight for 320 damage
+(Lured) + Organic Opera Singer + Organic Opera Singer + Organic Sandbag + Organic Big Weight for 320 damage
+(Lured) + Organic Opera Singer + Organic Cupcake + Whole Fruit Pie + Toontanic for 320 damage
+(Lured) + Organic Opera Singer + Organic Cupcake + Organic Birthday Cake + Storm Cloud for 320 damage
+(Lured) + Organic Opera Singer + Fruit Pie Slice + Organic Cream Pie Slice + Organic Grand Piano for 320 damage
+(Lured) + Organic Opera Singer + Fruit Pie Slice + Organic Birthday Cake + Organic Safe for 320 damage
+(Lured) + Organic Opera Singer + Fruit Pie Slice + Organic Squirt Gun + Organic Toontanic for 320 damage
+(Lured) + Organic Opera Singer + Organic Fruit Pie Slice + Cream Pie Slice + Organic Grand Piano for 320 damage
+(Lured) + Organic Opera Singer + Organic Fruit Pie Slice + Organic Wedding Cake + Organic Big Weight for 320 damage
+(Lured) + Organic Opera Singer + Organic Fruit Pie Slice + Squirt Gun + Organic Toontanic for 320 damage
+(Lured) + Organic Opera Singer + Organic Fruit Pie Slice + Organic Seltzer Bottle + Organic Grand Piano for 320 damage
+(Lured) + Organic Opera Singer + Organic Fruit Pie Slice + Fire Hose + Toontanic for 320 damage
+(Lured) + Organic Opera Singer + Cream Pie Slice + Cream Pie Slice + Toontanic for 320 damage
+(Lured) + Organic Opera Singer + Cream Pie Slice + Birthday Cake + Storm Cloud for 320 damage
+(Lured) + Organic Opera Singer + Organic Cream Pie Slice + Organic Squirting Flower + Organic Toontanic for 320 damage
+(Lured) + Organic Opera Singer + Organic Cream Pie Slice + Organic Seltzer Bottle + Toontanic for 320 damage
+(Lured) + Organic Opera Singer + Organic Cream Pie Slice + Organic Fire Hose + Grand Piano for 320 damage
+(Lured) + Organic Opera Singer + Whole Fruit Pie + Organic Wedding Cake + Fire Hose for 320 damage
+(Lured) + Organic Opera Singer + Whole Fruit Pie + Organic Wedding Cake + Anvil for 320 damage
+(Lured) + Organic Opera Singer + Organic Whole Fruit Pie + Organic Squirting Flower + Organic Grand Piano for 320 damage
+(Lured) + Organic Opera Singer + Organic Whole Fruit Pie + Squirt Gun + Toontanic for 320 damage
+(Lured) + Organic Opera Singer + Organic Whole Fruit Pie + Storm Cloud + Storm Cloud for 320 damage
+(Lured) + Organic Opera Singer + Organic Whole Fruit Pie + Organic Geyser + Organic Safe for 320 damage
+(Lured) + Organic Opera Singer + Whole Cream Pie + Organic Whole Cream Pie + Birthday Cake for 320 damage
+(Lured) + Organic Opera Singer + Organic Whole Cream Pie + Organic Whole Cream Pie + Organic Geyser for 320 damage
+(Lured) + Organic Opera Singer + Organic Whole Cream Pie + Organic Wedding Cake + Organic Glass of Water for 320 damage
+(Lured) + Organic Opera Singer + Organic Whole Cream Pie + Safe + Organic Safe for 320 damage
+(Lured) + Organic Opera Singer + Birthday Cake + Organic Storm Cloud + Organic Anvil for 320 damage
+(Lured) + Organic Opera Singer + Organic Birthday Cake + Squirting Flower + Organic Storm Cloud for 320 damage
+(Lured) + Organic Opera Singer + Organic Birthday Cake + Squirt Gun + Storm Cloud for 320 damage
+(Lured) + Organic Opera Singer + Wedding Cake + Squirting Flower + Storm Cloud for 320 damage
+(Lured) + Organic Opera Singer + Organic Wedding Cake + Squirt Gun + Organic Safe for 320 damage
+(Lured) + Organic Opera Singer + Squirting Flower + Fire Hose + Toontanic for 320 damage
+(Lured) + Organic Opera Singer + Organic Squirting Flower + Organic Seltzer Bottle + Organic Grand Piano for 320 damage
+(Lured) + Organic Opera Singer + Organic Squirting Flower + Organic Geyser + Organic Safe for 320 damage
+(Lured) + Organic Opera Singer + Organic Squirting Flower + Flower Pot + Grand Piano for 320 damage
+(Lured) + Organic Opera Singer + Glass of Water + Organic Storm Cloud + Organic Storm Cloud for 320 damage
+(Lured) + Organic Opera Singer + Organic Glass of Water + Organic Fire Hose + Grand Piano for 320 damage
+(Lured) + Organic Opera Singer + Squirt Gun + Fire Hose + Grand Piano for 320 damage
+(Lured) + Organic Opera Singer + Organic Squirt Gun + Seltzer Bottle + Toontanic for 320 damage
+(Lured) + Organic Opera Singer + Seltzer Bottle + Seltzer Bottle + Grand Piano for 320 damage
+(Lured) + Organic Opera Singer + Organic Seltzer Bottle + Organic Toontanic for 320 damage
+(Lured) + Organic Opera Singer + Storm Cloud + Organic Storm Cloud + Organic Sandbag for 320 damage
+(Lured) + Organic Opera Singer + Geyser + Organic Sandbag + Organic Safe for 320 damage
+(Lured) + Organic Opera Singer + Organic Geyser + Organic Flower Pot + Organic Safe for 320 damage
+(Lured) + Organic Opera Singer + Organic Geyser + Sandbag + Safe for 320 damage
+(Lured) + Organic Opera Singer + Anvil + Organic Safe + Organic Safe for 320 damage
+(Lured) + Cupcake + Cupcake + Organic Whole Cream Pie + Organic Wedding Cake for 320 damage
+(Lured) + Cupcake + Organic Cupcake + Organic Big Weight + Organic Toontanic for 320 damage
+(Lured) + Cupcake + Organic Cupcake + Organic Safe + Grand Piano for 320 damage
+(Lured) + Cupcake + Fruit Pie Slice + Whole Cream Pie + Organic Wedding Cake for 320 damage
+(Lured) + Cupcake + Fruit Pie Slice + Organic Birthday Cake + Geyser for 320 damage
+(Lured) + Cupcake + Fruit Pie Slice + Wedding Cake + Organic Storm Cloud for 320 damage
+(Lured) + Cupcake + Fruit Pie Slice + Geyser + Organic Grand Piano for 320 damage
+(Lured) + Cupcake + Fruit Pie Slice + Big Weight + Organic Toontanic for 320 damage
+(Lured) + Cupcake + Organic Cream Pie Slice + Organic Whole Cream Pie + Wedding Cake for 320 damage
+(Lured) + Cupcake + Organic Cream Pie Slice + Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Cupcake + Whole Fruit Pie + Organic Big Weight + Grand Piano for 320 damage
+(Lured) + Cupcake + Organic Whole Fruit Pie + Storm Cloud + Toontanic for 320 damage
+(Lured) + Cupcake + Organic Whole Fruit Pie + Sandbag + Organic Toontanic for 320 damage
+(Lured) + Cupcake + Organic Whole Cream Pie + Organic Wedding Cake + Flower Pot for 320 damage
+(Lured) + Cupcake + Organic Birthday Cake + Organic Squirt Gun + Organic Storm Cloud for 320 damage
+(Lured) + Cupcake + Organic Birthday Cake + Seltzer Bottle + Storm Cloud for 320 damage
+(Lured) + Cupcake + Wedding Cake + Geyser for 320 damage
+(Lured) + Cupcake + Wedding Cake + Flower Pot + Organic Safe for 320 damage
+(Lured) + Cupcake + Organic Wedding Cake + Glass of Water + Organic Safe for 320 damage
+(Lured) + Cupcake + Squirting Flower + Geyser + Toontanic for 320 damage
+(Lured) + Cupcake + Squirt Gun + Geyser + Grand Piano for 320 damage
+(Lured) + Cupcake + Seltzer Bottle + Organic Storm Cloud + Toontanic for 320 damage
+(Lured) + Cupcake + Organic Seltzer Bottle + Storm Cloud + Organic Grand Piano for 320 damage
+(Lured) + Cupcake + Organic Seltzer Bottle + Safe + Grand Piano for 320 damage
+(Lured) + Cupcake + Organic Fire Hose + Organic Anvil + Organic Toontanic for 320 damage
+(Lured) + Cupcake + Storm Cloud + Organic Geyser + Organic Safe for 320 damage
+(Lured) + Cupcake + Organic Sandbag + Safe + Grand Piano for 320 damage
+(Lured) + Cupcake + Anvil + Organic Big Weight + Toontanic for 320 damage
+(Lured) + Organic Cupcake + Cream Pie Slice + Organic Whole Cream Pie + Wedding Cake for 320 damage
+(Lured) + Organic Cupcake + Cream Pie Slice + Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Organic Cupcake + Whole Fruit Pie + Organic Whole Cream Pie + Organic Birthday Cake for 320 damage
+(Lured) + Organic Cupcake + Whole Fruit Pie + Organic Whole Cream Pie + Organic Grand Piano for 320 damage
+(Lured) + Organic Cupcake + Organic Whole Fruit Pie + Birthday Cake + Organic Storm Cloud for 320 damage
+(Lured) + Organic Cupcake + Organic Whole Fruit Pie + Organic Storm Cloud + Grand Piano for 320 damage
+(Lured) + Organic Cupcake + Organic Whole Fruit Pie + Big Weight + Grand Piano for 320 damage
+(Lured) + Organic Cupcake + Whole Cream Pie + Organic Sandbag + Toontanic for 320 damage
+(Lured) + Organic Cupcake + Organic Whole Cream Pie + Organic Birthday Cake + Big Weight for 320 damage
+(Lured) + Organic Cupcake + Organic Whole Cream Pie + Organic Wedding Cake + Glass of Water for 320 damage
+(Lured) + Organic Cupcake + Organic Whole Cream Pie + Organic Storm Cloud + Geyser for 320 damage
+(Lured) + Organic Cupcake + Birthday Cake + Organic Glass of Water + Geyser for 320 damage
+(Lured) + Organic Cupcake + Birthday Cake + Organic Storm Cloud + Organic Big Weight for 320 damage
+(Lured) + Organic Cupcake + Organic Birthday Cake + Squirt Gun + Organic Storm Cloud for 320 damage
+(Lured) + Organic Cupcake + Organic Birthday Cake + Anvil + Safe for 320 damage
+(Lured) + Organic Cupcake + Wedding Cake + Organic Fire Hose + Safe for 320 damage
+(Lured) + Organic Cupcake + Organic Wedding Cake + Organic Squirt Gun + Safe for 320 damage
+(Lured) + Organic Cupcake + Squirting Flower + Organic Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Organic Cupcake + Organic Glass of Water + Safe + Toontanic for 320 damage
+(Lured) + Organic Cupcake + Squirt Gun + Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Organic Cupcake + Squirt Gun + Organic Big Weight + Organic Toontanic for 320 damage
+(Lured) + Organic Cupcake + Squirt Gun + Organic Safe + Grand Piano for 320 damage
+(Lured) + Organic Cupcake + Organic Squirt Gun + Organic Storm Cloud + Organic Grand Piano for 320 damage
+(Lured) + Organic Cupcake + Seltzer Bottle + Storm Cloud + Organic Grand Piano for 320 damage
+(Lured) + Organic Cupcake + Seltzer Bottle + Safe + Grand Piano for 320 damage
+(Lured) + Organic Cupcake + Fire Hose + Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Organic Cupcake + Organic Storm Cloud + Geyser + Organic Safe for 320 damage
+(Lured) + Organic Cupcake + Geyser + Organic Geyser + Big Weight for 320 damage
+(Lured) + Organic Cupcake + Organic Geyser + Organic Geyser + Organic Anvil for 320 damage
+(Lured) + Organic Cupcake + Flower Pot + Organic Big Weight + Organic Toontanic for 320 damage
+(Lured) + Organic Cupcake + Flower Pot + Organic Safe + Grand Piano for 320 damage
+(Lured) + Organic Cupcake + Safe + Organic Grand Piano for 320 damage
+(Lured) + Organic Cupcake + Organic Safe + Toontanic for 320 damage
+(Lured) + Fruit Pie Slice + Fruit Pie Slice + Organic Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Fruit Pie Slice + Cream Pie Slice + Organic Whole Fruit Pie + Organic Wedding Cake for 320 damage
+(Lured) + Fruit Pie Slice + Cream Pie Slice + Organic Whole Cream Pie + Organic Toontanic for 320 damage
+(Lured) + Fruit Pie Slice + Cream Pie Slice + Organic Wedding Cake + Organic Big Weight for 320 damage
+(Lured) + Fruit Pie Slice + Organic Cream Pie Slice + Whole Cream Pie + Wedding Cake for 320 damage
+(Lured) + Fruit Pie Slice + Whole Fruit Pie + Organic Anvil + Toontanic for 320 damage
+(Lured) + Fruit Pie Slice + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Wedding Cake for 320 damage
+(Lured) + Fruit Pie Slice + Organic Whole Fruit Pie + Wedding Cake + Organic Big Weight for 320 damage
+(Lured) + Fruit Pie Slice + Whole Cream Pie + Organic Wedding Cake + Flower Pot for 320 damage
+(Lured) + Fruit Pie Slice + Organic Whole Cream Pie + Fire Hose + Organic Toontanic for 320 damage
+(Lured) + Fruit Pie Slice + Organic Whole Cream Pie + Flower Pot + Toontanic for 320 damage
+(Lured) + Fruit Pie Slice + Birthday Cake + Organic Storm Cloud + Big Weight for 320 damage
+(Lured) + Fruit Pie Slice + Birthday Cake + Organic Geyser + Sandbag for 320 damage
+(Lured) + Fruit Pie Slice + Organic Birthday Cake + Glass of Water + Organic Storm Cloud for 320 damage
+(Lured) + Fruit Pie Slice + Organic Birthday Cake + Geyser + Organic Flower Pot for 320 damage
+(Lured) + Fruit Pie Slice + Organic Birthday Cake + Organic Sandbag + Organic Safe for 320 damage
+(Lured) + Fruit Pie Slice + Wedding Cake + Storm Cloud + Organic Sandbag for 320 damage
+(Lured) + Fruit Pie Slice + Wedding Cake + Organic Storm Cloud + Organic Flower Pot for 320 damage
+(Lured) + Fruit Pie Slice + Wedding Cake + Organic Anvil + Organic Big Weight for 320 damage
+(Lured) + Fruit Pie Slice + Organic Wedding Cake + Glass of Water + Safe for 320 damage
+(Lured) + Fruit Pie Slice + Organic Wedding Cake + Organic Fire Hose + Big Weight for 320 damage
+(Lured) + Fruit Pie Slice + Organic Squirting Flower + Safe + Toontanic for 320 damage
+(Lured) + Fruit Pie Slice + Glass of Water + Organic Big Weight + Organic Toontanic for 320 damage
+(Lured) + Fruit Pie Slice + Glass of Water + Organic Safe + Grand Piano for 320 damage
+(Lured) + Fruit Pie Slice + Organic Glass of Water + Storm Cloud + Organic Toontanic for 320 damage
+(Lured) + Fruit Pie Slice + Organic Squirt Gun + Big Weight + Organic Toontanic for 320 damage
+(Lured) + Fruit Pie Slice + Seltzer Bottle + Organic Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Fruit Pie Slice + Fire Hose + Organic Big Weight + Toontanic for 320 damage
+(Lured) + Fruit Pie Slice + Organic Flower Pot + Big Weight + Organic Toontanic for 320 damage
+(Lured) + Fruit Pie Slice + Sandbag + Organic Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Organic Fruit Pie Slice + Cream Pie Slice + Whole Cream Pie + Wedding Cake for 320 damage
+(Lured) + Organic Fruit Pie Slice + Organic Cream Pie Slice + Whole Fruit Pie + Organic Wedding Cake for 320 damage
+(Lured) + Organic Fruit Pie Slice + Organic Cream Pie Slice + Organic Wedding Cake + Big Weight for 320 damage
+(Lured) + Organic Fruit Pie Slice + Organic Cream Pie Slice + Big Weight + Toontanic for 320 damage
+(Lured) + Organic Fruit Pie Slice + Whole Fruit Pie + Whole Cream Pie + Organic Birthday Cake for 320 damage
+(Lured) + Organic Fruit Pie Slice + Whole Fruit Pie + Whole Cream Pie + Organic Grand Piano for 320 damage
+(Lured) + Organic Fruit Pie Slice + Whole Fruit Pie + Organic Whole Cream Pie + Toontanic for 320 damage
+(Lured) + Organic Fruit Pie Slice + Organic Whole Fruit Pie + Geyser + Geyser for 320 damage
+(Lured) + Organic Fruit Pie Slice + Organic Whole Fruit Pie + Anvil + Toontanic for 320 damage
+(Lured) + Organic Fruit Pie Slice + Whole Cream Pie + Organic Birthday Cake + Big Weight for 320 damage
+(Lured) + Organic Fruit Pie Slice + Whole Cream Pie + Organic Wedding Cake + Glass of Water for 320 damage
+(Lured) + Organic Fruit Pie Slice + Whole Cream Pie + Organic Storm Cloud + Geyser for 320 damage
+(Lured) + Organic Fruit Pie Slice + Organic Whole Cream Pie + Sandbag + Grand Piano for 320 damage
+(Lured) + Organic Fruit Pie Slice + Organic Birthday Cake + Storm Cloud + Organic Anvil for 320 damage
+(Lured) + Organic Fruit Pie Slice + Organic Birthday Cake + Big Weight + Organic Big Weight for 320 damage
+(Lured) + Organic Fruit Pie Slice + Wedding Cake + Flower Pot + Safe for 320 damage
+(Lured) + Organic Fruit Pie Slice + Organic Wedding Cake + Fire Hose + Organic Fire Hose for 320 damage
+(Lured) + Organic Fruit Pie Slice + Organic Wedding Cake + Sandbag + Big Weight for 320 damage
+(Lured) + Organic Fruit Pie Slice + Organic Wedding Cake + Anvil + Organic Anvil for 320 damage
+(Lured) + Organic Fruit Pie Slice + Glass of Water + Organic Storm Cloud + Organic Grand Piano for 320 damage
+(Lured) + Organic Fruit Pie Slice + Organic Fire Hose + Big Weight + Toontanic for 320 damage
+(Lured) + Organic Fruit Pie Slice + Geyser + Organic Toontanic for 320 damage
+(Lured) + Organic Fruit Pie Slice + Organic Anvil + Organic Big Weight + Grand Piano for 320 damage
+(Lured) + Cream Pie Slice + Cream Pie Slice + Organic Whole Cream Pie + Organic Birthday Cake for 320 damage
+(Lured) + Cream Pie Slice + Cream Pie Slice + Organic Whole Cream Pie + Organic Grand Piano for 320 damage
+(Lured) + Cream Pie Slice + Organic Cream Pie Slice + Storm Cloud + Toontanic for 320 damage
+(Lured) + Cream Pie Slice + Organic Cream Pie Slice + Sandbag + Organic Toontanic for 320 damage
+(Lured) + Cream Pie Slice + Whole Fruit Pie + Whole Fruit Pie + Organic Toontanic for 320 damage
+(Lured) + Cream Pie Slice + Whole Fruit Pie + Organic Whole Cream Pie + Birthday Cake for 320 damage
+(Lured) + Cream Pie Slice + Whole Fruit Pie + Organic Whole Cream Pie + Grand Piano for 320 damage
+(Lured) + Cream Pie Slice + Whole Cream Pie + Wedding Cake + Sandbag for 320 damage
+(Lured) + Cream Pie Slice + Whole Cream Pie + Storm Cloud + Geyser for 320 damage
+(Lured) + Cream Pie Slice + Organic Whole Cream Pie + Birthday Cake + Big Weight for 320 damage
+(Lured) + Cream Pie Slice + Organic Whole Cream Pie + Wedding Cake + Organic Flower Pot for 320 damage
+(Lured) + Cream Pie Slice + Birthday Cake + Squirt Gun + Organic Storm Cloud for 320 damage
+(Lured) + Cream Pie Slice + Birthday Cake + Anvil + Safe for 320 damage
+(Lured) + Cream Pie Slice + Organic Birthday Cake + Organic Fire Hose + Safe for 320 damage
+(Lured) + Cream Pie Slice + Wedding Cake + Organic Glass of Water + Organic Safe for 320 damage
+(Lured) + Cream Pie Slice + Organic Wedding Cake + Seltzer Bottle + Big Weight for 320 damage
+(Lured) + Cream Pie Slice + Organic Wedding Cake + Organic Fire Hose + Organic Anvil for 320 damage
+(Lured) + Cream Pie Slice + Organic Wedding Cake + Flower Pot + Big Weight for 320 damage
+(Lured) + Cream Pie Slice + Organic Glass of Water + Storm Cloud + Organic Grand Piano for 320 damage
+(Lured) + Cream Pie Slice + Organic Seltzer Bottle + Storm Cloud + Grand Piano for 320 damage
+(Lured) + Cream Pie Slice + Fire Hose + Organic Anvil + Organic Grand Piano for 320 damage
+(Lured) + Cream Pie Slice + Organic Fire Hose + Organic Sandbag + Organic Toontanic for 320 damage
+(Lured) + Cream Pie Slice + Organic Fire Hose + Anvil + Organic Grand Piano for 320 damage
+(Lured) + Cream Pie Slice + Geyser + Organic Geyser + Anvil for 320 damage
+(Lured) + Cream Pie Slice + Organic Geyser + Organic Geyser + Sandbag for 320 damage
+(Lured) + Cream Pie Slice + Anvil + Big Weight + Grand Piano for 320 damage
+(Lured) + Organic Cream Pie Slice + Organic Cream Pie Slice + Birthday Cake + Organic Storm Cloud for 320 damage
+(Lured) + Organic Cream Pie Slice + Organic Cream Pie Slice + Organic Storm Cloud + Grand Piano for 320 damage
+(Lured) + Organic Cream Pie Slice + Organic Cream Pie Slice + Big Weight + Grand Piano for 320 damage
+(Lured) + Organic Cream Pie Slice + Whole Fruit Pie + Organic Wedding Cake + Sandbag for 320 damage
+(Lured) + Organic Cream Pie Slice + Organic Whole Fruit Pie + Organic Sandbag + Toontanic for 320 damage
+(Lured) + Organic Cream Pie Slice + Whole Cream Pie + Organic Seltzer Bottle + Organic Toontanic for 320 damage
+(Lured) + Organic Cream Pie Slice + Organic Whole Cream Pie + Wedding Cake + Flower Pot for 320 damage
+(Lured) + Organic Cream Pie Slice + Organic Birthday Cake + Organic Squirting Flower + Storm Cloud for 320 damage
+(Lured) + Organic Cream Pie Slice + Wedding Cake + Glass of Water + Organic Safe for 320 damage
+(Lured) + Organic Cream Pie Slice + Organic Wedding Cake + Seltzer Bottle + Organic Fire Hose for 320 damage
+(Lured) + Organic Cream Pie Slice + Organic Squirting Flower + Safe + Grand Piano for 320 damage
+(Lured) + Organic Cream Pie Slice + Glass of Water + Storm Cloud + Organic Grand Piano for 320 damage
+(Lured) + Organic Cream Pie Slice + Organic Glass of Water + Organic Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Organic Cream Pie Slice + Organic Seltzer Bottle + Big Weight + Toontanic for 320 damage
+(Lured) + Organic Cream Pie Slice + Fire Hose + Organic Big Weight + Grand Piano for 320 damage
+(Lured) + Organic Cream Pie Slice + Organic Fire Hose + Sandbag + Organic Toontanic for 320 damage
+(Lured) + Organic Cream Pie Slice + Organic Storm Cloud + Organic Geyser + Organic Big Weight for 320 damage
+(Lured) + Organic Cream Pie Slice + Organic Sandbag + Big Weight + Toontanic for 320 damage
+(Lured) + Whole Fruit Pie + Whole Fruit Pie + Fire Hose + Organic Toontanic for 320 damage
+(Lured) + Whole Fruit Pie + Whole Fruit Pie + Flower Pot + Toontanic for 320 damage
+(Lured) + Whole Fruit Pie + Organic Whole Fruit Pie + Organic Wedding Cake for 320 damage
+(Lured) + Whole Fruit Pie + Whole Cream Pie + Organic Birthday Cake + Sandbag for 320 damage
+(Lured) + Whole Fruit Pie + Organic Whole Cream Pie + Organic Birthday Cake + Organic Flower Pot for 320 damage
+(Lured) + Whole Fruit Pie + Organic Whole Cream Pie + Organic Toontanic for 320 damage
+(Lured) + Whole Fruit Pie + Birthday Cake + Organic Fire Hose + Safe for 320 damage
+(Lured) + Whole Fruit Pie + Organic Birthday Cake + Organic Glass of Water + Organic Safe for 320 damage
+(Lured) + Whole Fruit Pie + Organic Wedding Cake + Squirting Flower + Big Weight for 320 damage
+(Lured) + Whole Fruit Pie + Organic Wedding Cake + Fire Hose + Organic Sandbag for 320 damage
+(Lured) + Whole Fruit Pie + Organic Wedding Cake + Organic Big Weight for 320 damage
+(Lured) + Whole Fruit Pie + Squirting Flower + Organic Big Weight + Toontanic for 320 damage
+(Lured) + Whole Fruit Pie + Organic Squirting Flower + Anvil + Organic Toontanic for 320 damage
+(Lured) + Whole Fruit Pie + Organic Glass of Water + Big Weight + Toontanic for 320 damage
+(Lured) + Whole Fruit Pie + Squirt Gun + Geyser + Organic Geyser for 320 damage
+(Lured) + Whole Fruit Pie + Seltzer Bottle + Big Weight + Grand Piano for 320 damage
+(Lured) + Whole Fruit Pie + Organic Seltzer Bottle + Organic Anvil + Toontanic for 320 damage
+(Lured) + Whole Fruit Pie + Organic Fire Hose + Sandbag + Organic Grand Piano for 320 damage
+(Lured) + Whole Fruit Pie + Storm Cloud + Organic Storm Cloud + Organic Safe for 320 damage
+(Lured) + Whole Fruit Pie + Storm Cloud + Organic Geyser + Big Weight for 320 damage
+(Lured) + Whole Fruit Pie + Organic Sandbag + Organic Anvil + Toontanic for 320 damage
+(Lured) + Whole Fruit Pie + Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Organic Seltzer Bottle + Organic Toontanic for 320 damage
+(Lured) + Organic Whole Fruit Pie + Whole Cream Pie + Squirting Flower + Organic Toontanic for 320 damage
+(Lured) + Organic Whole Fruit Pie + Whole Cream Pie + Storm Cloud + Organic Storm Cloud for 320 damage
+(Lured) + Organic Whole Fruit Pie + Organic Whole Cream Pie + Organic Birthday Cake + Glass of Water for 320 damage
+(Lured) + Organic Whole Fruit Pie + Organic Whole Cream Pie + Glass of Water + Organic Grand Piano for 320 damage
+(Lured) + Organic Whole Fruit Pie + Birthday Cake + Organic Seltzer Bottle + Organic Safe for 320 damage
+(Lured) + Organic Whole Fruit Pie + Birthday Cake + Fire Hose + Safe for 320 damage
+(Lured) + Organic Whole Fruit Pie + Organic Birthday Cake + Organic Squirt Gun + Safe for 320 damage
+(Lured) + Organic Whole Fruit Pie + Wedding Cake + Seltzer Bottle + Big Weight for 320 damage
+(Lured) + Organic Whole Fruit Pie + Wedding Cake + Organic Fire Hose + Organic Anvil for 320 damage
+(Lured) + Organic Whole Fruit Pie + Wedding Cake + Flower Pot + Big Weight for 320 damage
+(Lured) + Organic Whole Fruit Pie + Organic Wedding Cake + Squirting Flower + Organic Fire Hose for 320 damage
+(Lured) + Organic Whole Fruit Pie + Organic Wedding Cake + Squirt Gun + Organic Anvil for 320 damage
+(Lured) + Organic Whole Fruit Pie + Organic Wedding Cake + Sandbag + Organic Sandbag for 320 damage
+(Lured) + Organic Whole Fruit Pie + Organic Wedding Cake + Big Weight for 320 damage
+(Lured) + Organic Whole Fruit Pie + Glass of Water + Storm Cloud + Grand Piano for 320 damage
+(Lured) + Organic Whole Fruit Pie + Squirt Gun + Organic Anvil + Organic Grand Piano for 320 damage
+(Lured) + Organic Whole Fruit Pie + Organic Squirt Gun + Organic Big Weight + Grand Piano for 320 damage
+(Lured) + Organic Whole Fruit Pie + Fire Hose + Sandbag + Organic Grand Piano for 320 damage
+(Lured) + Organic Whole Fruit Pie + Organic Geyser + Organic Geyser for 320 damage
+(Lured) + Organic Whole Fruit Pie + Flower Pot + Organic Anvil + Organic Grand Piano for 320 damage
+(Lured) + Organic Whole Fruit Pie + Organic Flower Pot + Organic Big Weight + Grand Piano for 320 damage
+(Lured) + Organic Whole Fruit Pie + Anvil + Anvil + Grand Piano for 320 damage
+(Lured) + Whole Cream Pie + Whole Cream Pie + Squirting Flower + Toontanic for 320 damage
+(Lured) + Whole Cream Pie + Organic Whole Cream Pie + Safe + Organic Safe for 320 damage
+(Lured) + Whole Cream Pie + Birthday Cake + Organic Squirting Flower + Organic Safe for 320 damage
+(Lured) + Whole Cream Pie + Birthday Cake + Squirt Gun + Safe for 320 damage
+(Lured) + Whole Cream Pie + Birthday Cake + Organic Fire Hose + Organic Big Weight for 320 damage
+(Lured) + Whole Cream Pie + Birthday Cake + Organic Sandbag + Organic Big Weight for 320 damage
+(Lured) + Whole Cream Pie + Organic Birthday Cake + Seltzer Bottle + Organic Fire Hose for 320 damage
+(Lured) + Whole Cream Pie + Wedding Cake + Fire Hose + Sandbag for 320 damage
+(Lured) + Whole Cream Pie + Wedding Cake + Flower Pot + Anvil for 320 damage
+(Lured) + Whole Cream Pie + Organic Wedding Cake + Glass of Water + Organic Sandbag for 320 damage
+(Lured) + Whole Cream Pie + Organic Wedding Cake + Organic Glass of Water + Organic Squirt Gun for 320 damage
+(Lured) + Whole Cream Pie + Organic Wedding Cake + Organic Glass of Water + Sandbag for 320 damage
+(Lured) + Whole Cream Pie + Organic Wedding Cake + Organic Flower Pot + Organic Flower Pot for 320 damage
+(Lured) + Whole Cream Pie + Squirting Flower + Organic Anvil + Toontanic for 320 damage
+(Lured) + Whole Cream Pie + Glass of Water + Anvil + Toontanic for 320 damage
+(Lured) + Whole Cream Pie + Organic Glass of Water + Organic Flower Pot + Organic Toontanic for 320 damage
+(Lured) + Whole Cream Pie + Squirt Gun + Organic Sandbag + Organic Grand Piano for 320 damage
+(Lured) + Whole Cream Pie + Organic Squirt Gun + Organic Storm Cloud + Organic Geyser for 320 damage
+(Lured) + Whole Cream Pie + Seltzer Bottle + Fire Hose + Organic Toontanic for 320 damage
+(Lured) + Whole Cream Pie + Seltzer Bottle + Storm Cloud + Organic Geyser for 320 damage
+(Lured) + Whole Cream Pie + Seltzer Bottle + Organic Sandbag + Toontanic for 320 damage
+(Lured) + Whole Cream Pie + Organic Seltzer Bottle + Organic Storm Cloud + Geyser for 320 damage
+(Lured) + Whole Cream Pie + Organic Seltzer Bottle + Flower Pot + Organic Grand Piano for 320 damage
+(Lured) + Whole Cream Pie + Fire Hose + Organic Flower Pot + Toontanic for 320 damage
+(Lured) + Whole Cream Pie + Organic Fire Hose + Organic Fire Hose + Toontanic for 320 damage
+(Lured) + Whole Cream Pie + Organic Fire Hose + Organic Sandbag + Grand Piano for 320 damage
+(Lured) + Whole Cream Pie + Storm Cloud + Toontanic for 320 damage
+(Lured) + Whole Cream Pie + Flower Pot + Organic Sandbag + Organic Grand Piano for 320 damage
+(Lured) + Whole Cream Pie + Organic Flower Pot + Sandbag + Organic Grand Piano for 320 damage
+(Lured) + Whole Cream Pie + Sandbag + Sandbag + Toontanic for 320 damage
+(Lured) + Whole Cream Pie + Sandbag + Organic Toontanic for 320 damage
+(Lured) + Organic Whole Cream Pie + Organic Whole Cream Pie + Birthday Cake for 320 damage
+(Lured) + Organic Whole Cream Pie + Organic Whole Cream Pie + Grand Piano for 320 damage
+(Lured) + Organic Whole Cream Pie + Birthday Cake + Organic Squirting Flower + Safe for 320 damage
+(Lured) + Organic Whole Cream Pie + Birthday Cake + Fire Hose + Big Weight for 320 damage
+(Lured) + Organic Whole Cream Pie + Organic Birthday Cake + Organic Glass of Water + Organic Big Weight for 320 damage
+(Lured) + Organic Whole Cream Pie + Organic Birthday Cake + Organic Squirt Gun + Big Weight for 320 damage
+(Lured) + Organic Whole Cream Pie + Organic Birthday Cake + Sandbag + Anvil for 320 damage
+(Lured) + Organic Whole Cream Pie + Wedding Cake + Squirting Flower + Fire Hose for 320 damage
+(Lured) + Organic Whole Cream Pie + Wedding Cake + Glass of Water + Organic Anvil for 320 damage
+(Lured) + Organic Whole Cream Pie + Wedding Cake + Organic Squirt Gun + Seltzer Bottle for 320 damage
+(Lured) + Organic Whole Cream Pie + Wedding Cake + Organic Seltzer Bottle + Sandbag for 320 damage
+(Lured) + Organic Whole Cream Pie + Wedding Cake + Fire Hose + Organic Flower Pot for 320 damage
+(Lured) + Organic Whole Cream Pie + Organic Wedding Cake + Squirting Flower + Squirt Gun for 320 damage
+(Lured) + Organic Whole Cream Pie + Organic Wedding Cake + Glass of Water + Glass of Water for 320 damage
+(Lured) + Organic Whole Cream Pie + Organic Wedding Cake + Organic Glass of Water + Organic Flower Pot for 320 damage
+(Lured) + Organic Whole Cream Pie + Squirting Flower + Flower Pot + Organic Toontanic for 320 damage
+(Lured) + Organic Whole Cream Pie + Glass of Water + Organic Storm Cloud + Organic Geyser for 320 damage
+(Lured) + Organic Whole Cream Pie + Glass of Water + Sandbag + Organic Grand Piano for 320 damage
+(Lured) + Organic Whole Cream Pie + Organic Squirt Gun + Organic Fire Hose + Organic Toontanic for 320 damage
+(Lured) + Organic Whole Cream Pie + Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Toontanic for 320 damage
+(Lured) + Organic Whole Cream Pie + Organic Storm Cloud + Organic Geyser + Flower Pot for 320 damage
+(Lured) + Organic Whole Cream Pie + Organic Flower Pot + Anvil + Grand Piano for 320 damage
+(Lured) + Birthday Cake + Organic Squirting Flower + Seltzer Bottle + Organic Geyser for 320 damage
+(Lured) + Birthday Cake + Organic Glass of Water + Geyser + Organic Anvil for 320 damage
+(Lured) + Birthday Cake + Organic Squirt Gun + Organic Squirt Gun + Organic Geyser for 320 damage
+(Lured) + Birthday Cake + Organic Squirt Gun + Organic Seltzer Bottle + Geyser for 320 damage
+(Lured) + Birthday Cake + Seltzer Bottle + Geyser + Sandbag for 320 damage
+(Lured) + Birthday Cake + Organic Seltzer Bottle + Fire Hose + Organic Storm Cloud for 320 damage
+(Lured) + Birthday Cake + Organic Seltzer Bottle + Big Weight + Organic Safe for 320 damage
+(Lured) + Birthday Cake + Storm Cloud + Anvil + Big Weight for 320 damage
+(Lured) + Birthday Cake + Organic Storm Cloud + Organic Sandbag + Organic Big Weight for 320 damage
+(Lured) + Birthday Cake + Organic Sandbag + Big Weight + Organic Safe for 320 damage
+(Lured) + Birthday Cake + Grand Piano for 320 damage
+(Lured) + Organic Birthday Cake + Organic Squirting Flower + Organic Glass of Water + Organic Geyser for 320 damage
+(Lured) + Organic Birthday Cake + Organic Squirting Flower + Organic Geyser + Organic Flower Pot for 320 damage
+(Lured) + Organic Birthday Cake + Glass of Water + Organic Fire Hose + Organic Storm Cloud for 320 damage
+(Lured) + Organic Birthday Cake + Glass of Water + Storm Cloud + Organic Big Weight for 320 damage
+(Lured) + Organic Birthday Cake + Glass of Water + Geyser + Organic Sandbag for 320 damage
+(Lured) + Organic Birthday Cake + Glass of Water + Big Weight + Organic Safe for 320 damage
+(Lured) + Organic Birthday Cake + Organic Glass of Water + Geyser + Sandbag for 320 damage
+(Lured) + Organic Birthday Cake + Squirt Gun + Squirt Gun + Geyser for 320 damage
+(Lured) + Organic Birthday Cake + Squirt Gun + Organic Big Weight + Safe for 320 damage
+(Lured) + Organic Birthday Cake + Organic Squirt Gun + Organic Storm Cloud + Organic Anvil for 320 damage
+(Lured) + Organic Birthday Cake + Seltzer Bottle + Storm Cloud + Organic Anvil for 320 damage
+(Lured) + Organic Birthday Cake + Organic Seltzer Bottle + Organic Anvil + Organic Safe for 320 damage
+(Lured) + Organic Birthday Cake + Organic Fire Hose + Storm Cloud + Organic Sandbag for 320 damage
+(Lured) + Organic Birthday Cake + Geyser + Organic Flower Pot + Anvil for 320 damage
+(Lured) + Organic Birthday Cake + Flower Pot + Organic Big Weight + Safe for 320 damage
+(Lured) + Organic Birthday Cake + Organic Sandbag + Organic Anvil + Organic Safe for 320 damage
+(Lured) + Wedding Cake + Organic Squirting Flower + Organic Seltzer Bottle + Organic Storm Cloud for 320 damage
+(Lured) + Wedding Cake + Glass of Water + Organic Anvil + Organic Safe for 320 damage
+(Lured) + Wedding Cake + Organic Glass of Water + Storm Cloud + Organic Anvil for 320 damage
+(Lured) + Wedding Cake + Organic Squirt Gun + Organic Seltzer Bottle + Storm Cloud for 320 damage
+(Lured) + Wedding Cake + Organic Squirt Gun + Organic Storm Cloud + Sandbag for 320 damage
+(Lured) + Wedding Cake + Seltzer Bottle + Storm Cloud + Sandbag for 320 damage
+(Lured) + Wedding Cake + Organic Fire Hose + Organic Sandbag + Safe for 320 damage
+(Lured) + Wedding Cake + Organic Storm Cloud + Flower Pot + Organic Anvil for 320 damage
+(Lured) + Wedding Cake + Geyser + Flower Pot + Organic Sandbag for 320 damage
+(Lured) + Wedding Cake + Geyser + Organic Flower Pot + Sandbag for 320 damage
+(Lured) + Wedding Cake + Sandbag + Organic Big Weight + Organic Big Weight for 320 damage
+(Lured) + Organic Wedding Cake + Squirting Flower + Organic Glass of Water + Organic Storm Cloud for 320 damage
+(Lured) + Organic Wedding Cake + Squirting Flower + Organic Fire Hose + Organic Safe for 320 damage
+(Lured) + Organic Wedding Cake + Squirting Flower + Organic Storm Cloud + Organic Flower Pot for 320 damage
+(Lured) + Organic Wedding Cake + Squirting Flower + Organic Big Weight + Organic Big Weight for 320 damage
+(Lured) + Organic Wedding Cake + Organic Squirting Flower + Glass of Water + Organic Storm Cloud for 320 damage
+(Lured) + Organic Wedding Cake + Organic Squirting Flower + Organic Storm Cloud + Flower Pot for 320 damage
+(Lured) + Organic Wedding Cake + Glass of Water + Organic Squirt Gun + Storm Cloud for 320 damage
+(Lured) + Organic Wedding Cake + Glass of Water + Sandbag + Organic Safe for 320 damage
+(Lured) + Organic Wedding Cake + Organic Glass of Water + Squirt Gun + Storm Cloud for 320 damage
+(Lured) + Organic Wedding Cake + Organic Glass of Water + Big Weight + Organic Big Weight for 320 damage
+(Lured) + Organic Wedding Cake + Squirt Gun + Storm Cloud + Organic Flower Pot for 320 damage
+(Lured) + Organic Wedding Cake + Organic Squirt Gun + Fire Hose + Safe for 320 damage
+(Lured) + Organic Wedding Cake + Organic Squirt Gun + Storm Cloud + Flower Pot for 320 damage
+(Lured) + Organic Wedding Cake + Organic Squirt Gun + Organic Storm Cloud for 320 damage
+(Lured) + Organic Wedding Cake + Seltzer Bottle + Storm Cloud for 320 damage
+(Lured) + Organic Wedding Cake + Organic Seltzer Bottle + Organic Anvil + Organic Big Weight for 320 damage
+(Lured) + Organic Wedding Cake + Organic Storm Cloud + Flower Pot + Sandbag for 320 damage
+(Lured) + Organic Wedding Cake + Organic Flower Pot + Big Weight + Big Weight for 320 damage
+(Lured) + Organic Wedding Cake + Organic Sandbag + Organic Anvil + Organic Big Weight for 320 damage
+(Lured) + Squirting Flower + Squirting Flower + Storm Cloud + Grand Piano for 320 damage
+(Lured) + Squirting Flower + Glass of Water + Organic Storm Cloud + Organic Storm Cloud for 320 damage
+(Lured) + Squirting Flower + Organic Glass of Water + Organic Big Weight + Organic Toontanic for 320 damage
+(Lured) + Squirting Flower + Organic Glass of Water + Organic Safe + Grand Piano for 320 damage
+(Lured) + Squirting Flower + Squirt Gun + Big Weight + Organic Toontanic for 320 damage
+(Lured) + Squirting Flower + Organic Fire Hose + Organic Anvil + Toontanic for 320 damage
+(Lured) + Squirting Flower + Storm Cloud + Safe + Organic Safe for 320 damage
+(Lured) + Squirting Flower + Organic Flower Pot + Safe + Toontanic for 320 damage
+(Lured) + Squirting Flower + Sandbag + Big Weight + Organic Toontanic for 320 damage
+(Lured) + Squirting Flower + Anvil + Organic Anvil + Organic Toontanic for 320 damage
+(Lured) + Organic Squirting Flower + Glass of Water + Organic Big Weight + Organic Toontanic for 320 damage
+(Lured) + Organic Squirting Flower + Glass of Water + Organic Safe + Grand Piano for 320 damage
+(Lured) + Organic Squirting Flower + Seltzer Bottle + Organic Big Weight + Toontanic for 320 damage
+(Lured) + Organic Squirting Flower + Organic Seltzer Bottle + Storm Cloud + Storm Cloud for 320 damage
+(Lured) + Organic Squirting Flower + Fire Hose + Sandbag + Organic Toontanic for 320 damage
+(Lured) + Organic Squirting Flower + Organic Fire Hose + Organic Fire Hose + Organic Toontanic for 320 damage
+(Lured) + Organic Squirting Flower + Organic Storm Cloud + Organic Storm Cloud + Organic Flower Pot for 320 damage
+(Lured) + Organic Squirting Flower + Organic Geyser + Organic Sandbag + Organic Safe for 320 damage
+(Lured) + Organic Squirting Flower + Flower Pot + Safe + Toontanic for 320 damage
+(Lured) + Organic Squirting Flower + Big Weight + Big Weight + Grand Piano for 320 damage
+(Lured) + Glass of Water + Glass of Water + Big Weight + Organic Toontanic for 320 damage
+(Lured) + Glass of Water + Squirt Gun + Storm Cloud + Organic Storm Cloud for 320 damage
+(Lured) + Glass of Water + Seltzer Bottle + Big Weight + Toontanic for 320 damage
+(Lured) + Glass of Water + Fire Hose + Organic Fire Hose + Organic Toontanic for 320 damage
+(Lured) + Glass of Water + Storm Cloud + Grand Piano for 320 damage
+(Lured) + Organic Glass of Water + Organic Fire Hose + Organic Sandbag + Organic Grand Piano for 320 damage
+(Lured) + Organic Glass of Water + Storm Cloud + Organic Storm Cloud + Sandbag for 320 damage
+(Lured) + Organic Glass of Water + Storm Cloud + Safe + Safe for 320 damage
+(Lured) + Organic Glass of Water + Organic Sandbag + Organic Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Organic Glass of Water + Anvil + Big Weight + Toontanic for 320 damage
+(Lured) + Squirt Gun + Squirt Gun + Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Squirt Gun + Seltzer Bottle + Organic Big Weight + Grand Piano for 320 damage
+(Lured) + Squirt Gun + Organic Seltzer Bottle + Sandbag + Organic Toontanic for 320 damage
+(Lured) + Squirt Gun + Fire Hose + Organic Sandbag + Organic Grand Piano for 320 damage
+(Lured) + Squirt Gun + Organic Fire Hose + Organic Fire Hose + Organic Grand Piano for 320 damage
+(Lured) + Squirt Gun + Organic Storm Cloud + Organic Storm Cloud for 320 damage
+(Lured) + Squirt Gun + Geyser + Anvil + Safe for 320 damage
+(Lured) + Squirt Gun + Organic Flower Pot + Safe + Grand Piano for 320 damage
+(Lured) + Squirt Gun + Organic Sandbag + Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Organic Squirt Gun + Organic Squirt Gun + Organic Big Weight + Toontanic for 320 damage
+(Lured) + Organic Squirt Gun + Organic Seltzer Bottle + Big Weight + Grand Piano for 320 damage
+(Lured) + Organic Squirt Gun + Fire Hose + Fire Hose + Organic Geyser for 320 damage
+(Lured) + Organic Squirt Gun + Fire Hose + Sandbag + Organic Grand Piano for 320 damage
+(Lured) + Organic Squirt Gun + Organic Fire Hose + Organic Geyser + Big Weight for 320 damage
+(Lured) + Organic Squirt Gun + Storm Cloud + Organic Storm Cloud + Organic Flower Pot for 320 damage
+(Lured) + Organic Squirt Gun + Organic Storm Cloud + Big Weight + Organic Safe for 320 damage
+(Lured) + Organic Squirt Gun + Flower Pot + Safe + Grand Piano for 320 damage
+(Lured) + Organic Squirt Gun + Sandbag + Big Weight + Organic Grand Piano for 320 damage
+(Lured) + Organic Squirt Gun + Organic Sandbag + Organic Anvil + Organic Toontanic for 320 damage
+(Lured) + Organic Squirt Gun + Anvil + Organic Anvil + Organic Grand Piano for 320 damage
+(Lured) + Organic Squirt Gun + Safe + Toontanic for 320 damage
+(Lured) + Seltzer Bottle + Seltzer Bottle + Organic Sandbag + Organic Grand Piano for 320 damage
+(Lured) + Seltzer Bottle + Organic Seltzer Bottle + Organic Geyser + Organic Big Weight for 320 damage
+(Lured) + Seltzer Bottle + Organic Fire Hose + Geyser + Organic Big Weight for 320 damage
+(Lured) + Seltzer Bottle + Organic Fire Hose + Flower Pot + Toontanic for 320 damage
+(Lured) + Seltzer Bottle + Storm Cloud + Storm Cloud + Organic Flower Pot for 320 damage
+(Lured) + Seltzer Bottle + Storm Cloud + Big Weight + Organic Safe for 320 damage
+(Lured) + Seltzer Bottle + Geyser + Flower Pot + Organic Safe for 320 damage
+(Lured) + Seltzer Bottle + Organic Flower Pot + Organic Big Weight + Toontanic for 320 damage
+(Lured) + Seltzer Bottle + Anvil + Anvil + Toontanic for 320 damage
+(Lured) + Seltzer Bottle + Safe + Grand Piano for 320 damage
+(Lured) + Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Geyser + Big Weight for 320 damage
+(Lured) + Organic Seltzer Bottle + Fire Hose + Fire Hose + Geyser for 320 damage
+(Lured) + Organic Seltzer Bottle + Organic Fire Hose + Geyser + Big Weight for 320 damage
+(Lured) + Organic Seltzer Bottle + Sandbag + Organic Big Weight + Grand Piano for 320 damage
+(Lured) + Fire Hose + Fire Hose + Organic Flower Pot + Grand Piano for 320 damage
+(Lured) + Fire Hose + Geyser + Anvil + Big Weight for 320 damage
+(Lured) + Fire Hose + Flower Pot + Organic Big Weight + Grand Piano for 320 damage
+(Lured) + Fire Hose + Organic Sandbag + Anvil + Toontanic for 320 damage
+(Lured) + Fire Hose + Organic Big Weight + Toontanic for 320 damage
+(Lured) + Organic Fire Hose + Organic Fire Hose + Organic Geyser + Organic Flower Pot for 320 damage
+(Lured) + Organic Fire Hose + Organic Storm Cloud + Big Weight + Organic Big Weight for 320 damage
+(Lured) + Organic Fire Hose + Organic Geyser + Organic Flower Pot + Big Weight for 320 damage
+(Lured) + Organic Fire Hose + Flower Pot + Big Weight + Grand Piano for 320 damage
+(Lured) + Organic Fire Hose + Organic Sandbag + Organic Sandbag + Organic Grand Piano for 320 damage
+(Lured) + Organic Fire Hose + Big Weight + Toontanic for 320 damage
+(Lured) + Storm Cloud + Storm Cloud + Flower Pot + Anvil for 320 damage
+(Lured) + Storm Cloud + Organic Storm Cloud + Flower Pot + Sandbag for 320 damage
+(Lured) + Storm Cloud + Organic Sandbag + Safe + Organic Safe for 320 damage
+(Lured) + Organic Storm Cloud + Anvil + Organic Big Weight + Organic Safe for 320 damage
+(Lured) + Geyser + Big Weight + Big Weight + Big Weight for 320 damage
+(Lured) + Organic Geyser + Organic Sandbag + Organic Anvil + Safe for 320 damage
+(Lured) + Organic Geyser + Big Weight + Organic Safe for 320 damage

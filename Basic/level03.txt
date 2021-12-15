@@ -1,0 +1,151 @@
+Banana Peel + Lure + Bike Horn + Squirting Flower for 20 damage
+Banana Peel + Lure + Organic Whistle for 20 damage
+Banana Peel + Lure + Glass of Water for 20 damage
+Organic Banana Peel + Lure + Whistle for 20 damage
+Organic Banana Peel + Lure + Organic Cupcake for 20 damage
+Rake + Lure for 20 damage
+Lure + Bike Horn + Bike Horn + Organic Whistle for 20 damage
+Lure + Bike Horn + Bike Horn + Fruit Pie Slice for 20 damage
+Lure + Bike Horn + Bike Horn + Flower Pot for 20 damage
+Lure + Bike Horn + Organic Bike Horn + Whistle for 20 damage
+Lure + Bike Horn + Organic Bike Horn + Organic Glass of Water for 20 damage
+Lure + Bike Horn + Whistle + Cupcake for 20 damage
+Lure + Bike Horn + Organic Whistle + Organic Squirting Flower for 20 damage
+Lure + Bike Horn + Organic Bugle for 20 damage
+Lure + Bike Horn + Cupcake + Organic Cupcake for 20 damage
+Lure + Bike Horn + Cupcake + Flower Pot for 20 damage
+Lure + Bike Horn + Organic Cupcake + Organic Glass of Water for 20 damage
+Lure + Bike Horn + Organic Fruit Pie Slice + Organic Squirting Flower for 20 damage
+Lure + Bike Horn + Squirting Flower + Organic Glass of Water for 20 damage
+Lure + Bike Horn + Organic Squirting Flower + Glass of Water for 20 damage
+Lure + Bike Horn + Organic Squirting Flower + Organic Flower Pot for 20 damage
+Lure + Organic Bike Horn + Organic Bike Horn + Glass of Water for 20 damage
+Lure + Organic Bike Horn + Whistle + Organic Squirting Flower for 20 damage
+Lure + Organic Bike Horn + Organic Whistle + Squirting Flower for 20 damage
+Lure + Organic Bike Horn + Bugle for 20 damage
+Lure + Organic Bike Horn + Cupcake + Cupcake for 20 damage
+Lure + Organic Bike Horn + Cupcake + Organic Glass of Water for 20 damage
+Lure + Organic Bike Horn + Organic Cupcake + Glass of Water for 20 damage
+Lure + Organic Bike Horn + Fruit Pie Slice + Organic Squirting Flower for 20 damage
+Lure + Organic Bike Horn + Organic Fruit Pie Slice + Squirting Flower for 20 damage
+Lure + Organic Bike Horn + Squirting Flower + Glass of Water for 20 damage
+Lure + Organic Bike Horn + Squirting Flower + Organic Flower Pot for 20 damage
+Lure + Organic Bike Horn + Organic Squirting Flower + Flower Pot for 20 damage
+Lure + Whistle + Organic Squirt Gun for 20 damage
+Lure + Organic Whistle + Organic Whistle for 20 damage
+Lure + Organic Whistle + Organic Cupcake + Organic Squirting Flower for 20 damage
+Lure + Organic Whistle + Organic Squirting Flower + Organic Squirting Flower for 20 damage
+Lure + Organic Whistle + Squirt Gun for 20 damage
+Lure + Bugle + Organic Glass of Water for 20 damage
+Lure + Organic Bugle + Glass of Water for 20 damage
+Lure + Aoogah + Squirting Flower for 20 damage
+Lure + Cupcake + Squirting Flower + Organic Squirting Flower for 20 damage
+Lure + Cupcake + Organic Flower Pot for 20 damage
+Lure + Organic Cupcake + Organic Glass of Water for 20 damage
+Lure + Fruit Pie Slice + Organic Squirting Flower for 20 damage
+Lure + Organic Squirt Gun for 20 damage
+Bike Horn + Bike Horn + Bike Horn + Bike Horn for 20 damage
+Bike Horn + Bike Horn + Bike Horn + Organic Squirting Flower for 20 damage
+Bike Horn + Bike Horn + Organic Bike Horn + Squirting Flower for 20 damage
+Bike Horn + Bike Horn + Organic Whistle for 20 damage
+Bike Horn + Bike Horn + Cupcake + Squirting Flower for 20 damage
+Bike Horn + Bike Horn + Fruit Pie Slice for 20 damage
+Bike Horn + Bike Horn + Squirting Flower + Squirting Flower for 20 damage
+Bike Horn + Bike Horn + Flower Pot for 20 damage
+Bike Horn + Organic Bike Horn + Whistle for 20 damage
+Bike Horn + Organic Bike Horn + Organic Glass of Water for 20 damage
+Bike Horn + Whistle + Cupcake for 20 damage
+Bike Horn + Organic Whistle + Organic Squirting Flower for 20 damage
+Bike Horn + Organic Bugle for 20 damage
+Bike Horn + Cupcake + Organic Cupcake for 20 damage
+Bike Horn + Cupcake + Squirting Flower + Squirting Flower for 20 damage
+Bike Horn + Cupcake + Flower Pot for 20 damage
+Bike Horn + Organic Cupcake + Organic Glass of Water for 20 damage
+Bike Horn + Organic Fruit Pie Slice + Organic Squirting Flower for 20 damage
+Bike Horn + Squirting Flower + Squirting Flower + Organic Squirting Flower for 20 damage
+Bike Horn + Squirting Flower + Organic Glass of Water for 20 damage
+Bike Horn + Organic Squirting Flower + Glass of Water for 20 damage
+Bike Horn + Organic Squirting Flower + Organic Flower Pot for 20 damage
+Organic Bike Horn + Organic Bike Horn + Glass of Water for 20 damage
+Organic Bike Horn + Whistle + Organic Squirting Flower for 20 damage
+Organic Bike Horn + Organic Whistle + Squirting Flower for 20 damage
+Organic Bike Horn + Bugle for 20 damage
+Organic Bike Horn + Cupcake + Cupcake for 20 damage
+Organic Bike Horn + Cupcake + Organic Glass of Water for 20 damage
+Organic Bike Horn + Organic Cupcake + Glass of Water for 20 damage
+Organic Bike Horn + Fruit Pie Slice + Organic Squirting Flower for 20 damage
+Organic Bike Horn + Organic Fruit Pie Slice + Squirting Flower for 20 damage
+Organic Bike Horn + Squirting Flower + Squirting Flower + Squirting Flower for 20 damage
+Organic Bike Horn + Squirting Flower + Glass of Water for 20 damage
+Organic Bike Horn + Squirting Flower + Organic Flower Pot for 20 damage
+Organic Bike Horn + Organic Squirting Flower + Flower Pot for 20 damage
+Whistle + Organic Squirt Gun for 20 damage
+Organic Whistle + Organic Whistle for 20 damage
+Organic Whistle + Organic Cupcake + Organic Squirting Flower for 20 damage
+Organic Whistle + Organic Squirting Flower + Organic Squirting Flower for 20 damage
+Organic Whistle + Squirt Gun for 20 damage
+Bugle + Organic Glass of Water for 20 damage
+Organic Bugle + Glass of Water for 20 damage
+Aoogah + Squirting Flower for 20 damage
+Cupcake + Cupcake + Organic Squirting Flower for 20 damage
+Cupcake + Organic Cupcake + Squirting Flower for 20 damage
+Cupcake + Fruit Pie Slice for 20 damage
+Cupcake + Squirting Flower + Flower Pot for 20 damage
+Organic Cupcake + Organic Squirt Gun for 20 damage
+Fruit Pie Slice + Squirting Flower + Squirting Flower for 20 damage
+Fruit Pie Slice + Flower Pot for 20 damage
+Organic Fruit Pie Slice + Organic Glass of Water for 20 damage
+Squirting Flower + Squirting Flower + Squirting Flower + Squirting Flower for 20 damage
+Squirting Flower + Squirting Flower + Glass of Water for 20 damage
+Squirting Flower + Squirting Flower + Flower Pot for 20 damage
+Squirting Flower + Squirt Gun for 20 damage
+Glass of Water + Glass of Water for 20 damage
+Organic Glass of Water + Organic Flower Pot for 20 damage
+(Lured) + Bike Horn + Bike Horn + Bike Horn + Bike Horn for 20 damage
+(Lured) + Bike Horn + Bike Horn + Bike Horn + Organic Squirting Flower for 20 damage
+(Lured) + Bike Horn + Bike Horn + Organic Bike Horn + Squirting Flower for 20 damage
+(Lured) + Bike Horn + Bike Horn + Organic Whistle for 20 damage
+(Lured) + Bike Horn + Bike Horn + Cupcake + Squirting Flower for 20 damage
+(Lured) + Bike Horn + Bike Horn + Fruit Pie Slice for 20 damage
+(Lured) + Bike Horn + Bike Horn + Squirting Flower + Squirting Flower for 20 damage
+(Lured) + Bike Horn + Bike Horn + Flower Pot for 20 damage
+(Lured) + Bike Horn + Organic Bike Horn + Whistle for 20 damage
+(Lured) + Bike Horn + Organic Bike Horn + Organic Glass of Water for 20 damage
+(Lured) + Bike Horn + Whistle + Cupcake for 20 damage
+(Lured) + Bike Horn + Organic Whistle + Organic Squirting Flower for 20 damage
+(Lured) + Bike Horn + Organic Bugle for 20 damage
+(Lured) + Bike Horn + Cupcake + Organic Cupcake for 20 damage
+(Lured) + Bike Horn + Cupcake + Squirting Flower + Squirting Flower for 20 damage
+(Lured) + Bike Horn + Cupcake + Flower Pot for 20 damage
+(Lured) + Bike Horn + Organic Cupcake + Organic Glass of Water for 20 damage
+(Lured) + Bike Horn + Organic Fruit Pie Slice + Organic Squirting Flower for 20 damage
+(Lured) + Bike Horn + Squirting Flower + Squirting Flower + Organic Squirting Flower for 20 damage
+(Lured) + Bike Horn + Squirting Flower + Organic Glass of Water for 20 damage
+(Lured) + Bike Horn + Organic Squirting Flower + Glass of Water for 20 damage
+(Lured) + Bike Horn + Organic Squirting Flower + Organic Flower Pot for 20 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn + Glass of Water for 20 damage
+(Lured) + Organic Bike Horn + Whistle + Organic Squirting Flower for 20 damage
+(Lured) + Organic Bike Horn + Organic Whistle + Squirting Flower for 20 damage
+(Lured) + Organic Bike Horn + Bugle for 20 damage
+(Lured) + Organic Bike Horn + Cupcake + Cupcake for 20 damage
+(Lured) + Organic Bike Horn + Cupcake + Organic Glass of Water for 20 damage
+(Lured) + Organic Bike Horn + Organic Cupcake + Glass of Water for 20 damage
+(Lured) + Organic Bike Horn + Fruit Pie Slice + Organic Squirting Flower for 20 damage
+(Lured) + Organic Bike Horn + Organic Fruit Pie Slice + Squirting Flower for 20 damage
+(Lured) + Organic Bike Horn + Squirting Flower + Squirting Flower + Squirting Flower for 20 damage
+(Lured) + Organic Bike Horn + Squirting Flower + Glass of Water for 20 damage
+(Lured) + Organic Bike Horn + Squirting Flower + Organic Flower Pot for 20 damage
+(Lured) + Organic Bike Horn + Organic Squirting Flower + Flower Pot for 20 damage
+(Lured) + Whistle + Organic Squirt Gun for 20 damage
+(Lured) + Organic Whistle + Organic Whistle for 20 damage
+(Lured) + Organic Whistle + Organic Cupcake + Organic Squirting Flower for 20 damage
+(Lured) + Organic Whistle + Organic Squirting Flower + Organic Squirting Flower for 20 damage
+(Lured) + Organic Whistle + Squirt Gun for 20 damage
+(Lured) + Bugle + Organic Glass of Water for 20 damage
+(Lured) + Organic Bugle + Glass of Water for 20 damage
+(Lured) + Aoogah + Squirting Flower for 20 damage
+(Lured) + Cupcake + Squirting Flower + Organic Squirting Flower for 20 damage
+(Lured) + Cupcake + Organic Flower Pot for 20 damage
+(Lured) + Organic Cupcake + Organic Glass of Water for 20 damage
+(Lured) + Fruit Pie Slice + Organic Squirting Flower for 20 damage
+(Lured) + Organic Squirt Gun for 20 damage

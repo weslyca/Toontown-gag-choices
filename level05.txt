@@ -1,0 +1,36 @@
+Lure + Aoogah + Elephant Trunk for 45 damage
+Lure + Aoogah + Organic Elephant Trunk for 47 damage
+Lure + Aoogah + Whole Fruit Pie for 43 damage
+Lure + Aoogah + Organic Whole Fruit Pie for 45 damage
+Lure + Aoogah + Fire Hose for 46 damage
+Lure + Organic Aoogah + Elephant Trunk for 46 damage
+Lure + Organic Aoogah + Organic Elephant Trunk for 48 damage
+Lure + Organic Aoogah + Whole Fruit Pie for 44 damage
+Lure + Organic Aoogah + Organic Whole Fruit Pie for 46 damage
+Lure + Organic Aoogah + Fire Hose for 47 damage
+Lure + Elephant Trunk + Whole Fruit Pie for 48 damage
+Lure + Elephant Trunk + Seltzer Bottle for 42 damage
+Lure + Elephant Trunk + Organic Seltzer Bottle for 44 damage
+Lure + Organic Elephant Trunk + Seltzer Bottle for 44 damage
+Lure + Organic Elephant Trunk + Organic Seltzer Bottle for 46 damage
+Lure + Organic Whole Fruit Pie for 44 damage
+Lure + Fire Hose for 45 damage
+Aoogah + Elephant Trunk for 45 damage
+Aoogah + Organic Elephant Trunk for 47 damage
+Aoogah + Whole Fruit Pie for 43 damage
+Aoogah + Organic Whole Fruit Pie for 45 damage
+Aoogah + Fire Hose for 46 damage
+Organic Aoogah + Elephant Trunk for 46 damage
+Organic Aoogah + Organic Elephant Trunk for 48 damage
+Organic Aoogah + Whole Fruit Pie for 44 damage
+Organic Aoogah + Organic Whole Fruit Pie for 46 damage
+Organic Aoogah + Fire Hose for 47 damage
+Elephant Trunk + Whole Fruit Pie for 48 damage
+Elephant Trunk + Seltzer Bottle for 42 damage
+Elephant Trunk + Organic Seltzer Bottle for 44 damage
+Organic Elephant Trunk + Seltzer Bottle for 44 damage
+Organic Elephant Trunk + Organic Seltzer Bottle for 46 damage
+Whole Fruit Pie + Seltzer Bottle for 48 damage
+Organic Whole Cream Pie for 44 damage
+(Lured) + Organic Whole Fruit Pie for 44 damage
+(Lured) + Fire Hose for 45 damage

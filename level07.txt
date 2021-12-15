@@ -1,0 +1,218 @@
+Lure + Aoogah + Aoogah + Whole Cream Pie for 79 damage
+Lure + Aoogah + Aoogah + Organic Fire Hose for 72 damage
+Lure + Aoogah + Organic Aoogah + Whole Cream Pie for 80 damage
+Lure + Aoogah + Organic Aoogah + Organic Fire Hose for 73 damage
+Lure + Aoogah + Elephant Trunk + Organic Elephant Trunk for 72 damage
+Lure + Aoogah + Elephant Trunk + Whole Fruit Pie for 72 damage
+Lure + Aoogah + Elephant Trunk + Organic Whole Fruit Pie for 74 damage
+Lure + Aoogah + Elephant Trunk + Fire Hose for 75 damage
+Lure + Aoogah + Elephant Trunk + Organic Fire Hose for 78 damage
+Lure + Aoogah + Organic Elephant Trunk + Organic Elephant Trunk for 75 damage
+Lure + Aoogah + Organic Elephant Trunk + Whole Fruit Pie for 74 damage
+Lure + Aoogah + Organic Elephant Trunk + Organic Whole Fruit Pie for 76 damage
+Lure + Aoogah + Organic Elephant Trunk + Fire Hose for 77 damage
+Lure + Aoogah + Organic Elephant Trunk + Organic Fire Hose for 80 damage
+Lure + Aoogah + Foghorn for 80 damage
+Lure + Aoogah + Whole Fruit Pie + Whole Fruit Pie for 81 damage
+Lure + Aoogah + Whole Fruit Pie + Fire Hose for 73 damage
+Lure + Aoogah + Whole Fruit Pie + Organic Fire Hose for 76 damage
+Lure + Aoogah + Organic Whole Fruit Pie + Fire Hose for 75 damage
+Lure + Aoogah + Organic Whole Fruit Pie + Organic Fire Hose for 78 damage
+Lure + Aoogah + Whole Cream Pie + Seltzer Bottle for 77 damage
+Lure + Aoogah + Whole Cream Pie + Organic Seltzer Bottle for 79 damage
+Lure + Aoogah + Organic Whole Cream Pie + Seltzer Bottle for 81 damage
+Lure + Aoogah + Seltzer Bottle + Fire Hose for 78 damage
+Lure + Aoogah + Seltzer Bottle + Organic Fire Hose for 81 damage
+Lure + Aoogah + Organic Seltzer Bottle + Organic Seltzer Bottle for 72 damage
+Lure + Aoogah + Organic Seltzer Bottle + Fire Hose for 80 damage
+Lure + Organic Aoogah + Organic Aoogah + Whole Cream Pie for 81 damage
+Lure + Organic Aoogah + Organic Aoogah + Organic Fire Hose for 74 damage
+Lure + Organic Aoogah + Elephant Trunk + Organic Elephant Trunk for 74 damage
+Lure + Organic Aoogah + Elephant Trunk + Whole Fruit Pie for 73 damage
+Lure + Organic Aoogah + Elephant Trunk + Organic Whole Fruit Pie for 75 damage
+Lure + Organic Aoogah + Elephant Trunk + Fire Hose for 76 damage
+Lure + Organic Aoogah + Elephant Trunk + Organic Fire Hose for 79 damage
+Lure + Organic Aoogah + Organic Elephant Trunk + Organic Elephant Trunk for 76 damage
+Lure + Organic Aoogah + Organic Elephant Trunk + Whole Fruit Pie for 75 damage
+Lure + Organic Aoogah + Organic Elephant Trunk + Organic Whole Fruit Pie for 77 damage
+Lure + Organic Aoogah + Organic Elephant Trunk + Fire Hose for 78 damage
+Lure + Organic Aoogah + Organic Elephant Trunk + Organic Fire Hose for 81 damage
+Lure + Organic Aoogah + Foghorn for 81 damage
+Lure + Organic Aoogah + Whole Fruit Pie + Whole Fruit Pie for 82 damage
+Lure + Organic Aoogah + Whole Fruit Pie + Fire Hose for 74 damage
+Lure + Organic Aoogah + Whole Fruit Pie + Organic Fire Hose for 77 damage
+Lure + Organic Aoogah + Organic Whole Fruit Pie + Fire Hose for 76 damage
+Lure + Organic Aoogah + Organic Whole Fruit Pie + Organic Fire Hose for 79 damage
+Lure + Organic Aoogah + Whole Cream Pie + Seltzer Bottle for 78 damage
+Lure + Organic Aoogah + Whole Cream Pie + Organic Seltzer Bottle for 80 damage
+Lure + Organic Aoogah + Organic Whole Cream Pie + Seltzer Bottle for 82 damage
+Lure + Organic Aoogah + Seltzer Bottle + Fire Hose for 79 damage
+Lure + Organic Aoogah + Seltzer Bottle + Organic Fire Hose for 82 damage
+Lure + Organic Aoogah + Organic Seltzer Bottle + Organic Seltzer Bottle for 73 damage
+Lure + Organic Aoogah + Organic Seltzer Bottle + Fire Hose for 81 damage
+Lure + Elephant Trunk + Elephant Trunk + Elephant Trunk for 76 damage
+Lure + Elephant Trunk + Elephant Trunk + Organic Elephant Trunk for 78 damage
+Lure + Elephant Trunk + Elephant Trunk + Whole Fruit Pie for 78 damage
+Lure + Elephant Trunk + Elephant Trunk + Organic Whole Fruit Pie for 80 damage
+Lure + Elephant Trunk + Elephant Trunk + Seltzer Bottle for 72 damage
+Lure + Elephant Trunk + Elephant Trunk + Organic Seltzer Bottle for 74 damage
+Lure + Elephant Trunk + Elephant Trunk + Fire Hose for 81 damage
+Lure + Elephant Trunk + Organic Elephant Trunk + Organic Elephant Trunk for 81 damage
+Lure + Elephant Trunk + Organic Elephant Trunk + Whole Fruit Pie for 80 damage
+Lure + Elephant Trunk + Organic Elephant Trunk + Organic Whole Fruit Pie for 82 damage
+Lure + Elephant Trunk + Organic Elephant Trunk + Seltzer Bottle for 74 damage
+Lure + Elephant Trunk + Organic Elephant Trunk + Organic Seltzer Bottle for 76 damage
+Lure + Elephant Trunk + Whole Fruit Pie + Fire Hose for 78 damage
+Lure + Elephant Trunk + Whole Fruit Pie + Organic Fire Hose for 81 damage
+Lure + Elephant Trunk + Organic Whole Fruit Pie + Organic Seltzer Bottle for 73 damage
+Lure + Elephant Trunk + Organic Whole Fruit Pie + Fire Hose for 80 damage
+Lure + Elephant Trunk + Whole Cream Pie + Seltzer Bottle for 82 damage
+Lure + Elephant Trunk + Seltzer Bottle + Seltzer Bottle for 72 damage
+Lure + Elephant Trunk + Seltzer Bottle + Organic Seltzer Bottle for 74 damage
+Lure + Elephant Trunk + Organic Seltzer Bottle + Organic Seltzer Bottle for 77 damage
+Lure + Organic Elephant Trunk + Organic Elephant Trunk + Seltzer Bottle for 77 damage
+Lure + Organic Elephant Trunk + Organic Elephant Trunk + Organic Seltzer Bottle for 79 damage
+Lure + Organic Elephant Trunk + Whole Fruit Pie + Organic Seltzer Bottle for 73 damage
+Lure + Organic Elephant Trunk + Whole Fruit Pie + Fire Hose for 80 damage
+Lure + Organic Elephant Trunk + Organic Whole Fruit Pie + Seltzer Bottle for 73 damage
+Lure + Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Seltzer Bottle for 75 damage
+Lure + Organic Elephant Trunk + Organic Whole Fruit Pie + Fire Hose for 82 damage
+Lure + Organic Elephant Trunk + Seltzer Bottle + Seltzer Bottle for 74 damage
+Lure + Organic Elephant Trunk + Seltzer Bottle + Organic Seltzer Bottle for 76 damage
+Lure + Organic Elephant Trunk + Organic Seltzer Bottle + Organic Seltzer Bottle for 79 damage
+Lure + Foghorn + Whole Fruit Pie for 77 damage
+Lure + Foghorn + Organic Whole Fruit Pie for 79 damage
+Lure + Foghorn + Organic Seltzer Bottle for 73 damage
+Lure + Foghorn + Fire Hose for 80 damage
+Lure + Organic Foghorn + Whole Fruit Pie for 82 damage
+Lure + Organic Foghorn + Seltzer Bottle for 76 damage
+Lure + Organic Foghorn + Organic Seltzer Bottle for 78 damage
+Lure + Whole Fruit Pie + Organic Fire Hose for 74 damage
+Lure + Organic Whole Fruit Pie + Fire Hose for 74 damage
+Lure + Organic Whole Fruit Pie + Organic Fire Hose for 77 damage
+Lure + Whole Cream Pie + Seltzer Bottle for 81 damage
+Lure + Seltzer Bottle + Seltzer Bottle for 72 damage
+Lure + Seltzer Bottle + Organic Seltzer Bottle for 75 damage
+Lure + Organic Seltzer Bottle + Organic Seltzer Bottle for 79 damage
+Aoogah + Aoogah + Aoogah + Aoogah for 77 damage
+Aoogah + Aoogah + Aoogah + Organic Aoogah for 78 damage
+Aoogah + Aoogah + Aoogah + Seltzer Bottle for 79 damage
+Aoogah + Aoogah + Aoogah + Organic Seltzer Bottle for 81 damage
+Aoogah + Aoogah + Organic Aoogah + Organic Aoogah for 80 damage
+Aoogah + Aoogah + Organic Aoogah + Seltzer Bottle for 80 damage
+Aoogah + Aoogah + Organic Aoogah + Organic Seltzer Bottle for 82 damage
+Aoogah + Aoogah + Whole Cream Pie for 79 damage
+Aoogah + Aoogah + Organic Fire Hose for 72 damage
+Aoogah + Organic Aoogah + Organic Aoogah + Organic Aoogah for 81 damage
+Aoogah + Organic Aoogah + Organic Aoogah + Seltzer Bottle for 81 damage
+Aoogah + Organic Aoogah + Whole Cream Pie for 80 damage
+Aoogah + Organic Aoogah + Organic Fire Hose for 73 damage
+Aoogah + Elephant Trunk + Organic Elephant Trunk for 72 damage
+Aoogah + Elephant Trunk + Whole Fruit Pie for 72 damage
+Aoogah + Elephant Trunk + Organic Whole Fruit Pie for 74 damage
+Aoogah + Elephant Trunk + Fire Hose for 75 damage
+Aoogah + Elephant Trunk + Organic Fire Hose for 78 damage
+Aoogah + Organic Elephant Trunk + Organic Elephant Trunk for 75 damage
+Aoogah + Organic Elephant Trunk + Whole Fruit Pie for 74 damage
+Aoogah + Organic Elephant Trunk + Organic Whole Fruit Pie for 76 damage
+Aoogah + Organic Elephant Trunk + Fire Hose for 77 damage
+Aoogah + Organic Elephant Trunk + Organic Fire Hose for 80 damage
+Aoogah + Foghorn for 80 damage
+Aoogah + Whole Fruit Pie + Whole Fruit Pie for 81 damage
+Aoogah + Whole Fruit Pie + Fire Hose for 73 damage
+Aoogah + Whole Fruit Pie + Organic Fire Hose for 76 damage
+Aoogah + Organic Whole Fruit Pie + Fire Hose for 75 damage
+Aoogah + Organic Whole Fruit Pie + Organic Fire Hose for 78 damage
+Aoogah + Whole Cream Pie + Seltzer Bottle for 77 damage
+Aoogah + Whole Cream Pie + Organic Seltzer Bottle for 79 damage
+Aoogah + Organic Whole Cream Pie + Seltzer Bottle for 81 damage
+Aoogah + Seltzer Bottle + Fire Hose for 78 damage
+Aoogah + Seltzer Bottle + Organic Fire Hose for 81 damage
+Aoogah + Organic Seltzer Bottle + Organic Seltzer Bottle for 72 damage
+Aoogah + Organic Seltzer Bottle + Fire Hose for 80 damage
+Organic Aoogah + Organic Aoogah + Organic Aoogah + Organic Aoogah for 82 damage
+Organic Aoogah + Organic Aoogah + Whole Cream Pie for 81 damage
+Organic Aoogah + Organic Aoogah + Organic Fire Hose for 74 damage
+Organic Aoogah + Elephant Trunk + Organic Elephant Trunk for 74 damage
+Organic Aoogah + Elephant Trunk + Whole Fruit Pie for 73 damage
+Organic Aoogah + Elephant Trunk + Organic Whole Fruit Pie for 75 damage
+Organic Aoogah + Elephant Trunk + Fire Hose for 76 damage
+Organic Aoogah + Elephant Trunk + Organic Fire Hose for 79 damage
+Organic Aoogah + Organic Elephant Trunk + Organic Elephant Trunk for 76 damage
+Organic Aoogah + Organic Elephant Trunk + Whole Fruit Pie for 75 damage
+Organic Aoogah + Organic Elephant Trunk + Organic Whole Fruit Pie for 77 damage
+Organic Aoogah + Organic Elephant Trunk + Fire Hose for 78 damage
+Organic Aoogah + Organic Elephant Trunk + Organic Fire Hose for 81 damage
+Organic Aoogah + Foghorn for 81 damage
+Organic Aoogah + Whole Fruit Pie + Whole Fruit Pie for 82 damage
+Organic Aoogah + Whole Fruit Pie + Fire Hose for 74 damage
+Organic Aoogah + Whole Fruit Pie + Organic Fire Hose for 77 damage
+Organic Aoogah + Organic Whole Fruit Pie + Fire Hose for 76 damage
+Organic Aoogah + Organic Whole Fruit Pie + Organic Fire Hose for 79 damage
+Organic Aoogah + Whole Cream Pie + Seltzer Bottle for 78 damage
+Organic Aoogah + Whole Cream Pie + Organic Seltzer Bottle for 80 damage
+Organic Aoogah + Organic Whole Cream Pie + Seltzer Bottle for 82 damage
+Organic Aoogah + Seltzer Bottle + Fire Hose for 79 damage
+Organic Aoogah + Seltzer Bottle + Organic Fire Hose for 82 damage
+Organic Aoogah + Organic Seltzer Bottle + Organic Seltzer Bottle for 73 damage
+Organic Aoogah + Organic Seltzer Bottle + Fire Hose for 81 damage
+Elephant Trunk + Elephant Trunk + Elephant Trunk for 76 damage
+Elephant Trunk + Elephant Trunk + Organic Elephant Trunk for 78 damage
+Elephant Trunk + Elephant Trunk + Whole Fruit Pie for 78 damage
+Elephant Trunk + Elephant Trunk + Organic Whole Fruit Pie for 80 damage
+Elephant Trunk + Elephant Trunk + Seltzer Bottle for 72 damage
+Elephant Trunk + Elephant Trunk + Organic Seltzer Bottle for 74 damage
+Elephant Trunk + Elephant Trunk + Fire Hose for 81 damage
+Elephant Trunk + Organic Elephant Trunk + Organic Elephant Trunk for 81 damage
+Elephant Trunk + Organic Elephant Trunk + Whole Fruit Pie for 80 damage
+Elephant Trunk + Organic Elephant Trunk + Organic Whole Fruit Pie for 82 damage
+Elephant Trunk + Organic Elephant Trunk + Seltzer Bottle for 74 damage
+Elephant Trunk + Organic Elephant Trunk + Organic Seltzer Bottle for 76 damage
+Elephant Trunk + Whole Fruit Pie + Fire Hose for 78 damage
+Elephant Trunk + Whole Fruit Pie + Organic Fire Hose for 81 damage
+Elephant Trunk + Organic Whole Fruit Pie + Organic Seltzer Bottle for 73 damage
+Elephant Trunk + Organic Whole Fruit Pie + Fire Hose for 80 damage
+Elephant Trunk + Whole Cream Pie + Seltzer Bottle for 82 damage
+Elephant Trunk + Seltzer Bottle + Seltzer Bottle for 72 damage
+Elephant Trunk + Seltzer Bottle + Organic Seltzer Bottle for 74 damage
+Elephant Trunk + Organic Seltzer Bottle + Organic Seltzer Bottle for 77 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Seltzer Bottle for 77 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Seltzer Bottle for 79 damage
+Organic Elephant Trunk + Whole Fruit Pie + Organic Seltzer Bottle for 73 damage
+Organic Elephant Trunk + Whole Fruit Pie + Fire Hose for 80 damage
+Organic Elephant Trunk + Organic Whole Fruit Pie + Seltzer Bottle for 73 damage
+Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Seltzer Bottle for 75 damage
+Organic Elephant Trunk + Organic Whole Fruit Pie + Fire Hose for 82 damage
+Organic Elephant Trunk + Seltzer Bottle + Seltzer Bottle for 74 damage
+Organic Elephant Trunk + Seltzer Bottle + Organic Seltzer Bottle for 76 damage
+Organic Elephant Trunk + Organic Seltzer Bottle + Organic Seltzer Bottle for 79 damage
+Foghorn + Whole Fruit Pie for 77 damage
+Foghorn + Organic Whole Fruit Pie for 79 damage
+Foghorn + Organic Seltzer Bottle for 73 damage
+Foghorn + Fire Hose for 80 damage
+Organic Foghorn + Whole Fruit Pie for 82 damage
+Organic Foghorn + Seltzer Bottle for 76 damage
+Organic Foghorn + Organic Seltzer Bottle for 78 damage
+Whole Fruit Pie + Whole Cream Pie for 81 damage
+Whole Fruit Pie + Seltzer Bottle + Seltzer Bottle for 78 damage
+Whole Fruit Pie + Seltzer Bottle + Organic Seltzer Bottle for 80 damage
+Organic Whole Fruit Pie + Seltzer Bottle + Seltzer Bottle for 80 damage
+Organic Whole Fruit Pie + Seltzer Bottle + Organic Seltzer Bottle for 82 damage
+Whole Cream Pie + Organic Fire Hose for 73 damage
+Organic Whole Cream Pie + Fire Hose for 74 damage
+Organic Whole Cream Pie + Organic Fire Hose for 77 damage
+Seltzer Bottle + Seltzer Bottle + Seltzer Bottle for 76 damage
+Seltzer Bottle + Seltzer Bottle + Organic Seltzer Bottle for 78 damage
+Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle for 81 damage
+Fire Hose + Fire Hose for 72 damage
+Fire Hose + Organic Fire Hose for 76 damage
+Organic Fire Hose + Organic Fire Hose for 80 damage
+Storm Cloud for 80 damage
+Organic Safe for 77 damage
+(Lured) + Whole Fruit Pie + Organic Fire Hose for 74 damage
+(Lured) + Organic Whole Fruit Pie + Fire Hose for 74 damage
+(Lured) + Organic Whole Fruit Pie + Organic Fire Hose for 77 damage
+(Lured) + Whole Cream Pie + Seltzer Bottle for 81 damage
+(Lured) + Seltzer Bottle + Seltzer Bottle for 72 damage
+(Lured) + Seltzer Bottle + Organic Seltzer Bottle for 75 damage
+(Lured) + Organic Seltzer Bottle + Organic Seltzer Bottle for 79 damage

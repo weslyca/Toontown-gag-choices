@@ -1,0 +1,969 @@
+Trapdoor + Lure + Aoogah + Aoogah for 124 damage
+Trapdoor + Lure + Aoogah + Organic Aoogah for 125 damage
+Trapdoor + Lure + Aoogah + Seltzer Bottle for 122 damage
+Trapdoor + Lure + Aoogah + Organic Seltzer Bottle for 124 damage
+Trapdoor + Lure + Organic Aoogah + Organic Aoogah for 126 damage
+Trapdoor + Lure + Organic Aoogah + Seltzer Bottle for 123 damage
+Trapdoor + Lure + Organic Aoogah + Organic Seltzer Bottle for 125 damage
+Trapdoor + Lure + Whole Fruit Pie for 112 damage
+Trapdoor + Lure + Organic Whole Fruit Pie for 114 damage
+Trapdoor + Lure + Whole Cream Pie for 125 damage
+Trapdoor + Lure + Fire Hose for 115 damage
+Trapdoor + Lure + Organic Fire Hose for 118 damage
+Organic Trapdoor + Lure + Organic Aoogah for 110 damage
+Organic Trapdoor + Lure + Elephant Trunk for 114 damage
+Organic Trapdoor + Lure + Organic Elephant Trunk for 116 damage
+Organic Trapdoor + Lure + Whole Fruit Pie for 120 damage
+Organic Trapdoor + Lure + Organic Whole Fruit Pie for 122 damage
+Organic Trapdoor + Lure + Seltzer Bottle for 114 damage
+Organic Trapdoor + Lure + Organic Seltzer Bottle for 116 damage
+Organic Trapdoor + Lure + Fire Hose for 123 damage
+Organic Trapdoor + Lure + Organic Fire Hose for 126 damage
+Lure + Aoogah + Aoogah + Storm Cloud for 119 damage
+Lure + Aoogah + Aoogah + Organic Safe for 116 damage
+Lure + Aoogah + Organic Aoogah + Storm Cloud for 120 damage
+Lure + Aoogah + Organic Aoogah + Safe for 110 damage
+Lure + Aoogah + Organic Aoogah + Organic Safe for 117 damage
+Lure + Aoogah + Elephant Trunk + Organic Foghorn for 111 damage
+Lure + Aoogah + Elephant Trunk + Storm Cloud for 125 damage
+Lure + Aoogah + Elephant Trunk + Safe for 115 damage
+Lure + Aoogah + Elephant Trunk + Organic Safe for 122 damage
+Lure + Aoogah + Organic Elephant Trunk + Organic Foghorn for 113 damage
+Lure + Aoogah + Organic Elephant Trunk + Safe for 117 damage
+Lure + Aoogah + Organic Elephant Trunk + Organic Safe for 124 damage
+Lure + Aoogah + Foghorn + Whole Cream Pie for 120 damage
+Lure + Aoogah + Foghorn + Organic Whole Cream Pie for 124 damage
+Lure + Aoogah + Foghorn + Fire Hose for 110 damage
+Lure + Aoogah + Foghorn + Organic Fire Hose for 113 damage
+Lure + Aoogah + Organic Foghorn + Whole Fruit Pie for 113 damage
+Lure + Aoogah + Organic Foghorn + Organic Whole Fruit Pie for 115 damage
+Lure + Aoogah + Organic Foghorn + Whole Cream Pie for 126 damage
+Lure + Aoogah + Organic Foghorn + Fire Hose for 116 damage
+Lure + Aoogah + Organic Foghorn + Organic Fire Hose for 119 damage
+Lure + Aoogah + Whole Fruit Pie + Storm Cloud for 123 damage
+Lure + Aoogah + Whole Fruit Pie + Safe for 113 damage
+Lure + Aoogah + Whole Fruit Pie + Organic Safe for 120 damage
+Lure + Aoogah + Organic Whole Fruit Pie + Storm Cloud for 125 damage
+Lure + Aoogah + Organic Whole Fruit Pie + Safe for 115 damage
+Lure + Aoogah + Organic Whole Fruit Pie + Organic Safe for 122 damage
+Lure + Aoogah + Whole Cream Pie + Whole Cream Pie for 112 damage
+Lure + Aoogah + Whole Cream Pie + Organic Whole Cream Pie for 117 damage
+Lure + Aoogah + Whole Cream Pie + Safe for 126 damage
+Lure + Aoogah + Organic Whole Cream Pie + Organic Whole Cream Pie for 122 damage
+Lure + Aoogah + Birthday Cake for 116 damage
+Lure + Aoogah + Organic Birthday Cake for 126 damage
+Lure + Aoogah + Seltzer Bottle + Organic Safe for 114 damage
+Lure + Aoogah + Organic Seltzer Bottle + Organic Safe for 116 damage
+Lure + Aoogah + Fire Hose + Safe for 116 damage
+Lure + Aoogah + Fire Hose + Organic Safe for 123 damage
+Lure + Aoogah + Organic Fire Hose + Safe for 119 damage
+Lure + Aoogah + Organic Fire Hose + Organic Safe for 126 damage
+Lure + Aoogah + Geyser for 121 damage
+Lure + Organic Aoogah + Organic Aoogah + Storm Cloud for 121 damage
+Lure + Organic Aoogah + Organic Aoogah + Safe for 111 damage
+Lure + Organic Aoogah + Organic Aoogah + Organic Safe for 118 damage
+Lure + Organic Aoogah + Elephant Trunk + Organic Foghorn for 112 damage
+Lure + Organic Aoogah + Elephant Trunk + Storm Cloud for 126 damage
+Lure + Organic Aoogah + Elephant Trunk + Safe for 116 damage
+Lure + Organic Aoogah + Elephant Trunk + Organic Safe for 123 damage
+Lure + Organic Aoogah + Organic Elephant Trunk + Organic Foghorn for 114 damage
+Lure + Organic Aoogah + Organic Elephant Trunk + Safe for 118 damage
+Lure + Organic Aoogah + Organic Elephant Trunk + Organic Safe for 125 damage
+Lure + Organic Aoogah + Foghorn + Organic Whole Fruit Pie for 110 damage
+Lure + Organic Aoogah + Foghorn + Whole Cream Pie for 121 damage
+Lure + Organic Aoogah + Foghorn + Organic Whole Cream Pie for 125 damage
+Lure + Organic Aoogah + Foghorn + Fire Hose for 111 damage
+Lure + Organic Aoogah + Foghorn + Organic Fire Hose for 114 damage
+Lure + Organic Aoogah + Organic Foghorn + Whole Fruit Pie for 114 damage
+Lure + Organic Aoogah + Organic Foghorn + Organic Whole Fruit Pie for 116 damage
+Lure + Organic Aoogah + Organic Foghorn + Organic Seltzer Bottle for 110 damage
+Lure + Organic Aoogah + Organic Foghorn + Fire Hose for 117 damage
+Lure + Organic Aoogah + Organic Foghorn + Organic Fire Hose for 120 damage
+Lure + Organic Aoogah + Whole Fruit Pie + Storm Cloud for 124 damage
+Lure + Organic Aoogah + Whole Fruit Pie + Safe for 114 damage
+Lure + Organic Aoogah + Whole Fruit Pie + Organic Safe for 121 damage
+Lure + Organic Aoogah + Organic Whole Fruit Pie + Storm Cloud for 126 damage
+Lure + Organic Aoogah + Organic Whole Fruit Pie + Safe for 116 damage
+Lure + Organic Aoogah + Organic Whole Fruit Pie + Organic Safe for 123 damage
+Lure + Organic Aoogah + Whole Cream Pie + Whole Cream Pie for 113 damage
+Lure + Organic Aoogah + Whole Cream Pie + Organic Whole Cream Pie for 118 damage
+Lure + Organic Aoogah + Organic Whole Cream Pie + Organic Whole Cream Pie for 123 damage
+Lure + Organic Aoogah + Birthday Cake for 117 damage
+Lure + Organic Aoogah + Seltzer Bottle + Organic Safe for 115 damage
+Lure + Organic Aoogah + Organic Seltzer Bottle + Safe for 110 damage
+Lure + Organic Aoogah + Organic Seltzer Bottle + Organic Safe for 117 damage
+Lure + Organic Aoogah + Fire Hose + Safe for 117 damage
+Lure + Organic Aoogah + Fire Hose + Organic Safe for 124 damage
+Lure + Organic Aoogah + Organic Fire Hose + Safe for 120 damage
+Lure + Organic Aoogah + Geyser for 122 damage
+Lure + Elephant Trunk + Elephant Trunk + Foghorn for 111 damage
+Lure + Elephant Trunk + Elephant Trunk + Organic Foghorn for 117 damage
+Lure + Elephant Trunk + Elephant Trunk + Safe for 121 damage
+Lure + Elephant Trunk + Organic Elephant Trunk + Foghorn for 113 damage
+Lure + Elephant Trunk + Organic Elephant Trunk + Organic Foghorn for 119 damage
+Lure + Elephant Trunk + Organic Elephant Trunk + Safe for 123 damage
+Lure + Elephant Trunk + Foghorn + Whole Fruit Pie for 113 damage
+Lure + Elephant Trunk + Foghorn + Organic Whole Fruit Pie for 115 damage
+Lure + Elephant Trunk + Foghorn + Whole Cream Pie for 126 damage
+Lure + Elephant Trunk + Foghorn + Fire Hose for 116 damage
+Lure + Elephant Trunk + Foghorn + Organic Fire Hose for 119 damage
+Lure + Elephant Trunk + Organic Foghorn + Whole Fruit Pie for 119 damage
+Lure + Elephant Trunk + Organic Foghorn + Organic Whole Fruit Pie for 121 damage
+Lure + Elephant Trunk + Organic Foghorn + Seltzer Bottle for 113 damage
+Lure + Elephant Trunk + Organic Foghorn + Organic Seltzer Bottle for 115 damage
+Lure + Elephant Trunk + Organic Foghorn + Fire Hose for 122 damage
+Lure + Elephant Trunk + Organic Foghorn + Organic Fire Hose for 125 damage
+Lure + Elephant Trunk + Whole Fruit Pie + Safe for 118 damage
+Lure + Elephant Trunk + Whole Fruit Pie + Organic Safe for 125 damage
+Lure + Elephant Trunk + Organic Whole Fruit Pie + Safe for 120 damage
+Lure + Elephant Trunk + Whole Cream Pie + Whole Cream Pie for 117 damage
+Lure + Elephant Trunk + Whole Cream Pie + Organic Whole Cream Pie for 122 damage
+Lure + Elephant Trunk + Birthday Cake for 121 damage
+Lure + Elephant Trunk + Seltzer Bottle + Safe for 112 damage
+Lure + Elephant Trunk + Seltzer Bottle + Organic Safe for 119 damage
+Lure + Elephant Trunk + Organic Seltzer Bottle + Safe for 114 damage
+Lure + Elephant Trunk + Organic Seltzer Bottle + Organic Safe for 121 damage
+Lure + Elephant Trunk + Fire Hose + Safe for 121 damage
+Lure + Elephant Trunk + Organic Fire Hose + Safe for 124 damage
+Lure + Elephant Trunk + Geyser for 126 damage
+Lure + Organic Elephant Trunk + Organic Elephant Trunk + Foghorn for 116 damage
+Lure + Organic Elephant Trunk + Organic Elephant Trunk + Organic Foghorn for 122 damage
+Lure + Organic Elephant Trunk + Organic Elephant Trunk + Safe for 126 damage
+Lure + Organic Elephant Trunk + Foghorn + Whole Fruit Pie for 115 damage
+Lure + Organic Elephant Trunk + Foghorn + Organic Whole Fruit Pie for 117 damage
+Lure + Organic Elephant Trunk + Foghorn + Organic Seltzer Bottle for 111 damage
+Lure + Organic Elephant Trunk + Foghorn + Fire Hose for 118 damage
+Lure + Organic Elephant Trunk + Foghorn + Organic Fire Hose for 121 damage
+Lure + Organic Elephant Trunk + Organic Foghorn + Whole Fruit Pie for 121 damage
+Lure + Organic Elephant Trunk + Organic Foghorn + Organic Whole Fruit Pie for 123 damage
+Lure + Organic Elephant Trunk + Organic Foghorn + Seltzer Bottle for 115 damage
+Lure + Organic Elephant Trunk + Organic Foghorn + Organic Seltzer Bottle for 117 damage
+Lure + Organic Elephant Trunk + Organic Foghorn + Fire Hose for 124 damage
+Lure + Organic Elephant Trunk + Whole Fruit Pie + Safe for 120 damage
+Lure + Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Whole Cream Pie for 111 damage
+Lure + Organic Elephant Trunk + Organic Whole Fruit Pie + Safe for 122 damage
+Lure + Organic Elephant Trunk + Whole Cream Pie + Whole Cream Pie for 119 damage
+Lure + Organic Elephant Trunk + Whole Cream Pie + Organic Whole Cream Pie for 124 damage
+Lure + Organic Elephant Trunk + Birthday Cake for 123 damage
+Lure + Organic Elephant Trunk + Seltzer Bottle + Safe for 114 damage
+Lure + Organic Elephant Trunk + Seltzer Bottle + Organic Safe for 121 damage
+Lure + Organic Elephant Trunk + Organic Seltzer Bottle + Safe for 116 damage
+Lure + Organic Elephant Trunk + Organic Seltzer Bottle + Organic Safe for 123 damage
+Lure + Organic Elephant Trunk + Fire Hose + Safe for 123 damage
+Lure + Organic Elephant Trunk + Organic Fire Hose + Safe for 126 damage
+Lure + Organic Elephant Trunk + Organic Storm Cloud for 111 damage
+Lure + Foghorn + Foghorn for 120 damage
+Lure + Foghorn + Organic Foghorn for 126 damage
+Lure + Foghorn + Whole Fruit Pie + Whole Fruit Pie for 115 damage
+Lure + Foghorn + Whole Fruit Pie + Organic Whole Fruit Pie for 118 damage
+Lure + Foghorn + Whole Fruit Pie + Organic Fire Hose for 110 damage
+Lure + Foghorn + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 120 damage
+Lure + Foghorn + Organic Whole Fruit Pie + Organic Fire Hose for 112 damage
+Lure + Foghorn + Whole Cream Pie + Seltzer Bottle for 111 damage
+Lure + Foghorn + Whole Cream Pie + Organic Seltzer Bottle for 113 damage
+Lure + Foghorn + Whole Cream Pie + Fire Hose for 120 damage
+Lure + Foghorn + Whole Cream Pie + Organic Fire Hose for 123 damage
+Lure + Foghorn + Organic Whole Cream Pie + Seltzer Bottle for 115 damage
+Lure + Foghorn + Organic Whole Cream Pie + Organic Seltzer Bottle for 117 damage
+Lure + Foghorn + Organic Whole Cream Pie + Fire Hose for 124 damage
+Lure + Foghorn + Seltzer Bottle + Fire Hose for 112 damage
+Lure + Foghorn + Seltzer Bottle + Organic Fire Hose for 115 damage
+Lure + Foghorn + Organic Seltzer Bottle + Fire Hose for 114 damage
+Lure + Foghorn + Organic Seltzer Bottle + Organic Fire Hose for 118 damage
+Lure + Foghorn + Fire Hose + Fire Hose for 122 damage
+Lure + Foghorn + Fire Hose + Organic Fire Hose for 126 damage
+Lure + Foghorn + Safe for 120 damage
+Lure + Organic Foghorn + Whole Fruit Pie + Whole Fruit Pie for 120 damage
+Lure + Organic Foghorn + Whole Fruit Pie + Organic Whole Fruit Pie for 123 damage
+Lure + Organic Foghorn + Whole Fruit Pie + Fire Hose for 112 damage
+Lure + Organic Foghorn + Whole Fruit Pie + Organic Fire Hose for 115 damage
+Lure + Organic Foghorn + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 125 damage
+Lure + Organic Foghorn + Organic Whole Fruit Pie + Fire Hose for 114 damage
+Lure + Organic Foghorn + Organic Whole Fruit Pie + Organic Fire Hose for 117 damage
+Lure + Organic Foghorn + Whole Cream Pie + Seltzer Bottle for 116 damage
+Lure + Organic Foghorn + Whole Cream Pie + Organic Seltzer Bottle for 118 damage
+Lure + Organic Foghorn + Whole Cream Pie + Fire Hose for 125 damage
+Lure + Organic Foghorn + Organic Whole Cream Pie + Seltzer Bottle for 120 damage
+Lure + Organic Foghorn + Organic Whole Cream Pie + Organic Seltzer Bottle for 122 damage
+Lure + Organic Foghorn + Seltzer Bottle + Fire Hose for 117 damage
+Lure + Organic Foghorn + Seltzer Bottle + Organic Fire Hose for 120 damage
+Lure + Organic Foghorn + Organic Seltzer Bottle + Organic Seltzer Bottle for 111 damage
+Lure + Organic Foghorn + Organic Seltzer Bottle + Fire Hose for 119 damage
+Lure + Organic Foghorn + Organic Seltzer Bottle + Organic Fire Hose for 123 damage
+Lure + Organic Foghorn + Safe for 125 damage
+Lure + Opera Singer + Whole Fruit Pie for 117 damage
+Lure + Opera Singer + Organic Whole Fruit Pie for 119 damage
+Lure + Opera Singer + Seltzer Bottle for 111 damage
+Lure + Opera Singer + Organic Seltzer Bottle for 113 damage
+Lure + Opera Singer + Fire Hose for 120 damage
+Lure + Opera Singer + Organic Fire Hose for 123 damage
+Lure + Organic Opera Singer + Whole Fruit Pie for 126 damage
+Lure + Organic Opera Singer + Seltzer Bottle for 120 damage
+Lure + Organic Opera Singer + Organic Seltzer Bottle for 122 damage
+Lure + Whole Fruit Pie + Whole Fruit Pie + Seltzer Bottle for 113 damage
+Lure + Whole Fruit Pie + Whole Fruit Pie + Organic Seltzer Bottle for 115 damage
+Lure + Whole Fruit Pie + Whole Fruit Pie + Fire Hose for 122 damage
+Lure + Whole Fruit Pie + Whole Fruit Pie + Organic Fire Hose for 125 damage
+Lure + Whole Fruit Pie + Organic Whole Fruit Pie + Seltzer Bottle for 117 damage
+Lure + Whole Fruit Pie + Organic Whole Fruit Pie + Organic Seltzer Bottle for 119 damage
+Lure + Whole Fruit Pie + Organic Whole Fruit Pie + Fire Hose for 126 damage
+Lure + Whole Fruit Pie + Whole Cream Pie for 115 damage
+Lure + Whole Fruit Pie + Organic Whole Cream Pie for 122 damage
+Lure + Whole Fruit Pie + Fire Hose + Fire Hose for 113 damage
+Lure + Whole Fruit Pie + Fire Hose + Organic Fire Hose for 117 damage
+Lure + Whole Fruit Pie + Organic Fire Hose + Organic Fire Hose for 121 damage
+Lure + Whole Fruit Pie + Storm Cloud for 121 damage
+Lure + Whole Fruit Pie + Safe for 111 damage
+Lure + Whole Fruit Pie + Organic Safe for 118 damage
+Lure + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Seltzer Bottle for 120 damage
+Lure + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Organic Seltzer Bottle for 122 damage
+Lure + Organic Whole Fruit Pie + Whole Cream Pie for 118 damage
+Lure + Organic Whole Fruit Pie + Organic Whole Cream Pie for 125 damage
+Lure + Organic Whole Fruit Pie + Organic Seltzer Bottle + Organic Fire Hose for 112 damage
+Lure + Organic Whole Fruit Pie + Fire Hose + Fire Hose for 116 damage
+Lure + Organic Whole Fruit Pie + Fire Hose + Organic Fire Hose for 120 damage
+Lure + Organic Whole Fruit Pie + Organic Fire Hose + Organic Fire Hose for 124 damage
+Lure + Organic Whole Fruit Pie + Storm Cloud for 124 damage
+Lure + Organic Whole Fruit Pie + Safe for 114 damage
+Lure + Organic Whole Fruit Pie + Organic Safe for 121 damage
+Lure + Whole Cream Pie + Seltzer Bottle + Seltzer Bottle for 111 damage
+Lure + Whole Cream Pie + Seltzer Bottle + Organic Seltzer Bottle for 113 damage
+Lure + Whole Cream Pie + Seltzer Bottle + Fire Hose for 122 damage
+Lure + Whole Cream Pie + Seltzer Bottle + Organic Fire Hose for 125 damage
+Lure + Whole Cream Pie + Organic Seltzer Bottle + Organic Seltzer Bottle for 116 damage
+Lure + Whole Cream Pie + Organic Seltzer Bottle + Fire Hose for 124 damage
+Lure + Organic Whole Cream Pie + Seltzer Bottle + Seltzer Bottle for 117 damage
+Lure + Organic Whole Cream Pie + Seltzer Bottle + Organic Seltzer Bottle for 119 damage
+Lure + Organic Whole Cream Pie + Organic Seltzer Bottle + Organic Seltzer Bottle for 122 damage
+Lure + Seltzer Bottle + Seltzer Bottle + Organic Seltzer Bottle for 111 damage
+Lure + Seltzer Bottle + Seltzer Bottle + Fire Hose for 123 damage
+Lure + Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle for 115 damage
+Lure + Seltzer Bottle + Organic Seltzer Bottle + Fire Hose for 126 damage
+Lure + Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle for 118 damage
+Lure + Organic Seltzer Bottle + Organic Safe for 112 damage
+Lure + Fire Hose + Safe for 115 damage
+Lure + Fire Hose + Organic Safe for 122 damage
+Lure + Organic Fire Hose + Organic Fire Hose for 113 damage
+Lure + Organic Fire Hose + Safe for 120 damage
+Lure + Storm Cloud for 120 damage
+Aoogah + Aoogah + Aoogah + Foghorn for 118 damage
+Aoogah + Aoogah + Aoogah + Organic Foghorn for 124 damage
+Aoogah + Aoogah + Organic Aoogah + Foghorn for 119 damage
+Aoogah + Aoogah + Organic Aoogah + Organic Foghorn for 125 damage
+Aoogah + Aoogah + Elephant Trunk + Foghorn for 124 damage
+Aoogah + Aoogah + Organic Elephant Trunk + Foghorn for 126 damage
+Aoogah + Aoogah + Organic Elephant Trunk + Organic Whole Cream Pie for 110 damage
+Aoogah + Aoogah + Foghorn + Whole Fruit Pie for 126 damage
+Aoogah + Aoogah + Foghorn + Seltzer Bottle for 120 damage
+Aoogah + Aoogah + Foghorn + Organic Seltzer Bottle for 122 damage
+Aoogah + Aoogah + Organic Foghorn + Seltzer Bottle for 126 damage
+Aoogah + Aoogah + Whole Fruit Pie + Whole Cream Pie for 120 damage
+Aoogah + Aoogah + Whole Fruit Pie + Organic Whole Cream Pie for 125 damage
+Aoogah + Aoogah + Organic Whole Fruit Pie + Whole Cream Pie for 122 damage
+Aoogah + Aoogah + Whole Cream Pie + Organic Fire Hose for 112 damage
+Aoogah + Aoogah + Organic Whole Cream Pie + Fire Hose for 113 damage
+Aoogah + Aoogah + Organic Whole Cream Pie + Organic Fire Hose for 116 damage
+Aoogah + Aoogah + Fire Hose + Fire Hose for 111 damage
+Aoogah + Aoogah + Fire Hose + Organic Fire Hose for 115 damage
+Aoogah + Aoogah + Organic Fire Hose + Organic Fire Hose for 119 damage
+Aoogah + Aoogah + Storm Cloud for 119 damage
+Aoogah + Aoogah + Organic Safe for 116 damage
+Aoogah + Organic Aoogah + Organic Aoogah + Foghorn for 120 damage
+Aoogah + Organic Aoogah + Organic Aoogah + Organic Foghorn for 126 damage
+Aoogah + Organic Aoogah + Elephant Trunk + Foghorn for 125 damage
+Aoogah + Organic Aoogah + Organic Elephant Trunk + Organic Whole Cream Pie for 112 damage
+Aoogah + Organic Aoogah + Foghorn + Seltzer Bottle for 121 damage
+Aoogah + Organic Aoogah + Foghorn + Organic Seltzer Bottle for 123 damage
+Aoogah + Organic Aoogah + Whole Fruit Pie + Whole Cream Pie for 121 damage
+Aoogah + Organic Aoogah + Whole Fruit Pie + Organic Whole Cream Pie for 126 damage
+Aoogah + Organic Aoogah + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 110 damage
+Aoogah + Organic Aoogah + Organic Whole Fruit Pie + Whole Cream Pie for 123 damage
+Aoogah + Organic Aoogah + Whole Cream Pie + Fire Hose for 110 damage
+Aoogah + Organic Aoogah + Whole Cream Pie + Organic Fire Hose for 113 damage
+Aoogah + Organic Aoogah + Organic Whole Cream Pie + Fire Hose for 114 damage
+Aoogah + Organic Aoogah + Organic Whole Cream Pie + Organic Fire Hose for 117 damage
+Aoogah + Organic Aoogah + Fire Hose + Fire Hose for 112 damage
+Aoogah + Organic Aoogah + Fire Hose + Organic Fire Hose for 116 damage
+Aoogah + Organic Aoogah + Organic Fire Hose + Organic Fire Hose for 120 damage
+Aoogah + Organic Aoogah + Storm Cloud for 120 damage
+Aoogah + Organic Aoogah + Safe for 110 damage
+Aoogah + Organic Aoogah + Organic Safe for 117 damage
+Aoogah + Elephant Trunk + Elephant Trunk + Whole Cream Pie for 110 damage
+Aoogah + Elephant Trunk + Elephant Trunk + Organic Whole Cream Pie for 114 damage
+Aoogah + Elephant Trunk + Organic Elephant Trunk + Whole Cream Pie for 112 damage
+Aoogah + Elephant Trunk + Organic Elephant Trunk + Organic Whole Cream Pie for 116 damage
+Aoogah + Elephant Trunk + Foghorn + Seltzer Bottle for 126 damage
+Aoogah + Elephant Trunk + Organic Foghorn for 111 damage
+Aoogah + Elephant Trunk + Whole Fruit Pie + Whole Fruit Pie for 110 damage
+Aoogah + Elephant Trunk + Whole Fruit Pie + Organic Whole Fruit Pie for 113 damage
+Aoogah + Elephant Trunk + Whole Fruit Pie + Whole Cream Pie for 126 damage
+Aoogah + Elephant Trunk + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 115 damage
+Aoogah + Elephant Trunk + Whole Cream Pie + Fire Hose for 115 damage
+Aoogah + Elephant Trunk + Whole Cream Pie + Organic Fire Hose for 118 damage
+Aoogah + Elephant Trunk + Organic Whole Cream Pie + Seltzer Bottle for 110 damage
+Aoogah + Elephant Trunk + Organic Whole Cream Pie + Organic Seltzer Bottle for 112 damage
+Aoogah + Elephant Trunk + Organic Whole Cream Pie + Fire Hose for 119 damage
+Aoogah + Elephant Trunk + Organic Whole Cream Pie + Organic Fire Hose for 122 damage
+Aoogah + Elephant Trunk + Seltzer Bottle + Organic Fire Hose for 110 damage
+Aoogah + Elephant Trunk + Organic Seltzer Bottle + Organic Fire Hose for 113 damage
+Aoogah + Elephant Trunk + Fire Hose + Fire Hose for 117 damage
+Aoogah + Elephant Trunk + Fire Hose + Organic Fire Hose for 121 damage
+Aoogah + Elephant Trunk + Organic Fire Hose + Organic Fire Hose for 125 damage
+Aoogah + Elephant Trunk + Storm Cloud for 125 damage
+Aoogah + Elephant Trunk + Safe for 115 damage
+Aoogah + Elephant Trunk + Organic Safe for 122 damage
+Aoogah + Organic Elephant Trunk + Organic Elephant Trunk + Whole Cream Pie for 115 damage
+Aoogah + Organic Elephant Trunk + Organic Elephant Trunk + Organic Whole Cream Pie for 119 damage
+Aoogah + Organic Elephant Trunk + Organic Foghorn for 113 damage
+Aoogah + Organic Elephant Trunk + Whole Fruit Pie + Whole Fruit Pie for 112 damage
+Aoogah + Organic Elephant Trunk + Whole Fruit Pie + Organic Whole Fruit Pie for 115 damage
+Aoogah + Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 117 damage
+Aoogah + Organic Elephant Trunk + Whole Cream Pie + Organic Seltzer Bottle for 110 damage
+Aoogah + Organic Elephant Trunk + Whole Cream Pie + Fire Hose for 117 damage
+Aoogah + Organic Elephant Trunk + Whole Cream Pie + Organic Fire Hose for 120 damage
+Aoogah + Organic Elephant Trunk + Organic Whole Cream Pie + Seltzer Bottle for 112 damage
+Aoogah + Organic Elephant Trunk + Organic Whole Cream Pie + Organic Seltzer Bottle for 114 damage
+Aoogah + Organic Elephant Trunk + Organic Whole Cream Pie + Fire Hose for 121 damage
+Aoogah + Organic Elephant Trunk + Organic Whole Cream Pie + Organic Fire Hose for 124 damage
+Aoogah + Organic Elephant Trunk + Seltzer Bottle + Organic Fire Hose for 112 damage
+Aoogah + Organic Elephant Trunk + Organic Seltzer Bottle + Fire Hose for 111 damage
+Aoogah + Organic Elephant Trunk + Organic Seltzer Bottle + Organic Fire Hose for 115 damage
+Aoogah + Organic Elephant Trunk + Fire Hose + Fire Hose for 119 damage
+Aoogah + Organic Elephant Trunk + Fire Hose + Organic Fire Hose for 123 damage
+Aoogah + Organic Elephant Trunk + Safe for 117 damage
+Aoogah + Organic Elephant Trunk + Organic Safe for 124 damage
+Aoogah + Foghorn + Whole Cream Pie for 120 damage
+Aoogah + Foghorn + Organic Whole Cream Pie for 124 damage
+Aoogah + Foghorn + Fire Hose for 110 damage
+Aoogah + Foghorn + Organic Fire Hose for 113 damage
+Aoogah + Organic Foghorn + Whole Fruit Pie for 113 damage
+Aoogah + Organic Foghorn + Organic Whole Fruit Pie for 115 damage
+Aoogah + Organic Foghorn + Whole Cream Pie for 126 damage
+Aoogah + Organic Foghorn + Fire Hose for 116 damage
+Aoogah + Organic Foghorn + Organic Fire Hose for 119 damage
+Aoogah + Whole Fruit Pie + Whole Fruit Pie + Whole Fruit Pie for 114 damage
+Aoogah + Whole Fruit Pie + Whole Fruit Pie + Organic Whole Fruit Pie for 116 damage
+Aoogah + Whole Fruit Pie + Whole Fruit Pie + Fire Hose for 111 damage
+Aoogah + Whole Fruit Pie + Whole Fruit Pie + Organic Fire Hose for 114 damage
+Aoogah + Whole Fruit Pie + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 118 damage
+Aoogah + Whole Fruit Pie + Organic Whole Fruit Pie + Fire Hose for 114 damage
+Aoogah + Whole Fruit Pie + Organic Whole Fruit Pie + Organic Fire Hose for 117 damage
+Aoogah + Whole Fruit Pie + Whole Cream Pie + Seltzer Bottle for 118 damage
+Aoogah + Whole Fruit Pie + Whole Cream Pie + Organic Seltzer Bottle for 120 damage
+Aoogah + Whole Fruit Pie + Organic Whole Cream Pie + Seltzer Bottle for 123 damage
+Aoogah + Whole Fruit Pie + Organic Whole Cream Pie + Organic Seltzer Bottle for 125 damage
+Aoogah + Whole Fruit Pie + Organic Seltzer Bottle + Organic Fire Hose for 111 damage
+Aoogah + Whole Fruit Pie + Fire Hose + Fire Hose for 115 damage
+Aoogah + Whole Fruit Pie + Fire Hose + Organic Fire Hose for 119 damage
+Aoogah + Whole Fruit Pie + Organic Fire Hose + Organic Fire Hose for 123 damage
+Aoogah + Whole Fruit Pie + Storm Cloud for 123 damage
+Aoogah + Whole Fruit Pie + Safe for 113 damage
+Aoogah + Whole Fruit Pie + Organic Safe for 120 damage
+Aoogah + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 121 damage
+Aoogah + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Fire Hose for 116 damage
+Aoogah + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Organic Fire Hose for 119 damage
+Aoogah + Organic Whole Fruit Pie + Whole Cream Pie + Seltzer Bottle for 120 damage
+Aoogah + Organic Whole Fruit Pie + Whole Cream Pie + Organic Seltzer Bottle for 122 damage
+Aoogah + Organic Whole Fruit Pie + Organic Whole Cream Pie + Seltzer Bottle for 125 damage
+Aoogah + Organic Whole Fruit Pie + Seltzer Bottle + Organic Fire Hose for 110 damage
+Aoogah + Organic Whole Fruit Pie + Organic Seltzer Bottle + Organic Fire Hose for 113 damage
+Aoogah + Organic Whole Fruit Pie + Fire Hose + Fire Hose for 117 damage
+Aoogah + Organic Whole Fruit Pie + Fire Hose + Organic Fire Hose for 121 damage
+Aoogah + Organic Whole Fruit Pie + Organic Fire Hose + Organic Fire Hose for 125 damage
+Aoogah + Organic Whole Fruit Pie + Storm Cloud for 125 damage
+Aoogah + Organic Whole Fruit Pie + Safe for 115 damage
+Aoogah + Organic Whole Fruit Pie + Organic Safe for 122 damage
+Aoogah + Whole Cream Pie + Whole Cream Pie for 112 damage
+Aoogah + Whole Cream Pie + Organic Whole Cream Pie for 117 damage
+Aoogah + Whole Cream Pie + Seltzer Bottle + Fire Hose for 118 damage
+Aoogah + Whole Cream Pie + Seltzer Bottle + Organic Fire Hose for 121 damage
+Aoogah + Whole Cream Pie + Organic Seltzer Bottle + Organic Seltzer Bottle for 112 damage
+Aoogah + Whole Cream Pie + Organic Seltzer Bottle + Fire Hose for 120 damage
+Aoogah + Whole Cream Pie + Organic Seltzer Bottle + Organic Fire Hose for 124 damage
+Aoogah + Whole Cream Pie + Safe for 126 damage
+Aoogah + Organic Whole Cream Pie + Organic Whole Cream Pie for 122 damage
+Aoogah + Organic Whole Cream Pie + Seltzer Bottle + Seltzer Bottle for 111 damage
+Aoogah + Organic Whole Cream Pie + Seltzer Bottle + Organic Seltzer Bottle for 113 damage
+Aoogah + Organic Whole Cream Pie + Seltzer Bottle + Fire Hose for 122 damage
+Aoogah + Organic Whole Cream Pie + Seltzer Bottle + Organic Fire Hose for 125 damage
+Aoogah + Organic Whole Cream Pie + Organic Seltzer Bottle + Organic Seltzer Bottle for 116 damage
+Aoogah + Organic Whole Cream Pie + Organic Seltzer Bottle + Fire Hose for 124 damage
+Aoogah + Birthday Cake for 116 damage
+Aoogah + Organic Birthday Cake for 126 damage
+Aoogah + Seltzer Bottle + Fire Hose + Fire Hose for 114 damage
+Aoogah + Seltzer Bottle + Fire Hose + Organic Fire Hose for 117 damage
+Aoogah + Seltzer Bottle + Organic Fire Hose + Organic Fire Hose for 121 damage
+Aoogah + Seltzer Bottle + Organic Safe for 114 damage
+Aoogah + Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Fire Hose for 111 damage
+Aoogah + Organic Seltzer Bottle + Fire Hose + Fire Hose for 116 damage
+Aoogah + Organic Seltzer Bottle + Fire Hose + Organic Fire Hose for 120 damage
+Aoogah + Organic Seltzer Bottle + Organic Fire Hose + Organic Fire Hose for 123 damage
+Aoogah + Organic Seltzer Bottle + Organic Safe for 116 damage
+Aoogah + Fire Hose + Fire Hose + Fire Hose for 124 damage
+Aoogah + Fire Hose + Safe for 116 damage
+Aoogah + Fire Hose + Organic Safe for 123 damage
+Aoogah + Organic Fire Hose + Safe for 119 damage
+Aoogah + Organic Fire Hose + Organic Safe for 126 damage
+Aoogah + Geyser for 121 damage
+Organic Aoogah + Organic Aoogah + Organic Aoogah + Foghorn for 122 damage
+Organic Aoogah + Organic Aoogah + Elephant Trunk + Foghorn for 126 damage
+Organic Aoogah + Organic Aoogah + Elephant Trunk + Organic Whole Cream Pie for 110 damage
+Organic Aoogah + Organic Aoogah + Organic Elephant Trunk + Organic Whole Cream Pie for 113 damage
+Organic Aoogah + Organic Aoogah + Foghorn + Seltzer Bottle for 122 damage
+Organic Aoogah + Organic Aoogah + Foghorn + Organic Seltzer Bottle for 124 damage
+Organic Aoogah + Organic Aoogah + Whole Fruit Pie + Whole Cream Pie for 122 damage
+Organic Aoogah + Organic Aoogah + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 111 damage
+Organic Aoogah + Organic Aoogah + Organic Whole Fruit Pie + Whole Cream Pie for 124 damage
+Organic Aoogah + Organic Aoogah + Whole Cream Pie + Fire Hose for 111 damage
+Organic Aoogah + Organic Aoogah + Whole Cream Pie + Organic Fire Hose for 114 damage
+Organic Aoogah + Organic Aoogah + Organic Whole Cream Pie + Fire Hose for 115 damage
+Organic Aoogah + Organic Aoogah + Organic Whole Cream Pie + Organic Fire Hose for 118 damage
+Organic Aoogah + Organic Aoogah + Fire Hose + Fire Hose for 113 damage
+Organic Aoogah + Organic Aoogah + Fire Hose + Organic Fire Hose for 117 damage
+Organic Aoogah + Organic Aoogah + Organic Fire Hose + Organic Fire Hose for 121 damage
+Organic Aoogah + Organic Aoogah + Storm Cloud for 121 damage
+Organic Aoogah + Organic Aoogah + Safe for 111 damage
+Organic Aoogah + Organic Aoogah + Organic Safe for 118 damage
+Organic Aoogah + Elephant Trunk + Elephant Trunk + Whole Cream Pie for 111 damage
+Organic Aoogah + Elephant Trunk + Elephant Trunk + Organic Whole Cream Pie for 115 damage
+Organic Aoogah + Elephant Trunk + Organic Elephant Trunk + Whole Cream Pie for 114 damage
+Organic Aoogah + Elephant Trunk + Organic Elephant Trunk + Organic Whole Cream Pie for 118 damage
+Organic Aoogah + Elephant Trunk + Organic Foghorn for 112 damage
+Organic Aoogah + Elephant Trunk + Whole Fruit Pie + Whole Fruit Pie for 111 damage
+Organic Aoogah + Elephant Trunk + Whole Fruit Pie + Organic Whole Fruit Pie for 114 damage
+Organic Aoogah + Elephant Trunk + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 116 damage
+Organic Aoogah + Elephant Trunk + Whole Cream Pie + Fire Hose for 116 damage
+Organic Aoogah + Elephant Trunk + Whole Cream Pie + Organic Fire Hose for 119 damage
+Organic Aoogah + Elephant Trunk + Organic Whole Cream Pie + Seltzer Bottle for 111 damage
+Organic Aoogah + Elephant Trunk + Organic Whole Cream Pie + Organic Seltzer Bottle for 113 damage
+Organic Aoogah + Elephant Trunk + Organic Whole Cream Pie + Fire Hose for 120 damage
+Organic Aoogah + Elephant Trunk + Organic Whole Cream Pie + Organic Fire Hose for 123 damage
+Organic Aoogah + Elephant Trunk + Seltzer Bottle + Organic Fire Hose for 111 damage
+Organic Aoogah + Elephant Trunk + Organic Seltzer Bottle + Fire Hose for 110 damage
+Organic Aoogah + Elephant Trunk + Organic Seltzer Bottle + Organic Fire Hose for 114 damage
+Organic Aoogah + Elephant Trunk + Fire Hose + Fire Hose for 118 damage
+Organic Aoogah + Elephant Trunk + Fire Hose + Organic Fire Hose for 122 damage
+Organic Aoogah + Elephant Trunk + Organic Fire Hose + Organic Fire Hose for 126 damage
+Organic Aoogah + Elephant Trunk + Storm Cloud for 126 damage
+Organic Aoogah + Elephant Trunk + Safe for 116 damage
+Organic Aoogah + Elephant Trunk + Organic Safe for 123 damage
+Organic Aoogah + Organic Elephant Trunk + Organic Elephant Trunk + Whole Cream Pie for 116 damage
+Organic Aoogah + Organic Elephant Trunk + Organic Elephant Trunk + Organic Whole Cream Pie for 120 damage
+Organic Aoogah + Organic Elephant Trunk + Organic Foghorn for 114 damage
+Organic Aoogah + Organic Elephant Trunk + Whole Fruit Pie + Whole Fruit Pie for 113 damage
+Organic Aoogah + Organic Elephant Trunk + Whole Fruit Pie + Organic Whole Fruit Pie for 116 damage
+Organic Aoogah + Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 118 damage
+Organic Aoogah + Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Fire Hose for 110 damage
+Organic Aoogah + Organic Elephant Trunk + Whole Cream Pie + Organic Seltzer Bottle for 111 damage
+Organic Aoogah + Organic Elephant Trunk + Whole Cream Pie + Fire Hose for 118 damage
+Organic Aoogah + Organic Elephant Trunk + Whole Cream Pie + Organic Fire Hose for 121 damage
+Organic Aoogah + Organic Elephant Trunk + Organic Whole Cream Pie + Seltzer Bottle for 113 damage
+Organic Aoogah + Organic Elephant Trunk + Organic Whole Cream Pie + Organic Seltzer Bottle for 115 damage
+Organic Aoogah + Organic Elephant Trunk + Organic Whole Cream Pie + Fire Hose for 122 damage
+Organic Aoogah + Organic Elephant Trunk + Organic Whole Cream Pie + Organic Fire Hose for 125 damage
+Organic Aoogah + Organic Elephant Trunk + Seltzer Bottle + Fire Hose for 110 damage
+Organic Aoogah + Organic Elephant Trunk + Seltzer Bottle + Organic Fire Hose for 113 damage
+Organic Aoogah + Organic Elephant Trunk + Organic Seltzer Bottle + Fire Hose for 112 damage
+Organic Aoogah + Organic Elephant Trunk + Organic Seltzer Bottle + Organic Fire Hose for 116 damage
+Organic Aoogah + Organic Elephant Trunk + Fire Hose + Fire Hose for 120 damage
+Organic Aoogah + Organic Elephant Trunk + Fire Hose + Organic Fire Hose for 124 damage
+Organic Aoogah + Organic Elephant Trunk + Safe for 118 damage
+Organic Aoogah + Organic Elephant Trunk + Organic Safe for 125 damage
+Organic Aoogah + Foghorn + Organic Whole Fruit Pie for 110 damage
+Organic Aoogah + Foghorn + Whole Cream Pie for 121 damage
+Organic Aoogah + Foghorn + Organic Whole Cream Pie for 125 damage
+Organic Aoogah + Foghorn + Fire Hose for 111 damage
+Organic Aoogah + Foghorn + Organic Fire Hose for 114 damage
+Organic Aoogah + Organic Foghorn + Whole Fruit Pie for 114 damage
+Organic Aoogah + Organic Foghorn + Organic Whole Fruit Pie for 116 damage
+Organic Aoogah + Organic Foghorn + Organic Seltzer Bottle for 110 damage
+Organic Aoogah + Organic Foghorn + Fire Hose for 117 damage
+Organic Aoogah + Organic Foghorn + Organic Fire Hose for 120 damage
+Organic Aoogah + Whole Fruit Pie + Whole Fruit Pie + Whole Fruit Pie for 115 damage
+Organic Aoogah + Whole Fruit Pie + Whole Fruit Pie + Organic Whole Fruit Pie for 117 damage
+Organic Aoogah + Whole Fruit Pie + Whole Fruit Pie + Fire Hose for 112 damage
+Organic Aoogah + Whole Fruit Pie + Whole Fruit Pie + Organic Fire Hose for 115 damage
+Organic Aoogah + Whole Fruit Pie + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 119 damage
+Organic Aoogah + Whole Fruit Pie + Organic Whole Fruit Pie + Fire Hose for 115 damage
+Organic Aoogah + Whole Fruit Pie + Organic Whole Fruit Pie + Organic Fire Hose for 118 damage
+Organic Aoogah + Whole Fruit Pie + Whole Cream Pie + Seltzer Bottle for 119 damage
+Organic Aoogah + Whole Fruit Pie + Whole Cream Pie + Organic Seltzer Bottle for 121 damage
+Organic Aoogah + Whole Fruit Pie + Organic Whole Cream Pie + Seltzer Bottle for 124 damage
+Organic Aoogah + Whole Fruit Pie + Organic Whole Cream Pie + Organic Seltzer Bottle for 126 damage
+Organic Aoogah + Whole Fruit Pie + Organic Seltzer Bottle + Organic Fire Hose for 112 damage
+Organic Aoogah + Whole Fruit Pie + Fire Hose + Fire Hose for 116 damage
+Organic Aoogah + Whole Fruit Pie + Fire Hose + Organic Fire Hose for 120 damage
+Organic Aoogah + Whole Fruit Pie + Organic Fire Hose + Organic Fire Hose for 124 damage
+Organic Aoogah + Whole Fruit Pie + Storm Cloud for 124 damage
+Organic Aoogah + Whole Fruit Pie + Safe for 114 damage
+Organic Aoogah + Whole Fruit Pie + Organic Safe for 121 damage
+Organic Aoogah + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 122 damage
+Organic Aoogah + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Organic Seltzer Bottle for 110 damage
+Organic Aoogah + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Fire Hose for 117 damage
+Organic Aoogah + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Organic Fire Hose for 120 damage
+Organic Aoogah + Organic Whole Fruit Pie + Whole Cream Pie + Seltzer Bottle for 121 damage
+Organic Aoogah + Organic Whole Fruit Pie + Whole Cream Pie + Organic Seltzer Bottle for 123 damage
+Organic Aoogah + Organic Whole Fruit Pie + Organic Whole Cream Pie + Seltzer Bottle for 126 damage
+Organic Aoogah + Organic Whole Fruit Pie + Seltzer Bottle + Organic Fire Hose for 111 damage
+Organic Aoogah + Organic Whole Fruit Pie + Organic Seltzer Bottle + Fire Hose for 110 damage
+Organic Aoogah + Organic Whole Fruit Pie + Organic Seltzer Bottle + Organic Fire Hose for 114 damage
+Organic Aoogah + Organic Whole Fruit Pie + Fire Hose + Fire Hose for 118 damage
+Organic Aoogah + Organic Whole Fruit Pie + Fire Hose + Organic Fire Hose for 122 damage
+Organic Aoogah + Organic Whole Fruit Pie + Organic Fire Hose + Organic Fire Hose for 126 damage
+Organic Aoogah + Organic Whole Fruit Pie + Storm Cloud for 126 damage
+Organic Aoogah + Organic Whole Fruit Pie + Safe for 116 damage
+Organic Aoogah + Organic Whole Fruit Pie + Organic Safe for 123 damage
+Organic Aoogah + Whole Cream Pie + Whole Cream Pie for 113 damage
+Organic Aoogah + Whole Cream Pie + Organic Whole Cream Pie for 118 damage
+Organic Aoogah + Whole Cream Pie + Seltzer Bottle + Organic Seltzer Bottle for 110 damage
+Organic Aoogah + Whole Cream Pie + Seltzer Bottle + Fire Hose for 119 damage
+Organic Aoogah + Whole Cream Pie + Seltzer Bottle + Organic Fire Hose for 122 damage
+Organic Aoogah + Whole Cream Pie + Organic Seltzer Bottle + Organic Seltzer Bottle for 113 damage
+Organic Aoogah + Whole Cream Pie + Organic Seltzer Bottle + Fire Hose for 121 damage
+Organic Aoogah + Whole Cream Pie + Organic Seltzer Bottle + Organic Fire Hose for 125 damage
+Organic Aoogah + Organic Whole Cream Pie + Organic Whole Cream Pie for 123 damage
+Organic Aoogah + Organic Whole Cream Pie + Seltzer Bottle + Seltzer Bottle for 112 damage
+Organic Aoogah + Organic Whole Cream Pie + Seltzer Bottle + Organic Seltzer Bottle for 114 damage
+Organic Aoogah + Organic Whole Cream Pie + Seltzer Bottle + Fire Hose for 123 damage
+Organic Aoogah + Organic Whole Cream Pie + Seltzer Bottle + Organic Fire Hose for 126 damage
+Organic Aoogah + Organic Whole Cream Pie + Organic Seltzer Bottle + Organic Seltzer Bottle for 117 damage
+Organic Aoogah + Organic Whole Cream Pie + Organic Seltzer Bottle + Fire Hose for 125 damage
+Organic Aoogah + Birthday Cake for 117 damage
+Organic Aoogah + Seltzer Bottle + Organic Seltzer Bottle + Organic Fire Hose for 110 damage
+Organic Aoogah + Seltzer Bottle + Fire Hose + Fire Hose for 115 damage
+Organic Aoogah + Seltzer Bottle + Fire Hose + Organic Fire Hose for 118 damage
+Organic Aoogah + Seltzer Bottle + Organic Fire Hose + Organic Fire Hose for 122 damage
+Organic Aoogah + Seltzer Bottle + Organic Safe for 115 damage
+Organic Aoogah + Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Fire Hose for 112 damage
+Organic Aoogah + Organic Seltzer Bottle + Fire Hose + Fire Hose for 117 damage
+Organic Aoogah + Organic Seltzer Bottle + Fire Hose + Organic Fire Hose for 121 damage
+Organic Aoogah + Organic Seltzer Bottle + Organic Fire Hose + Organic Fire Hose for 124 damage
+Organic Aoogah + Organic Seltzer Bottle + Safe for 110 damage
+Organic Aoogah + Organic Seltzer Bottle + Organic Safe for 117 damage
+Organic Aoogah + Fire Hose + Fire Hose + Fire Hose for 125 damage
+Organic Aoogah + Fire Hose + Safe for 117 damage
+Organic Aoogah + Fire Hose + Organic Safe for 124 damage
+Organic Aoogah + Organic Fire Hose + Safe for 120 damage
+Organic Aoogah + Geyser for 122 damage
+Elephant Trunk + Elephant Trunk + Elephant Trunk + Whole Cream Pie for 116 damage
+Elephant Trunk + Elephant Trunk + Elephant Trunk + Organic Whole Cream Pie for 120 damage
+Elephant Trunk + Elephant Trunk + Organic Elephant Trunk + Whole Cream Pie for 118 damage
+Elephant Trunk + Elephant Trunk + Organic Elephant Trunk + Organic Whole Cream Pie for 122 damage
+Elephant Trunk + Elephant Trunk + Organic Elephant Trunk + Organic Fire Hose for 111 damage
+Elephant Trunk + Elephant Trunk + Foghorn for 111 damage
+Elephant Trunk + Elephant Trunk + Organic Foghorn for 117 damage
+Elephant Trunk + Elephant Trunk + Whole Fruit Pie + Whole Fruit Pie for 116 damage
+Elephant Trunk + Elephant Trunk + Whole Fruit Pie + Organic Whole Fruit Pie for 119 damage
+Elephant Trunk + Elephant Trunk + Whole Fruit Pie + Organic Fire Hose for 111 damage
+Elephant Trunk + Elephant Trunk + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 121 damage
+Elephant Trunk + Elephant Trunk + Organic Whole Fruit Pie + Fire Hose for 110 damage
+Elephant Trunk + Elephant Trunk + Organic Whole Fruit Pie + Organic Fire Hose for 113 damage
+Elephant Trunk + Elephant Trunk + Whole Cream Pie + Seltzer Bottle for 112 damage
+Elephant Trunk + Elephant Trunk + Whole Cream Pie + Organic Seltzer Bottle for 114 damage
+Elephant Trunk + Elephant Trunk + Whole Cream Pie + Fire Hose for 121 damage
+Elephant Trunk + Elephant Trunk + Whole Cream Pie + Organic Fire Hose for 124 damage
+Elephant Trunk + Elephant Trunk + Organic Whole Cream Pie + Seltzer Bottle for 116 damage
+Elephant Trunk + Elephant Trunk + Organic Whole Cream Pie + Organic Seltzer Bottle for 118 damage
+Elephant Trunk + Elephant Trunk + Organic Whole Cream Pie + Fire Hose for 125 damage
+Elephant Trunk + Elephant Trunk + Seltzer Bottle + Fire Hose for 113 damage
+Elephant Trunk + Elephant Trunk + Seltzer Bottle + Organic Fire Hose for 116 damage
+Elephant Trunk + Elephant Trunk + Organic Seltzer Bottle + Fire Hose for 115 damage
+Elephant Trunk + Elephant Trunk + Organic Seltzer Bottle + Organic Fire Hose for 119 damage
+Elephant Trunk + Elephant Trunk + Fire Hose + Fire Hose for 123 damage
+Elephant Trunk + Elephant Trunk + Safe for 121 damage
+Elephant Trunk + Organic Elephant Trunk + Organic Elephant Trunk + Organic Whole Fruit Pie for 110 damage
+Elephant Trunk + Organic Elephant Trunk + Organic Elephant Trunk + Whole Cream Pie for 121 damage
+Elephant Trunk + Organic Elephant Trunk + Organic Elephant Trunk + Organic Whole Cream Pie for 125 damage
+Elephant Trunk + Organic Elephant Trunk + Organic Elephant Trunk + Fire Hose for 111 damage
+Elephant Trunk + Organic Elephant Trunk + Organic Elephant Trunk + Organic Fire Hose for 114 damage
+Elephant Trunk + Organic Elephant Trunk + Foghorn for 113 damage
+Elephant Trunk + Organic Elephant Trunk + Organic Foghorn for 119 damage
+Elephant Trunk + Organic Elephant Trunk + Whole Fruit Pie + Whole Fruit Pie for 118 damage
+Elephant Trunk + Organic Elephant Trunk + Whole Fruit Pie + Organic Whole Fruit Pie for 121 damage
+Elephant Trunk + Organic Elephant Trunk + Whole Fruit Pie + Fire Hose for 110 damage
+Elephant Trunk + Organic Elephant Trunk + Whole Fruit Pie + Organic Fire Hose for 113 damage
+Elephant Trunk + Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 123 damage
+Elephant Trunk + Organic Elephant Trunk + Organic Whole Fruit Pie + Fire Hose for 112 damage
+Elephant Trunk + Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Fire Hose for 115 damage
+Elephant Trunk + Organic Elephant Trunk + Whole Cream Pie + Seltzer Bottle for 114 damage
+Elephant Trunk + Organic Elephant Trunk + Whole Cream Pie + Organic Seltzer Bottle for 116 damage
+Elephant Trunk + Organic Elephant Trunk + Whole Cream Pie + Fire Hose for 123 damage
+Elephant Trunk + Organic Elephant Trunk + Whole Cream Pie + Organic Fire Hose for 126 damage
+Elephant Trunk + Organic Elephant Trunk + Organic Whole Cream Pie + Seltzer Bottle for 118 damage
+Elephant Trunk + Organic Elephant Trunk + Organic Whole Cream Pie + Organic Seltzer Bottle for 120 damage
+Elephant Trunk + Organic Elephant Trunk + Seltzer Bottle + Fire Hose for 115 damage
+Elephant Trunk + Organic Elephant Trunk + Seltzer Bottle + Organic Fire Hose for 118 damage
+Elephant Trunk + Organic Elephant Trunk + Organic Seltzer Bottle + Fire Hose for 117 damage
+Elephant Trunk + Organic Elephant Trunk + Organic Seltzer Bottle + Organic Fire Hose for 121 damage
+Elephant Trunk + Organic Elephant Trunk + Fire Hose + Fire Hose for 125 damage
+Elephant Trunk + Organic Elephant Trunk + Safe for 123 damage
+Elephant Trunk + Foghorn + Whole Fruit Pie for 113 damage
+Elephant Trunk + Foghorn + Organic Whole Fruit Pie for 115 damage
+Elephant Trunk + Foghorn + Whole Cream Pie for 126 damage
+Elephant Trunk + Foghorn + Fire Hose for 116 damage
+Elephant Trunk + Foghorn + Organic Fire Hose for 119 damage
+Elephant Trunk + Organic Foghorn + Whole Fruit Pie for 119 damage
+Elephant Trunk + Organic Foghorn + Organic Whole Fruit Pie for 121 damage
+Elephant Trunk + Organic Foghorn + Seltzer Bottle for 113 damage
+Elephant Trunk + Organic Foghorn + Organic Seltzer Bottle for 115 damage
+Elephant Trunk + Organic Foghorn + Fire Hose for 122 damage
+Elephant Trunk + Organic Foghorn + Organic Fire Hose for 125 damage
+Elephant Trunk + Whole Fruit Pie + Whole Fruit Pie + Whole Fruit Pie for 119 damage
+Elephant Trunk + Whole Fruit Pie + Whole Fruit Pie + Organic Whole Fruit Pie for 121 damage
+Elephant Trunk + Whole Fruit Pie + Whole Fruit Pie + Fire Hose for 116 damage
+Elephant Trunk + Whole Fruit Pie + Whole Fruit Pie + Organic Fire Hose for 119 damage
+Elephant Trunk + Whole Fruit Pie + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 123 damage
+Elephant Trunk + Whole Fruit Pie + Organic Whole Fruit Pie + Seltzer Bottle for 110 damage
+Elephant Trunk + Whole Fruit Pie + Organic Whole Fruit Pie + Organic Seltzer Bottle for 112 damage
+Elephant Trunk + Whole Fruit Pie + Organic Whole Fruit Pie + Fire Hose for 119 damage
+Elephant Trunk + Whole Fruit Pie + Organic Whole Fruit Pie + Organic Fire Hose for 122 damage
+Elephant Trunk + Whole Fruit Pie + Whole Cream Pie + Seltzer Bottle for 123 damage
+Elephant Trunk + Whole Fruit Pie + Whole Cream Pie + Organic Seltzer Bottle for 125 damage
+Elephant Trunk + Whole Fruit Pie + Seltzer Bottle + Fire Hose for 110 damage
+Elephant Trunk + Whole Fruit Pie + Seltzer Bottle + Organic Fire Hose for 113 damage
+Elephant Trunk + Whole Fruit Pie + Organic Seltzer Bottle + Fire Hose for 112 damage
+Elephant Trunk + Whole Fruit Pie + Organic Seltzer Bottle + Organic Fire Hose for 116 damage
+Elephant Trunk + Whole Fruit Pie + Fire Hose + Fire Hose for 120 damage
+Elephant Trunk + Whole Fruit Pie + Fire Hose + Organic Fire Hose for 124 damage
+Elephant Trunk + Whole Fruit Pie + Safe for 118 damage
+Elephant Trunk + Whole Fruit Pie + Organic Safe for 125 damage
+Elephant Trunk + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 126 damage
+Elephant Trunk + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Seltzer Bottle for 112 damage
+Elephant Trunk + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Organic Seltzer Bottle for 114 damage
+Elephant Trunk + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Fire Hose for 121 damage
+Elephant Trunk + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Organic Fire Hose for 124 damage
+Elephant Trunk + Organic Whole Fruit Pie + Whole Cream Pie + Seltzer Bottle for 125 damage
+Elephant Trunk + Organic Whole Fruit Pie + Seltzer Bottle + Fire Hose for 112 damage
+Elephant Trunk + Organic Whole Fruit Pie + Seltzer Bottle + Organic Fire Hose for 115 damage
+Elephant Trunk + Organic Whole Fruit Pie + Organic Seltzer Bottle + Fire Hose for 114 damage
+Elephant Trunk + Organic Whole Fruit Pie + Organic Seltzer Bottle + Organic Fire Hose for 118 damage
+Elephant Trunk + Organic Whole Fruit Pie + Fire Hose + Fire Hose for 122 damage
+Elephant Trunk + Organic Whole Fruit Pie + Fire Hose + Organic Fire Hose for 126 damage
+Elephant Trunk + Organic Whole Fruit Pie + Safe for 120 damage
+Elephant Trunk + Whole Cream Pie + Whole Cream Pie for 117 damage
+Elephant Trunk + Whole Cream Pie + Organic Whole Cream Pie for 122 damage
+Elephant Trunk + Whole Cream Pie + Seltzer Bottle + Seltzer Bottle for 112 damage
+Elephant Trunk + Whole Cream Pie + Seltzer Bottle + Organic Seltzer Bottle for 114 damage
+Elephant Trunk + Whole Cream Pie + Seltzer Bottle + Fire Hose for 123 damage
+Elephant Trunk + Whole Cream Pie + Seltzer Bottle + Organic Fire Hose for 126 damage
+Elephant Trunk + Whole Cream Pie + Organic Seltzer Bottle + Organic Seltzer Bottle for 117 damage
+Elephant Trunk + Whole Cream Pie + Organic Seltzer Bottle + Fire Hose for 125 damage
+Elephant Trunk + Organic Whole Cream Pie + Seltzer Bottle + Seltzer Bottle for 116 damage
+Elephant Trunk + Organic Whole Cream Pie + Seltzer Bottle + Organic Seltzer Bottle for 118 damage
+Elephant Trunk + Organic Whole Cream Pie + Organic Seltzer Bottle + Organic Seltzer Bottle for 121 damage
+Elephant Trunk + Birthday Cake for 121 damage
+Elephant Trunk + Seltzer Bottle + Seltzer Bottle + Organic Fire Hose for 111 damage
+Elephant Trunk + Seltzer Bottle + Organic Seltzer Bottle + Fire Hose for 110 damage
+Elephant Trunk + Seltzer Bottle + Organic Seltzer Bottle + Organic Fire Hose for 114 damage
+Elephant Trunk + Seltzer Bottle + Fire Hose + Fire Hose for 119 damage
+Elephant Trunk + Seltzer Bottle + Fire Hose + Organic Fire Hose for 122 damage
+Elephant Trunk + Seltzer Bottle + Organic Fire Hose + Organic Fire Hose for 126 damage
+Elephant Trunk + Seltzer Bottle + Safe for 112 damage
+Elephant Trunk + Seltzer Bottle + Organic Safe for 119 damage
+Elephant Trunk + Organic Seltzer Bottle + Organic Seltzer Bottle + Fire Hose for 113 damage
+Elephant Trunk + Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Fire Hose for 116 damage
+Elephant Trunk + Organic Seltzer Bottle + Fire Hose + Fire Hose for 121 damage
+Elephant Trunk + Organic Seltzer Bottle + Fire Hose + Organic Fire Hose for 125 damage
+Elephant Trunk + Organic Seltzer Bottle + Safe for 114 damage
+Elephant Trunk + Organic Seltzer Bottle + Organic Safe for 121 damage
+Elephant Trunk + Fire Hose + Safe for 121 damage
+Elephant Trunk + Organic Fire Hose + Safe for 124 damage
+Elephant Trunk + Geyser for 126 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Elephant Trunk + Organic Elephant Trunk for 111 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Elephant Trunk + Whole Fruit Pie for 110 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Elephant Trunk + Organic Whole Fruit Pie for 112 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Elephant Trunk + Whole Cream Pie for 123 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Elephant Trunk + Fire Hose for 113 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Elephant Trunk + Organic Fire Hose for 116 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Foghorn for 116 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Foghorn for 122 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Whole Fruit Pie + Whole Fruit Pie for 121 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Whole Fruit Pie + Organic Whole Fruit Pie for 124 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Whole Fruit Pie + Fire Hose for 113 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Whole Fruit Pie + Organic Fire Hose for 116 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 126 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Whole Fruit Pie + Fire Hose for 115 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Fire Hose for 118 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Whole Cream Pie + Seltzer Bottle for 117 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Whole Cream Pie + Organic Seltzer Bottle for 119 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Whole Cream Pie + Fire Hose for 126 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Whole Cream Pie + Seltzer Bottle for 121 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Whole Cream Pie + Organic Seltzer Bottle for 123 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Seltzer Bottle + Fire Hose for 118 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Seltzer Bottle + Organic Fire Hose for 121 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Seltzer Bottle + Organic Seltzer Bottle for 112 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Seltzer Bottle + Fire Hose for 120 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Organic Seltzer Bottle + Organic Fire Hose for 124 damage
+Organic Elephant Trunk + Organic Elephant Trunk + Safe for 126 damage
+Organic Elephant Trunk + Foghorn + Whole Fruit Pie for 115 damage
+Organic Elephant Trunk + Foghorn + Organic Whole Fruit Pie for 117 damage
+Organic Elephant Trunk + Foghorn + Organic Seltzer Bottle for 111 damage
+Organic Elephant Trunk + Foghorn + Fire Hose for 118 damage
+Organic Elephant Trunk + Foghorn + Organic Fire Hose for 121 damage
+Organic Elephant Trunk + Organic Foghorn + Whole Fruit Pie for 121 damage
+Organic Elephant Trunk + Organic Foghorn + Organic Whole Fruit Pie for 123 damage
+Organic Elephant Trunk + Organic Foghorn + Seltzer Bottle for 115 damage
+Organic Elephant Trunk + Organic Foghorn + Organic Seltzer Bottle for 117 damage
+Organic Elephant Trunk + Organic Foghorn + Fire Hose for 124 damage
+Organic Elephant Trunk + Whole Fruit Pie + Whole Fruit Pie + Whole Fruit Pie for 121 damage
+Organic Elephant Trunk + Whole Fruit Pie + Whole Fruit Pie + Organic Whole Fruit Pie for 123 damage
+Organic Elephant Trunk + Whole Fruit Pie + Whole Fruit Pie + Organic Seltzer Bottle for 111 damage
+Organic Elephant Trunk + Whole Fruit Pie + Whole Fruit Pie + Fire Hose for 118 damage
+Organic Elephant Trunk + Whole Fruit Pie + Whole Fruit Pie + Organic Fire Hose for 121 damage
+Organic Elephant Trunk + Whole Fruit Pie + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 125 damage
+Organic Elephant Trunk + Whole Fruit Pie + Organic Whole Fruit Pie + Seltzer Bottle for 112 damage
+Organic Elephant Trunk + Whole Fruit Pie + Organic Whole Fruit Pie + Organic Seltzer Bottle for 114 damage
+Organic Elephant Trunk + Whole Fruit Pie + Organic Whole Fruit Pie + Fire Hose for 121 damage
+Organic Elephant Trunk + Whole Fruit Pie + Organic Whole Fruit Pie + Organic Fire Hose for 124 damage
+Organic Elephant Trunk + Whole Fruit Pie + Whole Cream Pie + Seltzer Bottle for 125 damage
+Organic Elephant Trunk + Whole Fruit Pie + Seltzer Bottle + Fire Hose for 112 damage
+Organic Elephant Trunk + Whole Fruit Pie + Seltzer Bottle + Organic Fire Hose for 115 damage
+Organic Elephant Trunk + Whole Fruit Pie + Organic Seltzer Bottle + Fire Hose for 114 damage
+Organic Elephant Trunk + Whole Fruit Pie + Organic Seltzer Bottle + Organic Fire Hose for 118 damage
+Organic Elephant Trunk + Whole Fruit Pie + Fire Hose + Fire Hose for 122 damage
+Organic Elephant Trunk + Whole Fruit Pie + Fire Hose + Organic Fire Hose for 126 damage
+Organic Elephant Trunk + Whole Fruit Pie + Safe for 120 damage
+Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Seltzer Bottle for 114 damage
+Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Organic Seltzer Bottle for 116 damage
+Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Fire Hose for 123 damage
+Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Organic Fire Hose for 126 damage
+Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Whole Cream Pie for 111 damage
+Organic Elephant Trunk + Organic Whole Fruit Pie + Seltzer Bottle + Fire Hose for 114 damage
+Organic Elephant Trunk + Organic Whole Fruit Pie + Seltzer Bottle + Organic Fire Hose for 117 damage
+Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Seltzer Bottle + Fire Hose for 116 damage
+Organic Elephant Trunk + Organic Whole Fruit Pie + Organic Seltzer Bottle + Organic Fire Hose for 120 damage
+Organic Elephant Trunk + Organic Whole Fruit Pie + Fire Hose + Fire Hose for 124 damage
+Organic Elephant Trunk + Organic Whole Fruit Pie + Safe for 122 damage
+Organic Elephant Trunk + Whole Cream Pie + Whole Cream Pie for 119 damage
+Organic Elephant Trunk + Whole Cream Pie + Organic Whole Cream Pie for 124 damage
+Organic Elephant Trunk + Whole Cream Pie + Seltzer Bottle + Seltzer Bottle for 114 damage
+Organic Elephant Trunk + Whole Cream Pie + Seltzer Bottle + Organic Seltzer Bottle for 116 damage
+Organic Elephant Trunk + Whole Cream Pie + Seltzer Bottle + Fire Hose for 125 damage
+Organic Elephant Trunk + Whole Cream Pie + Organic Seltzer Bottle + Organic Seltzer Bottle for 119 damage
+Organic Elephant Trunk + Organic Whole Cream Pie + Seltzer Bottle + Seltzer Bottle for 118 damage
+Organic Elephant Trunk + Organic Whole Cream Pie + Seltzer Bottle + Organic Seltzer Bottle for 120 damage
+Organic Elephant Trunk + Organic Whole Cream Pie + Organic Seltzer Bottle + Organic Seltzer Bottle for 123 damage
+Organic Elephant Trunk + Birthday Cake for 123 damage
+Organic Elephant Trunk + Seltzer Bottle + Seltzer Bottle + Fire Hose for 110 damage
+Organic Elephant Trunk + Seltzer Bottle + Seltzer Bottle + Organic Fire Hose for 113 damage
+Organic Elephant Trunk + Seltzer Bottle + Organic Seltzer Bottle + Fire Hose for 112 damage
+Organic Elephant Trunk + Seltzer Bottle + Organic Seltzer Bottle + Organic Fire Hose for 116 damage
+Organic Elephant Trunk + Seltzer Bottle + Fire Hose + Fire Hose for 121 damage
+Organic Elephant Trunk + Seltzer Bottle + Fire Hose + Organic Fire Hose for 124 damage
+Organic Elephant Trunk + Seltzer Bottle + Safe for 114 damage
+Organic Elephant Trunk + Seltzer Bottle + Organic Safe for 121 damage
+Organic Elephant Trunk + Organic Seltzer Bottle + Organic Seltzer Bottle + Fire Hose for 115 damage
+Organic Elephant Trunk + Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Fire Hose for 118 damage
+Organic Elephant Trunk + Organic Seltzer Bottle + Fire Hose + Fire Hose for 123 damage
+Organic Elephant Trunk + Organic Seltzer Bottle + Safe for 116 damage
+Organic Elephant Trunk + Organic Seltzer Bottle + Organic Safe for 123 damage
+Organic Elephant Trunk + Fire Hose + Safe for 123 damage
+Organic Elephant Trunk + Organic Fire Hose + Safe for 126 damage
+Organic Elephant Trunk + Organic Storm Cloud for 111 damage
+Foghorn + Foghorn for 120 damage
+Foghorn + Organic Foghorn for 126 damage
+Foghorn + Whole Fruit Pie + Whole Fruit Pie for 115 damage
+Foghorn + Whole Fruit Pie + Organic Whole Fruit Pie for 118 damage
+Foghorn + Whole Fruit Pie + Organic Fire Hose for 110 damage
+Foghorn + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 120 damage
+Foghorn + Organic Whole Fruit Pie + Organic Fire Hose for 112 damage
+Foghorn + Whole Cream Pie + Seltzer Bottle for 111 damage
+Foghorn + Whole Cream Pie + Organic Seltzer Bottle for 113 damage
+Foghorn + Whole Cream Pie + Fire Hose for 120 damage
+Foghorn + Whole Cream Pie + Organic Fire Hose for 123 damage
+Foghorn + Organic Whole Cream Pie + Seltzer Bottle for 115 damage
+Foghorn + Organic Whole Cream Pie + Organic Seltzer Bottle for 117 damage
+Foghorn + Organic Whole Cream Pie + Fire Hose for 124 damage
+Foghorn + Seltzer Bottle + Seltzer Bottle + Seltzer Bottle for 126 damage
+Foghorn + Seltzer Bottle + Fire Hose for 112 damage
+Foghorn + Seltzer Bottle + Organic Fire Hose for 115 damage
+Foghorn + Organic Seltzer Bottle + Fire Hose for 114 damage
+Foghorn + Organic Seltzer Bottle + Organic Fire Hose for 118 damage
+Foghorn + Fire Hose + Fire Hose for 122 damage
+Foghorn + Fire Hose + Organic Fire Hose for 126 damage
+Foghorn + Safe for 120 damage
+Organic Foghorn + Whole Fruit Pie + Whole Fruit Pie for 120 damage
+Organic Foghorn + Whole Fruit Pie + Organic Whole Fruit Pie for 123 damage
+Organic Foghorn + Whole Fruit Pie + Fire Hose for 112 damage
+Organic Foghorn + Whole Fruit Pie + Organic Fire Hose for 115 damage
+Organic Foghorn + Organic Whole Fruit Pie + Organic Whole Fruit Pie for 125 damage
+Organic Foghorn + Organic Whole Fruit Pie + Fire Hose for 114 damage
+Organic Foghorn + Organic Whole Fruit Pie + Organic Fire Hose for 117 damage
+Organic Foghorn + Whole Cream Pie + Seltzer Bottle for 116 damage
+Organic Foghorn + Whole Cream Pie + Organic Seltzer Bottle for 118 damage
+Organic Foghorn + Whole Cream Pie + Fire Hose for 125 damage
+Organic Foghorn + Organic Whole Cream Pie + Seltzer Bottle for 120 damage
+Organic Foghorn + Organic Whole Cream Pie + Organic Seltzer Bottle for 122 damage
+Organic Foghorn + Seltzer Bottle + Fire Hose for 117 damage
+Organic Foghorn + Seltzer Bottle + Organic Fire Hose for 120 damage
+Organic Foghorn + Organic Seltzer Bottle + Organic Seltzer Bottle for 111 damage
+Organic Foghorn + Organic Seltzer Bottle + Fire Hose for 119 damage
+Organic Foghorn + Organic Seltzer Bottle + Organic Fire Hose for 123 damage
+Organic Foghorn + Safe for 125 damage
+Opera Singer + Whole Fruit Pie for 117 damage
+Opera Singer + Organic Whole Fruit Pie for 119 damage
+Opera Singer + Seltzer Bottle for 111 damage
+Opera Singer + Organic Seltzer Bottle for 113 damage
+Opera Singer + Fire Hose for 120 damage
+Opera Singer + Organic Fire Hose for 123 damage
+Organic Opera Singer + Whole Fruit Pie for 126 damage
+Organic Opera Singer + Seltzer Bottle for 120 damage
+Organic Opera Singer + Organic Seltzer Bottle for 122 damage
+Whole Fruit Pie + Whole Fruit Pie + Whole Fruit Pie + Seltzer Bottle for 119 damage
+Whole Fruit Pie + Whole Fruit Pie + Whole Fruit Pie + Organic Seltzer Bottle for 121 damage
+Whole Fruit Pie + Whole Fruit Pie + Organic Whole Fruit Pie + Seltzer Bottle for 121 damage
+Whole Fruit Pie + Whole Fruit Pie + Organic Whole Fruit Pie + Organic Seltzer Bottle for 123 damage
+Whole Fruit Pie + Whole Fruit Pie + Whole Cream Pie for 113 damage
+Whole Fruit Pie + Whole Fruit Pie + Organic Whole Cream Pie for 118 damage
+Whole Fruit Pie + Whole Fruit Pie + Seltzer Bottle + Seltzer Bottle for 116 damage
+Whole Fruit Pie + Whole Fruit Pie + Seltzer Bottle + Organic Seltzer Bottle for 118 damage
+Whole Fruit Pie + Whole Fruit Pie + Organic Seltzer Bottle + Organic Seltzer Bottle for 121 damage
+Whole Fruit Pie + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Seltzer Bottle for 123 damage
+Whole Fruit Pie + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Organic Seltzer Bottle for 125 damage
+Whole Fruit Pie + Organic Whole Fruit Pie + Whole Cream Pie for 116 damage
+Whole Fruit Pie + Organic Whole Fruit Pie + Organic Whole Cream Pie for 120 damage
+Whole Fruit Pie + Organic Whole Fruit Pie + Seltzer Bottle + Seltzer Bottle for 119 damage
+Whole Fruit Pie + Organic Whole Fruit Pie + Seltzer Bottle + Organic Seltzer Bottle for 121 damage
+Whole Fruit Pie + Organic Whole Fruit Pie + Organic Seltzer Bottle + Organic Seltzer Bottle for 124 damage
+Whole Fruit Pie + Whole Cream Pie + Fire Hose for 111 damage
+Whole Fruit Pie + Whole Cream Pie + Organic Fire Hose for 114 damage
+Whole Fruit Pie + Organic Whole Cream Pie + Fire Hose for 116 damage
+Whole Fruit Pie + Organic Whole Cream Pie + Organic Fire Hose for 119 damage
+Whole Fruit Pie + Seltzer Bottle + Seltzer Bottle + Fire Hose for 114 damage
+Whole Fruit Pie + Seltzer Bottle + Seltzer Bottle + Organic Fire Hose for 117 damage
+Whole Fruit Pie + Seltzer Bottle + Organic Seltzer Bottle + Fire Hose for 116 damage
+Whole Fruit Pie + Seltzer Bottle + Organic Seltzer Bottle + Organic Fire Hose for 120 damage
+Whole Fruit Pie + Seltzer Bottle + Fire Hose + Fire Hose for 125 damage
+Whole Fruit Pie + Seltzer Bottle + Safe for 118 damage
+Whole Fruit Pie + Seltzer Bottle + Organic Safe for 125 damage
+Whole Fruit Pie + Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle for 110 damage
+Whole Fruit Pie + Organic Seltzer Bottle + Organic Seltzer Bottle + Fire Hose for 119 damage
+Whole Fruit Pie + Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Fire Hose for 122 damage
+Whole Fruit Pie + Organic Seltzer Bottle + Safe for 120 damage
+Whole Fruit Pie + Organic Storm Cloud for 115 damage
+Organic Whole Fruit Pie + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Seltzer Bottle for 126 damage
+Organic Whole Fruit Pie + Organic Whole Fruit Pie + Whole Cream Pie for 118 damage
+Organic Whole Fruit Pie + Organic Whole Fruit Pie + Organic Whole Cream Pie for 123 damage
+Organic Whole Fruit Pie + Organic Whole Fruit Pie + Seltzer Bottle + Seltzer Bottle for 121 damage
+Organic Whole Fruit Pie + Organic Whole Fruit Pie + Seltzer Bottle + Organic Seltzer Bottle for 123 damage
+Organic Whole Fruit Pie + Organic Whole Fruit Pie + Organic Seltzer Bottle + Organic Seltzer Bottle for 126 damage
+Organic Whole Fruit Pie + Whole Cream Pie + Fire Hose for 113 damage
+Organic Whole Fruit Pie + Whole Cream Pie + Organic Fire Hose for 116 damage
+Organic Whole Fruit Pie + Organic Whole Cream Pie + Organic Seltzer Bottle for 111 damage
+Organic Whole Fruit Pie + Organic Whole Cream Pie + Fire Hose for 118 damage
+Organic Whole Fruit Pie + Organic Whole Cream Pie + Organic Fire Hose for 121 damage
+Organic Whole Fruit Pie + Seltzer Bottle + Seltzer Bottle + Fire Hose for 116 damage
+Organic Whole Fruit Pie + Seltzer Bottle + Seltzer Bottle + Organic Fire Hose for 119 damage
+Organic Whole Fruit Pie + Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle for 110 damage
+Organic Whole Fruit Pie + Seltzer Bottle + Organic Seltzer Bottle + Fire Hose for 118 damage
+Organic Whole Fruit Pie + Seltzer Bottle + Organic Seltzer Bottle + Organic Fire Hose for 122 damage
+Organic Whole Fruit Pie + Seltzer Bottle + Safe for 120 damage
+Organic Whole Fruit Pie + Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle for 112 damage
+Organic Whole Fruit Pie + Organic Seltzer Bottle + Organic Seltzer Bottle + Fire Hose for 121 damage
+Organic Whole Fruit Pie + Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Fire Hose for 124 damage
+Organic Whole Fruit Pie + Organic Seltzer Bottle + Safe for 122 damage
+Organic Whole Fruit Pie + Organic Storm Cloud for 117 damage
+Whole Cream Pie + Whole Cream Pie + Seltzer Bottle for 117 damage
+Whole Cream Pie + Whole Cream Pie + Organic Seltzer Bottle for 119 damage
+Whole Cream Pie + Whole Cream Pie + Fire Hose for 126 damage
+Whole Cream Pie + Organic Whole Cream Pie + Seltzer Bottle for 122 damage
+Whole Cream Pie + Organic Whole Cream Pie + Organic Seltzer Bottle for 124 damage
+Whole Cream Pie + Seltzer Bottle + Seltzer Bottle + Seltzer Bottle for 116 damage
+Whole Cream Pie + Seltzer Bottle + Seltzer Bottle + Organic Seltzer Bottle for 118 damage
+Whole Cream Pie + Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle for 121 damage
+Whole Cream Pie + Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle for 123 damage
+Whole Cream Pie + Fire Hose + Fire Hose for 112 damage
+Whole Cream Pie + Fire Hose + Organic Fire Hose for 116 damage
+Whole Cream Pie + Organic Fire Hose + Organic Fire Hose for 120 damage
+Whole Cream Pie + Storm Cloud for 120 damage
+Whole Cream Pie + Safe for 110 damage
+Whole Cream Pie + Organic Safe for 117 damage
+Organic Whole Cream Pie + Seltzer Bottle + Seltzer Bottle + Seltzer Bottle for 120 damage
+Organic Whole Cream Pie + Seltzer Bottle + Seltzer Bottle + Organic Seltzer Bottle for 122 damage
+Organic Whole Cream Pie + Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle for 125 damage
+Organic Whole Cream Pie + Organic Seltzer Bottle + Organic Fire Hose for 112 damage
+Organic Whole Cream Pie + Fire Hose + Fire Hose for 116 damage
+Organic Whole Cream Pie + Fire Hose + Organic Fire Hose for 120 damage
+Organic Whole Cream Pie + Organic Fire Hose + Organic Fire Hose for 124 damage
+Organic Whole Cream Pie + Storm Cloud for 124 damage
+Organic Whole Cream Pie + Safe for 114 damage
+Organic Whole Cream Pie + Organic Safe for 121 damage
+Birthday Cake + Seltzer Bottle for 121 damage
+Birthday Cake + Organic Seltzer Bottle for 123 damage
+Organic Birthday Cake for 110 damage
+Wedding Cake for 120 damage
+Seltzer Bottle + Seltzer Bottle + Seltzer Bottle + Fire Hose for 112 damage
+Seltzer Bottle + Seltzer Bottle + Seltzer Bottle + Organic Fire Hose for 116 damage
+Seltzer Bottle + Seltzer Bottle + Organic Seltzer Bottle + Fire Hose for 114 damage
+Seltzer Bottle + Seltzer Bottle + Organic Seltzer Bottle + Organic Fire Hose for 118 damage
+Seltzer Bottle + Seltzer Bottle + Fire Hose + Fire Hose for 123 damage
+Seltzer Bottle + Seltzer Bottle + Fire Hose + Organic Fire Hose for 126 damage
+Seltzer Bottle + Seltzer Bottle + Safe for 121 damage
+Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle + Fire Hose for 117 damage
+Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Fire Hose for 120 damage
+Seltzer Bottle + Organic Seltzer Bottle + Fire Hose + Fire Hose for 125 damage
+Seltzer Bottle + Organic Seltzer Bottle + Safe for 123 damage
+Seltzer Bottle + Storm Cloud for 122 damage
+Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle for 111 damage
+Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle + Fire Hose for 119 damage
+Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Fire Hose for 123 damage
+Organic Seltzer Bottle + Organic Seltzer Bottle + Safe for 126 damage
+Organic Seltzer Bottle + Storm Cloud for 124 damage
+Fire Hose + Fire Hose + Organic Fire Hose for 112 damage
+Fire Hose + Organic Fire Hose + Organic Fire Hose for 116 damage
+Organic Fire Hose + Organic Fire Hose + Organic Fire Hose for 119 damage
+Organic Fire Hose + Organic Safe for 110 damage
+Organic Geyser for 115 damage
+(Lured) + Whole Fruit Pie + Whole Fruit Pie + Seltzer Bottle for 113 damage
+(Lured) + Whole Fruit Pie + Whole Fruit Pie + Organic Seltzer Bottle for 115 damage
+(Lured) + Whole Fruit Pie + Whole Fruit Pie + Fire Hose for 122 damage
+(Lured) + Whole Fruit Pie + Whole Fruit Pie + Organic Fire Hose for 125 damage
+(Lured) + Whole Fruit Pie + Organic Whole Fruit Pie + Seltzer Bottle for 117 damage
+(Lured) + Whole Fruit Pie + Organic Whole Fruit Pie + Organic Seltzer Bottle for 119 damage
+(Lured) + Whole Fruit Pie + Organic Whole Fruit Pie + Fire Hose for 126 damage
+(Lured) + Whole Fruit Pie + Whole Cream Pie for 115 damage
+(Lured) + Whole Fruit Pie + Organic Whole Cream Pie for 122 damage
+(Lured) + Whole Fruit Pie + Seltzer Bottle + Seltzer Bottle + Seltzer Bottle for 117 damage
+(Lured) + Whole Fruit Pie + Seltzer Bottle + Seltzer Bottle + Organic Seltzer Bottle for 119 damage
+(Lured) + Whole Fruit Pie + Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle for 122 damage
+(Lured) + Whole Fruit Pie + Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle for 124 damage
+(Lured) + Whole Fruit Pie + Fire Hose + Fire Hose for 113 damage
+(Lured) + Whole Fruit Pie + Fire Hose + Organic Fire Hose for 117 damage
+(Lured) + Whole Fruit Pie + Organic Fire Hose + Organic Fire Hose for 121 damage
+(Lured) + Whole Fruit Pie + Storm Cloud for 121 damage
+(Lured) + Whole Fruit Pie + Safe for 111 damage
+(Lured) + Whole Fruit Pie + Organic Safe for 118 damage
+(Lured) + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Seltzer Bottle for 120 damage
+(Lured) + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Organic Seltzer Bottle for 122 damage
+(Lured) + Organic Whole Fruit Pie + Whole Cream Pie for 118 damage
+(Lured) + Organic Whole Fruit Pie + Organic Whole Cream Pie for 125 damage
+(Lured) + Organic Whole Fruit Pie + Seltzer Bottle + Seltzer Bottle + Seltzer Bottle for 120 damage
+(Lured) + Organic Whole Fruit Pie + Seltzer Bottle + Seltzer Bottle + Organic Seltzer Bottle for 122 damage
+(Lured) + Organic Whole Fruit Pie + Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle for 125 damage
+(Lured) + Organic Whole Fruit Pie + Organic Seltzer Bottle + Organic Fire Hose for 112 damage
+(Lured) + Organic Whole Fruit Pie + Fire Hose + Fire Hose for 116 damage
+(Lured) + Organic Whole Fruit Pie + Fire Hose + Organic Fire Hose for 120 damage
+(Lured) + Organic Whole Fruit Pie + Organic Fire Hose + Organic Fire Hose for 124 damage
+(Lured) + Organic Whole Fruit Pie + Storm Cloud for 124 damage
+(Lured) + Organic Whole Fruit Pie + Safe for 114 damage
+(Lured) + Organic Whole Fruit Pie + Organic Safe for 121 damage
+(Lured) + Whole Cream Pie + Seltzer Bottle + Seltzer Bottle for 111 damage
+(Lured) + Whole Cream Pie + Seltzer Bottle + Organic Seltzer Bottle for 113 damage
+(Lured) + Whole Cream Pie + Seltzer Bottle + Fire Hose for 122 damage
+(Lured) + Whole Cream Pie + Seltzer Bottle + Organic Fire Hose for 125 damage
+(Lured) + Whole Cream Pie + Organic Seltzer Bottle + Organic Seltzer Bottle for 116 damage
+(Lured) + Whole Cream Pie + Organic Seltzer Bottle + Fire Hose for 124 damage
+(Lured) + Organic Whole Cream Pie + Seltzer Bottle + Seltzer Bottle for 117 damage
+(Lured) + Organic Whole Cream Pie + Seltzer Bottle + Organic Seltzer Bottle for 119 damage
+(Lured) + Organic Whole Cream Pie + Organic Seltzer Bottle + Organic Seltzer Bottle for 122 damage
+(Lured) + Seltzer Bottle + Seltzer Bottle + Organic Seltzer Bottle for 111 damage
+(Lured) + Seltzer Bottle + Seltzer Bottle + Fire Hose for 123 damage
+(Lured) + Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle for 115 damage
+(Lured) + Seltzer Bottle + Organic Seltzer Bottle + Fire Hose for 126 damage
+(Lured) + Organic Seltzer Bottle + Organic Seltzer Bottle + Organic Seltzer Bottle for 118 damage
+(Lured) + Organic Seltzer Bottle + Organic Safe for 112 damage
+(Lured) + Fire Hose + Safe for 115 damage
+(Lured) + Fire Hose + Organic Safe for 122 damage
+(Lured) + Organic Fire Hose + Organic Fire Hose for 113 damage
+(Lured) + Organic Fire Hose + Safe for 120 damage
+(Lured) + Storm Cloud for 120 damage

@@ -1,0 +1,853 @@
+Trapdoor + Lure + Safe + Organic Grand Piano for 394 damage
+Trapdoor + Lure + Organic Safe + Toontanic for 394 damage
+TNT + Lure + Aoogah + Organic Toontanic for 394 damage
+TNT + Lure + Organic Opera Singer + Organic Geyser for 394 damage
+TNT + Lure + Whole Fruit Pie + Organic Grand Piano for 394 damage
+TNT + Lure + Organic Whole Cream Pie + Grand Piano for 394 damage
+Organic TNT + Lure + Aoogah + Toontanic for 394 damage
+Organic TNT + Lure + Organic Glass of Water + Organic Grand Piano for 394 damage
+Railroad + Lure + Whistle + Organic Grand Piano for 394 damage
+Railroad + Lure + Organic Cupcake + Organic Grand Piano for 394 damage
+Railroad + Lure + Organic Whole Fruit Pie + Organic Wedding Cake for 394 damage
+Organic Railroad + Lure + Bike Horn + Grand Piano for 394 damage
+Organic Railroad + Lure + Organic Foghorn + Opera Singer for 394 damage
+Organic Railroad + Lure + Squirting Flower + Grand Piano for 394 damage
+Organic Railroad + Lure + Fire Hose + Organic Geyser for 394 damage
+Lure + Organic Opera Singer + Organic Geyser + Toontanic for 394 damage
+Lure + Organic Fruit Pie Slice + Birthday Cake + Wedding Cake for 394 damage
+Lure + Organic Fruit Pie Slice + Organic Birthday Cake + Organic Birthday Cake for 394 damage
+Lure + Organic Fruit Pie Slice + Organic Birthday Cake + Organic Grand Piano for 394 damage
+Lure + Organic Fruit Pie Slice + Wedding Cake + Grand Piano for 394 damage
+Lure + Organic Whole Cream Pie + Wedding Cake + Organic Geyser for 394 damage
+Lure + Birthday Cake + Organic Storm Cloud + Organic Geyser for 394 damage
+Lure + Birthday Cake + Organic Anvil + Grand Piano for 394 damage
+Lure + Organic Wedding Cake + Organic Glass of Water + Organic Grand Piano for 394 damage
+Lure + Seltzer Bottle + Geyser + Geyser for 394 damage
+Lure + Organic Fire Hose + Organic Storm Cloud + Organic Grand Piano for 394 damage
+Lure + Storm Cloud + Anvil + Organic Toontanic for 394 damage
+Bike Horn + Organic Opera Singer + Birthday Cake + Grand Piano for 394 damage
+Bike Horn + Organic Opera Singer + Big Weight + Toontanic for 394 damage
+Bike Horn + Whole Cream Pie + Wedding Cake + Organic Toontanic for 394 damage
+Bike Horn + Wedding Cake + Big Weight + Toontanic for 394 damage
+Bike Horn + Organic Wedding Cake + Organic Storm Cloud + Grand Piano for 394 damage
+Bike Horn + Organic Wedding Cake + Big Weight + Grand Piano for 394 damage
+Bike Horn + Storm Cloud + Storm Cloud + Organic Toontanic for 394 damage
+Bike Horn + Geyser + Geyser + Organic Geyser for 394 damage
+Bike Horn + Organic Geyser + Organic Big Weight + Toontanic for 394 damage
+Organic Bike Horn + Organic Foghorn + Safe + Organic Toontanic for 394 damage
+Organic Bike Horn + Opera Singer + Birthday Cake + Toontanic for 394 damage
+Organic Bike Horn + Opera Singer + Organic Birthday Cake + Grand Piano for 394 damage
+Organic Bike Horn + Whole Fruit Pie + Organic Wedding Cake + Organic Toontanic for 394 damage
+Organic Bike Horn + Organic Birthday Cake + Big Weight + Organic Grand Piano for 394 damage
+Organic Bike Horn + Storm Cloud + Organic Storm Cloud + Organic Grand Piano for 394 damage
+Organic Bike Horn + Storm Cloud + Safe + Organic Grand Piano for 394 damage
+Organic Bike Horn + Storm Cloud + Organic Safe + Toontanic for 394 damage
+Organic Bike Horn + Geyser + Organic Big Weight + Organic Grand Piano for 394 damage
+Organic Bike Horn + Organic Geyser + Anvil + Organic Toontanic for 394 damage
+Organic Bike Horn + Organic Big Weight + Organic Safe + Organic Toontanic for 394 damage
+Organic Bike Horn + Organic Safe + Organic Safe + Grand Piano for 394 damage
+Whistle + Organic Foghorn + Organic Wedding Cake + Organic Grand Piano for 394 damage
+Whistle + Whole Cream Pie + Organic Wedding Cake + Toontanic for 394 damage
+Whistle + Wedding Cake + Storm Cloud + Organic Grand Piano for 394 damage
+Whistle + Organic Wedding Cake + Organic Wedding Cake + Safe for 394 damage
+Organic Whistle + Organic Foghorn + Wedding Cake + Organic Toontanic for 394 damage
+Organic Whistle + Opera Singer + Organic Birthday Cake + Wedding Cake for 394 damage
+Organic Whistle + Opera Singer + Organic Geyser + Organic Geyser for 394 damage
+Organic Whistle + Birthday Cake + Organic Storm Cloud + Organic Toontanic for 394 damage
+Organic Whistle + Organic Birthday Cake + Organic Geyser + Organic Geyser for 394 damage
+Bugle + Organic Whole Cream Pie + Organic Birthday Cake + Organic Toontanic for 394 damage
+Bugle + Wedding Cake + Organic Wedding Cake + Storm Cloud for 394 damage
+Bugle + Wedding Cake + Organic Big Weight + Grand Piano for 394 damage
+Bugle + Organic Wedding Cake + Organic Flower Pot + Organic Toontanic for 394 damage
+Bugle + Geyser + Organic Anvil + Organic Toontanic for 394 damage
+Organic Bugle + Foghorn + Organic Wedding Cake + Organic Grand Piano for 394 damage
+Organic Bugle + Organic Foghorn + Organic Geyser + Organic Toontanic for 394 damage
+Organic Bugle + Organic Opera Singer + Storm Cloud + Toontanic for 394 damage
+Organic Bugle + Organic Opera Singer + Sandbag + Organic Toontanic for 394 damage
+Organic Bugle + Organic Whole Cream Pie + Organic Wedding Cake + Grand Piano for 394 damage
+Organic Bugle + Organic Wedding Cake + Storm Cloud + Grand Piano for 394 damage
+Organic Bugle + Organic Wedding Cake + Flower Pot + Organic Toontanic for 394 damage
+Organic Bugle + Storm Cloud + Organic Storm Cloud + Toontanic for 394 damage
+Organic Bugle + Organic Storm Cloud + Organic Storm Cloud + Grand Piano for 394 damage
+Organic Bugle + Organic Storm Cloud + Organic Geyser + Organic Geyser for 394 damage
+Aoogah + Organic Foghorn + Organic Birthday Cake + Organic Toontanic for 394 damage
+Aoogah + Organic Opera Singer + Organic Anvil + Toontanic for 394 damage
+Aoogah + Organic Cream Pie Slice + Organic Wedding Cake + Organic Toontanic for 394 damage
+Aoogah + Whole Fruit Pie + Organic Wedding Cake + Organic Grand Piano for 394 damage
+Aoogah + Whole Cream Pie + Organic Birthday Cake + Organic Toontanic for 394 damage
+Aoogah + Birthday Cake + Storm Cloud + Organic Toontanic for 394 damage
+Aoogah + Birthday Cake + Organic Anvil + Organic Toontanic for 394 damage
+Aoogah + Organic Birthday Cake + Organic Storm Cloud + Toontanic for 394 damage
+Aoogah + Wedding Cake + Organic Storm Cloud + Grand Piano for 394 damage
+Aoogah + Wedding Cake + Big Weight + Grand Piano for 394 damage
+Aoogah + Organic Wedding Cake + Sandbag + Organic Grand Piano for 394 damage
+Aoogah + Geyser + Geyser + Geyser for 394 damage
+Aoogah + Organic Geyser + Organic Big Weight + Grand Piano for 394 damage
+Organic Aoogah + Foghorn + Organic Geyser + Organic Toontanic for 394 damage
+Organic Aoogah + Organic Foghorn + Wedding Cake + Organic Grand Piano for 394 damage
+Organic Aoogah + Cream Pie Slice + Organic Wedding Cake + Organic Toontanic for 394 damage
+Organic Aoogah + Organic Whole Fruit Pie + Wedding Cake + Organic Toontanic for 394 damage
+Organic Aoogah + Whole Cream Pie + Organic Wedding Cake + Grand Piano for 394 damage
+Organic Aoogah + Organic Whole Cream Pie + Wedding Cake + Toontanic for 394 damage
+Organic Aoogah + Organic Birthday Cake + Storm Cloud + Organic Grand Piano for 394 damage
+Organic Aoogah + Storm Cloud + Organic Big Weight + Organic Toontanic for 394 damage
+Organic Aoogah + Storm Cloud + Organic Safe + Grand Piano for 394 damage
+Elephant Trunk + Foghorn + Organic Birthday Cake + Organic Toontanic for 394 damage
+Elephant Trunk + Organic Foghorn + Organic Wedding Cake + Grand Piano for 394 damage
+Elephant Trunk + Organic Foghorn + Organic Geyser + Organic Grand Piano for 394 damage
+Elephant Trunk + Opera Singer + Storm Cloud + Toontanic for 394 damage
+Elephant Trunk + Opera Singer + Sandbag + Organic Toontanic for 394 damage
+Elephant Trunk + Organic Opera Singer + Storm Cloud + Grand Piano for 394 damage
+Elephant Trunk + Organic Opera Singer + Flower Pot + Organic Toontanic for 394 damage
+Elephant Trunk + Organic Birthday Cake + Organic Big Weight + Grand Piano for 394 damage
+Elephant Trunk + Wedding Cake + Organic Wedding Cake + Safe for 394 damage
+Elephant Trunk + Organic Geyser + Big Weight + Grand Piano for 394 damage
+Organic Elephant Trunk + Foghorn + Opera Singer + Organic Toontanic for 394 damage
+Organic Elephant Trunk + Foghorn + Organic Opera Singer + Organic Grand Piano for 394 damage
+Organic Elephant Trunk + Organic Foghorn + Wedding Cake + Toontanic for 394 damage
+Organic Elephant Trunk + Organic Foghorn + Safe + Toontanic for 394 damage
+Organic Elephant Trunk + Opera Singer + Organic Storm Cloud + Grand Piano for 394 damage
+Organic Elephant Trunk + Opera Singer + Big Weight + Grand Piano for 394 damage
+Organic Elephant Trunk + Organic Opera Singer + Organic Wedding Cake + Organic Geyser for 394 damage
+Organic Elephant Trunk + Whole Fruit Pie + Organic Wedding Cake + Toontanic for 394 damage
+Organic Elephant Trunk + Organic Whole Cream Pie + Birthday Cake + Organic Toontanic for 394 damage
+Organic Elephant Trunk + Organic Birthday Cake + Organic Wedding Cake + Storm Cloud for 394 damage
+Organic Elephant Trunk + Organic Birthday Cake + Organic Sandbag + Organic Toontanic for 394 damage
+Organic Elephant Trunk + Organic Birthday Cake + Anvil + Organic Grand Piano for 394 damage
+Organic Elephant Trunk + Wedding Cake + Organic Flower Pot + Organic Toontanic for 394 damage
+Organic Elephant Trunk + Organic Wedding Cake + Organic Sandbag + Toontanic for 394 damage
+Organic Elephant Trunk + Organic Geyser + Organic Anvil + Toontanic for 394 damage
+Organic Elephant Trunk + Big Weight + Organic Safe + Organic Grand Piano for 394 damage
+Foghorn + Foghorn + Anvil + Organic Toontanic for 394 damage
+Foghorn + Organic Foghorn + Organic Storm Cloud + Toontanic for 394 damage
+Foghorn + Opera Singer + Sandbag + Grand Piano for 394 damage
+Foghorn + Organic Opera Singer + Cream Pie Slice + Organic Toontanic for 394 damage
+Foghorn + Organic Opera Singer + Birthday Cake + Organic Geyser for 394 damage
+Foghorn + Organic Opera Singer + Organic Birthday Cake + Geyser for 394 damage
+Foghorn + Organic Fruit Pie Slice + Organic Birthday Cake + Organic Toontanic for 394 damage
+Foghorn + Whole Fruit Pie + Organic Safe + Organic Grand Piano for 394 damage
+Foghorn + Organic Whole Cream Pie + Organic Birthday Cake + Organic Wedding Cake for 394 damage
+Foghorn + Organic Whole Cream Pie + Safe + Toontanic for 394 damage
+Foghorn + Birthday Cake + Wedding Cake + Storm Cloud for 394 damage
+Foghorn + Birthday Cake + Organic Storm Cloud + Organic Geyser for 394 damage
+Foghorn + Birthday Cake + Organic Anvil + Grand Piano for 394 damage
+Foghorn + Organic Birthday Cake + Organic Birthday Cake + Storm Cloud for 394 damage
+Foghorn + Organic Birthday Cake + Storm Cloud + Organic Geyser for 394 damage
+Foghorn + Organic Wedding Cake + Organic Storm Cloud + Organic Storm Cloud for 394 damage
+Foghorn + Seltzer Bottle + Organic Geyser + Toontanic for 394 damage
+Foghorn + Fire Hose + Organic Geyser + Grand Piano for 394 damage
+Foghorn + Organic Fire Hose + Organic Storm Cloud + Organic Toontanic for 394 damage
+Foghorn + Storm Cloud + Organic Anvil + Organic Grand Piano for 394 damage
+Foghorn + Organic Storm Cloud + Organic Anvil + Toontanic for 394 damage
+Foghorn + Geyser + Organic Sandbag + Toontanic for 394 damage
+Foghorn + Organic Flower Pot + Organic Safe + Organic Toontanic for 394 damage
+Foghorn + Sandbag + Safe + Organic Toontanic for 394 damage
+Organic Foghorn + Opera Singer + Whole Cream Pie + Toontanic for 394 damage
+Organic Foghorn + Opera Singer + Organic Wedding Cake + Organic Storm Cloud for 394 damage
+Organic Foghorn + Opera Singer + Organic Fire Hose + Organic Grand Piano for 394 damage
+Organic Foghorn + Organic Opera Singer + Organic Fruit Pie Slice + Organic Toontanic for 394 damage
+Organic Foghorn + Organic Opera Singer + Organic Whole Fruit Pie + Toontanic for 394 damage
+Organic Foghorn + Organic Opera Singer + Organic Wedding Cake + Organic Safe for 394 damage
+Organic Foghorn + Cupcake + Wedding Cake + Organic Grand Piano for 394 damage
+Organic Foghorn + Organic Cupcake + Organic Birthday Cake + Organic Toontanic for 394 damage
+Organic Foghorn + Cream Pie Slice + Birthday Cake + Organic Toontanic for 394 damage
+Organic Foghorn + Cream Pie Slice + Safe + Organic Toontanic for 394 damage
+Organic Foghorn + Organic Cream Pie Slice + Organic Wedding Cake + Organic Wedding Cake for 394 damage
+Organic Foghorn + Whole Cream Pie + Organic Birthday Cake + Organic Wedding Cake for 394 damage
+Organic Foghorn + Organic Whole Cream Pie + Organic Geyser + Toontanic for 394 damage
+Organic Foghorn + Birthday Cake + Organic Sandbag + Toontanic for 394 damage
+Organic Foghorn + Wedding Cake + Seltzer Bottle + Organic Toontanic for 394 damage
+Organic Foghorn + Organic Wedding Cake + Organic Glass of Water + Organic Toontanic for 394 damage
+Organic Foghorn + Organic Glass of Water + Organic Safe + Organic Toontanic for 394 damage
+Organic Foghorn + Squirt Gun + Geyser + Organic Toontanic for 394 damage
+Organic Foghorn + Seltzer Bottle + Geyser + Organic Grand Piano for 394 damage
+Organic Foghorn + Fire Hose + Safe + Organic Grand Piano for 394 damage
+Organic Foghorn + Fire Hose + Organic Safe + Toontanic for 394 damage
+Organic Foghorn + Organic Storm Cloud + Organic Flower Pot + Organic Toontanic for 394 damage
+Organic Foghorn + Sandbag + Organic Safe + Organic Grand Piano for 394 damage
+Opera Singer + Opera Singer + Opera Singer + Safe for 394 damage
+Opera Singer + Opera Singer + Glass of Water + Grand Piano for 394 damage
+Opera Singer + Opera Singer + Organic Fire Hose + Organic Geyser for 394 damage
+Opera Singer + Organic Opera Singer + Organic Cupcake + Organic Wedding Cake for 394 damage
+Opera Singer + Organic Opera Singer + Organic Whole Fruit Pie + Organic Birthday Cake for 394 damage
+Opera Singer + Organic Cupcake + Organic Big Weight + Organic Toontanic for 394 damage
+Opera Singer + Organic Cupcake + Organic Safe + Grand Piano for 394 damage
+Opera Singer + Organic Fruit Pie Slice + Birthday Cake + Grand Piano for 394 damage
+Opera Singer + Organic Fruit Pie Slice + Organic Birthday Cake + Organic Wedding Cake for 394 damage
+Opera Singer + Organic Cream Pie Slice + Organic Storm Cloud + Organic Toontanic for 394 damage
+Opera Singer + Organic Whole Fruit Pie + Organic Storm Cloud + Organic Grand Piano for 394 damage
+Opera Singer + Organic Whole Fruit Pie + Geyser + Grand Piano for 394 damage
+Opera Singer + Organic Whole Fruit Pie + Organic Big Weight + Toontanic for 394 damage
+Opera Singer + Whole Cream Pie + Geyser + Organic Geyser for 394 damage
+Opera Singer + Whole Cream Pie + Organic Anvil + Organic Grand Piano for 394 damage
+Opera Singer + Organic Whole Cream Pie + Organic Whole Cream Pie + Organic Toontanic for 394 damage
+Opera Singer + Organic Whole Cream Pie + Storm Cloud + Toontanic for 394 damage
+Opera Singer + Organic Whole Cream Pie + Sandbag + Organic Toontanic for 394 damage
+Opera Singer + Organic Birthday Cake + Organic Wedding Cake + Organic Squirt Gun for 394 damage
+Opera Singer + Wedding Cake + Squirting Flower + Toontanic for 394 damage
+Opera Singer + Squirting Flower + Safe + Toontanic for 394 damage
+Opera Singer + Glass of Water + Storm Cloud + Organic Toontanic for 394 damage
+Opera Singer + Organic Glass of Water + Organic Storm Cloud + Organic Grand Piano for 394 damage
+Opera Singer + Squirt Gun + Big Weight + Organic Toontanic for 394 damage
+Opera Singer + Organic Seltzer Bottle + Storm Cloud + Toontanic for 394 damage
+Opera Singer + Organic Seltzer Bottle + Organic Storm Cloud + Grand Piano for 394 damage
+Opera Singer + Organic Seltzer Bottle + Organic Geyser + Organic Geyser for 394 damage
+Opera Singer + Fire Hose + Anvil + Organic Toontanic for 394 damage
+Opera Singer + Organic Fire Hose + Geyser + Organic Geyser for 394 damage
+Opera Singer + Storm Cloud + Organic Geyser + Safe for 394 damage
+Opera Singer + Organic Storm Cloud + Flower Pot + Grand Piano for 394 damage
+Opera Singer + Flower Pot + Big Weight + Organic Toontanic for 394 damage
+Opera Singer + Organic Anvil + Organic Anvil + Organic Grand Piano for 394 damage
+Organic Opera Singer + Organic Opera Singer + Fruit Pie Slice + Wedding Cake for 394 damage
+Organic Opera Singer + Organic Cupcake + Safe + Grand Piano for 394 damage
+Organic Opera Singer + Fruit Pie Slice + Geyser + Toontanic for 394 damage
+Organic Opera Singer + Fruit Pie Slice + Organic Geyser + Grand Piano for 394 damage
+Organic Opera Singer + Organic Fruit Pie Slice + Organic Big Weight + Organic Grand Piano for 394 damage
+Organic Opera Singer + Cream Pie Slice + Storm Cloud + Organic Toontanic for 394 damage
+Organic Opera Singer + Cream Pie Slice + Organic Anvil + Organic Toontanic for 394 damage
+Organic Opera Singer + Organic Cream Pie Slice + Organic Wedding Cake + Organic Geyser for 394 damage
+Organic Opera Singer + Whole Fruit Pie + Organic Storm Cloud + Toontanic for 394 damage
+Organic Opera Singer + Whole Cream Pie + Organic Birthday Cake + Organic Geyser for 394 damage
+Organic Opera Singer + Whole Cream Pie + Organic Wedding Cake + Organic Storm Cloud for 394 damage
+Organic Opera Singer + Organic Whole Cream Pie + Organic Flower Pot + Organic Toontanic for 394 damage
+Organic Opera Singer + Birthday Cake + Glass of Water + Organic Grand Piano for 394 damage
+Organic Opera Singer + Organic Birthday Cake + Wedding Cake + Organic Sandbag for 394 damage
+Organic Opera Singer + Organic Birthday Cake + Organic Wedding Cake + Squirting Flower for 394 damage
+Organic Opera Singer + Organic Birthday Cake + Organic Squirting Flower + Toontanic for 394 damage
+Organic Opera Singer + Organic Birthday Cake + Organic Geyser + Safe for 394 damage
+Organic Opera Singer + Organic Birthday Cake + Organic Safe + Organic Safe for 394 damage
+Organic Opera Singer + Wedding Cake + Organic Squirting Flower + Grand Piano for 394 damage
+Organic Opera Singer + Wedding Cake + Geyser + Safe for 394 damage
+Organic Opera Singer + Seltzer Bottle + Anvil + Organic Toontanic for 394 damage
+Organic Opera Singer + Organic Geyser + Organic Geyser + Organic Sandbag for 394 damage
+Organic Opera Singer + Organic Geyser + Toontanic for 394 damage
+Cupcake + Whole Cream Pie + Organic Wedding Cake + Toontanic for 394 damage
+Cupcake + Organic Wedding Cake + Organic Wedding Cake + Safe for 394 damage
+Cupcake + Organic Wedding Cake + Fire Hose + Organic Toontanic for 394 damage
+Cupcake + Organic Wedding Cake + Flower Pot + Toontanic for 394 damage
+Cupcake + Organic Storm Cloud + Safe + Toontanic for 394 damage
+Organic Cupcake + Organic Wedding Cake + Organic Sandbag + Grand Piano for 394 damage
+Fruit Pie Slice + Organic Whole Cream Pie + Organic Wedding Cake + Grand Piano for 394 damage
+Fruit Pie Slice + Organic Birthday Cake + Storm Cloud + Grand Piano for 394 damage
+Fruit Pie Slice + Organic Birthday Cake + Flower Pot + Organic Toontanic for 394 damage
+Fruit Pie Slice + Wedding Cake + Organic Flower Pot + Organic Grand Piano for 394 damage
+Fruit Pie Slice + Wedding Cake + Sandbag + Toontanic for 394 damage
+Fruit Pie Slice + Geyser + Big Weight + Organic Grand Piano for 394 damage
+Fruit Pie Slice + Big Weight + Organic Safe + Organic Toontanic for 394 damage
+Fruit Pie Slice + Safe + Safe + Toontanic for 394 damage
+Organic Fruit Pie Slice + Organic Whole Fruit Pie + Organic Wedding Cake + Organic Grand Piano for 394 damage
+Organic Fruit Pie Slice + Birthday Cake + Storm Cloud + Toontanic for 394 damage
+Organic Fruit Pie Slice + Birthday Cake + Sandbag + Organic Toontanic for 394 damage
+Organic Fruit Pie Slice + Organic Birthday Cake + Organic Sandbag + Organic Grand Piano for 394 damage
+Organic Fruit Pie Slice + Organic Wedding Cake + Storm Cloud + Geyser for 394 damage
+Organic Fruit Pie Slice + Geyser + Organic Anvil + Organic Toontanic for 394 damage
+Cream Pie Slice + Organic Whole Fruit Pie + Organic Wedding Cake + Toontanic for 394 damage
+Cream Pie Slice + Storm Cloud + Organic Big Weight + Organic Toontanic for 394 damage
+Cream Pie Slice + Storm Cloud + Organic Safe + Grand Piano for 394 damage
+Organic Cream Pie Slice + Whole Cream Pie + Wedding Cake + Toontanic for 394 damage
+Organic Cream Pie Slice + Organic Whole Cream Pie + Organic Birthday Cake + Organic Grand Piano for 394 damage
+Organic Cream Pie Slice + Birthday Cake + Birthday Cake + Organic Birthday Cake for 394 damage
+Organic Cream Pie Slice + Birthday Cake + Geyser + Geyser for 394 damage
+Organic Cream Pie Slice + Birthday Cake + Anvil + Toontanic for 394 damage
+Organic Cream Pie Slice + Organic Birthday Cake + Anvil + Grand Piano for 394 damage
+Organic Cream Pie Slice + Wedding Cake + Organic Wedding Cake + Safe for 394 damage
+Organic Cream Pie Slice + Wedding Cake + Fire Hose + Organic Toontanic for 394 damage
+Organic Cream Pie Slice + Wedding Cake + Flower Pot + Toontanic for 394 damage
+Organic Cream Pie Slice + Organic Fire Hose + Organic Geyser + Organic Toontanic for 394 damage
+Organic Cream Pie Slice + Organic Storm Cloud + Safe + Grand Piano for 394 damage
+Organic Cream Pie Slice + Organic Geyser + Organic Sandbag + Organic Toontanic for 394 damage
+Organic Cream Pie Slice + Organic Geyser + Anvil + Organic Grand Piano for 394 damage
+Organic Cream Pie Slice + Big Weight + Safe + Organic Toontanic for 394 damage
+Organic Cream Pie Slice + Organic Big Weight + Organic Safe + Organic Grand Piano for 394 damage
+Whole Fruit Pie + Whole Fruit Pie + Organic Wedding Cake + Grand Piano for 394 damage
+Whole Fruit Pie + Whole Cream Pie + Organic Geyser + Organic Toontanic for 394 damage
+Whole Fruit Pie + Wedding Cake + Fire Hose + Organic Grand Piano for 394 damage
+Whole Fruit Pie + Organic Wedding Cake + Organic Squirting Flower + Organic Toontanic for 394 damage
+Whole Fruit Pie + Organic Wedding Cake + Organic Seltzer Bottle + Toontanic for 394 damage
+Whole Fruit Pie + Organic Wedding Cake + Organic Fire Hose + Grand Piano for 394 damage
+Whole Fruit Pie + Organic Storm Cloud + Big Weight + Organic Grand Piano for 394 damage
+Whole Fruit Pie + Organic Geyser + Anvil + Toontanic for 394 damage
+Organic Whole Fruit Pie + Organic Whole Fruit Pie + Wedding Cake + Toontanic for 394 damage
+Organic Whole Fruit Pie + Birthday Cake + Organic Wedding Cake + Storm Cloud for 394 damage
+Organic Whole Fruit Pie + Birthday Cake + Organic Sandbag + Toontanic for 394 damage
+Organic Whole Fruit Pie + Organic Birthday Cake + Organic Sandbag + Grand Piano for 394 damage
+Organic Whole Fruit Pie + Organic Wedding Cake + Organic Squirt Gun + Organic Grand Piano for 394 damage
+Organic Whole Fruit Pie + Organic Wedding Cake + Fire Hose + Grand Piano for 394 damage
+Organic Whole Fruit Pie + Organic Fire Hose + Organic Geyser + Organic Grand Piano for 394 damage
+Organic Whole Fruit Pie + Geyser + Sandbag + Organic Toontanic for 394 damage
+Organic Whole Fruit Pie + Organic Geyser + Flower Pot + Organic Toontanic for 394 damage
+Whole Cream Pie + Birthday Cake + Sandbag + Grand Piano for 394 damage
+Whole Cream Pie + Organic Birthday Cake + Wedding Cake + Safe for 394 damage
+Whole Cream Pie + Wedding Cake + Squirting Flower + Organic Toontanic for 394 damage
+Whole Cream Pie + Wedding Cake + Storm Cloud + Organic Storm Cloud for 394 damage
+Whole Cream Pie + Organic Wedding Cake + Organic Grand Piano for 394 damage
+Whole Cream Pie + Fire Hose + Organic Geyser + Toontanic for 394 damage
+Whole Cream Pie + Storm Cloud + Anvil + Organic Toontanic for 394 damage
+Whole Cream Pie + Organic Geyser + Organic Sandbag + Toontanic for 394 damage
+Whole Cream Pie + Big Weight + Safe + Toontanic for 394 damage
+Organic Whole Cream Pie + Organic Whole Cream Pie + Wedding Cake + Wedding Cake for 394 damage
+Organic Whole Cream Pie + Organic Whole Cream Pie + Safe + Grand Piano for 394 damage
+Organic Whole Cream Pie + Birthday Cake + Wedding Cake + Organic Safe for 394 damage
+Organic Whole Cream Pie + Birthday Cake + Organic Seltzer Bottle + Organic Toontanic for 394 damage
+Organic Whole Cream Pie + Organic Birthday Cake + Organic Birthday Cake + Organic Safe for 394 damage
+Organic Whole Cream Pie + Organic Wedding Cake + Squirt Gun + Grand Piano for 394 damage
+Organic Whole Cream Pie + Organic Wedding Cake + Geyser + Organic Safe for 394 damage
+Organic Whole Cream Pie + Seltzer Bottle + Geyser + Organic Toontanic for 394 damage
+Organic Whole Cream Pie + Organic Fire Hose + Organic Safe + Organic Grand Piano for 394 damage
+Organic Whole Cream Pie + Storm Cloud + Big Weight + Toontanic for 394 damage
+Organic Whole Cream Pie + Organic Storm Cloud + Organic Storm Cloud + Organic Geyser for 394 damage
+Birthday Cake + Birthday Cake + Wedding Cake + Flower Pot for 394 damage
+Birthday Cake + Birthday Cake + Organic Squirt Gun + Organic Geyser for 394 damage
+Birthday Cake + Birthday Cake + Organic Seltzer Bottle + Geyser for 394 damage
+Birthday Cake + Birthday Cake + Geyser + Organic Big Weight for 394 damage
+Birthday Cake + Organic Birthday Cake + Organic Birthday Cake + Flower Pot for 394 damage
+Birthday Cake + Organic Birthday Cake + Organic Squirt Gun + Geyser for 394 damage
+Birthday Cake + Organic Birthday Cake + Fire Hose + Organic Storm Cloud for 394 damage
+Birthday Cake + Organic Wedding Cake + Geyser + Flower Pot for 394 damage
+Birthday Cake + Organic Wedding Cake + Organic Geyser for 394 damage
+Birthday Cake + Organic Glass of Water + Storm Cloud + Organic Grand Piano for 394 damage
+Birthday Cake + Organic Seltzer Bottle + Storm Cloud + Grand Piano for 394 damage
+Birthday Cake + Fire Hose + Organic Anvil + Organic Grand Piano for 394 damage
+Birthday Cake + Organic Fire Hose + Organic Sandbag + Organic Toontanic for 394 damage
+Birthday Cake + Organic Fire Hose + Anvil + Organic Grand Piano for 394 damage
+Birthday Cake + Geyser + Organic Geyser + Anvil for 394 damage
+Birthday Cake + Organic Geyser + Organic Geyser + Sandbag for 394 damage
+Birthday Cake + Anvil + Big Weight + Grand Piano for 394 damage
+Organic Birthday Cake + Wedding Cake + Organic Storm Cloud + Anvil for 394 damage
+Organic Birthday Cake + Wedding Cake + Organic Big Weight + Organic Big Weight for 394 damage
+Organic Birthday Cake + Organic Wedding Cake + Organic Fire Hose + Safe for 394 damage
+Organic Birthday Cake + Organic Squirting Flower + Big Weight + Organic Grand Piano for 394 damage
+Organic Birthday Cake + Organic Glass of Water + Organic Big Weight + Toontanic for 394 damage
+Organic Birthday Cake + Seltzer Bottle + Organic Big Weight + Grand Piano for 394 damage
+Organic Birthday Cake + Organic Seltzer Bottle + Organic Sandbag + Organic Toontanic for 394 damage
+Organic Birthday Cake + Organic Seltzer Bottle + Anvil + Organic Grand Piano for 394 damage
+Organic Birthday Cake + Organic Fire Hose + Organic Storm Cloud + Organic Geyser for 394 damage
+Organic Birthday Cake + Organic Fire Hose + Organic Flower Pot + Organic Toontanic for 394 damage
+Organic Birthday Cake + Organic Flower Pot + Big Weight + Toontanic for 394 damage
+Organic Birthday Cake + Organic Sandbag + Organic Sandbag + Organic Toontanic for 394 damage
+Organic Birthday Cake + Organic Sandbag + Anvil + Organic Grand Piano for 394 damage
+Organic Birthday Cake + Organic Anvil + Organic Anvil + Grand Piano for 394 damage
+Organic Birthday Cake + Organic Big Weight + Organic Grand Piano for 394 damage
+Wedding Cake + Wedding Cake + Glass of Water + Storm Cloud for 394 damage
+Wedding Cake + Wedding Cake + Organic Storm Cloud + Sandbag for 394 damage
+Wedding Cake + Wedding Cake + Organic Flower Pot + Organic Safe for 394 damage
+Wedding Cake + Wedding Cake + Sandbag + Safe for 394 damage
+Wedding Cake + Organic Wedding Cake + Seltzer Bottle + Safe for 394 damage
+Wedding Cake + Organic Wedding Cake + Storm Cloud + Organic Flower Pot for 394 damage
+Wedding Cake + Squirting Flower + Big Weight + Toontanic for 394 damage
+Wedding Cake + Glass of Water + Geyser + Organic Geyser for 394 damage
+Wedding Cake + Organic Squirt Gun + Organic Sandbag + Organic Toontanic for 394 damage
+Wedding Cake + Organic Squirt Gun + Anvil + Organic Grand Piano for 394 damage
+Wedding Cake + Organic Seltzer Bottle + Organic Flower Pot + Organic Toontanic for 394 damage
+Wedding Cake + Fire Hose + Organic Fire Hose + Organic Toontanic for 394 damage
+Wedding Cake + Fire Hose + Organic Anvil + Grand Piano for 394 damage
+Wedding Cake + Organic Fire Hose + Storm Cloud + Organic Geyser for 394 damage
+Wedding Cake + Organic Storm Cloud + Organic Geyser + Anvil for 394 damage
+Wedding Cake + Geyser + Organic Geyser + Flower Pot for 394 damage
+Wedding Cake + Organic Flower Pot + Organic Sandbag + Organic Toontanic for 394 damage
+Wedding Cake + Organic Flower Pot + Anvil + Organic Grand Piano for 394 damage
+Wedding Cake + Sandbag + Anvil + Toontanic for 394 damage
+Wedding Cake + Anvil + Organic Toontanic for 394 damage
+Organic Wedding Cake + Organic Wedding Cake + Organic Sandbag + Big Weight for 394 damage
+Organic Wedding Cake + Organic Wedding Cake + Organic Safe for 394 damage
+Organic Wedding Cake + Squirting Flower + Big Weight + Grand Piano for 394 damage
+Organic Wedding Cake + Glass of Water + Geyser + Geyser for 394 damage
+Organic Wedding Cake + Squirt Gun + Flower Pot + Organic Toontanic for 394 damage
+Organic Wedding Cake + Organic Seltzer Bottle + Fire Hose + Organic Toontanic for 394 damage
+Organic Wedding Cake + Organic Seltzer Bottle + Storm Cloud + Organic Geyser for 394 damage
+Organic Wedding Cake + Organic Seltzer Bottle + Organic Sandbag + Toontanic for 394 damage
+Organic Wedding Cake + Organic Fire Hose + Storm Cloud + Geyser for 394 damage
+Organic Wedding Cake + Storm Cloud + Storm Cloud + Safe for 394 damage
+Organic Wedding Cake + Organic Storm Cloud + Geyser + Anvil for 394 damage
+Organic Wedding Cake + Organic Storm Cloud + Organic Geyser + Sandbag for 394 damage
+Organic Wedding Cake + Geyser + Geyser + Flower Pot for 394 damage
+Organic Wedding Cake + Organic Geyser + Big Weight + Organic Safe for 394 damage
+Organic Wedding Cake + Flower Pot + Flower Pot + Organic Toontanic for 394 damage
+Organic Wedding Cake + Sandbag + Anvil + Grand Piano for 394 damage
+Organic Wedding Cake + Organic Sandbag + Organic Sandbag + Toontanic for 394 damage
+Squirting Flower + Storm Cloud + Organic Storm Cloud + Organic Grand Piano for 394 damage
+Squirting Flower + Geyser + Organic Big Weight + Grand Piano for 394 damage
+Squirting Flower + Organic Geyser + Organic Flower Pot + Organic Toontanic for 394 damage
+Organic Squirting Flower + Storm Cloud + Big Weight + Organic Toontanic for 394 damage
+Organic Squirting Flower + Organic Geyser + Flower Pot + Organic Toontanic for 394 damage
+Organic Squirting Flower + Organic Big Weight + Organic Safe + Organic Toontanic for 394 damage
+Organic Squirting Flower + Organic Safe + Organic Safe + Grand Piano for 394 damage
+Glass of Water + Storm Cloud + Safe + Grand Piano for 394 damage
+Glass of Water + Organic Storm Cloud + Organic Anvil + Organic Toontanic for 394 damage
+Glass of Water + Geyser + Big Weight + Grand Piano for 394 damage
+Glass of Water + Organic Geyser + Sandbag + Organic Grand Piano for 394 damage
+Squirt Gun + Storm Cloud + Storm Cloud + Organic Grand Piano for 394 damage
+Squirt Gun + Organic Storm Cloud + Anvil + Organic Toontanic for 394 damage
+Organic Squirt Gun + Geyser + Geyser + Geyser for 394 damage
+Organic Squirt Gun + Geyser + Anvil + Toontanic for 394 damage
+Organic Squirt Gun + Organic Geyser + Anvil + Grand Piano for 394 damage
+Organic Squirt Gun + Organic Big Weight + Safe + Organic Toontanic for 394 damage
+Organic Squirt Gun + Safe + Organic Safe + Grand Piano for 394 damage
+Seltzer Bottle + Organic Storm Cloud + Organic Big Weight + Grand Piano for 394 damage
+Seltzer Bottle + Organic Geyser + Organic Flower Pot + Toontanic for 394 damage
+Organic Seltzer Bottle + Fire Hose + Organic Safe + Organic Toontanic for 394 damage
+Organic Seltzer Bottle + Storm Cloud + Big Weight + Toontanic for 394 damage
+Organic Seltzer Bottle + Organic Storm Cloud + Sandbag + Organic Toontanic for 394 damage
+Organic Seltzer Bottle + Geyser + Anvil + Grand Piano for 394 damage
+Organic Seltzer Bottle + Organic Geyser + Flower Pot + Toontanic for 394 damage
+Organic Seltzer Bottle + Big Weight + Organic Safe + Organic Grand Piano for 394 damage
+Fire Hose + Fire Hose + Safe + Organic Toontanic for 394 damage
+Fire Hose + Organic Fire Hose + Organic Geyser + Toontanic for 394 damage
+Fire Hose + Organic Storm Cloud + Geyser + Geyser for 394 damage
+Fire Hose + Organic Storm Cloud + Anvil + Toontanic for 394 damage
+Organic Fire Hose + Storm Cloud + Big Weight + Grand Piano for 394 damage
+Organic Fire Hose + Organic Storm Cloud + Organic Sandbag + Organic Grand Piano for 394 damage
+Organic Fire Hose + Geyser + Flower Pot + Toontanic for 394 damage
+Organic Fire Hose + Organic Geyser + Flower Pot + Grand Piano for 394 damage
+Storm Cloud + Storm Cloud + Storm Cloud + Organic Storm Cloud for 394 damage
+Storm Cloud + Organic Flower Pot + Safe + Toontanic for 394 damage
+Storm Cloud + Sandbag + Big Weight + Organic Toontanic for 394 damage
+Storm Cloud + Anvil + Organic Anvil + Organic Toontanic for 394 damage
+Organic Storm Cloud + Organic Storm Cloud + Organic Storm Cloud + Organic Safe for 394 damage
+Organic Storm Cloud + Organic Sandbag + Organic Big Weight + Organic Grand Piano for 394 damage
+Organic Storm Cloud + Anvil + Big Weight + Toontanic for 394 damage
+Organic Geyser + Organic Geyser + Organic Big Weight + Organic Big Weight for 394 damage
+Organic Geyser + Organic Sandbag + Organic Anvil + Toontanic for 394 damage
+Organic Geyser + Big Weight + Organic Grand Piano for 394 damage
+Organic Flower Pot + Organic Big Weight + Safe + Organic Toontanic for 394 damage
+Organic Flower Pot + Safe + Organic Safe + Grand Piano for 394 damage
+Sandbag + Safe + Safe + Grand Piano for 394 damage
+Organic Sandbag + Big Weight + Organic Safe + Organic Grand Piano for 394 damage
+Anvil + Anvil + Safe + Organic Toontanic for 394 damage
+Organic Anvil + Big Weight + Safe + Toontanic for 394 damage
+(Lured) + Bike Horn + Organic Opera Singer + Birthday Cake + Grand Piano for 394 damage
+(Lured) + Bike Horn + Organic Opera Singer + Big Weight + Toontanic for 394 damage
+(Lured) + Bike Horn + Whole Cream Pie + Wedding Cake + Organic Toontanic for 394 damage
+(Lured) + Bike Horn + Wedding Cake + Big Weight + Toontanic for 394 damage
+(Lured) + Bike Horn + Organic Wedding Cake + Organic Storm Cloud + Grand Piano for 394 damage
+(Lured) + Bike Horn + Organic Wedding Cake + Big Weight + Grand Piano for 394 damage
+(Lured) + Bike Horn + Storm Cloud + Storm Cloud + Organic Toontanic for 394 damage
+(Lured) + Bike Horn + Geyser + Geyser + Organic Geyser for 394 damage
+(Lured) + Bike Horn + Organic Geyser + Organic Big Weight + Toontanic for 394 damage
+(Lured) + Organic Bike Horn + Organic Foghorn + Safe + Organic Toontanic for 394 damage
+(Lured) + Organic Bike Horn + Opera Singer + Birthday Cake + Toontanic for 394 damage
+(Lured) + Organic Bike Horn + Opera Singer + Organic Birthday Cake + Grand Piano for 394 damage
+(Lured) + Organic Bike Horn + Whole Fruit Pie + Organic Wedding Cake + Organic Toontanic for 394 damage
+(Lured) + Organic Bike Horn + Organic Birthday Cake + Big Weight + Organic Grand Piano for 394 damage
+(Lured) + Organic Bike Horn + Storm Cloud + Organic Storm Cloud + Organic Grand Piano for 394 damage
+(Lured) + Organic Bike Horn + Storm Cloud + Safe + Organic Grand Piano for 394 damage
+(Lured) + Organic Bike Horn + Storm Cloud + Organic Safe + Toontanic for 394 damage
+(Lured) + Organic Bike Horn + Geyser + Organic Big Weight + Organic Grand Piano for 394 damage
+(Lured) + Organic Bike Horn + Organic Geyser + Anvil + Organic Toontanic for 394 damage
+(Lured) + Organic Bike Horn + Organic Big Weight + Organic Safe + Organic Toontanic for 394 damage
+(Lured) + Organic Bike Horn + Organic Safe + Organic Safe + Grand Piano for 394 damage
+(Lured) + Whistle + Organic Foghorn + Organic Wedding Cake + Organic Grand Piano for 394 damage
+(Lured) + Whistle + Whole Cream Pie + Organic Wedding Cake + Toontanic for 394 damage
+(Lured) + Whistle + Wedding Cake + Storm Cloud + Organic Grand Piano for 394 damage
+(Lured) + Whistle + Organic Wedding Cake + Organic Wedding Cake + Safe for 394 damage
+(Lured) + Organic Whistle + Organic Foghorn + Wedding Cake + Organic Toontanic for 394 damage
+(Lured) + Organic Whistle + Opera Singer + Organic Birthday Cake + Wedding Cake for 394 damage
+(Lured) + Organic Whistle + Opera Singer + Organic Geyser + Organic Geyser for 394 damage
+(Lured) + Organic Whistle + Birthday Cake + Organic Storm Cloud + Organic Toontanic for 394 damage
+(Lured) + Organic Whistle + Organic Birthday Cake + Organic Geyser + Organic Geyser for 394 damage
+(Lured) + Bugle + Organic Whole Cream Pie + Organic Birthday Cake + Organic Toontanic for 394 damage
+(Lured) + Bugle + Wedding Cake + Organic Wedding Cake + Storm Cloud for 394 damage
+(Lured) + Bugle + Wedding Cake + Organic Big Weight + Grand Piano for 394 damage
+(Lured) + Bugle + Organic Wedding Cake + Organic Flower Pot + Organic Toontanic for 394 damage
+(Lured) + Bugle + Geyser + Organic Anvil + Organic Toontanic for 394 damage
+(Lured) + Organic Bugle + Foghorn + Organic Wedding Cake + Organic Grand Piano for 394 damage
+(Lured) + Organic Bugle + Organic Foghorn + Organic Geyser + Organic Toontanic for 394 damage
+(Lured) + Organic Bugle + Organic Opera Singer + Storm Cloud + Toontanic for 394 damage
+(Lured) + Organic Bugle + Organic Opera Singer + Sandbag + Organic Toontanic for 394 damage
+(Lured) + Organic Bugle + Organic Whole Cream Pie + Organic Wedding Cake + Grand Piano for 394 damage
+(Lured) + Organic Bugle + Organic Wedding Cake + Storm Cloud + Grand Piano for 394 damage
+(Lured) + Organic Bugle + Organic Wedding Cake + Flower Pot + Organic Toontanic for 394 damage
+(Lured) + Organic Bugle + Storm Cloud + Organic Storm Cloud + Toontanic for 394 damage
+(Lured) + Organic Bugle + Organic Storm Cloud + Organic Storm Cloud + Grand Piano for 394 damage
+(Lured) + Organic Bugle + Organic Storm Cloud + Organic Geyser + Organic Geyser for 394 damage
+(Lured) + Aoogah + Organic Foghorn + Organic Birthday Cake + Organic Toontanic for 394 damage
+(Lured) + Aoogah + Organic Opera Singer + Organic Anvil + Toontanic for 394 damage
+(Lured) + Aoogah + Organic Cream Pie Slice + Organic Wedding Cake + Organic Toontanic for 394 damage
+(Lured) + Aoogah + Whole Fruit Pie + Organic Wedding Cake + Organic Grand Piano for 394 damage
+(Lured) + Aoogah + Whole Cream Pie + Organic Birthday Cake + Organic Toontanic for 394 damage
+(Lured) + Aoogah + Birthday Cake + Storm Cloud + Organic Toontanic for 394 damage
+(Lured) + Aoogah + Birthday Cake + Organic Anvil + Organic Toontanic for 394 damage
+(Lured) + Aoogah + Organic Birthday Cake + Organic Storm Cloud + Toontanic for 394 damage
+(Lured) + Aoogah + Wedding Cake + Organic Storm Cloud + Grand Piano for 394 damage
+(Lured) + Aoogah + Wedding Cake + Big Weight + Grand Piano for 394 damage
+(Lured) + Aoogah + Organic Wedding Cake + Sandbag + Organic Grand Piano for 394 damage
+(Lured) + Aoogah + Geyser + Geyser + Geyser for 394 damage
+(Lured) + Aoogah + Organic Geyser + Organic Big Weight + Grand Piano for 394 damage
+(Lured) + Organic Aoogah + Foghorn + Organic Geyser + Organic Toontanic for 394 damage
+(Lured) + Organic Aoogah + Organic Foghorn + Wedding Cake + Organic Grand Piano for 394 damage
+(Lured) + Organic Aoogah + Cream Pie Slice + Organic Wedding Cake + Organic Toontanic for 394 damage
+(Lured) + Organic Aoogah + Organic Whole Fruit Pie + Wedding Cake + Organic Toontanic for 394 damage
+(Lured) + Organic Aoogah + Whole Cream Pie + Organic Wedding Cake + Grand Piano for 394 damage
+(Lured) + Organic Aoogah + Organic Whole Cream Pie + Wedding Cake + Toontanic for 394 damage
+(Lured) + Organic Aoogah + Organic Birthday Cake + Storm Cloud + Organic Grand Piano for 394 damage
+(Lured) + Organic Aoogah + Storm Cloud + Organic Big Weight + Organic Toontanic for 394 damage
+(Lured) + Organic Aoogah + Storm Cloud + Organic Safe + Grand Piano for 394 damage
+(Lured) + Elephant Trunk + Foghorn + Organic Birthday Cake + Organic Toontanic for 394 damage
+(Lured) + Elephant Trunk + Organic Foghorn + Organic Wedding Cake + Grand Piano for 394 damage
+(Lured) + Elephant Trunk + Organic Foghorn + Organic Geyser + Organic Grand Piano for 394 damage
+(Lured) + Elephant Trunk + Opera Singer + Storm Cloud + Toontanic for 394 damage
+(Lured) + Elephant Trunk + Opera Singer + Sandbag + Organic Toontanic for 394 damage
+(Lured) + Elephant Trunk + Organic Opera Singer + Storm Cloud + Grand Piano for 394 damage
+(Lured) + Elephant Trunk + Organic Opera Singer + Flower Pot + Organic Toontanic for 394 damage
+(Lured) + Elephant Trunk + Organic Birthday Cake + Organic Big Weight + Grand Piano for 394 damage
+(Lured) + Elephant Trunk + Wedding Cake + Organic Wedding Cake + Safe for 394 damage
+(Lured) + Elephant Trunk + Organic Geyser + Big Weight + Grand Piano for 394 damage
+(Lured) + Organic Elephant Trunk + Foghorn + Opera Singer + Organic Toontanic for 394 damage
+(Lured) + Organic Elephant Trunk + Foghorn + Organic Opera Singer + Organic Grand Piano for 394 damage
+(Lured) + Organic Elephant Trunk + Organic Foghorn + Wedding Cake + Toontanic for 394 damage
+(Lured) + Organic Elephant Trunk + Organic Foghorn + Safe + Toontanic for 394 damage
+(Lured) + Organic Elephant Trunk + Opera Singer + Organic Storm Cloud + Grand Piano for 394 damage
+(Lured) + Organic Elephant Trunk + Opera Singer + Big Weight + Grand Piano for 394 damage
+(Lured) + Organic Elephant Trunk + Organic Opera Singer + Organic Wedding Cake + Organic Geyser for 394 damage
+(Lured) + Organic Elephant Trunk + Whole Fruit Pie + Organic Wedding Cake + Toontanic for 394 damage
+(Lured) + Organic Elephant Trunk + Organic Whole Cream Pie + Birthday Cake + Organic Toontanic for 394 damage
+(Lured) + Organic Elephant Trunk + Organic Birthday Cake + Organic Wedding Cake + Storm Cloud for 394 damage
+(Lured) + Organic Elephant Trunk + Organic Birthday Cake + Organic Sandbag + Organic Toontanic for 394 damage
+(Lured) + Organic Elephant Trunk + Organic Birthday Cake + Anvil + Organic Grand Piano for 394 damage
+(Lured) + Organic Elephant Trunk + Wedding Cake + Organic Flower Pot + Organic Toontanic for 394 damage
+(Lured) + Organic Elephant Trunk + Organic Wedding Cake + Organic Sandbag + Toontanic for 394 damage
+(Lured) + Organic Elephant Trunk + Organic Geyser + Organic Anvil + Toontanic for 394 damage
+(Lured) + Organic Elephant Trunk + Big Weight + Organic Safe + Organic Grand Piano for 394 damage
+(Lured) + Foghorn + Foghorn + Anvil + Organic Toontanic for 394 damage
+(Lured) + Foghorn + Organic Foghorn + Organic Storm Cloud + Toontanic for 394 damage
+(Lured) + Foghorn + Opera Singer + Sandbag + Grand Piano for 394 damage
+(Lured) + Foghorn + Organic Opera Singer + Cream Pie Slice + Organic Toontanic for 394 damage
+(Lured) + Foghorn + Organic Opera Singer + Birthday Cake + Organic Geyser for 394 damage
+(Lured) + Foghorn + Organic Opera Singer + Organic Birthday Cake + Geyser for 394 damage
+(Lured) + Foghorn + Organic Fruit Pie Slice + Organic Birthday Cake + Organic Toontanic for 394 damage
+(Lured) + Foghorn + Whole Fruit Pie + Organic Safe + Organic Grand Piano for 394 damage
+(Lured) + Foghorn + Organic Whole Cream Pie + Organic Birthday Cake + Organic Wedding Cake for 394 damage
+(Lured) + Foghorn + Organic Whole Cream Pie + Safe + Toontanic for 394 damage
+(Lured) + Foghorn + Birthday Cake + Wedding Cake + Storm Cloud for 394 damage
+(Lured) + Foghorn + Birthday Cake + Organic Storm Cloud + Organic Geyser for 394 damage
+(Lured) + Foghorn + Birthday Cake + Organic Anvil + Grand Piano for 394 damage
+(Lured) + Foghorn + Organic Birthday Cake + Organic Birthday Cake + Storm Cloud for 394 damage
+(Lured) + Foghorn + Organic Birthday Cake + Storm Cloud + Organic Geyser for 394 damage
+(Lured) + Foghorn + Organic Wedding Cake + Organic Storm Cloud + Organic Storm Cloud for 394 damage
+(Lured) + Foghorn + Seltzer Bottle + Organic Geyser + Toontanic for 394 damage
+(Lured) + Foghorn + Fire Hose + Organic Geyser + Grand Piano for 394 damage
+(Lured) + Foghorn + Organic Fire Hose + Organic Storm Cloud + Organic Toontanic for 394 damage
+(Lured) + Foghorn + Storm Cloud + Organic Anvil + Organic Grand Piano for 394 damage
+(Lured) + Foghorn + Organic Storm Cloud + Organic Anvil + Toontanic for 394 damage
+(Lured) + Foghorn + Geyser + Organic Sandbag + Toontanic for 394 damage
+(Lured) + Foghorn + Organic Flower Pot + Organic Safe + Organic Toontanic for 394 damage
+(Lured) + Foghorn + Sandbag + Safe + Organic Toontanic for 394 damage
+(Lured) + Organic Foghorn + Opera Singer + Whole Cream Pie + Toontanic for 394 damage
+(Lured) + Organic Foghorn + Opera Singer + Organic Wedding Cake + Organic Storm Cloud for 394 damage
+(Lured) + Organic Foghorn + Opera Singer + Organic Fire Hose + Organic Grand Piano for 394 damage
+(Lured) + Organic Foghorn + Organic Opera Singer + Organic Fruit Pie Slice + Organic Toontanic for 394 damage
+(Lured) + Organic Foghorn + Organic Opera Singer + Organic Whole Fruit Pie + Toontanic for 394 damage
+(Lured) + Organic Foghorn + Organic Opera Singer + Organic Wedding Cake + Organic Safe for 394 damage
+(Lured) + Organic Foghorn + Cupcake + Wedding Cake + Organic Grand Piano for 394 damage
+(Lured) + Organic Foghorn + Organic Cupcake + Organic Birthday Cake + Organic Toontanic for 394 damage
+(Lured) + Organic Foghorn + Cream Pie Slice + Birthday Cake + Organic Toontanic for 394 damage
+(Lured) + Organic Foghorn + Cream Pie Slice + Safe + Organic Toontanic for 394 damage
+(Lured) + Organic Foghorn + Organic Cream Pie Slice + Organic Wedding Cake + Organic Wedding Cake for 394 damage
+(Lured) + Organic Foghorn + Whole Cream Pie + Organic Birthday Cake + Organic Wedding Cake for 394 damage
+(Lured) + Organic Foghorn + Organic Whole Cream Pie + Organic Geyser + Toontanic for 394 damage
+(Lured) + Organic Foghorn + Birthday Cake + Organic Sandbag + Toontanic for 394 damage
+(Lured) + Organic Foghorn + Wedding Cake + Seltzer Bottle + Organic Toontanic for 394 damage
+(Lured) + Organic Foghorn + Organic Wedding Cake + Organic Glass of Water + Organic Toontanic for 394 damage
+(Lured) + Organic Foghorn + Organic Glass of Water + Organic Safe + Organic Toontanic for 394 damage
+(Lured) + Organic Foghorn + Squirt Gun + Geyser + Organic Toontanic for 394 damage
+(Lured) + Organic Foghorn + Seltzer Bottle + Geyser + Organic Grand Piano for 394 damage
+(Lured) + Organic Foghorn + Fire Hose + Safe + Organic Grand Piano for 394 damage
+(Lured) + Organic Foghorn + Fire Hose + Organic Safe + Toontanic for 394 damage
+(Lured) + Organic Foghorn + Organic Storm Cloud + Organic Flower Pot + Organic Toontanic for 394 damage
+(Lured) + Organic Foghorn + Sandbag + Organic Safe + Organic Grand Piano for 394 damage
+(Lured) + Opera Singer + Opera Singer + Opera Singer + Safe for 394 damage
+(Lured) + Opera Singer + Opera Singer + Glass of Water + Grand Piano for 394 damage
+(Lured) + Opera Singer + Opera Singer + Organic Fire Hose + Organic Geyser for 394 damage
+(Lured) + Opera Singer + Organic Opera Singer + Organic Cupcake + Organic Wedding Cake for 394 damage
+(Lured) + Opera Singer + Organic Opera Singer + Organic Whole Fruit Pie + Organic Birthday Cake for 394 damage
+(Lured) + Opera Singer + Organic Cupcake + Organic Big Weight + Organic Toontanic for 394 damage
+(Lured) + Opera Singer + Organic Cupcake + Organic Safe + Grand Piano for 394 damage
+(Lured) + Opera Singer + Organic Fruit Pie Slice + Birthday Cake + Grand Piano for 394 damage
+(Lured) + Opera Singer + Organic Fruit Pie Slice + Organic Birthday Cake + Organic Wedding Cake for 394 damage
+(Lured) + Opera Singer + Organic Cream Pie Slice + Organic Storm Cloud + Organic Toontanic for 394 damage
+(Lured) + Opera Singer + Organic Whole Fruit Pie + Organic Storm Cloud + Organic Grand Piano for 394 damage
+(Lured) + Opera Singer + Organic Whole Fruit Pie + Geyser + Grand Piano for 394 damage
+(Lured) + Opera Singer + Organic Whole Fruit Pie + Organic Big Weight + Toontanic for 394 damage
+(Lured) + Opera Singer + Whole Cream Pie + Geyser + Organic Geyser for 394 damage
+(Lured) + Opera Singer + Whole Cream Pie + Organic Anvil + Organic Grand Piano for 394 damage
+(Lured) + Opera Singer + Organic Whole Cream Pie + Organic Whole Cream Pie + Organic Toontanic for 394 damage
+(Lured) + Opera Singer + Organic Whole Cream Pie + Storm Cloud + Toontanic for 394 damage
+(Lured) + Opera Singer + Organic Whole Cream Pie + Sandbag + Organic Toontanic for 394 damage
+(Lured) + Opera Singer + Organic Birthday Cake + Organic Wedding Cake + Organic Squirt Gun for 394 damage
+(Lured) + Opera Singer + Wedding Cake + Squirting Flower + Toontanic for 394 damage
+(Lured) + Opera Singer + Squirting Flower + Safe + Toontanic for 394 damage
+(Lured) + Opera Singer + Glass of Water + Storm Cloud + Organic Toontanic for 394 damage
+(Lured) + Opera Singer + Organic Glass of Water + Organic Storm Cloud + Organic Grand Piano for 394 damage
+(Lured) + Opera Singer + Squirt Gun + Big Weight + Organic Toontanic for 394 damage
+(Lured) + Opera Singer + Organic Seltzer Bottle + Storm Cloud + Toontanic for 394 damage
+(Lured) + Opera Singer + Organic Seltzer Bottle + Organic Storm Cloud + Grand Piano for 394 damage
+(Lured) + Opera Singer + Organic Seltzer Bottle + Organic Geyser + Organic Geyser for 394 damage
+(Lured) + Opera Singer + Fire Hose + Anvil + Organic Toontanic for 394 damage
+(Lured) + Opera Singer + Organic Fire Hose + Geyser + Organic Geyser for 394 damage
+(Lured) + Opera Singer + Storm Cloud + Organic Geyser + Safe for 394 damage
+(Lured) + Opera Singer + Organic Storm Cloud + Flower Pot + Grand Piano for 394 damage
+(Lured) + Opera Singer + Flower Pot + Big Weight + Organic Toontanic for 394 damage
+(Lured) + Opera Singer + Organic Anvil + Organic Anvil + Organic Grand Piano for 394 damage
+(Lured) + Organic Opera Singer + Organic Opera Singer + Fruit Pie Slice + Wedding Cake for 394 damage
+(Lured) + Organic Opera Singer + Organic Cupcake + Safe + Grand Piano for 394 damage
+(Lured) + Organic Opera Singer + Fruit Pie Slice + Geyser + Toontanic for 394 damage
+(Lured) + Organic Opera Singer + Fruit Pie Slice + Organic Geyser + Grand Piano for 394 damage
+(Lured) + Organic Opera Singer + Organic Fruit Pie Slice + Organic Big Weight + Organic Grand Piano for 394 damage
+(Lured) + Organic Opera Singer + Cream Pie Slice + Storm Cloud + Organic Toontanic for 394 damage
+(Lured) + Organic Opera Singer + Cream Pie Slice + Organic Anvil + Organic Toontanic for 394 damage
+(Lured) + Organic Opera Singer + Organic Cream Pie Slice + Organic Wedding Cake + Organic Geyser for 394 damage
+(Lured) + Organic Opera Singer + Whole Fruit Pie + Organic Storm Cloud + Toontanic for 394 damage
+(Lured) + Organic Opera Singer + Whole Cream Pie + Organic Birthday Cake + Organic Geyser for 394 damage
+(Lured) + Organic Opera Singer + Whole Cream Pie + Organic Wedding Cake + Organic Storm Cloud for 394 damage
+(Lured) + Organic Opera Singer + Organic Whole Cream Pie + Organic Flower Pot + Organic Toontanic for 394 damage
+(Lured) + Organic Opera Singer + Birthday Cake + Glass of Water + Organic Grand Piano for 394 damage
+(Lured) + Organic Opera Singer + Organic Birthday Cake + Wedding Cake + Organic Sandbag for 394 damage
+(Lured) + Organic Opera Singer + Organic Birthday Cake + Organic Wedding Cake + Squirting Flower for 394 damage
+(Lured) + Organic Opera Singer + Organic Birthday Cake + Organic Squirting Flower + Toontanic for 394 damage
+(Lured) + Organic Opera Singer + Organic Birthday Cake + Organic Geyser + Safe for 394 damage
+(Lured) + Organic Opera Singer + Organic Birthday Cake + Organic Safe + Organic Safe for 394 damage
+(Lured) + Organic Opera Singer + Wedding Cake + Organic Squirting Flower + Grand Piano for 394 damage
+(Lured) + Organic Opera Singer + Wedding Cake + Geyser + Safe for 394 damage
+(Lured) + Organic Opera Singer + Seltzer Bottle + Anvil + Organic Toontanic for 394 damage
+(Lured) + Organic Opera Singer + Organic Geyser + Organic Geyser + Organic Sandbag for 394 damage
+(Lured) + Organic Opera Singer + Organic Geyser + Toontanic for 394 damage
+(Lured) + Cupcake + Organic Whole Cream Pie + Wedding Cake + Geyser for 394 damage
+(Lured) + Cupcake + Organic Whole Cream Pie + Safe + Organic Grand Piano for 394 damage
+(Lured) + Cupcake + Organic Whole Cream Pie + Organic Safe + Toontanic for 394 damage
+(Lured) + Cupcake + Birthday Cake + Wedding Cake + Organic Glass of Water for 394 damage
+(Lured) + Cupcake + Birthday Cake + Organic Fire Hose + Toontanic for 394 damage
+(Lured) + Cupcake + Organic Birthday Cake + Organic Birthday Cake + Organic Glass of Water for 394 damage
+(Lured) + Cupcake + Organic Birthday Cake + Organic Glass of Water + Organic Grand Piano for 394 damage
+(Lured) + Cupcake + Wedding Cake + Organic Glass of Water + Grand Piano for 394 damage
+(Lured) + Cupcake + Organic Storm Cloud + Organic Big Weight + Organic Toontanic for 394 damage
+(Lured) + Cupcake + Organic Storm Cloud + Organic Safe + Grand Piano for 394 damage
+(Lured) + Cupcake + Organic Geyser + Big Weight + Toontanic for 394 damage
+(Lured) + Organic Cupcake + Whole Cream Pie + Organic Geyser + Organic Toontanic for 394 damage
+(Lured) + Organic Cupcake + Birthday Cake + Organic Squirt Gun + Organic Toontanic for 394 damage
+(Lured) + Organic Cupcake + Wedding Cake + Safe + Organic Safe for 394 damage
+(Lured) + Organic Cupcake + Organic Wedding Cake + Storm Cloud + Organic Safe for 394 damage
+(Lured) + Organic Cupcake + Geyser + Organic Anvil + Organic Toontanic for 394 damage
+(Lured) + Fruit Pie Slice + Organic Fruit Pie Slice + Birthday Cake + Organic Birthday Cake for 394 damage
+(Lured) + Fruit Pie Slice + Organic Fruit Pie Slice + Birthday Cake + Organic Grand Piano for 394 damage
+(Lured) + Fruit Pie Slice + Organic Fruit Pie Slice + Organic Birthday Cake + Grand Piano for 394 damage
+(Lured) + Fruit Pie Slice + Whole Fruit Pie + Organic Safe + Organic Toontanic for 394 damage
+(Lured) + Fruit Pie Slice + Whole Cream Pie + Wedding Cake + Geyser for 394 damage
+(Lured) + Fruit Pie Slice + Whole Cream Pie + Safe + Organic Grand Piano for 394 damage
+(Lured) + Fruit Pie Slice + Whole Cream Pie + Organic Safe + Toontanic for 394 damage
+(Lured) + Fruit Pie Slice + Organic Whole Cream Pie + Organic Birthday Cake + Organic Geyser for 394 damage
+(Lured) + Fruit Pie Slice + Organic Whole Cream Pie + Organic Wedding Cake + Organic Safe for 394 damage
+(Lured) + Fruit Pie Slice + Organic Whole Cream Pie + Organic Geyser + Organic Grand Piano for 394 damage
+(Lured) + Fruit Pie Slice + Birthday Cake + Organic Glass of Water + Organic Toontanic for 394 damage
+(Lured) + Fruit Pie Slice + Organic Wedding Cake + Seltzer Bottle + Geyser for 394 damage
+(Lured) + Fruit Pie Slice + Organic Wedding Cake + Organic Big Weight + Organic Safe for 394 damage
+(Lured) + Fruit Pie Slice + Storm Cloud + Storm Cloud + Organic Grand Piano for 394 damage
+(Lured) + Fruit Pie Slice + Geyser + Anvil + Organic Toontanic for 394 damage
+(Lured) + Fruit Pie Slice + Organic Geyser + Organic Anvil + Organic Grand Piano for 394 damage
+(Lured) + Organic Fruit Pie Slice + Whole Fruit Pie + Organic Wedding Cake + Geyser for 394 damage
+(Lured) + Organic Fruit Pie Slice + Organic Whole Cream Pie + Organic Whole Cream Pie + Organic Wedding Cake for 394 damage
+(Lured) + Organic Fruit Pie Slice + Organic Whole Cream Pie + Safe + Toontanic for 394 damage
+(Lured) + Organic Fruit Pie Slice + Birthday Cake + Wedding Cake for 394 damage
+(Lured) + Organic Fruit Pie Slice + Organic Birthday Cake + Organic Birthday Cake for 394 damage
+(Lured) + Organic Fruit Pie Slice + Organic Birthday Cake + Organic Grand Piano for 394 damage
+(Lured) + Organic Fruit Pie Slice + Wedding Cake + Grand Piano for 394 damage
+(Lured) + Organic Fruit Pie Slice + Organic Wedding Cake + Storm Cloud + Safe for 394 damage
+(Lured) + Organic Fruit Pie Slice + Organic Wedding Cake + Geyser + Big Weight for 394 damage
+(Lured) + Organic Fruit Pie Slice + Storm Cloud + Organic Big Weight + Organic Toontanic for 394 damage
+(Lured) + Organic Fruit Pie Slice + Storm Cloud + Organic Safe + Grand Piano for 394 damage
+(Lured) + Cream Pie Slice + Whole Fruit Pie + Wedding Cake + Organic Geyser for 394 damage
+(Lured) + Cream Pie Slice + Organic Birthday Cake + Safe + Organic Safe for 394 damage
+(Lured) + Cream Pie Slice + Wedding Cake + Organic Geyser + Big Weight for 394 damage
+(Lured) + Cream Pie Slice + Storm Cloud + Safe + Grand Piano for 394 damage
+(Lured) + Cream Pie Slice + Geyser + Organic Big Weight + Grand Piano for 394 damage
+(Lured) + Cream Pie Slice + Organic Big Weight + Safe + Organic Grand Piano for 394 damage
+(Lured) + Cream Pie Slice + Organic Big Weight + Organic Safe + Toontanic for 394 damage
+(Lured) + Organic Cream Pie Slice + Whole Fruit Pie + Organic Safe + Organic Grand Piano for 394 damage
+(Lured) + Organic Cream Pie Slice + Organic Whole Fruit Pie + Organic Geyser + Organic Toontanic for 394 damage
+(Lured) + Organic Cream Pie Slice + Whole Cream Pie + Organic Geyser + Toontanic for 394 damage
+(Lured) + Organic Cream Pie Slice + Organic Whole Cream Pie + Safe + Grand Piano for 394 damage
+(Lured) + Organic Cream Pie Slice + Birthday Cake + Birthday Cake + Organic Seltzer Bottle for 394 damage
+(Lured) + Organic Cream Pie Slice + Birthday Cake + Organic Squirt Gun + Toontanic for 394 damage
+(Lured) + Organic Cream Pie Slice + Birthday Cake + Organic Seltzer Bottle + Grand Piano for 394 damage
+(Lured) + Organic Cream Pie Slice + Organic Storm Cloud + Big Weight + Organic Grand Piano for 394 damage
+(Lured) + Organic Cream Pie Slice + Organic Geyser + Anvil + Toontanic for 394 damage
+(Lured) + Whole Fruit Pie + Whole Fruit Pie + Organic Birthday Cake + Organic Geyser for 394 damage
+(Lured) + Whole Fruit Pie + Whole Fruit Pie + Organic Wedding Cake + Organic Safe for 394 damage
+(Lured) + Whole Fruit Pie + Whole Fruit Pie + Organic Geyser + Organic Grand Piano for 394 damage
+(Lured) + Whole Fruit Pie + Whole Cream Pie + Organic Whole Cream Pie + Wedding Cake for 394 damage
+(Lured) + Whole Fruit Pie + Whole Cream Pie + Big Weight + Organic Grand Piano for 394 damage
+(Lured) + Whole Fruit Pie + Organic Whole Cream Pie + Organic Whole Cream Pie + Organic Toontanic for 394 damage
+(Lured) + Whole Fruit Pie + Birthday Cake + Safe + Organic Safe for 394 damage
+(Lured) + Whole Fruit Pie + Organic Birthday Cake + Organic Geyser + Big Weight for 394 damage
+(Lured) + Whole Fruit Pie + Wedding Cake + Squirting Flower + Organic Geyser for 394 damage
+(Lured) + Whole Fruit Pie + Wedding Cake + Organic Big Weight + Safe for 394 damage
+(Lured) + Whole Fruit Pie + Organic Wedding Cake + Geyser + Sandbag for 394 damage
+(Lured) + Whole Fruit Pie + Organic Seltzer Bottle + Organic Geyser + Organic Grand Piano for 394 damage
+(Lured) + Whole Fruit Pie + Organic Seltzer Bottle + Organic Safe + Organic Toontanic for 394 damage
+(Lured) + Whole Fruit Pie + Organic Fire Hose + Geyser + Organic Grand Piano for 394 damage
+(Lured) + Whole Fruit Pie + Geyser + Organic Sandbag + Organic Grand Piano for 394 damage
+(Lured) + Whole Fruit Pie + Organic Geyser + Organic Geyser + Organic Safe for 394 damage
+(Lured) + Whole Fruit Pie + Organic Geyser + Organic Flower Pot + Organic Grand Piano for 394 damage
+(Lured) + Whole Fruit Pie + Organic Geyser + Sandbag + Toontanic for 394 damage
+(Lured) + Whole Fruit Pie + Organic Sandbag + Organic Safe + Organic Toontanic for 394 damage
+(Lured) + Whole Fruit Pie + Anvil + Organic Safe + Organic Grand Piano for 394 damage
+(Lured) + Organic Whole Fruit Pie + Organic Whole Fruit Pie + Organic Geyser + Toontanic for 394 damage
+(Lured) + Organic Whole Fruit Pie + Whole Cream Pie + Organic Geyser + Organic Geyser for 394 damage
+(Lured) + Organic Whole Fruit Pie + Organic Whole Cream Pie + Organic Wedding Cake + Big Weight for 394 damage
+(Lured) + Organic Whole Fruit Pie + Birthday Cake + Birthday Cake + Squirting Flower for 394 damage
+(Lured) + Organic Whole Fruit Pie + Birthday Cake + Squirting Flower + Grand Piano for 394 damage
+(Lured) + Organic Whole Fruit Pie + Birthday Cake + Fire Hose + Organic Geyser for 394 damage
+(Lured) + Organic Whole Fruit Pie + Organic Birthday Cake + Storm Cloud + Organic Safe for 394 damage
+(Lured) + Organic Whole Fruit Pie + Seltzer Bottle + Geyser + Organic Toontanic for 394 damage
+(Lured) + Organic Whole Fruit Pie + Organic Fire Hose + Organic Safe + Organic Grand Piano for 394 damage
+(Lured) + Organic Whole Fruit Pie + Storm Cloud + Big Weight + Toontanic for 394 damage
+(Lured) + Organic Whole Fruit Pie + Organic Storm Cloud + Organic Storm Cloud + Organic Geyser for 394 damage
+(Lured) + Whole Cream Pie + Whole Cream Pie + Birthday Cake + Organic Storm Cloud for 394 damage
+(Lured) + Whole Cream Pie + Whole Cream Pie + Organic Wedding Cake + Organic Fire Hose for 394 damage
+(Lured) + Whole Cream Pie + Whole Cream Pie + Organic Wedding Cake + Organic Anvil for 394 damage
+(Lured) + Whole Cream Pie + Whole Cream Pie + Organic Storm Cloud + Grand Piano for 394 damage
+(Lured) + Whole Cream Pie + Whole Cream Pie + Big Weight + Grand Piano for 394 damage
+(Lured) + Whole Cream Pie + Organic Whole Cream Pie + Organic Flower Pot + Organic Toontanic for 394 damage
+(Lured) + Whole Cream Pie + Wedding Cake + Organic Squirt Gun + Organic Storm Cloud for 394 damage
+(Lured) + Whole Cream Pie + Wedding Cake + Seltzer Bottle + Storm Cloud for 394 damage
+(Lured) + Whole Cream Pie + Organic Wedding Cake + Squirting Flower + Storm Cloud for 394 damage
+(Lured) + Whole Cream Pie + Squirting Flower + Organic Safe + Organic Toontanic for 394 damage
+(Lured) + Whole Cream Pie + Glass of Water + Geyser + Organic Toontanic for 394 damage
+(Lured) + Whole Cream Pie + Squirt Gun + Safe + Organic Toontanic for 394 damage
+(Lured) + Whole Cream Pie + Organic Squirt Gun + Organic Geyser + Toontanic for 394 damage
+(Lured) + Whole Cream Pie + Seltzer Bottle + Organic Geyser + Grand Piano for 394 damage
+(Lured) + Whole Cream Pie + Organic Seltzer Bottle + Geyser + Toontanic for 394 damage
+(Lured) + Whole Cream Pie + Organic Fire Hose + Storm Cloud + Organic Toontanic for 394 damage
+(Lured) + Whole Cream Pie + Organic Storm Cloud + Sandbag + Organic Grand Piano for 394 damage
+(Lured) + Whole Cream Pie + Geyser + Organic Geyser + Safe for 394 damage
+(Lured) + Whole Cream Pie + Flower Pot + Safe + Organic Toontanic for 394 damage
+(Lured) + Whole Cream Pie + Organic Big Weight + Organic Big Weight + Toontanic for 394 damage
+(Lured) + Organic Whole Cream Pie + Organic Whole Cream Pie + Organic Storm Cloud + Organic Geyser for 394 damage
+(Lured) + Organic Whole Cream Pie + Organic Whole Cream Pie + Organic Anvil + Grand Piano for 394 damage
+(Lured) + Organic Whole Cream Pie + Birthday Cake + Organic Glass of Water + Organic Geyser for 394 damage
+(Lured) + Organic Whole Cream Pie + Organic Birthday Cake + Organic Squirting Flower + Geyser for 394 damage
+(Lured) + Organic Whole Cream Pie + Organic Birthday Cake + Fire Hose + Storm Cloud for 394 damage
+(Lured) + Organic Whole Cream Pie + Organic Birthday Cake + Organic Anvil + Organic Safe for 394 damage
+(Lured) + Organic Whole Cream Pie + Wedding Cake + Geyser + Flower Pot for 394 damage
+(Lured) + Organic Whole Cream Pie + Wedding Cake + Organic Geyser for 394 damage
+(Lured) + Organic Whole Cream Pie + Organic Wedding Cake + Organic Anvil + Big Weight for 394 damage
+(Lured) + Organic Whole Cream Pie + Glass of Water + Organic Geyser + Toontanic for 394 damage
+(Lured) + Organic Whole Cream Pie + Squirt Gun + Geyser + Organic Grand Piano for 394 damage
+(Lured) + Organic Whole Cream Pie + Storm Cloud + Organic Storm Cloud + Geyser for 394 damage
+(Lured) + Organic Whole Cream Pie + Storm Cloud + Organic Sandbag + Organic Grand Piano for 394 damage
+(Lured) + Organic Whole Cream Pie + Organic Storm Cloud + Anvil + Grand Piano for 394 damage
+(Lured) + Organic Whole Cream Pie + Anvil + Big Weight + Organic Toontanic for 394 damage
+(Lured) + Organic Whole Cream Pie + Organic Anvil + Safe + Grand Piano for 394 damage
+(Lured) + Birthday Cake + Birthday Cake + Organic Squirting Flower + Organic Big Weight for 394 damage
+(Lured) + Birthday Cake + Birthday Cake + Organic Glass of Water + Big Weight for 394 damage
+(Lured) + Birthday Cake + Birthday Cake + Squirt Gun + Organic Fire Hose for 394 damage
+(Lured) + Birthday Cake + Birthday Cake + Seltzer Bottle + Organic Anvil for 394 damage
+(Lured) + Birthday Cake + Organic Birthday Cake + Squirting Flower + Organic Anvil for 394 damage
+(Lured) + Birthday Cake + Wedding Cake + Squirting Flower + Squirt Gun for 394 damage
+(Lured) + Birthday Cake + Wedding Cake + Glass of Water + Glass of Water for 394 damage
+(Lured) + Birthday Cake + Wedding Cake + Organic Glass of Water + Organic Flower Pot for 394 damage
+(Lured) + Birthday Cake + Squirting Flower + Anvil + Grand Piano for 394 damage
+(Lured) + Birthday Cake + Organic Squirting Flower + Organic Fire Hose + Organic Toontanic for 394 damage
+(Lured) + Birthday Cake + Organic Squirting Flower + Organic Sandbag + Toontanic for 394 damage
+(Lured) + Birthday Cake + Glass of Water + Fire Hose + Organic Toontanic for 394 damage
+(Lured) + Birthday Cake + Glass of Water + Storm Cloud + Organic Geyser for 394 damage
+(Lured) + Birthday Cake + Organic Seltzer Bottle + Fire Hose + Toontanic for 394 damage
+(Lured) + Birthday Cake + Fire Hose + Organic Geyser + Safe for 394 damage
+(Lured) + Birthday Cake + Storm Cloud + Organic Geyser + Flower Pot for 394 damage
+(Lured) + Birthday Cake + Organic Storm Cloud + Organic Geyser for 394 damage
+(Lured) + Birthday Cake + Organic Geyser + Anvil + Organic Safe for 394 damage
+(Lured) + Birthday Cake + Organic Anvil + Grand Piano for 394 damage
+(Lured) + Birthday Cake + Organic Big Weight + Organic Safe + Organic Safe for 394 damage
+(Lured) + Organic Birthday Cake + Organic Birthday Cake + Squirting Flower + Squirt Gun for 394 damage
+(Lured) + Organic Birthday Cake + Organic Birthday Cake + Glass of Water + Glass of Water for 394 damage
+(Lured) + Organic Birthday Cake + Organic Birthday Cake + Organic Glass of Water + Organic Flower Pot for 394 damage
+(Lured) + Organic Birthday Cake + Organic Squirting Flower + Fire Hose + Organic Grand Piano for 394 damage
+(Lured) + Organic Birthday Cake + Squirt Gun + Organic Seltzer Bottle + Organic Grand Piano for 394 damage
+(Lured) + Organic Birthday Cake + Organic Squirt Gun + Flower Pot + Grand Piano for 394 damage
+(Lured) + Organic Birthday Cake + Seltzer Bottle + Geyser + Organic Safe for 394 damage
+(Lured) + Organic Birthday Cake + Geyser + Organic Anvil + Safe for 394 damage
+(Lured) + Organic Birthday Cake + Organic Geyser + Sandbag + Organic Safe for 394 damage
+(Lured) + Wedding Cake + Squirting Flower + Organic Glass of Water + Organic Toontanic for 394 damage
+(Lured) + Wedding Cake + Organic Squirting Flower + Glass of Water + Organic Toontanic for 394 damage
+(Lured) + Wedding Cake + Organic Squirting Flower + Organic Seltzer Bottle + Toontanic for 394 damage
+(Lured) + Wedding Cake + Organic Squirting Flower + Organic Geyser + Safe for 394 damage
+(Lured) + Wedding Cake + Organic Glass of Water + Organic Squirt Gun + Organic Grand Piano for 394 damage
+(Lured) + Wedding Cake + Organic Glass of Water + Geyser + Organic Safe for 394 damage
+(Lured) + Wedding Cake + Organic Squirt Gun + Organic Seltzer Bottle + Grand Piano for 394 damage
+(Lured) + Wedding Cake + Fire Hose + Organic Fire Hose + Organic Geyser for 394 damage
+(Lured) + Wedding Cake + Organic Geyser + Organic Anvil + Organic Big Weight for 394 damage
+(Lured) + Organic Wedding Cake + Squirting Flower + Organic Glass of Water + Toontanic for 394 damage
+(Lured) + Organic Wedding Cake + Organic Squirting Flower + Glass of Water + Toontanic for 394 damage
+(Lured) + Organic Wedding Cake + Glass of Water + Organic Squirt Gun + Grand Piano for 394 damage
+(Lured) + Organic Wedding Cake + Organic Glass of Water + Squirt Gun + Grand Piano for 394 damage
+(Lured) + Organic Wedding Cake + Organic Glass of Water + Organic Grand Piano for 394 damage
+(Lured) + Organic Wedding Cake + Organic Seltzer Bottle + Organic Geyser + Anvil for 394 damage
+(Lured) + Organic Wedding Cake + Organic Fire Hose + Geyser + Anvil for 394 damage
+(Lured) + Organic Wedding Cake + Organic Fire Hose + Organic Geyser + Sandbag for 394 damage
+(Lured) + Organic Wedding Cake + Storm Cloud + Organic Sandbag + Organic Safe for 394 damage
+(Lured) + Organic Wedding Cake + Organic Storm Cloud + Big Weight + Big Weight for 394 damage
+(Lured) + Organic Wedding Cake + Organic Geyser + Sandbag + Organic Big Weight for 394 damage
+(Lured) + Squirting Flower + Squirt Gun + Geyser + Organic Grand Piano for 394 damage
+(Lured) + Squirting Flower + Squirt Gun + Organic Geyser + Grand Piano for 394 damage
+(Lured) + Squirting Flower + Organic Seltzer Bottle + Organic Storm Cloud + Organic Toontanic for 394 damage
+(Lured) + Squirting Flower + Organic Fire Hose + Organic Safe + Organic Toontanic for 394 damage
+(Lured) + Squirting Flower + Storm Cloud + Organic Flower Pot + Organic Toontanic for 394 damage
+(Lured) + Squirting Flower + Organic Storm Cloud + Flower Pot + Organic Grand Piano for 394 damage
+(Lured) + Squirting Flower + Geyser + Geyser + Anvil for 394 damage
+(Lured) + Organic Squirting Flower + Organic Squirting Flower + Geyser + Organic Toontanic for 394 damage
+(Lured) + Organic Squirting Flower + Seltzer Bottle + Geyser + Grand Piano for 394 damage
+(Lured) + Organic Squirting Flower + Organic Seltzer Bottle + Organic Storm Cloud + Organic Geyser for 394 damage
+(Lured) + Organic Squirting Flower + Fire Hose + Storm Cloud + Organic Toontanic for 394 damage
+(Lured) + Organic Squirting Flower + Organic Fire Hose + Organic Storm Cloud + Geyser for 394 damage
+(Lured) + Organic Squirting Flower + Geyser + Organic Geyser + Organic Flower Pot for 394 damage
+(Lured) + Glass of Water + Glass of Water + Geyser + Organic Grand Piano for 394 damage
+(Lured) + Glass of Water + Glass of Water + Organic Geyser + Grand Piano for 394 damage
+(Lured) + Glass of Water + Organic Squirt Gun + Geyser + Geyser for 394 damage
+(Lured) + Glass of Water + Fire Hose + Organic Storm Cloud + Geyser for 394 damage
+(Lured) + Glass of Water + Organic Fire Hose + Storm Cloud + Organic Grand Piano for 394 damage
+(Lured) + Glass of Water + Storm Cloud + Organic Anvil + Grand Piano for 394 damage
+(Lured) + Glass of Water + Organic Storm Cloud + Organic Flower Pot + Toontanic for 394 damage
+(Lured) + Organic Glass of Water + Squirt Gun + Geyser + Geyser for 394 damage
+(Lured) + Organic Glass of Water + Organic Fire Hose + Safe + Organic Toontanic for 394 damage
+(Lured) + Organic Glass of Water + Organic Storm Cloud + Organic Geyser + Organic Anvil for 394 damage
+(Lured) + Organic Glass of Water + Organic Storm Cloud + Flower Pot + Toontanic for 394 damage
+(Lured) + Squirt Gun + Seltzer Bottle + Organic Storm Cloud + Organic Grand Piano for 394 damage
+(Lured) + Squirt Gun + Organic Seltzer Bottle + Storm Cloud + Organic Toontanic for 394 damage
+(Lured) + Squirt Gun + Fire Hose + Safe + Organic Toontanic for 394 damage
+(Lured) + Squirt Gun + Organic Fire Hose + Organic Safe + Organic Grand Piano for 394 damage
+(Lured) + Squirt Gun + Storm Cloud + Flower Pot + Organic Grand Piano for 394 damage
+(Lured) + Squirt Gun + Organic Storm Cloud + Geyser + Big Weight for 394 damage
+(Lured) + Squirt Gun + Organic Geyser + Safe + Organic Safe for 394 damage
+(Lured) + Squirt Gun + Big Weight + Safe + Organic Toontanic for 394 damage
+(Lured) + Squirt Gun + Organic Big Weight + Organic Safe + Organic Grand Piano for 394 damage
+(Lured) + Organic Squirt Gun + Organic Squirt Gun + Geyser + Grand Piano for 394 damage
+(Lured) + Organic Squirt Gun + Organic Seltzer Bottle + Storm Cloud + Organic Geyser for 394 damage
+(Lured) + Organic Squirt Gun + Fire Hose + Organic Storm Cloud + Grand Piano for 394 damage
+(Lured) + Organic Squirt Gun + Organic Fire Hose + Storm Cloud + Geyser for 394 damage
+(Lured) + Seltzer Bottle + Seltzer Bottle + Safe + Organic Toontanic for 394 damage
+(Lured) + Seltzer Bottle + Fire Hose + Storm Cloud + Grand Piano for 394 damage
+(Lured) + Seltzer Bottle + Organic Storm Cloud + Geyser + Anvil for 394 damage
+(Lured) + Seltzer Bottle + Geyser + Geyser for 394 damage
+(Lured) + Seltzer Bottle + Organic Anvil + Safe + Organic Toontanic for 394 damage
+(Lured) + Organic Seltzer Bottle + Organic Seltzer Bottle + Storm Cloud + Geyser for 394 damage
+(Lured) + Organic Seltzer Bottle + Storm Cloud + Organic Flower Pot + Grand Piano for 394 damage
+(Lured) + Organic Seltzer Bottle + Organic Big Weight + Safe + Toontanic for 394 damage
+(Lured) + Fire Hose + Fire Hose + Big Weight + Organic Toontanic for 394 damage
+(Lured) + Fire Hose + Organic Fire Hose + Storm Cloud + Organic Storm Cloud for 394 damage
+(Lured) + Fire Hose + Storm Cloud + Organic Geyser + Organic Flower Pot for 394 damage
+(Lured) + Fire Hose + Organic Geyser + Big Weight + Organic Safe for 394 damage
+(Lured) + Organic Fire Hose + Organic Storm Cloud + Organic Grand Piano for 394 damage
+(Lured) + Organic Fire Hose + Organic Flower Pot + Organic Safe + Organic Toontanic for 394 damage
+(Lured) + Organic Fire Hose + Sandbag + Safe + Organic Toontanic for 394 damage
+(Lured) + Storm Cloud + Organic Storm Cloud + Big Weight + Big Weight for 394 damage
+(Lured) + Storm Cloud + Organic Geyser + Sandbag + Organic Anvil for 394 damage
+(Lured) + Storm Cloud + Organic Flower Pot + Organic Sandbag + Organic Toontanic for 394 damage
+(Lured) + Storm Cloud + Organic Flower Pot + Anvil + Organic Grand Piano for 394 damage
+(Lured) + Storm Cloud + Sandbag + Anvil + Toontanic for 394 damage
+(Lured) + Storm Cloud + Anvil + Organic Toontanic for 394 damage
+(Lured) + Organic Storm Cloud + Organic Storm Cloud + Organic Anvil + Big Weight for 394 damage
+(Lured) + Organic Storm Cloud + Organic Geyser + Flower Pot + Anvil for 394 damage
+(Lured) + Organic Storm Cloud + Flower Pot + Flower Pot + Organic Toontanic for 394 damage
+(Lured) + Organic Storm Cloud + Sandbag + Anvil + Grand Piano for 394 damage
+(Lured) + Organic Storm Cloud + Organic Sandbag + Organic Sandbag + Toontanic for 394 damage
+(Lured) + Geyser + Organic Big Weight + Safe + Organic Safe for 394 damage
+(Lured) + Organic Geyser + Anvil + Organic Safe + Organic Safe for 394 damage

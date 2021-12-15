@@ -1,0 +1,24 @@
+Banana Peel + Lure for 12 damage
+Lure + Bike Horn + Glass of Water for 12 damage
+Lure + Organic Bike Horn + Organic Bike Horn for 12 damage
+Lure + Organic Bike Horn + Organic Cupcake for 12 damage
+Lure + Whistle + Organic Squirting Flower for 12 damage
+Lure + Organic Whistle + Squirting Flower for 12 damage
+Lure + Organic Bugle for 12 damage
+Lure + Glass of Water for 12 damage
+Bike Horn + Glass of Water for 12 damage
+Organic Bike Horn + Organic Bike Horn for 12 damage
+Organic Bike Horn + Organic Cupcake for 12 damage
+Whistle + Organic Squirting Flower for 12 damage
+Organic Whistle + Squirting Flower for 12 damage
+Organic Bugle for 12 damage
+Organic Cupcake + Organic Squirting Flower for 12 damage
+Organic Squirting Flower + Organic Squirting Flower for 12 damage
+Squirt Gun for 12 damage
+(Lured) + Bike Horn + Glass of Water for 12 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn for 12 damage
+(Lured) + Organic Bike Horn + Organic Cupcake for 12 damage
+(Lured) + Whistle + Organic Squirting Flower for 12 damage
+(Lured) + Organic Whistle + Squirting Flower for 12 damage
+(Lured) + Organic Bugle for 12 damage
+(Lured) + Glass of Water for 12 damage

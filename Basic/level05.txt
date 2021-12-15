@@ -1,0 +1,1660 @@
+Banana Peel + Lure + Bike Horn + Elephant Trunk for 42 damage
+Banana Peel + Lure + Whistle + Organic Seltzer Bottle for 42 damage
+Banana Peel + Lure + Organic Whistle + Organic Aoogah for 42 damage
+Banana Peel + Lure + Bugle + Organic Sandbag for 42 damage
+Banana Peel + Lure + Organic Bugle + Organic Cream Pie Slice for 42 damage
+Banana Peel + Lure + Organic Bugle + Sandbag for 42 damage
+Banana Peel + Lure + Organic Aoogah + Organic Squirt Gun for 42 damage
+Banana Peel + Lure + Elephant Trunk + Organic Glass of Water for 42 damage
+Banana Peel + Lure + Organic Elephant Trunk + Organic Cupcake for 42 damage
+Banana Peel + Lure + Organic Cupcake + Organic Cream Pie Slice for 42 damage
+Banana Peel + Lure + Organic Cupcake + Organic Seltzer Bottle for 42 damage
+Banana Peel + Lure + Organic Fruit Pie Slice + Organic Sandbag for 42 damage
+Banana Peel + Lure + Cream Pie Slice + Organic Squirt Gun for 42 damage
+Banana Peel + Lure + Organic Cream Pie Slice + Squirt Gun for 42 damage
+Banana Peel + Lure + Squirting Flower + Seltzer Bottle for 42 damage
+Banana Peel + Lure + Squirt Gun + Organic Squirt Gun for 42 damage
+Banana Peel + Lure + Squirt Gun + Sandbag for 42 damage
+Banana Peel + Lure + Fire Hose for 42 damage
+Banana Peel + Lure + Anvil for 42 damage
+Organic Banana Peel + Lure + Whistle + Organic Aoogah for 42 damage
+Organic Banana Peel + Lure + Organic Whistle + Aoogah for 42 damage
+Organic Banana Peel + Lure + Organic Whistle + Seltzer Bottle for 42 damage
+Organic Banana Peel + Lure + Bugle + Organic Cream Pie Slice for 42 damage
+Organic Banana Peel + Lure + Bugle + Sandbag for 42 damage
+Organic Banana Peel + Lure + Organic Bugle + Organic Bugle for 42 damage
+Organic Banana Peel + Lure + Organic Bugle + Cream Pie Slice for 42 damage
+Organic Banana Peel + Lure + Aoogah + Organic Squirt Gun for 42 damage
+Organic Banana Peel + Lure + Organic Aoogah + Squirt Gun for 42 damage
+Organic Banana Peel + Lure + Elephant Trunk + Glass of Water for 42 damage
+Organic Banana Peel + Lure + Organic Elephant Trunk + Cupcake for 42 damage
+Organic Banana Peel + Lure + Cupcake + Organic Cream Pie Slice for 42 damage
+Organic Banana Peel + Lure + Cupcake + Organic Seltzer Bottle for 42 damage
+Organic Banana Peel + Lure + Organic Cupcake + Cream Pie Slice for 42 damage
+Organic Banana Peel + Lure + Fruit Pie Slice + Organic Sandbag for 42 damage
+Organic Banana Peel + Lure + Organic Fruit Pie Slice + Sandbag for 42 damage
+Organic Banana Peel + Lure + Cream Pie Slice + Squirt Gun for 42 damage
+Organic Banana Peel + Lure + Organic Cream Pie Slice + Organic Flower Pot for 42 damage
+Organic Banana Peel + Lure + Organic Whole Fruit Pie for 42 damage
+Organic Banana Peel + Lure + Squirt Gun + Squirt Gun for 42 damage
+Rake + Lure + Bike Horn + Organic Cream Pie Slice for 42 damage
+Rake + Lure + Bike Horn + Sandbag for 42 damage
+Rake + Lure + Organic Bike Horn + Cream Pie Slice for 42 damage
+Rake + Lure + Whistle + Bugle for 42 damage
+Rake + Lure + Bugle + Organic Fruit Pie Slice for 42 damage
+Rake + Lure + Bugle + Organic Flower Pot for 42 damage
+Rake + Lure + Organic Bugle + Fruit Pie Slice for 42 damage
+Rake + Lure + Organic Bugle + Flower Pot for 42 damage
+Rake + Lure + Aoogah + Cupcake for 42 damage
+Rake + Lure + Organic Aoogah + Organic Squirting Flower for 42 damage
+Rake + Lure + Organic Cupcake + Organic Fruit Pie Slice for 42 damage
+Rake + Lure + Fruit Pie Slice + Squirt Gun for 42 damage
+Rake + Lure + Organic Fruit Pie Slice + Organic Flower Pot for 42 damage
+Rake + Lure + Cream Pie Slice + Organic Squirting Flower for 42 damage
+Rake + Lure + Organic Cream Pie Slice + Squirting Flower for 42 damage
+Rake + Lure + Squirting Flower + Sandbag for 42 damage
+Rake + Lure + Organic Squirting Flower + Organic Squirt Gun for 42 damage
+Rake + Lure + Organic Glass of Water + Organic Glass of Water for 42 damage
+Rake + Lure + Squirt Gun + Flower Pot for 42 damage
+Organic Rake + Lure + Bike Horn + Organic Bugle for 42 damage
+Organic Rake + Lure + Organic Bike Horn + Bugle for 42 damage
+Organic Rake + Lure + Whistle + Organic Squirt Gun for 42 damage
+Organic Rake + Lure + Organic Whistle + Organic Whistle for 42 damage
+Organic Rake + Lure + Organic Whistle + Squirt Gun for 42 damage
+Organic Rake + Lure + Bugle + Organic Glass of Water for 42 damage
+Organic Rake + Lure + Organic Bugle + Glass of Water for 42 damage
+Organic Rake + Lure + Aoogah + Squirting Flower for 42 damage
+Organic Rake + Lure + Cupcake + Fruit Pie Slice for 42 damage
+Organic Rake + Lure + Organic Cupcake + Organic Squirt Gun for 42 damage
+Organic Rake + Lure + Fruit Pie Slice + Flower Pot for 42 damage
+Organic Rake + Lure + Organic Fruit Pie Slice + Organic Glass of Water for 42 damage
+Organic Rake + Lure + Squirting Flower + Squirt Gun for 42 damage
+Organic Rake + Lure + Glass of Water + Glass of Water for 42 damage
+Organic Rake + Lure + Organic Glass of Water + Organic Flower Pot for 42 damage
+Marbles + Lure + Whistle for 42 damage
+Marbles + Lure + Organic Cupcake for 42 damage
+Organic Marbles + Lure + Bike Horn for 42 damage
+Organic Marbles + Lure + Squirting Flower for 42 damage
+Lure + Bike Horn + Organic Whistle + Organic Elephant Trunk for 42 damage
+Lure + Bike Horn + Organic Whistle + Whole Fruit Pie for 42 damage
+Lure + Bike Horn + Aoogah + Organic Cream Pie Slice for 42 damage
+Lure + Bike Horn + Aoogah + Sandbag for 42 damage
+Lure + Bike Horn + Elephant Trunk + Squirt Gun for 42 damage
+Lure + Bike Horn + Organic Elephant Trunk + Organic Glass of Water for 42 damage
+Lure + Bike Horn + Cream Pie Slice + Seltzer Bottle for 42 damage
+Lure + Bike Horn + Whole Fruit Pie + Organic Flower Pot for 42 damage
+Lure + Bike Horn + Organic Whole Fruit Pie + Organic Glass of Water for 42 damage
+Lure + Bike Horn + Organic Squirting Flower + Organic Anvil for 42 damage
+Lure + Bike Horn + Glass of Water + Organic Seltzer Bottle for 42 damage
+Lure + Bike Horn + Glass of Water + Anvil for 42 damage
+Lure + Organic Bike Horn + Organic Bike Horn + Fire Hose for 42 damage
+Lure + Organic Bike Horn + Organic Bike Horn + Anvil for 42 damage
+Lure + Organic Bike Horn + Whistle + Organic Elephant Trunk for 42 damage
+Lure + Organic Bike Horn + Whistle + Whole Fruit Pie for 42 damage
+Lure + Organic Bike Horn + Organic Bugle + Seltzer Bottle for 42 damage
+Lure + Organic Bike Horn + Elephant Trunk + Fruit Pie Slice for 42 damage
+Lure + Organic Bike Horn + Elephant Trunk + Flower Pot for 42 damage
+Lure + Organic Bike Horn + Organic Elephant Trunk + Glass of Water for 42 damage
+Lure + Organic Bike Horn + Organic Cupcake + Fire Hose for 42 damage
+Lure + Organic Bike Horn + Organic Cupcake + Anvil for 42 damage
+Lure + Organic Bike Horn + Organic Cream Pie Slice + Organic Sandbag for 42 damage
+Lure + Organic Bike Horn + Whole Fruit Pie + Flower Pot for 42 damage
+Lure + Organic Bike Horn + Organic Whole Fruit Pie + Glass of Water for 42 damage
+Lure + Organic Bike Horn + Squirting Flower + Organic Anvil for 42 damage
+Lure + Whistle + Whistle + Elephant Trunk for 42 damage
+Lure + Whistle + Bugle + Organic Aoogah for 42 damage
+Lure + Whistle + Organic Bugle + Aoogah for 42 damage
+Lure + Whistle + Organic Bugle + Organic Sandbag for 42 damage
+Lure + Whistle + Organic Aoogah + Organic Squirt Gun for 42 damage
+Lure + Whistle + Elephant Trunk + Glass of Water for 42 damage
+Lure + Whistle + Organic Elephant Trunk + Cupcake for 42 damage
+Lure + Whistle + Organic Fruit Pie Slice + Organic Cream Pie Slice for 42 damage
+Lure + Whistle + Cream Pie Slice + Sandbag for 42 damage
+Lure + Whistle + Whole Fruit Pie + Glass of Water for 42 damage
+Lure + Whistle + Organic Squirting Flower + Anvil for 42 damage
+Lure + Whistle + Glass of Water + Seltzer Bottle for 42 damage
+Lure + Whistle + Flower Pot + Organic Sandbag for 42 damage
+Lure + Whistle + Organic Flower Pot + Sandbag for 42 damage
+Lure + Organic Whistle + Bugle + Aoogah for 42 damage
+Lure + Organic Whistle + Bugle + Organic Sandbag for 42 damage
+Lure + Organic Whistle + Organic Bugle + Organic Cream Pie Slice for 42 damage
+Lure + Organic Whistle + Organic Bugle + Sandbag for 42 damage
+Lure + Organic Whistle + Aoogah + Organic Squirt Gun for 42 damage
+Lure + Organic Whistle + Organic Aoogah + Squirt Gun for 42 damage
+Lure + Organic Whistle + Elephant Trunk + Organic Cupcake for 42 damage
+Lure + Organic Whistle + Organic Elephant Trunk + Squirting Flower for 42 damage
+Lure + Organic Whistle + Fruit Pie Slice + Organic Cream Pie Slice for 42 damage
+Lure + Organic Whistle + Organic Fruit Pie Slice + Cream Pie Slice for 42 damage
+Lure + Organic Whistle + Organic Fruit Pie Slice + Organic Seltzer Bottle for 42 damage
+Lure + Organic Whistle + Organic Whole Fruit Pie + Organic Squirting Flower for 42 damage
+Lure + Organic Whistle + Squirting Flower + Anvil for 42 damage
+Lure + Organic Whistle + Organic Squirting Flower + Organic Seltzer Bottle for 42 damage
+Lure + Organic Whistle + Organic Seltzer Bottle + Organic Flower Pot for 42 damage
+Lure + Organic Whistle + Flower Pot + Sandbag for 42 damage
+Lure + Bugle + Organic Bugle + Organic Bugle for 42 damage
+Lure + Bugle + Aoogah + Organic Glass of Water for 42 damage
+Lure + Bugle + Organic Aoogah + Glass of Water for 42 damage
+Lure + Bugle + Fruit Pie Slice + Seltzer Bottle for 42 damage
+Lure + Bugle + Organic Cream Pie Slice + Organic Squirt Gun for 42 damage
+Lure + Bugle + Whole Fruit Pie + Squirting Flower for 42 damage
+Lure + Bugle + Squirt Gun + Organic Sandbag for 42 damage
+Lure + Bugle + Organic Squirt Gun + Sandbag for 42 damage
+Lure + Bugle + Seltzer Bottle + Flower Pot for 42 damage
+Lure + Organic Bugle + Organic Bugle + Organic Squirt Gun for 42 damage
+Lure + Organic Bugle + Aoogah + Glass of Water for 42 damage
+Lure + Organic Bugle + Organic Aoogah + Organic Cupcake for 42 damage
+Lure + Organic Bugle + Organic Elephant Trunk for 42 damage
+Lure + Organic Bugle + Organic Cupcake + Organic Cream Pie Slice for 42 damage
+Lure + Organic Bugle + Organic Cupcake + Organic Seltzer Bottle for 42 damage
+Lure + Organic Bugle + Organic Fruit Pie Slice + Organic Sandbag for 42 damage
+Lure + Organic Bugle + Cream Pie Slice + Organic Squirt Gun for 42 damage
+Lure + Organic Bugle + Organic Cream Pie Slice + Squirt Gun for 42 damage
+Lure + Organic Bugle + Squirting Flower + Seltzer Bottle for 42 damage
+Lure + Organic Bugle + Squirt Gun + Organic Squirt Gun for 42 damage
+Lure + Organic Bugle + Squirt Gun + Sandbag for 42 damage
+Lure + Organic Bugle + Fire Hose for 42 damage
+Lure + Organic Bugle + Anvil for 42 damage
+Lure + Aoogah + Organic Cupcake + Organic Sandbag for 42 damage
+Lure + Aoogah + Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+Lure + Aoogah + Cream Pie Slice + Organic Glass of Water for 42 damage
+Lure + Aoogah + Organic Cream Pie Slice + Glass of Water for 42 damage
+Lure + Aoogah + Glass of Water + Organic Squirt Gun for 42 damage
+Lure + Aoogah + Glass of Water + Sandbag for 42 damage
+Lure + Aoogah + Organic Glass of Water + Squirt Gun for 42 damage
+Lure + Aoogah + Flower Pot + Organic Flower Pot for 42 damage
+Lure + Organic Aoogah + Cupcake + Organic Sandbag for 42 damage
+Lure + Organic Aoogah + Organic Cupcake + Sandbag for 42 damage
+Lure + Organic Aoogah + Cream Pie Slice + Glass of Water for 42 damage
+Lure + Elephant Trunk + Cupcake + Organic Fruit Pie Slice for 42 damage
+Lure + Elephant Trunk + Organic Cupcake + Fruit Pie Slice for 42 damage
+Lure + Elephant Trunk + Fruit Pie Slice + Organic Flower Pot for 42 damage
+Lure + Elephant Trunk + Organic Fruit Pie Slice + Flower Pot for 42 damage
+Lure + Elephant Trunk + Cream Pie Slice + Squirting Flower for 42 damage
+Lure + Elephant Trunk + Squirting Flower + Organic Squirt Gun for 42 damage
+Lure + Elephant Trunk + Organic Squirting Flower + Squirt Gun for 42 damage
+Lure + Elephant Trunk + Glass of Water + Organic Glass of Water for 42 damage
+Lure + Elephant Trunk + Seltzer Bottle for 42 damage
+Lure + Organic Elephant Trunk + Cupcake + Organic Squirt Gun for 42 damage
+Lure + Organic Elephant Trunk + Organic Cupcake + Squirt Gun for 42 damage
+Lure + Organic Elephant Trunk + Fruit Pie Slice + Organic Glass of Water for 42 damage
+Lure + Organic Elephant Trunk + Organic Fruit Pie Slice + Glass of Water for 42 damage
+Lure + Organic Elephant Trunk + Glass of Water + Organic Flower Pot for 42 damage
+Lure + Organic Elephant Trunk + Organic Glass of Water + Flower Pot for 42 damage
+Lure + Organic Elephant Trunk + Organic Sandbag for 42 damage
+Lure + Cupcake + Cupcake + Seltzer Bottle for 42 damage
+Lure + Cupcake + Organic Cupcake + Organic Sandbag for 42 damage
+Lure + Cupcake + Organic Fruit Pie Slice + Squirt Gun for 42 damage
+Lure + Cupcake + Squirting Flower + Organic Seltzer Bottle for 42 damage
+Lure + Cupcake + Organic Seltzer Bottle + Flower Pot for 42 damage
+Lure + Cupcake + Organic Fire Hose for 42 damage
+Lure + Cupcake + Organic Anvil for 42 damage
+Lure + Organic Cupcake + Organic Cupcake + Sandbag for 42 damage
+Lure + Organic Cupcake + Fruit Pie Slice + Squirt Gun for 42 damage
+Lure + Organic Cupcake + Organic Fruit Pie Slice + Organic Flower Pot for 42 damage
+Lure + Organic Cupcake + Squirt Gun + Organic Sandbag for 42 damage
+Lure + Organic Cupcake + Organic Squirt Gun + Sandbag for 42 damage
+Lure + Organic Cupcake + Seltzer Bottle + Flower Pot for 42 damage
+Lure + Fruit Pie Slice + Fruit Pie Slice + Glass of Water for 42 damage
+Lure + Fruit Pie Slice + Organic Fruit Pie Slice + Organic Squirting Flower for 42 damage
+Lure + Fruit Pie Slice + Glass of Water + Organic Sandbag for 42 damage
+Lure + Fruit Pie Slice + Organic Glass of Water + Organic Squirt Gun for 42 damage
+Lure + Fruit Pie Slice + Organic Glass of Water + Sandbag for 42 damage
+Lure + Fruit Pie Slice + Organic Flower Pot + Organic Flower Pot for 42 damage
+Lure + Organic Fruit Pie Slice + Organic Fruit Pie Slice + Squirting Flower for 42 damage
+Lure + Cream Pie Slice + Squirting Flower + Organic Glass of Water for 42 damage
+Lure + Cream Pie Slice + Organic Squirting Flower + Glass of Water for 42 damage
+Lure + Cream Pie Slice + Organic Squirting Flower + Organic Flower Pot for 42 damage
+Lure + Organic Cream Pie Slice + Squirting Flower + Glass of Water for 42 damage
+Lure + Organic Cream Pie Slice + Squirting Flower + Organic Flower Pot for 42 damage
+Lure + Organic Cream Pie Slice + Organic Squirting Flower + Flower Pot for 42 damage
+Lure + Squirting Flower + Organic Glass of Water + Organic Sandbag for 42 damage
+Lure + Squirting Flower + Organic Flower Pot + Organic Sandbag for 42 damage
+Lure + Organic Squirting Flower + Glass of Water + Organic Sandbag for 42 damage
+Lure + Organic Squirting Flower + Organic Glass of Water + Sandbag for 42 damage
+Lure + Organic Squirting Flower + Organic Squirt Gun + Organic Flower Pot for 42 damage
+Lure + Organic Squirting Flower + Flower Pot + Sandbag for 42 damage
+Lure + Glass of Water + Anvil for 42 damage
+Lure + Organic Glass of Water + Organic Glass of Water + Organic Flower Pot for 42 damage
+Lure + Squirt Gun + Flower Pot + Flower Pot for 42 damage
+Lure + Seltzer Bottle + Flower Pot for 42 damage
+Bike Horn + Bike Horn + Bike Horn + Organic Elephant Trunk for 42 damage
+Bike Horn + Bike Horn + Bike Horn + Whole Fruit Pie for 42 damage
+Bike Horn + Bike Horn + Bugle + Aoogah for 42 damage
+Bike Horn + Bike Horn + Bugle + Organic Sandbag for 42 damage
+Bike Horn + Bike Horn + Organic Bugle + Organic Cream Pie Slice for 42 damage
+Bike Horn + Bike Horn + Organic Bugle + Sandbag for 42 damage
+Bike Horn + Bike Horn + Aoogah + Organic Squirt Gun for 42 damage
+Bike Horn + Bike Horn + Organic Aoogah + Squirt Gun for 42 damage
+Bike Horn + Bike Horn + Elephant Trunk + Organic Cupcake for 42 damage
+Bike Horn + Bike Horn + Organic Elephant Trunk + Squirting Flower for 42 damage
+Bike Horn + Bike Horn + Organic Fruit Pie Slice + Seltzer Bottle for 42 damage
+Bike Horn + Bike Horn + Whole Fruit Pie + Organic Squirting Flower for 42 damage
+Bike Horn + Bike Horn + Organic Squirting Flower + Seltzer Bottle for 42 damage
+Bike Horn + Bike Horn + Organic Squirt Gun + Organic Squirt Gun for 42 damage
+Bike Horn + Bike Horn + Organic Squirt Gun + Organic Sandbag for 42 damage
+Bike Horn + Bike Horn + Seltzer Bottle + Organic Flower Pot for 42 damage
+Bike Horn + Organic Bike Horn + Organic Bike Horn + Elephant Trunk for 42 damage
+Bike Horn + Organic Bike Horn + Organic Whistle + Seltzer Bottle for 42 damage
+Bike Horn + Organic Bike Horn + Bugle + Organic Cream Pie Slice for 42 damage
+Bike Horn + Organic Bike Horn + Bugle + Sandbag for 42 damage
+Bike Horn + Organic Bike Horn + Aoogah + Squirt Gun for 42 damage
+Bike Horn + Organic Bike Horn + Organic Aoogah + Fruit Pie Slice for 42 damage
+Bike Horn + Organic Bike Horn + Organic Aoogah + Flower Pot for 42 damage
+Bike Horn + Organic Bike Horn + Elephant Trunk + Cupcake for 42 damage
+Bike Horn + Organic Bike Horn + Fruit Pie Slice + Seltzer Bottle for 42 damage
+Bike Horn + Organic Bike Horn + Organic Cream Pie Slice + Organic Squirt Gun for 42 damage
+Bike Horn + Organic Bike Horn + Whole Fruit Pie + Squirting Flower for 42 damage
+Bike Horn + Organic Bike Horn + Squirt Gun + Organic Sandbag for 42 damage
+Bike Horn + Organic Bike Horn + Organic Squirt Gun + Sandbag for 42 damage
+Bike Horn + Organic Bike Horn + Seltzer Bottle + Flower Pot for 42 damage
+Bike Horn + Whistle + Whistle + Organic Aoogah for 42 damage
+Bike Horn + Whistle + Organic Whistle + Aoogah for 42 damage
+Bike Horn + Whistle + Organic Whistle + Organic Sandbag for 42 damage
+Bike Horn + Whistle + Organic Bugle + Organic Bugle for 42 damage
+Bike Horn + Whistle + Aoogah + Organic Glass of Water for 42 damage
+Bike Horn + Whistle + Organic Aoogah + Glass of Water for 42 damage
+Bike Horn + Whistle + Cupcake + Cream Pie Slice for 42 damage
+Bike Horn + Whistle + Organic Cupcake + Seltzer Bottle for 42 damage
+Bike Horn + Whistle + Fruit Pie Slice + Sandbag for 42 damage
+Bike Horn + Whistle + Cream Pie Slice + Organic Flower Pot for 42 damage
+Bike Horn + Whistle + Organic Cream Pie Slice + Flower Pot for 42 damage
+Bike Horn + Whistle + Organic Glass of Water + Organic Sandbag for 42 damage
+Bike Horn + Organic Whistle + Organic Whistle + Organic Cream Pie Slice for 42 damage
+Bike Horn + Organic Whistle + Organic Whistle + Sandbag for 42 damage
+Bike Horn + Organic Whistle + Bugle + Organic Bugle for 42 damage
+Bike Horn + Organic Whistle + Organic Bugle + Organic Squirt Gun for 42 damage
+Bike Horn + Organic Whistle + Aoogah + Glass of Water for 42 damage
+Bike Horn + Organic Whistle + Organic Aoogah + Organic Cupcake for 42 damage
+Bike Horn + Organic Whistle + Organic Elephant Trunk for 42 damage
+Bike Horn + Organic Whistle + Cupcake + Seltzer Bottle for 42 damage
+Bike Horn + Organic Whistle + Organic Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+Bike Horn + Organic Whistle + Cream Pie Slice + Flower Pot for 42 damage
+Bike Horn + Organic Whistle + Organic Cream Pie Slice + Organic Glass of Water for 42 damage
+Bike Horn + Organic Whistle + Whole Fruit Pie for 42 damage
+Bike Horn + Organic Whistle + Glass of Water + Organic Sandbag for 42 damage
+Bike Horn + Organic Whistle + Organic Glass of Water + Organic Squirt Gun for 42 damage
+Bike Horn + Organic Whistle + Organic Glass of Water + Sandbag for 42 damage
+Bike Horn + Organic Whistle + Organic Flower Pot + Organic Flower Pot for 42 damage
+Bike Horn + Bugle + Bugle + Fruit Pie Slice for 42 damage
+Bike Horn + Bugle + Bugle + Flower Pot for 42 damage
+Bike Horn + Bugle + Organic Bugle + Organic Glass of Water for 42 damage
+Bike Horn + Bugle + Aoogah + Squirting Flower for 42 damage
+Bike Horn + Bugle + Cupcake + Sandbag for 42 damage
+Bike Horn + Bugle + Fruit Pie Slice + Fruit Pie Slice for 42 damage
+Bike Horn + Bugle + Organic Fruit Pie Slice + Organic Squirt Gun for 42 damage
+Bike Horn + Bugle + Organic Squirting Flower + Organic Sandbag for 42 damage
+Bike Horn + Bugle + Glass of Water + Squirt Gun for 42 damage
+Bike Horn + Bugle + Organic Squirt Gun + Organic Flower Pot for 42 damage
+Bike Horn + Bugle + Flower Pot + Flower Pot for 42 damage
+Bike Horn + Organic Bugle + Organic Bugle + Glass of Water for 42 damage
+Bike Horn + Organic Bugle + Organic Cupcake + Organic Fruit Pie Slice for 42 damage
+Bike Horn + Organic Bugle + Fruit Pie Slice + Squirt Gun for 42 damage
+Bike Horn + Organic Bugle + Organic Fruit Pie Slice + Organic Flower Pot for 42 damage
+Bike Horn + Organic Bugle + Cream Pie Slice + Organic Squirting Flower for 42 damage
+Bike Horn + Organic Bugle + Organic Cream Pie Slice + Squirting Flower for 42 damage
+Bike Horn + Organic Bugle + Squirting Flower + Sandbag for 42 damage
+Bike Horn + Organic Bugle + Organic Squirting Flower + Organic Squirt Gun for 42 damage
+Bike Horn + Organic Bugle + Organic Glass of Water + Organic Glass of Water for 42 damage
+Bike Horn + Organic Bugle + Squirt Gun + Flower Pot for 42 damage
+Bike Horn + Aoogah + Cupcake + Squirt Gun for 42 damage
+Bike Horn + Aoogah + Organic Cupcake + Organic Flower Pot for 42 damage
+Bike Horn + Aoogah + Fruit Pie Slice + Glass of Water for 42 damage
+Bike Horn + Aoogah + Organic Cream Pie Slice for 42 damage
+Bike Horn + Aoogah + Glass of Water + Flower Pot for 42 damage
+Bike Horn + Aoogah + Sandbag for 42 damage
+Bike Horn + Organic Aoogah + Cupcake + Organic Cupcake for 42 damage
+Bike Horn + Organic Aoogah + Cupcake + Flower Pot for 42 damage
+Bike Horn + Organic Aoogah + Organic Cupcake + Organic Glass of Water for 42 damage
+Bike Horn + Organic Aoogah + Organic Fruit Pie Slice + Organic Squirting Flower for 42 damage
+Bike Horn + Organic Aoogah + Squirting Flower + Organic Glass of Water for 42 damage
+Bike Horn + Organic Aoogah + Organic Squirting Flower + Glass of Water for 42 damage
+Bike Horn + Organic Aoogah + Organic Squirting Flower + Organic Flower Pot for 42 damage
+Bike Horn + Elephant Trunk + Organic Cupcake + Organic Squirting Flower for 42 damage
+Bike Horn + Elephant Trunk + Organic Squirting Flower + Organic Squirting Flower for 42 damage
+Bike Horn + Elephant Trunk + Squirt Gun for 42 damage
+Bike Horn + Organic Elephant Trunk + Organic Glass of Water for 42 damage
+Bike Horn + Cupcake + Cupcake + Organic Seltzer Bottle for 42 damage
+Bike Horn + Cupcake + Organic Cupcake + Organic Cream Pie Slice for 42 damage
+Bike Horn + Cupcake + Fruit Pie Slice + Sandbag for 42 damage
+Bike Horn + Cupcake + Cream Pie Slice + Flower Pot for 42 damage
+Bike Horn + Cupcake + Organic Cream Pie Slice + Organic Glass of Water for 42 damage
+Bike Horn + Cupcake + Organic Squirting Flower + Seltzer Bottle for 42 damage
+Bike Horn + Cupcake + Organic Squirt Gun + Organic Squirt Gun for 42 damage
+Bike Horn + Cupcake + Organic Squirt Gun + Organic Sandbag for 42 damage
+Bike Horn + Cupcake + Seltzer Bottle + Organic Flower Pot for 42 damage
+Bike Horn + Organic Cupcake + Organic Cupcake + Cream Pie Slice for 42 damage
+Bike Horn + Organic Cupcake + Organic Cupcake + Seltzer Bottle for 42 damage
+Bike Horn + Organic Cupcake + Cream Pie Slice + Organic Glass of Water for 42 damage
+Bike Horn + Organic Cupcake + Organic Cream Pie Slice + Glass of Water for 42 damage
+Bike Horn + Organic Cupcake + Squirt Gun + Organic Sandbag for 42 damage
+Bike Horn + Organic Cupcake + Organic Squirt Gun + Sandbag for 42 damage
+Bike Horn + Organic Cupcake + Seltzer Bottle + Flower Pot for 42 damage
+Bike Horn + Fruit Pie Slice + Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+Bike Horn + Fruit Pie Slice + Organic Fruit Pie Slice + Squirt Gun for 42 damage
+Bike Horn + Fruit Pie Slice + Cream Pie Slice + Organic Squirting Flower for 42 damage
+Bike Horn + Fruit Pie Slice + Organic Cream Pie Slice + Squirting Flower for 42 damage
+Bike Horn + Fruit Pie Slice + Organic Glass of Water + Organic Sandbag for 42 damage
+Bike Horn + Organic Fruit Pie Slice + Organic Fruit Pie Slice + Organic Flower Pot for 42 damage
+Bike Horn + Organic Fruit Pie Slice + Cream Pie Slice + Squirting Flower for 42 damage
+Bike Horn + Organic Fruit Pie Slice + Glass of Water + Organic Sandbag for 42 damage
+Bike Horn + Organic Fruit Pie Slice + Organic Glass of Water + Organic Squirt Gun for 42 damage
+Bike Horn + Organic Fruit Pie Slice + Organic Glass of Water + Sandbag for 42 damage
+Bike Horn + Organic Fruit Pie Slice + Organic Flower Pot + Organic Flower Pot for 42 damage
+Bike Horn + Cream Pie Slice + Squirting Flower + Organic Squirt Gun for 42 damage
+Bike Horn + Cream Pie Slice + Organic Squirting Flower + Squirt Gun for 42 damage
+Bike Horn + Cream Pie Slice + Glass of Water + Organic Glass of Water for 42 damage
+Bike Horn + Cream Pie Slice + Seltzer Bottle for 42 damage
+Bike Horn + Organic Cream Pie Slice + Squirting Flower + Squirt Gun for 42 damage
+Bike Horn + Organic Cream Pie Slice + Glass of Water + Glass of Water for 42 damage
+Bike Horn + Organic Cream Pie Slice + Organic Glass of Water + Organic Flower Pot for 42 damage
+Bike Horn + Whole Fruit Pie + Squirting Flower + Organic Squirting Flower for 42 damage
+Bike Horn + Whole Fruit Pie + Organic Flower Pot for 42 damage
+Bike Horn + Organic Whole Fruit Pie + Organic Glass of Water for 42 damage
+Bike Horn + Squirting Flower + Squirting Flower + Organic Seltzer Bottle for 42 damage
+Bike Horn + Squirting Flower + Squirt Gun + Sandbag for 42 damage
+Bike Horn + Squirting Flower + Flower Pot + Sandbag for 42 damage
+Bike Horn + Organic Squirting Flower + Organic Squirting Flower + Seltzer Bottle for 42 damage
+Bike Horn + Organic Squirting Flower + Organic Squirt Gun + Organic Squirt Gun for 42 damage
+Bike Horn + Organic Squirting Flower + Organic Anvil for 42 damage
+Bike Horn + Glass of Water + Glass of Water + Sandbag for 42 damage
+Bike Horn + Glass of Water + Organic Seltzer Bottle for 42 damage
+Bike Horn + Glass of Water + Anvil for 42 damage
+Bike Horn + Organic Glass of Water + Organic Glass of Water + Organic Squirt Gun for 42 damage
+Bike Horn + Organic Glass of Water + Organic Squirt Gun + Organic Flower Pot for 42 damage
+Bike Horn + Squirt Gun + Flower Pot + Organic Flower Pot for 42 damage
+Bike Horn + Flower Pot + Flower Pot + Organic Flower Pot for 42 damage
+Organic Bike Horn + Organic Bike Horn + Whistle + Seltzer Bottle for 42 damage
+Organic Bike Horn + Organic Bike Horn + Organic Whistle + Organic Aoogah for 42 damage
+Organic Bike Horn + Organic Bike Horn + Aoogah + Fruit Pie Slice for 42 damage
+Organic Bike Horn + Organic Bike Horn + Aoogah + Flower Pot for 42 damage
+Organic Bike Horn + Organic Bike Horn + Organic Aoogah + Organic Glass of Water for 42 damage
+Organic Bike Horn + Organic Bike Horn + Elephant Trunk + Squirting Flower for 42 damage
+Organic Bike Horn + Organic Bike Horn + Organic Cupcake + Organic Cream Pie Slice for 42 damage
+Organic Bike Horn + Organic Bike Horn + Organic Cupcake + Organic Seltzer Bottle for 42 damage
+Organic Bike Horn + Organic Bike Horn + Organic Fruit Pie Slice + Organic Sandbag for 42 damage
+Organic Bike Horn + Organic Bike Horn + Cream Pie Slice + Organic Squirt Gun for 42 damage
+Organic Bike Horn + Organic Bike Horn + Organic Cream Pie Slice + Squirt Gun for 42 damage
+Organic Bike Horn + Organic Bike Horn + Squirting Flower + Seltzer Bottle for 42 damage
+Organic Bike Horn + Organic Bike Horn + Squirt Gun + Organic Squirt Gun for 42 damage
+Organic Bike Horn + Organic Bike Horn + Squirt Gun + Sandbag for 42 damage
+Organic Bike Horn + Organic Bike Horn + Fire Hose for 42 damage
+Organic Bike Horn + Organic Bike Horn + Anvil for 42 damage
+Organic Bike Horn + Whistle + Whistle + Aoogah for 42 damage
+Organic Bike Horn + Whistle + Whistle + Organic Sandbag for 42 damage
+Organic Bike Horn + Whistle + Organic Whistle + Organic Cream Pie Slice for 42 damage
+Organic Bike Horn + Whistle + Organic Whistle + Sandbag for 42 damage
+Organic Bike Horn + Whistle + Bugle + Organic Bugle for 42 damage
+Organic Bike Horn + Whistle + Organic Bugle + Organic Squirt Gun for 42 damage
+Organic Bike Horn + Whistle + Aoogah + Glass of Water for 42 damage
+Organic Bike Horn + Whistle + Organic Aoogah + Organic Cupcake for 42 damage
+Organic Bike Horn + Whistle + Organic Elephant Trunk for 42 damage
+Organic Bike Horn + Whistle + Cupcake + Seltzer Bottle for 42 damage
+Organic Bike Horn + Whistle + Organic Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+Organic Bike Horn + Whistle + Cream Pie Slice + Flower Pot for 42 damage
+Organic Bike Horn + Whistle + Organic Cream Pie Slice + Organic Glass of Water for 42 damage
+Organic Bike Horn + Whistle + Whole Fruit Pie for 42 damage
+Organic Bike Horn + Whistle + Glass of Water + Organic Sandbag for 42 damage
+Organic Bike Horn + Whistle + Organic Glass of Water + Organic Squirt Gun for 42 damage
+Organic Bike Horn + Whistle + Organic Glass of Water + Sandbag for 42 damage
+Organic Bike Horn + Whistle + Organic Flower Pot + Organic Flower Pot for 42 damage
+Organic Bike Horn + Organic Whistle + Bugle + Bugle for 42 damage
+Organic Bike Horn + Organic Whistle + Bugle + Organic Squirt Gun for 42 damage
+Organic Bike Horn + Organic Whistle + Organic Bugle + Squirt Gun for 42 damage
+Organic Bike Horn + Organic Whistle + Aoogah + Organic Cupcake for 42 damage
+Organic Bike Horn + Organic Whistle + Organic Aoogah + Cupcake for 42 damage
+Organic Bike Horn + Organic Whistle + Organic Cupcake + Organic Sandbag for 42 damage
+Organic Bike Horn + Organic Whistle + Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+Organic Bike Horn + Organic Whistle + Cream Pie Slice + Organic Glass of Water for 42 damage
+Organic Bike Horn + Organic Whistle + Organic Cream Pie Slice + Glass of Water for 42 damage
+Organic Bike Horn + Organic Whistle + Glass of Water + Organic Squirt Gun for 42 damage
+Organic Bike Horn + Organic Whistle + Glass of Water + Sandbag for 42 damage
+Organic Bike Horn + Organic Whistle + Organic Glass of Water + Squirt Gun for 42 damage
+Organic Bike Horn + Organic Whistle + Flower Pot + Organic Flower Pot for 42 damage
+Organic Bike Horn + Bugle + Bugle + Organic Glass of Water for 42 damage
+Organic Bike Horn + Bugle + Organic Bugle + Glass of Water for 42 damage
+Organic Bike Horn + Bugle + Organic Cupcake + Organic Fruit Pie Slice for 42 damage
+Organic Bike Horn + Bugle + Fruit Pie Slice + Squirt Gun for 42 damage
+Organic Bike Horn + Bugle + Organic Fruit Pie Slice + Organic Flower Pot for 42 damage
+Organic Bike Horn + Bugle + Cream Pie Slice + Organic Squirting Flower for 42 damage
+Organic Bike Horn + Bugle + Organic Cream Pie Slice + Squirting Flower for 42 damage
+Organic Bike Horn + Bugle + Squirting Flower + Sandbag for 42 damage
+Organic Bike Horn + Bugle + Organic Squirting Flower + Organic Squirt Gun for 42 damage
+Organic Bike Horn + Bugle + Organic Glass of Water + Organic Glass of Water for 42 damage
+Organic Bike Horn + Bugle + Squirt Gun + Flower Pot for 42 damage
+Organic Bike Horn + Organic Bugle + Organic Bugle + Organic Cupcake for 42 damage
+Organic Bike Horn + Organic Bugle + Cupcake + Organic Fruit Pie Slice for 42 damage
+Organic Bike Horn + Organic Bugle + Organic Cupcake + Fruit Pie Slice for 42 damage
+Organic Bike Horn + Organic Bugle + Fruit Pie Slice + Organic Flower Pot for 42 damage
+Organic Bike Horn + Organic Bugle + Organic Fruit Pie Slice + Flower Pot for 42 damage
+Organic Bike Horn + Organic Bugle + Cream Pie Slice + Squirting Flower for 42 damage
+Organic Bike Horn + Organic Bugle + Squirting Flower + Organic Squirt Gun for 42 damage
+Organic Bike Horn + Organic Bugle + Organic Squirting Flower + Squirt Gun for 42 damage
+Organic Bike Horn + Organic Bugle + Glass of Water + Organic Glass of Water for 42 damage
+Organic Bike Horn + Organic Bugle + Seltzer Bottle for 42 damage
+Organic Bike Horn + Aoogah + Cupcake + Organic Cupcake for 42 damage
+Organic Bike Horn + Aoogah + Cupcake + Flower Pot for 42 damage
+Organic Bike Horn + Aoogah + Organic Cupcake + Organic Glass of Water for 42 damage
+Organic Bike Horn + Aoogah + Organic Fruit Pie Slice + Organic Squirting Flower for 42 damage
+Organic Bike Horn + Aoogah + Squirting Flower + Organic Glass of Water for 42 damage
+Organic Bike Horn + Aoogah + Organic Squirting Flower + Glass of Water for 42 damage
+Organic Bike Horn + Aoogah + Organic Squirting Flower + Organic Flower Pot for 42 damage
+Organic Bike Horn + Organic Aoogah + Cupcake + Cupcake for 42 damage
+Organic Bike Horn + Organic Aoogah + Cupcake + Organic Glass of Water for 42 damage
+Organic Bike Horn + Organic Aoogah + Organic Cupcake + Glass of Water for 42 damage
+Organic Bike Horn + Organic Aoogah + Fruit Pie Slice + Organic Squirting Flower for 42 damage
+Organic Bike Horn + Organic Aoogah + Organic Fruit Pie Slice + Squirting Flower for 42 damage
+Organic Bike Horn + Organic Aoogah + Squirting Flower + Glass of Water for 42 damage
+Organic Bike Horn + Organic Aoogah + Squirting Flower + Organic Flower Pot for 42 damage
+Organic Bike Horn + Organic Aoogah + Organic Squirting Flower + Flower Pot for 42 damage
+Organic Bike Horn + Elephant Trunk + Cupcake + Squirting Flower for 42 damage
+Organic Bike Horn + Elephant Trunk + Fruit Pie Slice for 42 damage
+Organic Bike Horn + Elephant Trunk + Squirting Flower + Squirting Flower for 42 damage
+Organic Bike Horn + Elephant Trunk + Flower Pot for 42 damage
+Organic Bike Horn + Organic Elephant Trunk + Glass of Water for 42 damage
+Organic Bike Horn + Cupcake + Organic Cupcake + Seltzer Bottle for 42 damage
+Organic Bike Horn + Cupcake + Cream Pie Slice + Organic Glass of Water for 42 damage
+Organic Bike Horn + Cupcake + Organic Cream Pie Slice + Glass of Water for 42 damage
+Organic Bike Horn + Cupcake + Squirt Gun + Organic Sandbag for 42 damage
+Organic Bike Horn + Cupcake + Organic Squirt Gun + Sandbag for 42 damage
+Organic Bike Horn + Cupcake + Seltzer Bottle + Flower Pot for 42 damage
+Organic Bike Horn + Organic Cupcake + Cream Pie Slice + Glass of Water for 42 damage
+Organic Bike Horn + Organic Cupcake + Squirting Flower + Seltzer Bottle for 42 damage
+Organic Bike Horn + Organic Cupcake + Squirt Gun + Organic Squirt Gun for 42 damage
+Organic Bike Horn + Organic Cupcake + Squirt Gun + Sandbag for 42 damage
+Organic Bike Horn + Organic Cupcake + Fire Hose for 42 damage
+Organic Bike Horn + Organic Cupcake + Anvil for 42 damage
+Organic Bike Horn + Fruit Pie Slice + Fruit Pie Slice + Organic Squirt Gun for 42 damage
+Organic Bike Horn + Fruit Pie Slice + Organic Fruit Pie Slice + Organic Flower Pot for 42 damage
+Organic Bike Horn + Fruit Pie Slice + Cream Pie Slice + Squirting Flower for 42 damage
+Organic Bike Horn + Fruit Pie Slice + Glass of Water + Organic Sandbag for 42 damage
+Organic Bike Horn + Fruit Pie Slice + Organic Glass of Water + Organic Squirt Gun for 42 damage
+Organic Bike Horn + Fruit Pie Slice + Organic Glass of Water + Sandbag for 42 damage
+Organic Bike Horn + Fruit Pie Slice + Organic Flower Pot + Organic Flower Pot for 42 damage
+Organic Bike Horn + Organic Fruit Pie Slice + Organic Fruit Pie Slice + Flower Pot for 42 damage
+Organic Bike Horn + Organic Fruit Pie Slice + Glass of Water + Organic Squirt Gun for 42 damage
+Organic Bike Horn + Organic Fruit Pie Slice + Glass of Water + Sandbag for 42 damage
+Organic Bike Horn + Organic Fruit Pie Slice + Organic Glass of Water + Squirt Gun for 42 damage
+Organic Bike Horn + Organic Fruit Pie Slice + Flower Pot + Organic Flower Pot for 42 damage
+Organic Bike Horn + Cream Pie Slice + Squirting Flower + Squirt Gun for 42 damage
+Organic Bike Horn + Cream Pie Slice + Glass of Water + Glass of Water for 42 damage
+Organic Bike Horn + Cream Pie Slice + Organic Glass of Water + Organic Flower Pot for 42 damage
+Organic Bike Horn + Organic Cream Pie Slice + Glass of Water + Organic Flower Pot for 42 damage
+Organic Bike Horn + Organic Cream Pie Slice + Organic Glass of Water + Flower Pot for 42 damage
+Organic Bike Horn + Organic Cream Pie Slice + Organic Sandbag for 42 damage
+Organic Bike Horn + Whole Fruit Pie + Squirting Flower + Squirting Flower for 42 damage
+Organic Bike Horn + Whole Fruit Pie + Flower Pot for 42 damage
+Organic Bike Horn + Organic Whole Fruit Pie + Glass of Water for 42 damage
+Organic Bike Horn + Squirting Flower + Organic Anvil for 42 damage
+Organic Bike Horn + Glass of Water + Organic Squirt Gun + Organic Flower Pot for 42 damage
+Organic Bike Horn + Organic Glass of Water + Squirt Gun + Organic Flower Pot for 42 damage
+Organic Bike Horn + Organic Glass of Water + Organic Squirt Gun + Flower Pot for 42 damage
+Organic Bike Horn + Organic Squirt Gun + Flower Pot + Flower Pot for 42 damage
+Whistle + Whistle + Bugle + Squirt Gun for 42 damage
+Whistle + Whistle + Organic Bugle + Fruit Pie Slice for 42 damage
+Whistle + Whistle + Organic Bugle + Flower Pot for 42 damage
+Whistle + Whistle + Aoogah + Cupcake for 42 damage
+Whistle + Whistle + Organic Aoogah + Squirting Flower for 42 damage
+Whistle + Whistle + Elephant Trunk for 42 damage
+Whistle + Whistle + Cupcake + Organic Sandbag for 42 damage
+Whistle + Whistle + Organic Cupcake + Sandbag for 42 damage
+Whistle + Whistle + Cream Pie Slice + Glass of Water for 42 damage
+Whistle + Organic Whistle + Organic Whistle + Organic Bugle for 42 damage
+Whistle + Organic Whistle + Bugle + Fruit Pie Slice for 42 damage
+Whistle + Organic Whistle + Bugle + Flower Pot for 42 damage
+Whistle + Organic Whistle + Organic Bugle + Organic Glass of Water for 42 damage
+Whistle + Organic Whistle + Aoogah + Squirting Flower for 42 damage
+Whistle + Organic Whistle + Cupcake + Sandbag for 42 damage
+Whistle + Organic Whistle + Fruit Pie Slice + Fruit Pie Slice for 42 damage
+Whistle + Organic Whistle + Organic Fruit Pie Slice + Organic Squirt Gun for 42 damage
+Whistle + Organic Whistle + Organic Squirting Flower + Organic Sandbag for 42 damage
+Whistle + Organic Whistle + Glass of Water + Squirt Gun for 42 damage
+Whistle + Organic Whistle + Organic Squirt Gun + Organic Flower Pot for 42 damage
+Whistle + Organic Whistle + Flower Pot + Flower Pot for 42 damage
+Whistle + Bugle + Bugle + Organic Cupcake for 42 damage
+Whistle + Bugle + Organic Bugle + Cupcake for 42 damage
+Whistle + Bugle + Organic Aoogah for 42 damage
+Whistle + Bugle + Cupcake + Fruit Pie Slice for 42 damage
+Whistle + Bugle + Organic Cupcake + Organic Squirt Gun for 42 damage
+Whistle + Bugle + Fruit Pie Slice + Flower Pot for 42 damage
+Whistle + Bugle + Organic Fruit Pie Slice + Organic Glass of Water for 42 damage
+Whistle + Bugle + Squirting Flower + Squirt Gun for 42 damage
+Whistle + Bugle + Glass of Water + Glass of Water for 42 damage
+Whistle + Bugle + Organic Glass of Water + Organic Flower Pot for 42 damage
+Whistle + Organic Bugle + Organic Bugle + Squirting Flower for 42 damage
+Whistle + Organic Bugle + Aoogah for 42 damage
+Whistle + Organic Bugle + Cupcake + Organic Squirt Gun for 42 damage
+Whistle + Organic Bugle + Organic Cupcake + Squirt Gun for 42 damage
+Whistle + Organic Bugle + Fruit Pie Slice + Organic Glass of Water for 42 damage
+Whistle + Organic Bugle + Organic Fruit Pie Slice + Glass of Water for 42 damage
+Whistle + Organic Bugle + Glass of Water + Organic Flower Pot for 42 damage
+Whistle + Organic Bugle + Organic Glass of Water + Flower Pot for 42 damage
+Whistle + Organic Bugle + Organic Sandbag for 42 damage
+Whistle + Aoogah + Cupcake + Glass of Water for 42 damage
+Whistle + Aoogah + Fruit Pie Slice + Squirting Flower for 42 damage
+Whistle + Aoogah + Squirting Flower + Flower Pot for 42 damage
+Whistle + Organic Aoogah + Organic Squirt Gun for 42 damage
+Whistle + Elephant Trunk + Glass of Water for 42 damage
+Whistle + Organic Elephant Trunk + Cupcake for 42 damage
+Whistle + Cupcake + Cupcake + Cream Pie Slice for 42 damage
+Whistle + Cupcake + Organic Cupcake + Organic Sandbag for 42 damage
+Whistle + Cupcake + Squirt Gun + Squirt Gun for 42 damage
+Whistle + Organic Cupcake + Organic Cupcake + Sandbag for 42 damage
+Whistle + Organic Cupcake + Organic Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+Whistle + Organic Cupcake + Organic Fruit Pie Slice + Organic Squirt Gun for 42 damage
+Whistle + Organic Cupcake + Organic Cream Pie Slice + Organic Squirting Flower for 42 damage
+Whistle + Organic Cupcake + Organic Glass of Water + Organic Sandbag for 42 damage
+Whistle + Fruit Pie Slice + Fruit Pie Slice + Organic Flower Pot for 42 damage
+Whistle + Fruit Pie Slice + Organic Fruit Pie Slice + Organic Glass of Water for 42 damage
+Whistle + Organic Fruit Pie Slice + Organic Fruit Pie Slice + Glass of Water for 42 damage
+Whistle + Organic Fruit Pie Slice + Organic Cream Pie Slice for 42 damage
+Whistle + Organic Fruit Pie Slice + Organic Squirting Flower + Organic Sandbag for 42 damage
+Whistle + Organic Fruit Pie Slice + Glass of Water + Squirt Gun for 42 damage
+Whistle + Organic Fruit Pie Slice + Organic Squirt Gun + Organic Flower Pot for 42 damage
+Whistle + Organic Fruit Pie Slice + Flower Pot + Flower Pot for 42 damage
+Whistle + Cream Pie Slice + Glass of Water + Flower Pot for 42 damage
+Whistle + Cream Pie Slice + Sandbag for 42 damage
+Whistle + Organic Cream Pie Slice + Organic Squirting Flower + Organic Glass of Water for 42 damage
+Whistle + Whole Fruit Pie + Glass of Water for 42 damage
+Whistle + Squirting Flower + Squirting Flower + Seltzer Bottle for 42 damage
+Whistle + Squirting Flower + Organic Glass of Water + Organic Sandbag for 42 damage
+Whistle + Squirting Flower + Squirt Gun + Organic Squirt Gun for 42 damage
+Whistle + Organic Squirting Flower + Glass of Water + Organic Sandbag for 42 damage
+Whistle + Organic Squirting Flower + Organic Glass of Water + Sandbag for 42 damage
+Whistle + Organic Squirting Flower + Squirt Gun + Squirt Gun for 42 damage
+Whistle + Organic Squirting Flower + Anvil for 42 damage
+Whistle + Glass of Water + Glass of Water + Organic Squirt Gun for 42 damage
+Whistle + Glass of Water + Organic Glass of Water + Squirt Gun for 42 damage
+Whistle + Glass of Water + Squirt Gun + Organic Flower Pot for 42 damage
+Whistle + Glass of Water + Seltzer Bottle for 42 damage
+Whistle + Glass of Water + Organic Flower Pot + Organic Flower Pot for 42 damage
+Whistle + Organic Glass of Water + Flower Pot + Organic Flower Pot for 42 damage
+Whistle + Flower Pot + Organic Sandbag for 42 damage
+Whistle + Organic Flower Pot + Sandbag for 42 damage
+Organic Whistle + Organic Whistle + Organic Whistle + Bugle for 42 damage
+Organic Whistle + Organic Whistle + Organic Whistle + Organic Squirt Gun for 42 damage
+Organic Whistle + Organic Whistle + Bugle + Organic Glass of Water for 42 damage
+Organic Whistle + Organic Whistle + Organic Bugle + Glass of Water for 42 damage
+Organic Whistle + Organic Whistle + Organic Cupcake + Organic Fruit Pie Slice for 42 damage
+Organic Whistle + Organic Whistle + Fruit Pie Slice + Squirt Gun for 42 damage
+Organic Whistle + Organic Whistle + Organic Fruit Pie Slice + Organic Flower Pot for 42 damage
+Organic Whistle + Organic Whistle + Cream Pie Slice + Organic Squirting Flower for 42 damage
+Organic Whistle + Organic Whistle + Organic Cream Pie Slice + Squirting Flower for 42 damage
+Organic Whistle + Organic Whistle + Squirting Flower + Sandbag for 42 damage
+Organic Whistle + Organic Whistle + Organic Squirting Flower + Organic Squirt Gun for 42 damage
+Organic Whistle + Organic Whistle + Organic Glass of Water + Organic Glass of Water for 42 damage
+Organic Whistle + Organic Whistle + Squirt Gun + Flower Pot for 42 damage
+Organic Whistle + Bugle + Bugle + Cupcake for 42 damage
+Organic Whistle + Bugle + Organic Bugle + Squirting Flower for 42 damage
+Organic Whistle + Bugle + Aoogah for 42 damage
+Organic Whistle + Bugle + Cupcake + Organic Squirt Gun for 42 damage
+Organic Whistle + Bugle + Organic Cupcake + Squirt Gun for 42 damage
+Organic Whistle + Bugle + Fruit Pie Slice + Organic Glass of Water for 42 damage
+Organic Whistle + Bugle + Organic Fruit Pie Slice + Glass of Water for 42 damage
+Organic Whistle + Bugle + Glass of Water + Organic Flower Pot for 42 damage
+Organic Whistle + Bugle + Organic Glass of Water + Flower Pot for 42 damage
+Organic Whistle + Bugle + Organic Sandbag for 42 damage
+Organic Whistle + Organic Bugle + Cupcake + Squirt Gun for 42 damage
+Organic Whistle + Organic Bugle + Organic Cupcake + Organic Flower Pot for 42 damage
+Organic Whistle + Organic Bugle + Fruit Pie Slice + Glass of Water for 42 damage
+Organic Whistle + Organic Bugle + Organic Cream Pie Slice for 42 damage
+Organic Whistle + Organic Bugle + Glass of Water + Flower Pot for 42 damage
+Organic Whistle + Organic Bugle + Sandbag for 42 damage
+Organic Whistle + Aoogah + Organic Squirt Gun for 42 damage
+Organic Whistle + Organic Aoogah + Organic Cupcake + Organic Squirting Flower for 42 damage
+Organic Whistle + Organic Aoogah + Organic Squirting Flower + Organic Squirting Flower for 42 damage
+Organic Whistle + Organic Aoogah + Squirt Gun for 42 damage
+Organic Whistle + Elephant Trunk + Organic Cupcake for 42 damage
+Organic Whistle + Organic Elephant Trunk + Squirting Flower for 42 damage
+Organic Whistle + Cupcake + Cupcake + Organic Sandbag for 42 damage
+Organic Whistle + Cupcake + Organic Cupcake + Sandbag for 42 damage
+Organic Whistle + Cupcake + Organic Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+Organic Whistle + Cupcake + Organic Fruit Pie Slice + Organic Squirt Gun for 42 damage
+Organic Whistle + Cupcake + Organic Cream Pie Slice + Organic Squirting Flower for 42 damage
+Organic Whistle + Cupcake + Organic Glass of Water + Organic Sandbag for 42 damage
+Organic Whistle + Organic Cupcake + Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+Organic Whistle + Organic Cupcake + Fruit Pie Slice + Organic Squirt Gun for 42 damage
+Organic Whistle + Organic Cupcake + Organic Fruit Pie Slice + Squirt Gun for 42 damage
+Organic Whistle + Organic Cupcake + Cream Pie Slice + Organic Squirting Flower for 42 damage
+Organic Whistle + Organic Cupcake + Organic Cream Pie Slice + Squirting Flower for 42 damage
+Organic Whistle + Organic Cupcake + Glass of Water + Organic Sandbag for 42 damage
+Organic Whistle + Organic Cupcake + Organic Glass of Water + Organic Squirt Gun for 42 damage
+Organic Whistle + Organic Cupcake + Organic Glass of Water + Sandbag for 42 damage
+Organic Whistle + Organic Cupcake + Organic Flower Pot + Organic Flower Pot for 42 damage
+Organic Whistle + Fruit Pie Slice + Fruit Pie Slice + Flower Pot for 42 damage
+Organic Whistle + Fruit Pie Slice + Organic Fruit Pie Slice + Glass of Water for 42 damage
+Organic Whistle + Fruit Pie Slice + Organic Cream Pie Slice for 42 damage
+Organic Whistle + Fruit Pie Slice + Organic Squirting Flower + Organic Sandbag for 42 damage
+Organic Whistle + Fruit Pie Slice + Glass of Water + Squirt Gun for 42 damage
+Organic Whistle + Fruit Pie Slice + Organic Squirt Gun + Organic Flower Pot for 42 damage
+Organic Whistle + Fruit Pie Slice + Flower Pot + Flower Pot for 42 damage
+Organic Whistle + Organic Fruit Pie Slice + Cream Pie Slice for 42 damage
+Organic Whistle + Organic Fruit Pie Slice + Squirting Flower + Organic Sandbag for 42 damage
+Organic Whistle + Organic Fruit Pie Slice + Organic Squirting Flower + Sandbag for 42 damage
+Organic Whistle + Organic Fruit Pie Slice + Squirt Gun + Organic Flower Pot for 42 damage
+Organic Whistle + Organic Fruit Pie Slice + Organic Squirt Gun + Flower Pot for 42 damage
+Organic Whistle + Organic Fruit Pie Slice + Organic Seltzer Bottle for 42 damage
+Organic Whistle + Cream Pie Slice + Organic Squirting Flower + Organic Glass of Water for 42 damage
+Organic Whistle + Organic Cream Pie Slice + Squirting Flower + Organic Glass of Water for 42 damage
+Organic Whistle + Organic Cream Pie Slice + Organic Squirting Flower + Glass of Water for 42 damage
+Organic Whistle + Organic Cream Pie Slice + Organic Squirting Flower + Organic Flower Pot for 42 damage
+Organic Whistle + Organic Whole Fruit Pie + Organic Squirting Flower for 42 damage
+Organic Whistle + Squirting Flower + Glass of Water + Organic Sandbag for 42 damage
+Organic Whistle + Squirting Flower + Organic Glass of Water + Sandbag for 42 damage
+Organic Whistle + Squirting Flower + Squirt Gun + Squirt Gun for 42 damage
+Organic Whistle + Squirting Flower + Anvil for 42 damage
+Organic Whistle + Organic Squirting Flower + Glass of Water + Sandbag for 42 damage
+Organic Whistle + Organic Squirting Flower + Organic Seltzer Bottle for 42 damage
+Organic Whistle + Glass of Water + Glass of Water + Squirt Gun for 42 damage
+Organic Whistle + Glass of Water + Squirt Gun + Flower Pot for 42 damage
+Organic Whistle + Glass of Water + Flower Pot + Organic Flower Pot for 42 damage
+Organic Whistle + Organic Seltzer Bottle + Organic Flower Pot for 42 damage
+Organic Whistle + Flower Pot + Sandbag for 42 damage
+Bugle + Bugle + Cupcake + Cupcake for 42 damage
+Bugle + Bugle + Cupcake + Organic Glass of Water for 42 damage
+Bugle + Bugle + Organic Cupcake + Glass of Water for 42 damage
+Bugle + Bugle + Fruit Pie Slice + Organic Squirting Flower for 42 damage
+Bugle + Bugle + Organic Fruit Pie Slice + Squirting Flower for 42 damage
+Bugle + Bugle + Squirting Flower + Glass of Water for 42 damage
+Bugle + Bugle + Squirting Flower + Organic Flower Pot for 42 damage
+Bugle + Bugle + Organic Squirting Flower + Flower Pot for 42 damage
+Bugle + Organic Bugle + Organic Bugle for 42 damage
+Bugle + Organic Bugle + Cupcake + Glass of Water for 42 damage
+Bugle + Organic Bugle + Fruit Pie Slice + Squirting Flower for 42 damage
+Bugle + Organic Bugle + Squirting Flower + Flower Pot for 42 damage
+Bugle + Aoogah + Organic Glass of Water for 42 damage
+Bugle + Organic Aoogah + Glass of Water for 42 damage
+Bugle + Cupcake + Fruit Pie Slice + Organic Flower Pot for 42 damage
+Bugle + Cupcake + Organic Fruit Pie Slice + Flower Pot for 42 damage
+Bugle + Organic Cupcake + Fruit Pie Slice + Flower Pot for 42 damage
+Bugle + Organic Cupcake + Organic Fruit Pie Slice + Organic Glass of Water for 42 damage
+Bugle + Organic Cupcake + Organic Squirting Flower + Organic Sandbag for 42 damage
+Bugle + Organic Cupcake + Glass of Water + Squirt Gun for 42 damage
+Bugle + Organic Cupcake + Organic Squirt Gun + Organic Flower Pot for 42 damage
+Bugle + Organic Cupcake + Flower Pot + Flower Pot for 42 damage
+Bugle + Fruit Pie Slice + Organic Fruit Pie Slice + Organic Squirting Flower for 42 damage
+Bugle + Fruit Pie Slice + Squirting Flower + Organic Squirt Gun for 42 damage
+Bugle + Fruit Pie Slice + Organic Squirting Flower + Squirt Gun for 42 damage
+Bugle + Fruit Pie Slice + Glass of Water + Organic Glass of Water for 42 damage
+Bugle + Fruit Pie Slice + Seltzer Bottle for 42 damage
+Bugle + Organic Fruit Pie Slice + Organic Fruit Pie Slice + Squirting Flower for 42 damage
+Bugle + Organic Fruit Pie Slice + Squirting Flower + Squirt Gun for 42 damage
+Bugle + Organic Fruit Pie Slice + Glass of Water + Glass of Water for 42 damage
+Bugle + Organic Fruit Pie Slice + Organic Glass of Water + Organic Flower Pot for 42 damage
+Bugle + Cream Pie Slice + Squirting Flower + Flower Pot for 42 damage
+Bugle + Organic Cream Pie Slice + Organic Squirt Gun for 42 damage
+Bugle + Whole Fruit Pie + Squirting Flower for 42 damage
+Bugle + Squirting Flower + Squirt Gun + Organic Flower Pot for 42 damage
+Bugle + Squirting Flower + Organic Squirt Gun + Flower Pot for 42 damage
+Bugle + Squirting Flower + Organic Flower Pot + Organic Flower Pot for 42 damage
+Bugle + Organic Squirting Flower + Organic Squirting Flower + Organic Sandbag for 42 damage
+Bugle + Organic Squirting Flower + Squirt Gun + Flower Pot for 42 damage
+Bugle + Organic Squirting Flower + Flower Pot + Organic Flower Pot for 42 damage
+Bugle + Glass of Water + Glass of Water + Organic Flower Pot for 42 damage
+Bugle + Glass of Water + Organic Glass of Water + Flower Pot for 42 damage
+Bugle + Squirt Gun + Organic Sandbag for 42 damage
+Bugle + Organic Squirt Gun + Sandbag for 42 damage
+Bugle + Seltzer Bottle + Flower Pot for 42 damage
+Organic Bugle + Organic Bugle + Organic Squirt Gun for 42 damage
+Organic Bugle + Aoogah + Glass of Water for 42 damage
+Organic Bugle + Organic Aoogah + Organic Cupcake for 42 damage
+Organic Bugle + Organic Elephant Trunk for 42 damage
+Organic Bugle + Cupcake + Fruit Pie Slice + Flower Pot for 42 damage
+Organic Bugle + Cupcake + Organic Fruit Pie Slice + Organic Glass of Water for 42 damage
+Organic Bugle + Cupcake + Organic Squirting Flower + Organic Sandbag for 42 damage
+Organic Bugle + Cupcake + Glass of Water + Squirt Gun for 42 damage
+Organic Bugle + Cupcake + Organic Squirt Gun + Organic Flower Pot for 42 damage
+Organic Bugle + Cupcake + Flower Pot + Flower Pot for 42 damage
+Organic Bugle + Organic Cupcake + Organic Cupcake + Organic Fruit Pie Slice for 42 damage
+Organic Bugle + Organic Cupcake + Organic Cupcake + Organic Squirt Gun for 42 damage
+Organic Bugle + Organic Cupcake + Fruit Pie Slice + Organic Glass of Water for 42 damage
+Organic Bugle + Organic Cupcake + Organic Fruit Pie Slice + Glass of Water for 42 damage
+Organic Bugle + Organic Cupcake + Organic Cream Pie Slice for 42 damage
+Organic Bugle + Organic Cupcake + Squirting Flower + Organic Sandbag for 42 damage
+Organic Bugle + Organic Cupcake + Organic Squirting Flower + Sandbag for 42 damage
+Organic Bugle + Organic Cupcake + Squirt Gun + Organic Flower Pot for 42 damage
+Organic Bugle + Organic Cupcake + Organic Squirt Gun + Flower Pot for 42 damage
+Organic Bugle + Organic Cupcake + Organic Seltzer Bottle for 42 damage
+Organic Bugle + Fruit Pie Slice + Organic Fruit Pie Slice + Squirting Flower for 42 damage
+Organic Bugle + Fruit Pie Slice + Squirting Flower + Squirt Gun for 42 damage
+Organic Bugle + Fruit Pie Slice + Glass of Water + Glass of Water for 42 damage
+Organic Bugle + Fruit Pie Slice + Organic Glass of Water + Organic Flower Pot for 42 damage
+Organic Bugle + Organic Fruit Pie Slice + Glass of Water + Organic Flower Pot for 42 damage
+Organic Bugle + Organic Fruit Pie Slice + Organic Glass of Water + Flower Pot for 42 damage
+Organic Bugle + Organic Fruit Pie Slice + Organic Sandbag for 42 damage
+Organic Bugle + Cream Pie Slice + Organic Squirt Gun for 42 damage
+Organic Bugle + Organic Cream Pie Slice + Organic Squirting Flower + Organic Squirting Flower for 42 damage
+Organic Bugle + Organic Cream Pie Slice + Squirt Gun for 42 damage
+Organic Bugle + Squirting Flower + Organic Squirting Flower + Organic Sandbag for 42 damage
+Organic Bugle + Squirting Flower + Glass of Water + Organic Squirt Gun for 42 damage
+Organic Bugle + Squirting Flower + Organic Glass of Water + Squirt Gun for 42 damage
+Organic Bugle + Squirting Flower + Squirt Gun + Flower Pot for 42 damage
+Organic Bugle + Squirting Flower + Seltzer Bottle for 42 damage
+Organic Bugle + Squirting Flower + Flower Pot + Organic Flower Pot for 42 damage
+Organic Bugle + Organic Squirting Flower + Organic Squirting Flower + Sandbag for 42 damage
+Organic Bugle + Organic Squirting Flower + Glass of Water + Squirt Gun for 42 damage
+Organic Bugle + Glass of Water + Glass of Water + Organic Glass of Water for 42 damage
+Organic Bugle + Glass of Water + Glass of Water + Flower Pot for 42 damage
+Organic Bugle + Squirt Gun + Organic Squirt Gun for 42 damage
+Organic Bugle + Squirt Gun + Sandbag for 42 damage
+Organic Bugle + Fire Hose for 42 damage
+Organic Bugle + Anvil for 42 damage
+Aoogah + Cupcake + Cupcake + Organic Flower Pot for 42 damage
+Aoogah + Cupcake + Organic Cupcake + Flower Pot for 42 damage
+Aoogah + Cupcake + Organic Fruit Pie Slice + Organic Squirting Flower for 42 damage
+Aoogah + Cupcake + Squirting Flower + Squirt Gun for 42 damage
+Aoogah + Cupcake + Glass of Water + Glass of Water for 42 damage
+Aoogah + Cupcake + Organic Glass of Water + Organic Flower Pot for 42 damage
+Aoogah + Organic Cupcake + Organic Cupcake + Organic Cupcake for 42 damage
+Aoogah + Organic Cupcake + Organic Cupcake + Organic Glass of Water for 42 damage
+Aoogah + Organic Cupcake + Fruit Pie Slice + Organic Squirting Flower for 42 damage
+Aoogah + Organic Cupcake + Organic Fruit Pie Slice + Squirting Flower for 42 damage
+Aoogah + Organic Cupcake + Glass of Water + Organic Flower Pot for 42 damage
+Aoogah + Organic Cupcake + Organic Glass of Water + Flower Pot for 42 damage
+Aoogah + Organic Cupcake + Organic Sandbag for 42 damage
+Aoogah + Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+Aoogah + Fruit Pie Slice + Squirting Flower + Organic Glass of Water for 42 damage
+Aoogah + Fruit Pie Slice + Organic Squirting Flower + Glass of Water for 42 damage
+Aoogah + Fruit Pie Slice + Organic Squirting Flower + Organic Flower Pot for 42 damage
+Aoogah + Organic Fruit Pie Slice + Squirting Flower + Glass of Water for 42 damage
+Aoogah + Organic Fruit Pie Slice + Squirting Flower + Organic Flower Pot for 42 damage
+Aoogah + Organic Fruit Pie Slice + Organic Squirting Flower + Flower Pot for 42 damage
+Aoogah + Cream Pie Slice + Organic Glass of Water for 42 damage
+Aoogah + Organic Cream Pie Slice + Glass of Water for 42 damage
+Aoogah + Squirting Flower + Squirting Flower + Organic Squirt Gun for 42 damage
+Aoogah + Squirting Flower + Organic Squirting Flower + Squirt Gun for 42 damage
+Aoogah + Squirting Flower + Glass of Water + Organic Glass of Water for 42 damage
+Aoogah + Squirting Flower + Glass of Water + Organic Flower Pot for 42 damage
+Aoogah + Squirting Flower + Organic Glass of Water + Flower Pot for 42 damage
+Aoogah + Organic Squirting Flower + Glass of Water + Glass of Water for 42 damage
+Aoogah + Organic Squirting Flower + Glass of Water + Flower Pot for 42 damage
+Aoogah + Glass of Water + Organic Squirt Gun for 42 damage
+Aoogah + Glass of Water + Sandbag for 42 damage
+Aoogah + Organic Glass of Water + Squirt Gun for 42 damage
+Aoogah + Flower Pot + Organic Flower Pot for 42 damage
+Organic Aoogah + Cupcake + Cupcake + Flower Pot for 42 damage
+Organic Aoogah + Cupcake + Organic Cupcake + Organic Glass of Water for 42 damage
+Organic Aoogah + Cupcake + Fruit Pie Slice + Organic Squirting Flower for 42 damage
+Organic Aoogah + Cupcake + Organic Fruit Pie Slice + Squirting Flower for 42 damage
+Organic Aoogah + Cupcake + Glass of Water + Organic Flower Pot for 42 damage
+Organic Aoogah + Cupcake + Organic Glass of Water + Flower Pot for 42 damage
+Organic Aoogah + Cupcake + Organic Sandbag for 42 damage
+Organic Aoogah + Organic Cupcake + Organic Cupcake + Glass of Water for 42 damage
+Organic Aoogah + Organic Cupcake + Fruit Pie Slice + Squirting Flower for 42 damage
+Organic Aoogah + Organic Cupcake + Glass of Water + Flower Pot for 42 damage
+Organic Aoogah + Organic Cupcake + Sandbag for 42 damage
+Organic Aoogah + Fruit Pie Slice + Squirting Flower + Glass of Water for 42 damage
+Organic Aoogah + Fruit Pie Slice + Squirting Flower + Organic Flower Pot for 42 damage
+Organic Aoogah + Fruit Pie Slice + Organic Squirting Flower + Flower Pot for 42 damage
+Organic Aoogah + Organic Fruit Pie Slice + Squirting Flower + Flower Pot for 42 damage
+Organic Aoogah + Cream Pie Slice + Glass of Water for 42 damage
+Organic Aoogah + Squirting Flower + Glass of Water + Flower Pot for 42 damage
+Elephant Trunk + Cupcake + Organic Cupcake + Organic Squirting Flower for 42 damage
+Elephant Trunk + Cupcake + Organic Fruit Pie Slice for 42 damage
+Elephant Trunk + Cupcake + Squirting Flower + Glass of Water for 42 damage
+Elephant Trunk + Cupcake + Squirting Flower + Organic Flower Pot for 42 damage
+Elephant Trunk + Cupcake + Organic Squirting Flower + Flower Pot for 42 damage
+Elephant Trunk + Organic Cupcake + Organic Cupcake + Squirting Flower for 42 damage
+Elephant Trunk + Organic Cupcake + Fruit Pie Slice for 42 damage
+Elephant Trunk + Organic Cupcake + Squirting Flower + Flower Pot for 42 damage
+Elephant Trunk + Fruit Pie Slice + Squirting Flower + Organic Squirting Flower for 42 damage
+Elephant Trunk + Fruit Pie Slice + Organic Flower Pot for 42 damage
+Elephant Trunk + Organic Fruit Pie Slice + Squirting Flower + Squirting Flower for 42 damage
+Elephant Trunk + Organic Fruit Pie Slice + Flower Pot for 42 damage
+Elephant Trunk + Cream Pie Slice + Squirting Flower for 42 damage
+Elephant Trunk + Squirting Flower + Squirting Flower + Organic Glass of Water for 42 damage
+Elephant Trunk + Squirting Flower + Squirting Flower + Organic Flower Pot for 42 damage
+Elephant Trunk + Squirting Flower + Organic Squirting Flower + Glass of Water for 42 damage
+Elephant Trunk + Squirting Flower + Organic Squirting Flower + Flower Pot for 42 damage
+Elephant Trunk + Squirting Flower + Organic Squirt Gun for 42 damage
+Elephant Trunk + Organic Squirting Flower + Squirt Gun for 42 damage
+Elephant Trunk + Glass of Water + Organic Glass of Water for 42 damage
+Elephant Trunk + Seltzer Bottle for 42 damage
+Organic Elephant Trunk + Cupcake + Cupcake + Squirting Flower for 42 damage
+Organic Elephant Trunk + Cupcake + Organic Squirt Gun for 42 damage
+Organic Elephant Trunk + Organic Cupcake + Organic Squirting Flower + Organic Squirting Flower for 42 damage
+Organic Elephant Trunk + Organic Cupcake + Squirt Gun for 42 damage
+Organic Elephant Trunk + Fruit Pie Slice + Organic Glass of Water for 42 damage
+Organic Elephant Trunk + Organic Fruit Pie Slice + Glass of Water for 42 damage
+Organic Elephant Trunk + Glass of Water + Organic Flower Pot for 42 damage
+Organic Elephant Trunk + Organic Glass of Water + Flower Pot for 42 damage
+Organic Elephant Trunk + Organic Sandbag for 42 damage
+Cupcake + Cupcake + Cupcake + Cream Pie Slice for 42 damage
+Cupcake + Cupcake + Organic Cupcake + Organic Sandbag for 42 damage
+Cupcake + Cupcake + Glass of Water + Organic Sandbag for 42 damage
+Cupcake + Cupcake + Organic Glass of Water + Organic Squirt Gun for 42 damage
+Cupcake + Cupcake + Organic Glass of Water + Sandbag for 42 damage
+Cupcake + Cupcake + Organic Flower Pot + Organic Flower Pot for 42 damage
+Cupcake + Organic Cupcake + Organic Cupcake + Sandbag for 42 damage
+Cupcake + Organic Cupcake + Organic Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+Cupcake + Organic Cupcake + Organic Fruit Pie Slice + Organic Squirt Gun for 42 damage
+Cupcake + Organic Cupcake + Organic Cream Pie Slice + Squirting Flower for 42 damage
+Cupcake + Organic Cupcake + Glass of Water + Organic Squirt Gun for 42 damage
+Cupcake + Organic Cupcake + Glass of Water + Sandbag for 42 damage
+Cupcake + Organic Cupcake + Organic Glass of Water + Squirt Gun for 42 damage
+Cupcake + Organic Cupcake + Flower Pot + Organic Flower Pot for 42 damage
+Cupcake + Fruit Pie Slice + Fruit Pie Slice + Flower Pot for 42 damage
+Cupcake + Fruit Pie Slice + Organic Fruit Pie Slice + Organic Glass of Water for 42 damage
+Cupcake + Fruit Pie Slice + Squirting Flower + Sandbag for 42 damage
+Cupcake + Fruit Pie Slice + Organic Squirting Flower + Organic Squirt Gun for 42 damage
+Cupcake + Fruit Pie Slice + Organic Glass of Water + Organic Glass of Water for 42 damage
+Cupcake + Fruit Pie Slice + Squirt Gun + Flower Pot for 42 damage
+Cupcake + Organic Fruit Pie Slice + Organic Fruit Pie Slice + Glass of Water for 42 damage
+Cupcake + Organic Fruit Pie Slice + Organic Cream Pie Slice for 42 damage
+Cupcake + Organic Fruit Pie Slice + Squirting Flower + Organic Squirt Gun for 42 damage
+Cupcake + Organic Fruit Pie Slice + Organic Squirting Flower + Squirt Gun for 42 damage
+Cupcake + Organic Fruit Pie Slice + Glass of Water + Organic Glass of Water for 42 damage
+Cupcake + Organic Fruit Pie Slice + Seltzer Bottle for 42 damage
+Cupcake + Cream Pie Slice + Squirting Flower + Flower Pot for 42 damage
+Cupcake + Organic Cream Pie Slice + Organic Squirt Gun for 42 damage
+Cupcake + Organic Whole Fruit Pie for 42 damage
+Cupcake + Squirting Flower + Organic Squirting Flower + Seltzer Bottle for 42 damage
+Cupcake + Squirting Flower + Organic Squirt Gun + Organic Squirt Gun for 42 damage
+Cupcake + Organic Squirting Flower + Organic Glass of Water + Organic Sandbag for 42 damage
+Cupcake + Organic Squirting Flower + Squirt Gun + Organic Squirt Gun for 42 damage
+Cupcake + Glass of Water + Organic Glass of Water + Organic Squirt Gun for 42 damage
+Cupcake + Glass of Water + Organic Squirt Gun + Flower Pot for 42 damage
+Cupcake + Organic Glass of Water + Organic Glass of Water + Squirt Gun for 42 damage
+Cupcake + Organic Glass of Water + Squirt Gun + Flower Pot for 42 damage
+Cupcake + Organic Glass of Water + Seltzer Bottle for 42 damage
+Cupcake + Organic Glass of Water + Organic Flower Pot + Organic Flower Pot for 42 damage
+Cupcake + Squirt Gun + Flower Pot + Flower Pot for 42 damage
+Cupcake + Flower Pot + Flower Pot + Flower Pot for 42 damage
+Cupcake + Organic Flower Pot + Organic Sandbag for 42 damage
+Organic Cupcake + Organic Cupcake + Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+Organic Cupcake + Organic Cupcake + Fruit Pie Slice + Organic Squirt Gun for 42 damage
+Organic Cupcake + Organic Cupcake + Organic Fruit Pie Slice + Squirt Gun for 42 damage
+Organic Cupcake + Organic Cupcake + Cream Pie Slice + Squirting Flower for 42 damage
+Organic Cupcake + Fruit Pie Slice + Fruit Pie Slice + Organic Glass of Water for 42 damage
+Organic Cupcake + Fruit Pie Slice + Organic Fruit Pie Slice + Glass of Water for 42 damage
+Organic Cupcake + Fruit Pie Slice + Organic Cream Pie Slice for 42 damage
+Organic Cupcake + Fruit Pie Slice + Squirting Flower + Organic Squirt Gun for 42 damage
+Organic Cupcake + Fruit Pie Slice + Organic Squirting Flower + Squirt Gun for 42 damage
+Organic Cupcake + Fruit Pie Slice + Glass of Water + Organic Glass of Water for 42 damage
+Organic Cupcake + Fruit Pie Slice + Seltzer Bottle for 42 damage
+Organic Cupcake + Organic Fruit Pie Slice + Cream Pie Slice for 42 damage
+Organic Cupcake + Organic Fruit Pie Slice + Squirting Flower + Squirt Gun for 42 damage
+Organic Cupcake + Organic Fruit Pie Slice + Glass of Water + Glass of Water for 42 damage
+Organic Cupcake + Organic Fruit Pie Slice + Organic Glass of Water + Organic Flower Pot for 42 damage
+Organic Cupcake + Cream Pie Slice + Organic Squirt Gun for 42 damage
+Organic Cupcake + Organic Cream Pie Slice + Organic Squirting Flower + Organic Squirting Flower for 42 damage
+Organic Cupcake + Organic Cream Pie Slice + Squirt Gun for 42 damage
+Organic Cupcake + Squirting Flower + Squirting Flower + Seltzer Bottle for 42 damage
+Organic Cupcake + Squirting Flower + Organic Glass of Water + Organic Sandbag for 42 damage
+Organic Cupcake + Squirting Flower + Squirt Gun + Organic Squirt Gun for 42 damage
+Organic Cupcake + Organic Squirting Flower + Glass of Water + Organic Sandbag for 42 damage
+Organic Cupcake + Organic Squirting Flower + Organic Glass of Water + Sandbag for 42 damage
+Organic Cupcake + Organic Squirting Flower + Squirt Gun + Squirt Gun for 42 damage
+Organic Cupcake + Organic Squirting Flower + Anvil for 42 damage
+Organic Cupcake + Glass of Water + Glass of Water + Organic Squirt Gun for 42 damage
+Organic Cupcake + Glass of Water + Organic Glass of Water + Squirt Gun for 42 damage
+Organic Cupcake + Glass of Water + Squirt Gun + Organic Flower Pot for 42 damage
+Organic Cupcake + Glass of Water + Seltzer Bottle for 42 damage
+Organic Cupcake + Glass of Water + Organic Flower Pot + Organic Flower Pot for 42 damage
+Organic Cupcake + Organic Glass of Water + Flower Pot + Organic Flower Pot for 42 damage
+Organic Cupcake + Flower Pot + Organic Sandbag for 42 damage
+Organic Cupcake + Organic Flower Pot + Sandbag for 42 damage
+Fruit Pie Slice + Fruit Pie Slice + Organic Fruit Pie Slice + Squirting Flower for 42 damage
+Fruit Pie Slice + Fruit Pie Slice + Glass of Water + Flower Pot for 42 damage
+Fruit Pie Slice + Fruit Pie Slice + Sandbag for 42 damage
+Fruit Pie Slice + Organic Fruit Pie Slice + Squirting Flower + Organic Glass of Water for 42 damage
+Fruit Pie Slice + Organic Fruit Pie Slice + Organic Squirting Flower + Glass of Water for 42 damage
+Fruit Pie Slice + Organic Fruit Pie Slice + Organic Squirting Flower + Organic Flower Pot for 42 damage
+Fruit Pie Slice + Cream Pie Slice + Organic Glass of Water for 42 damage
+Fruit Pie Slice + Organic Cream Pie Slice + Glass of Water for 42 damage
+Fruit Pie Slice + Squirting Flower + Organic Glass of Water + Organic Squirt Gun for 42 damage
+Fruit Pie Slice + Squirting Flower + Organic Squirt Gun + Organic Flower Pot for 42 damage
+Fruit Pie Slice + Organic Squirting Flower + Glass of Water + Organic Squirt Gun for 42 damage
+Fruit Pie Slice + Organic Squirting Flower + Organic Glass of Water + Squirt Gun for 42 damage
+Fruit Pie Slice + Organic Squirting Flower + Squirt Gun + Organic Flower Pot for 42 damage
+Fruit Pie Slice + Organic Squirting Flower + Organic Squirt Gun + Flower Pot for 42 damage
+Fruit Pie Slice + Organic Squirting Flower + Seltzer Bottle for 42 damage
+Fruit Pie Slice + Organic Squirting Flower + Organic Flower Pot + Organic Flower Pot for 42 damage
+Fruit Pie Slice + Glass of Water + Organic Glass of Water + Organic Glass of Water for 42 damage
+Fruit Pie Slice + Glass of Water + Organic Glass of Water + Organic Flower Pot for 42 damage
+Fruit Pie Slice + Glass of Water + Flower Pot + Flower Pot for 42 damage
+Fruit Pie Slice + Organic Glass of Water + Organic Glass of Water + Flower Pot for 42 damage
+Fruit Pie Slice + Organic Squirt Gun + Organic Squirt Gun for 42 damage
+Fruit Pie Slice + Organic Squirt Gun + Organic Sandbag for 42 damage
+Fruit Pie Slice + Seltzer Bottle + Organic Flower Pot for 42 damage
+Organic Fruit Pie Slice + Organic Fruit Pie Slice + Squirting Flower + Glass of Water for 42 damage
+Organic Fruit Pie Slice + Organic Fruit Pie Slice + Squirting Flower + Organic Flower Pot for 42 damage
+Organic Fruit Pie Slice + Organic Fruit Pie Slice + Organic Squirting Flower + Flower Pot for 42 damage
+Organic Fruit Pie Slice + Cream Pie Slice + Glass of Water for 42 damage
+Organic Fruit Pie Slice + Squirting Flower + Squirt Gun + Organic Flower Pot for 42 damage
+Organic Fruit Pie Slice + Squirting Flower + Organic Squirt Gun + Flower Pot for 42 damage
+Organic Fruit Pie Slice + Squirting Flower + Organic Flower Pot + Organic Flower Pot for 42 damage
+Organic Fruit Pie Slice + Organic Squirting Flower + Organic Squirting Flower + Organic Sandbag for 42 damage
+Organic Fruit Pie Slice + Organic Squirting Flower + Squirt Gun + Flower Pot for 42 damage
+Organic Fruit Pie Slice + Organic Squirting Flower + Flower Pot + Organic Flower Pot for 42 damage
+Organic Fruit Pie Slice + Glass of Water + Glass of Water + Organic Flower Pot for 42 damage
+Organic Fruit Pie Slice + Glass of Water + Organic Glass of Water + Flower Pot for 42 damage
+Organic Fruit Pie Slice + Squirt Gun + Organic Sandbag for 42 damage
+Organic Fruit Pie Slice + Organic Squirt Gun + Sandbag for 42 damage
+Organic Fruit Pie Slice + Seltzer Bottle + Flower Pot for 42 damage
+Cream Pie Slice + Organic Cream Pie Slice for 42 damage
+Cream Pie Slice + Squirting Flower + Glass of Water + Flower Pot for 42 damage
+Organic Cream Pie Slice + Squirting Flower + Squirting Flower + Squirt Gun for 42 damage
+Organic Cream Pie Slice + Squirting Flower + Glass of Water + Glass of Water for 42 damage
+Organic Cream Pie Slice + Organic Squirting Flower + Organic Sandbag for 42 damage
+Organic Cream Pie Slice + Glass of Water + Squirt Gun for 42 damage
+Organic Cream Pie Slice + Organic Squirt Gun + Organic Flower Pot for 42 damage
+Organic Cream Pie Slice + Flower Pot + Flower Pot for 42 damage
+Whole Fruit Pie + Squirting Flower + Squirting Flower + Squirting Flower for 42 damage
+Whole Fruit Pie + Squirting Flower + Glass of Water for 42 damage
+Whole Fruit Pie + Squirting Flower + Organic Flower Pot for 42 damage
+Whole Fruit Pie + Organic Squirting Flower + Flower Pot for 42 damage
+Organic Whole Fruit Pie + Organic Squirt Gun for 42 damage
+Squirting Flower + Squirting Flower + Squirting Flower + Organic Seltzer Bottle for 42 damage
+Squirting Flower + Squirting Flower + Squirt Gun + Sandbag for 42 damage
+Squirting Flower + Organic Squirting Flower + Organic Squirting Flower + Seltzer Bottle for 42 damage
+Squirting Flower + Organic Squirting Flower + Organic Squirt Gun + Organic Squirt Gun for 42 damage
+Squirting Flower + Glass of Water + Glass of Water + Sandbag for 42 damage
+Squirting Flower + Glass of Water + Organic Seltzer Bottle for 42 damage
+Squirting Flower + Glass of Water + Organic Flower Pot + Organic Flower Pot for 42 damage
+Squirting Flower + Organic Glass of Water + Organic Glass of Water + Organic Squirt Gun for 42 damage
+Squirting Flower + Organic Glass of Water + Organic Squirt Gun + Flower Pot for 42 damage
+Squirting Flower + Organic Glass of Water + Flower Pot + Organic Flower Pot for 42 damage
+Squirting Flower + Flower Pot + Flower Pot + Organic Flower Pot for 42 damage
+Organic Squirting Flower + Organic Squirting Flower + Organic Glass of Water + Organic Sandbag for 42 damage
+Organic Squirting Flower + Organic Squirting Flower + Squirt Gun + Organic Squirt Gun for 42 damage
+Organic Squirting Flower + Organic Squirting Flower + Anvil for 42 damage
+Organic Squirting Flower + Glass of Water + Organic Glass of Water + Organic Squirt Gun for 42 damage
+Organic Squirting Flower + Glass of Water + Organic Squirt Gun + Flower Pot for 42 damage
+Organic Squirting Flower + Glass of Water + Flower Pot + Organic Flower Pot for 42 damage
+Organic Squirting Flower + Organic Glass of Water + Organic Glass of Water + Squirt Gun for 42 damage
+Organic Squirting Flower + Organic Glass of Water + Squirt Gun + Flower Pot for 42 damage
+Organic Squirting Flower + Organic Glass of Water + Seltzer Bottle for 42 damage
+Organic Squirting Flower + Seltzer Bottle + Flower Pot for 42 damage
+Organic Squirting Flower + Fire Hose for 42 damage
+Glass of Water + Organic Glass of Water + Organic Glass of Water + Organic Glass of Water for 42 damage
+Glass of Water + Organic Glass of Water + Organic Glass of Water + Flower Pot for 42 damage
+Glass of Water + Squirt Gun + Sandbag for 42 damage
+Glass of Water + Flower Pot + Sandbag for 42 damage
+Organic Glass of Water + Organic Squirt Gun + Organic Squirt Gun for 42 damage
+Organic Glass of Water + Organic Anvil for 42 damage
+Squirt Gun + Organic Seltzer Bottle for 42 damage
+Squirt Gun + Anvil for 42 damage
+Organic Squirt Gun + Organic Squirt Gun + Flower Pot for 42 damage
+Organic Seltzer Bottle + Organic Sandbag for 42 damage
+(Lured) + Bike Horn + Bike Horn + Bike Horn + Organic Elephant Trunk for 42 damage
+(Lured) + Bike Horn + Bike Horn + Bike Horn + Whole Fruit Pie for 42 damage
+(Lured) + Bike Horn + Bike Horn + Bugle + Aoogah for 42 damage
+(Lured) + Bike Horn + Bike Horn + Bugle + Organic Sandbag for 42 damage
+(Lured) + Bike Horn + Bike Horn + Organic Bugle + Organic Cream Pie Slice for 42 damage
+(Lured) + Bike Horn + Bike Horn + Organic Bugle + Sandbag for 42 damage
+(Lured) + Bike Horn + Bike Horn + Aoogah + Organic Squirt Gun for 42 damage
+(Lured) + Bike Horn + Bike Horn + Organic Aoogah + Squirt Gun for 42 damage
+(Lured) + Bike Horn + Bike Horn + Elephant Trunk + Organic Cupcake for 42 damage
+(Lured) + Bike Horn + Bike Horn + Organic Elephant Trunk + Squirting Flower for 42 damage
+(Lured) + Bike Horn + Bike Horn + Organic Fruit Pie Slice + Seltzer Bottle for 42 damage
+(Lured) + Bike Horn + Bike Horn + Whole Fruit Pie + Organic Squirting Flower for 42 damage
+(Lured) + Bike Horn + Bike Horn + Organic Squirting Flower + Seltzer Bottle for 42 damage
+(Lured) + Bike Horn + Bike Horn + Organic Squirt Gun + Organic Squirt Gun for 42 damage
+(Lured) + Bike Horn + Bike Horn + Organic Squirt Gun + Organic Sandbag for 42 damage
+(Lured) + Bike Horn + Bike Horn + Seltzer Bottle + Organic Flower Pot for 42 damage
+(Lured) + Bike Horn + Organic Bike Horn + Organic Bike Horn + Elephant Trunk for 42 damage
+(Lured) + Bike Horn + Organic Bike Horn + Organic Whistle + Seltzer Bottle for 42 damage
+(Lured) + Bike Horn + Organic Bike Horn + Bugle + Organic Cream Pie Slice for 42 damage
+(Lured) + Bike Horn + Organic Bike Horn + Bugle + Sandbag for 42 damage
+(Lured) + Bike Horn + Organic Bike Horn + Aoogah + Squirt Gun for 42 damage
+(Lured) + Bike Horn + Organic Bike Horn + Organic Aoogah + Fruit Pie Slice for 42 damage
+(Lured) + Bike Horn + Organic Bike Horn + Organic Aoogah + Flower Pot for 42 damage
+(Lured) + Bike Horn + Organic Bike Horn + Elephant Trunk + Cupcake for 42 damage
+(Lured) + Bike Horn + Organic Bike Horn + Fruit Pie Slice + Seltzer Bottle for 42 damage
+(Lured) + Bike Horn + Organic Bike Horn + Organic Cream Pie Slice + Organic Squirt Gun for 42 damage
+(Lured) + Bike Horn + Organic Bike Horn + Whole Fruit Pie + Squirting Flower for 42 damage
+(Lured) + Bike Horn + Organic Bike Horn + Squirt Gun + Organic Sandbag for 42 damage
+(Lured) + Bike Horn + Organic Bike Horn + Organic Squirt Gun + Sandbag for 42 damage
+(Lured) + Bike Horn + Organic Bike Horn + Seltzer Bottle + Flower Pot for 42 damage
+(Lured) + Bike Horn + Whistle + Whistle + Organic Aoogah for 42 damage
+(Lured) + Bike Horn + Whistle + Organic Whistle + Aoogah for 42 damage
+(Lured) + Bike Horn + Whistle + Organic Whistle + Organic Sandbag for 42 damage
+(Lured) + Bike Horn + Whistle + Organic Bugle + Organic Bugle for 42 damage
+(Lured) + Bike Horn + Whistle + Aoogah + Organic Glass of Water for 42 damage
+(Lured) + Bike Horn + Whistle + Organic Aoogah + Glass of Water for 42 damage
+(Lured) + Bike Horn + Whistle + Cupcake + Cream Pie Slice for 42 damage
+(Lured) + Bike Horn + Whistle + Organic Cupcake + Seltzer Bottle for 42 damage
+(Lured) + Bike Horn + Whistle + Fruit Pie Slice + Sandbag for 42 damage
+(Lured) + Bike Horn + Whistle + Cream Pie Slice + Organic Flower Pot for 42 damage
+(Lured) + Bike Horn + Whistle + Organic Cream Pie Slice + Flower Pot for 42 damage
+(Lured) + Bike Horn + Whistle + Organic Glass of Water + Organic Sandbag for 42 damage
+(Lured) + Bike Horn + Organic Whistle + Organic Whistle + Organic Cream Pie Slice for 42 damage
+(Lured) + Bike Horn + Organic Whistle + Organic Whistle + Sandbag for 42 damage
+(Lured) + Bike Horn + Organic Whistle + Bugle + Organic Bugle for 42 damage
+(Lured) + Bike Horn + Organic Whistle + Organic Bugle + Organic Squirt Gun for 42 damage
+(Lured) + Bike Horn + Organic Whistle + Aoogah + Glass of Water for 42 damage
+(Lured) + Bike Horn + Organic Whistle + Organic Aoogah + Organic Cupcake for 42 damage
+(Lured) + Bike Horn + Organic Whistle + Organic Elephant Trunk for 42 damage
+(Lured) + Bike Horn + Organic Whistle + Cupcake + Seltzer Bottle for 42 damage
+(Lured) + Bike Horn + Organic Whistle + Organic Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+(Lured) + Bike Horn + Organic Whistle + Cream Pie Slice + Flower Pot for 42 damage
+(Lured) + Bike Horn + Organic Whistle + Organic Cream Pie Slice + Organic Glass of Water for 42 damage
+(Lured) + Bike Horn + Organic Whistle + Whole Fruit Pie for 42 damage
+(Lured) + Bike Horn + Organic Whistle + Glass of Water + Organic Sandbag for 42 damage
+(Lured) + Bike Horn + Organic Whistle + Organic Glass of Water + Organic Squirt Gun for 42 damage
+(Lured) + Bike Horn + Organic Whistle + Organic Glass of Water + Sandbag for 42 damage
+(Lured) + Bike Horn + Organic Whistle + Organic Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Bike Horn + Bugle + Bugle + Fruit Pie Slice for 42 damage
+(Lured) + Bike Horn + Bugle + Bugle + Flower Pot for 42 damage
+(Lured) + Bike Horn + Bugle + Organic Bugle + Organic Glass of Water for 42 damage
+(Lured) + Bike Horn + Bugle + Aoogah + Squirting Flower for 42 damage
+(Lured) + Bike Horn + Bugle + Cupcake + Sandbag for 42 damage
+(Lured) + Bike Horn + Bugle + Fruit Pie Slice + Fruit Pie Slice for 42 damage
+(Lured) + Bike Horn + Bugle + Organic Fruit Pie Slice + Organic Squirt Gun for 42 damage
+(Lured) + Bike Horn + Bugle + Organic Squirting Flower + Organic Sandbag for 42 damage
+(Lured) + Bike Horn + Bugle + Glass of Water + Squirt Gun for 42 damage
+(Lured) + Bike Horn + Bugle + Organic Squirt Gun + Organic Flower Pot for 42 damage
+(Lured) + Bike Horn + Bugle + Flower Pot + Flower Pot for 42 damage
+(Lured) + Bike Horn + Organic Bugle + Organic Bugle + Glass of Water for 42 damage
+(Lured) + Bike Horn + Organic Bugle + Organic Cupcake + Organic Fruit Pie Slice for 42 damage
+(Lured) + Bike Horn + Organic Bugle + Fruit Pie Slice + Squirt Gun for 42 damage
+(Lured) + Bike Horn + Organic Bugle + Organic Fruit Pie Slice + Organic Flower Pot for 42 damage
+(Lured) + Bike Horn + Organic Bugle + Cream Pie Slice + Organic Squirting Flower for 42 damage
+(Lured) + Bike Horn + Organic Bugle + Organic Cream Pie Slice + Squirting Flower for 42 damage
+(Lured) + Bike Horn + Organic Bugle + Squirting Flower + Sandbag for 42 damage
+(Lured) + Bike Horn + Organic Bugle + Organic Squirting Flower + Organic Squirt Gun for 42 damage
+(Lured) + Bike Horn + Organic Bugle + Organic Glass of Water + Organic Glass of Water for 42 damage
+(Lured) + Bike Horn + Organic Bugle + Squirt Gun + Flower Pot for 42 damage
+(Lured) + Bike Horn + Aoogah + Cupcake + Squirt Gun for 42 damage
+(Lured) + Bike Horn + Aoogah + Organic Cupcake + Organic Flower Pot for 42 damage
+(Lured) + Bike Horn + Aoogah + Fruit Pie Slice + Glass of Water for 42 damage
+(Lured) + Bike Horn + Aoogah + Organic Cream Pie Slice for 42 damage
+(Lured) + Bike Horn + Aoogah + Glass of Water + Flower Pot for 42 damage
+(Lured) + Bike Horn + Aoogah + Sandbag for 42 damage
+(Lured) + Bike Horn + Organic Aoogah + Cupcake + Organic Cupcake for 42 damage
+(Lured) + Bike Horn + Organic Aoogah + Cupcake + Flower Pot for 42 damage
+(Lured) + Bike Horn + Organic Aoogah + Organic Cupcake + Organic Glass of Water for 42 damage
+(Lured) + Bike Horn + Organic Aoogah + Organic Fruit Pie Slice + Organic Squirting Flower for 42 damage
+(Lured) + Bike Horn + Organic Aoogah + Squirting Flower + Organic Glass of Water for 42 damage
+(Lured) + Bike Horn + Organic Aoogah + Organic Squirting Flower + Glass of Water for 42 damage
+(Lured) + Bike Horn + Organic Aoogah + Organic Squirting Flower + Organic Flower Pot for 42 damage
+(Lured) + Bike Horn + Elephant Trunk + Organic Cupcake + Organic Squirting Flower for 42 damage
+(Lured) + Bike Horn + Elephant Trunk + Organic Squirting Flower + Organic Squirting Flower for 42 damage
+(Lured) + Bike Horn + Elephant Trunk + Squirt Gun for 42 damage
+(Lured) + Bike Horn + Organic Elephant Trunk + Organic Glass of Water for 42 damage
+(Lured) + Bike Horn + Cupcake + Cupcake + Organic Seltzer Bottle for 42 damage
+(Lured) + Bike Horn + Cupcake + Organic Cupcake + Organic Cream Pie Slice for 42 damage
+(Lured) + Bike Horn + Cupcake + Fruit Pie Slice + Sandbag for 42 damage
+(Lured) + Bike Horn + Cupcake + Cream Pie Slice + Flower Pot for 42 damage
+(Lured) + Bike Horn + Cupcake + Organic Cream Pie Slice + Organic Glass of Water for 42 damage
+(Lured) + Bike Horn + Cupcake + Organic Squirting Flower + Seltzer Bottle for 42 damage
+(Lured) + Bike Horn + Cupcake + Organic Squirt Gun + Organic Squirt Gun for 42 damage
+(Lured) + Bike Horn + Cupcake + Organic Squirt Gun + Organic Sandbag for 42 damage
+(Lured) + Bike Horn + Cupcake + Seltzer Bottle + Organic Flower Pot for 42 damage
+(Lured) + Bike Horn + Organic Cupcake + Organic Cupcake + Cream Pie Slice for 42 damage
+(Lured) + Bike Horn + Organic Cupcake + Organic Cupcake + Seltzer Bottle for 42 damage
+(Lured) + Bike Horn + Organic Cupcake + Cream Pie Slice + Organic Glass of Water for 42 damage
+(Lured) + Bike Horn + Organic Cupcake + Organic Cream Pie Slice + Glass of Water for 42 damage
+(Lured) + Bike Horn + Organic Cupcake + Squirt Gun + Organic Sandbag for 42 damage
+(Lured) + Bike Horn + Organic Cupcake + Organic Squirt Gun + Sandbag for 42 damage
+(Lured) + Bike Horn + Organic Cupcake + Seltzer Bottle + Flower Pot for 42 damage
+(Lured) + Bike Horn + Fruit Pie Slice + Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+(Lured) + Bike Horn + Fruit Pie Slice + Organic Fruit Pie Slice + Squirt Gun for 42 damage
+(Lured) + Bike Horn + Fruit Pie Slice + Cream Pie Slice + Organic Squirting Flower for 42 damage
+(Lured) + Bike Horn + Fruit Pie Slice + Organic Cream Pie Slice + Squirting Flower for 42 damage
+(Lured) + Bike Horn + Fruit Pie Slice + Organic Glass of Water + Organic Sandbag for 42 damage
+(Lured) + Bike Horn + Organic Fruit Pie Slice + Organic Fruit Pie Slice + Organic Flower Pot for 42 damage
+(Lured) + Bike Horn + Organic Fruit Pie Slice + Cream Pie Slice + Squirting Flower for 42 damage
+(Lured) + Bike Horn + Organic Fruit Pie Slice + Glass of Water + Organic Sandbag for 42 damage
+(Lured) + Bike Horn + Organic Fruit Pie Slice + Organic Glass of Water + Organic Squirt Gun for 42 damage
+(Lured) + Bike Horn + Organic Fruit Pie Slice + Organic Glass of Water + Sandbag for 42 damage
+(Lured) + Bike Horn + Organic Fruit Pie Slice + Organic Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Bike Horn + Cream Pie Slice + Squirting Flower + Organic Squirt Gun for 42 damage
+(Lured) + Bike Horn + Cream Pie Slice + Organic Squirting Flower + Squirt Gun for 42 damage
+(Lured) + Bike Horn + Cream Pie Slice + Glass of Water + Organic Glass of Water for 42 damage
+(Lured) + Bike Horn + Cream Pie Slice + Seltzer Bottle for 42 damage
+(Lured) + Bike Horn + Organic Cream Pie Slice + Squirting Flower + Squirt Gun for 42 damage
+(Lured) + Bike Horn + Organic Cream Pie Slice + Glass of Water + Glass of Water for 42 damage
+(Lured) + Bike Horn + Organic Cream Pie Slice + Organic Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Bike Horn + Whole Fruit Pie + Squirting Flower + Organic Squirting Flower for 42 damage
+(Lured) + Bike Horn + Whole Fruit Pie + Organic Flower Pot for 42 damage
+(Lured) + Bike Horn + Organic Whole Fruit Pie + Organic Glass of Water for 42 damage
+(Lured) + Bike Horn + Squirting Flower + Squirting Flower + Organic Seltzer Bottle for 42 damage
+(Lured) + Bike Horn + Squirting Flower + Squirt Gun + Sandbag for 42 damage
+(Lured) + Bike Horn + Squirting Flower + Flower Pot + Sandbag for 42 damage
+(Lured) + Bike Horn + Organic Squirting Flower + Organic Squirting Flower + Seltzer Bottle for 42 damage
+(Lured) + Bike Horn + Organic Squirting Flower + Organic Squirt Gun + Organic Squirt Gun for 42 damage
+(Lured) + Bike Horn + Organic Squirting Flower + Organic Anvil for 42 damage
+(Lured) + Bike Horn + Glass of Water + Glass of Water + Sandbag for 42 damage
+(Lured) + Bike Horn + Glass of Water + Organic Seltzer Bottle for 42 damage
+(Lured) + Bike Horn + Glass of Water + Anvil for 42 damage
+(Lured) + Bike Horn + Organic Glass of Water + Organic Glass of Water + Organic Squirt Gun for 42 damage
+(Lured) + Bike Horn + Organic Glass of Water + Organic Squirt Gun + Organic Flower Pot for 42 damage
+(Lured) + Bike Horn + Squirt Gun + Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Bike Horn + Flower Pot + Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn + Whistle + Seltzer Bottle for 42 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn + Organic Whistle + Organic Aoogah for 42 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn + Aoogah + Fruit Pie Slice for 42 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn + Aoogah + Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn + Organic Aoogah + Organic Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn + Elephant Trunk + Squirting Flower for 42 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn + Organic Cupcake + Organic Cream Pie Slice for 42 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn + Organic Cupcake + Organic Seltzer Bottle for 42 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn + Organic Fruit Pie Slice + Organic Sandbag for 42 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn + Cream Pie Slice + Organic Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn + Organic Cream Pie Slice + Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn + Squirting Flower + Seltzer Bottle for 42 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn + Squirt Gun + Organic Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn + Squirt Gun + Sandbag for 42 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn + Fire Hose for 42 damage
+(Lured) + Organic Bike Horn + Organic Bike Horn + Anvil for 42 damage
+(Lured) + Organic Bike Horn + Whistle + Whistle + Aoogah for 42 damage
+(Lured) + Organic Bike Horn + Whistle + Whistle + Organic Sandbag for 42 damage
+(Lured) + Organic Bike Horn + Whistle + Organic Whistle + Organic Cream Pie Slice for 42 damage
+(Lured) + Organic Bike Horn + Whistle + Organic Whistle + Sandbag for 42 damage
+(Lured) + Organic Bike Horn + Whistle + Bugle + Organic Bugle for 42 damage
+(Lured) + Organic Bike Horn + Whistle + Organic Bugle + Organic Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Whistle + Aoogah + Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Whistle + Organic Aoogah + Organic Cupcake for 42 damage
+(Lured) + Organic Bike Horn + Whistle + Organic Elephant Trunk for 42 damage
+(Lured) + Organic Bike Horn + Whistle + Cupcake + Seltzer Bottle for 42 damage
+(Lured) + Organic Bike Horn + Whistle + Organic Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+(Lured) + Organic Bike Horn + Whistle + Cream Pie Slice + Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Whistle + Organic Cream Pie Slice + Organic Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Whistle + Whole Fruit Pie for 42 damage
+(Lured) + Organic Bike Horn + Whistle + Glass of Water + Organic Sandbag for 42 damage
+(Lured) + Organic Bike Horn + Whistle + Organic Glass of Water + Organic Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Whistle + Organic Glass of Water + Sandbag for 42 damage
+(Lured) + Organic Bike Horn + Whistle + Organic Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Whistle + Bugle + Bugle for 42 damage
+(Lured) + Organic Bike Horn + Organic Whistle + Bugle + Organic Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Organic Whistle + Organic Bugle + Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Organic Whistle + Aoogah + Organic Cupcake for 42 damage
+(Lured) + Organic Bike Horn + Organic Whistle + Organic Aoogah + Cupcake for 42 damage
+(Lured) + Organic Bike Horn + Organic Whistle + Organic Cupcake + Organic Sandbag for 42 damage
+(Lured) + Organic Bike Horn + Organic Whistle + Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+(Lured) + Organic Bike Horn + Organic Whistle + Cream Pie Slice + Organic Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Organic Whistle + Organic Cream Pie Slice + Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Organic Whistle + Glass of Water + Organic Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Organic Whistle + Glass of Water + Sandbag for 42 damage
+(Lured) + Organic Bike Horn + Organic Whistle + Organic Glass of Water + Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Organic Whistle + Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Bugle + Bugle + Organic Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Bugle + Organic Bugle + Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Bugle + Organic Cupcake + Organic Fruit Pie Slice for 42 damage
+(Lured) + Organic Bike Horn + Bugle + Fruit Pie Slice + Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Bugle + Organic Fruit Pie Slice + Organic Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Bugle + Cream Pie Slice + Organic Squirting Flower for 42 damage
+(Lured) + Organic Bike Horn + Bugle + Organic Cream Pie Slice + Squirting Flower for 42 damage
+(Lured) + Organic Bike Horn + Bugle + Squirting Flower + Sandbag for 42 damage
+(Lured) + Organic Bike Horn + Bugle + Organic Squirting Flower + Organic Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Bugle + Organic Glass of Water + Organic Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Bugle + Squirt Gun + Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Bugle + Organic Bugle + Organic Cupcake for 42 damage
+(Lured) + Organic Bike Horn + Organic Bugle + Cupcake + Organic Fruit Pie Slice for 42 damage
+(Lured) + Organic Bike Horn + Organic Bugle + Organic Cupcake + Fruit Pie Slice for 42 damage
+(Lured) + Organic Bike Horn + Organic Bugle + Fruit Pie Slice + Organic Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Bugle + Organic Fruit Pie Slice + Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Bugle + Cream Pie Slice + Squirting Flower for 42 damage
+(Lured) + Organic Bike Horn + Organic Bugle + Squirting Flower + Organic Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Organic Bugle + Organic Squirting Flower + Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Organic Bugle + Glass of Water + Organic Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Organic Bugle + Seltzer Bottle for 42 damage
+(Lured) + Organic Bike Horn + Aoogah + Cupcake + Organic Cupcake for 42 damage
+(Lured) + Organic Bike Horn + Aoogah + Cupcake + Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Aoogah + Organic Cupcake + Organic Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Aoogah + Organic Fruit Pie Slice + Organic Squirting Flower for 42 damage
+(Lured) + Organic Bike Horn + Aoogah + Squirting Flower + Organic Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Aoogah + Organic Squirting Flower + Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Aoogah + Organic Squirting Flower + Organic Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Aoogah + Cupcake + Cupcake for 42 damage
+(Lured) + Organic Bike Horn + Organic Aoogah + Cupcake + Organic Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Organic Aoogah + Organic Cupcake + Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Organic Aoogah + Fruit Pie Slice + Organic Squirting Flower for 42 damage
+(Lured) + Organic Bike Horn + Organic Aoogah + Organic Fruit Pie Slice + Squirting Flower for 42 damage
+(Lured) + Organic Bike Horn + Organic Aoogah + Squirting Flower + Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Organic Aoogah + Squirting Flower + Organic Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Aoogah + Organic Squirting Flower + Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Elephant Trunk + Cupcake + Squirting Flower for 42 damage
+(Lured) + Organic Bike Horn + Elephant Trunk + Fruit Pie Slice for 42 damage
+(Lured) + Organic Bike Horn + Elephant Trunk + Squirting Flower + Squirting Flower for 42 damage
+(Lured) + Organic Bike Horn + Elephant Trunk + Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Elephant Trunk + Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Cupcake + Organic Cupcake + Seltzer Bottle for 42 damage
+(Lured) + Organic Bike Horn + Cupcake + Cream Pie Slice + Organic Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Cupcake + Organic Cream Pie Slice + Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Cupcake + Squirt Gun + Organic Sandbag for 42 damage
+(Lured) + Organic Bike Horn + Cupcake + Organic Squirt Gun + Sandbag for 42 damage
+(Lured) + Organic Bike Horn + Cupcake + Seltzer Bottle + Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Cupcake + Cream Pie Slice + Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Organic Cupcake + Squirting Flower + Seltzer Bottle for 42 damage
+(Lured) + Organic Bike Horn + Organic Cupcake + Squirt Gun + Organic Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Organic Cupcake + Squirt Gun + Sandbag for 42 damage
+(Lured) + Organic Bike Horn + Organic Cupcake + Fire Hose for 42 damage
+(Lured) + Organic Bike Horn + Organic Cupcake + Anvil for 42 damage
+(Lured) + Organic Bike Horn + Fruit Pie Slice + Fruit Pie Slice + Organic Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Fruit Pie Slice + Organic Fruit Pie Slice + Organic Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Fruit Pie Slice + Cream Pie Slice + Squirting Flower for 42 damage
+(Lured) + Organic Bike Horn + Fruit Pie Slice + Glass of Water + Organic Sandbag for 42 damage
+(Lured) + Organic Bike Horn + Fruit Pie Slice + Organic Glass of Water + Organic Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Fruit Pie Slice + Organic Glass of Water + Sandbag for 42 damage
+(Lured) + Organic Bike Horn + Fruit Pie Slice + Organic Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Fruit Pie Slice + Organic Fruit Pie Slice + Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Fruit Pie Slice + Glass of Water + Organic Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Organic Fruit Pie Slice + Glass of Water + Sandbag for 42 damage
+(Lured) + Organic Bike Horn + Organic Fruit Pie Slice + Organic Glass of Water + Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Organic Fruit Pie Slice + Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Cream Pie Slice + Squirting Flower + Squirt Gun for 42 damage
+(Lured) + Organic Bike Horn + Cream Pie Slice + Glass of Water + Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Cream Pie Slice + Organic Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Cream Pie Slice + Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Cream Pie Slice + Organic Glass of Water + Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Cream Pie Slice + Organic Sandbag for 42 damage
+(Lured) + Organic Bike Horn + Whole Fruit Pie + Squirting Flower + Squirting Flower for 42 damage
+(Lured) + Organic Bike Horn + Whole Fruit Pie + Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Whole Fruit Pie + Glass of Water for 42 damage
+(Lured) + Organic Bike Horn + Squirting Flower + Organic Anvil for 42 damage
+(Lured) + Organic Bike Horn + Glass of Water + Organic Squirt Gun + Organic Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Glass of Water + Squirt Gun + Organic Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Glass of Water + Organic Squirt Gun + Flower Pot for 42 damage
+(Lured) + Organic Bike Horn + Organic Squirt Gun + Flower Pot + Flower Pot for 42 damage
+(Lured) + Whistle + Whistle + Bugle + Squirt Gun for 42 damage
+(Lured) + Whistle + Whistle + Organic Bugle + Fruit Pie Slice for 42 damage
+(Lured) + Whistle + Whistle + Organic Bugle + Flower Pot for 42 damage
+(Lured) + Whistle + Whistle + Aoogah + Cupcake for 42 damage
+(Lured) + Whistle + Whistle + Organic Aoogah + Squirting Flower for 42 damage
+(Lured) + Whistle + Whistle + Elephant Trunk for 42 damage
+(Lured) + Whistle + Whistle + Cupcake + Organic Sandbag for 42 damage
+(Lured) + Whistle + Whistle + Organic Cupcake + Sandbag for 42 damage
+(Lured) + Whistle + Whistle + Cream Pie Slice + Glass of Water for 42 damage
+(Lured) + Whistle + Organic Whistle + Organic Whistle + Organic Bugle for 42 damage
+(Lured) + Whistle + Organic Whistle + Bugle + Fruit Pie Slice for 42 damage
+(Lured) + Whistle + Organic Whistle + Bugle + Flower Pot for 42 damage
+(Lured) + Whistle + Organic Whistle + Organic Bugle + Organic Glass of Water for 42 damage
+(Lured) + Whistle + Organic Whistle + Aoogah + Squirting Flower for 42 damage
+(Lured) + Whistle + Organic Whistle + Cupcake + Sandbag for 42 damage
+(Lured) + Whistle + Organic Whistle + Fruit Pie Slice + Fruit Pie Slice for 42 damage
+(Lured) + Whistle + Organic Whistle + Organic Fruit Pie Slice + Organic Squirt Gun for 42 damage
+(Lured) + Whistle + Organic Whistle + Organic Squirting Flower + Organic Sandbag for 42 damage
+(Lured) + Whistle + Organic Whistle + Glass of Water + Squirt Gun for 42 damage
+(Lured) + Whistle + Organic Whistle + Organic Squirt Gun + Organic Flower Pot for 42 damage
+(Lured) + Whistle + Organic Whistle + Flower Pot + Flower Pot for 42 damage
+(Lured) + Whistle + Bugle + Bugle + Organic Cupcake for 42 damage
+(Lured) + Whistle + Bugle + Organic Bugle + Cupcake for 42 damage
+(Lured) + Whistle + Bugle + Organic Aoogah for 42 damage
+(Lured) + Whistle + Bugle + Cupcake + Fruit Pie Slice for 42 damage
+(Lured) + Whistle + Bugle + Organic Cupcake + Organic Squirt Gun for 42 damage
+(Lured) + Whistle + Bugle + Fruit Pie Slice + Flower Pot for 42 damage
+(Lured) + Whistle + Bugle + Organic Fruit Pie Slice + Organic Glass of Water for 42 damage
+(Lured) + Whistle + Bugle + Squirting Flower + Squirt Gun for 42 damage
+(Lured) + Whistle + Bugle + Glass of Water + Glass of Water for 42 damage
+(Lured) + Whistle + Bugle + Organic Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Whistle + Organic Bugle + Organic Bugle + Squirting Flower for 42 damage
+(Lured) + Whistle + Organic Bugle + Aoogah for 42 damage
+(Lured) + Whistle + Organic Bugle + Cupcake + Organic Squirt Gun for 42 damage
+(Lured) + Whistle + Organic Bugle + Organic Cupcake + Squirt Gun for 42 damage
+(Lured) + Whistle + Organic Bugle + Fruit Pie Slice + Organic Glass of Water for 42 damage
+(Lured) + Whistle + Organic Bugle + Organic Fruit Pie Slice + Glass of Water for 42 damage
+(Lured) + Whistle + Organic Bugle + Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Whistle + Organic Bugle + Organic Glass of Water + Flower Pot for 42 damage
+(Lured) + Whistle + Organic Bugle + Organic Sandbag for 42 damage
+(Lured) + Whistle + Aoogah + Cupcake + Glass of Water for 42 damage
+(Lured) + Whistle + Aoogah + Fruit Pie Slice + Squirting Flower for 42 damage
+(Lured) + Whistle + Aoogah + Squirting Flower + Flower Pot for 42 damage
+(Lured) + Whistle + Organic Aoogah + Organic Squirt Gun for 42 damage
+(Lured) + Whistle + Elephant Trunk + Glass of Water for 42 damage
+(Lured) + Whistle + Organic Elephant Trunk + Cupcake for 42 damage
+(Lured) + Whistle + Cupcake + Cupcake + Cream Pie Slice for 42 damage
+(Lured) + Whistle + Cupcake + Organic Cupcake + Organic Sandbag for 42 damage
+(Lured) + Whistle + Cupcake + Squirt Gun + Squirt Gun for 42 damage
+(Lured) + Whistle + Organic Cupcake + Organic Cupcake + Sandbag for 42 damage
+(Lured) + Whistle + Organic Cupcake + Organic Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+(Lured) + Whistle + Organic Cupcake + Organic Fruit Pie Slice + Organic Squirt Gun for 42 damage
+(Lured) + Whistle + Organic Cupcake + Organic Cream Pie Slice + Organic Squirting Flower for 42 damage
+(Lured) + Whistle + Organic Cupcake + Organic Glass of Water + Organic Sandbag for 42 damage
+(Lured) + Whistle + Fruit Pie Slice + Fruit Pie Slice + Organic Flower Pot for 42 damage
+(Lured) + Whistle + Fruit Pie Slice + Organic Fruit Pie Slice + Organic Glass of Water for 42 damage
+(Lured) + Whistle + Organic Fruit Pie Slice + Organic Fruit Pie Slice + Glass of Water for 42 damage
+(Lured) + Whistle + Organic Fruit Pie Slice + Organic Cream Pie Slice for 42 damage
+(Lured) + Whistle + Organic Fruit Pie Slice + Organic Squirting Flower + Organic Sandbag for 42 damage
+(Lured) + Whistle + Organic Fruit Pie Slice + Glass of Water + Squirt Gun for 42 damage
+(Lured) + Whistle + Organic Fruit Pie Slice + Organic Squirt Gun + Organic Flower Pot for 42 damage
+(Lured) + Whistle + Organic Fruit Pie Slice + Flower Pot + Flower Pot for 42 damage
+(Lured) + Whistle + Cream Pie Slice + Glass of Water + Flower Pot for 42 damage
+(Lured) + Whistle + Cream Pie Slice + Sandbag for 42 damage
+(Lured) + Whistle + Organic Cream Pie Slice + Organic Squirting Flower + Organic Glass of Water for 42 damage
+(Lured) + Whistle + Whole Fruit Pie + Glass of Water for 42 damage
+(Lured) + Whistle + Squirting Flower + Squirting Flower + Seltzer Bottle for 42 damage
+(Lured) + Whistle + Squirting Flower + Organic Glass of Water + Organic Sandbag for 42 damage
+(Lured) + Whistle + Squirting Flower + Squirt Gun + Organic Squirt Gun for 42 damage
+(Lured) + Whistle + Organic Squirting Flower + Glass of Water + Organic Sandbag for 42 damage
+(Lured) + Whistle + Organic Squirting Flower + Organic Glass of Water + Sandbag for 42 damage
+(Lured) + Whistle + Organic Squirting Flower + Squirt Gun + Squirt Gun for 42 damage
+(Lured) + Whistle + Organic Squirting Flower + Anvil for 42 damage
+(Lured) + Whistle + Glass of Water + Glass of Water + Organic Squirt Gun for 42 damage
+(Lured) + Whistle + Glass of Water + Organic Glass of Water + Squirt Gun for 42 damage
+(Lured) + Whistle + Glass of Water + Squirt Gun + Organic Flower Pot for 42 damage
+(Lured) + Whistle + Glass of Water + Seltzer Bottle for 42 damage
+(Lured) + Whistle + Glass of Water + Organic Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Whistle + Organic Glass of Water + Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Whistle + Flower Pot + Organic Sandbag for 42 damage
+(Lured) + Whistle + Organic Flower Pot + Sandbag for 42 damage
+(Lured) + Organic Whistle + Organic Whistle + Organic Whistle + Bugle for 42 damage
+(Lured) + Organic Whistle + Organic Whistle + Organic Whistle + Organic Squirt Gun for 42 damage
+(Lured) + Organic Whistle + Organic Whistle + Bugle + Organic Glass of Water for 42 damage
+(Lured) + Organic Whistle + Organic Whistle + Organic Bugle + Glass of Water for 42 damage
+(Lured) + Organic Whistle + Organic Whistle + Organic Cupcake + Organic Fruit Pie Slice for 42 damage
+(Lured) + Organic Whistle + Organic Whistle + Fruit Pie Slice + Squirt Gun for 42 damage
+(Lured) + Organic Whistle + Organic Whistle + Organic Fruit Pie Slice + Organic Flower Pot for 42 damage
+(Lured) + Organic Whistle + Organic Whistle + Cream Pie Slice + Organic Squirting Flower for 42 damage
+(Lured) + Organic Whistle + Organic Whistle + Organic Cream Pie Slice + Squirting Flower for 42 damage
+(Lured) + Organic Whistle + Organic Whistle + Squirting Flower + Sandbag for 42 damage
+(Lured) + Organic Whistle + Organic Whistle + Organic Squirting Flower + Organic Squirt Gun for 42 damage
+(Lured) + Organic Whistle + Organic Whistle + Organic Glass of Water + Organic Glass of Water for 42 damage
+(Lured) + Organic Whistle + Organic Whistle + Squirt Gun + Flower Pot for 42 damage
+(Lured) + Organic Whistle + Bugle + Bugle + Cupcake for 42 damage
+(Lured) + Organic Whistle + Bugle + Organic Bugle + Squirting Flower for 42 damage
+(Lured) + Organic Whistle + Bugle + Aoogah for 42 damage
+(Lured) + Organic Whistle + Bugle + Cupcake + Organic Squirt Gun for 42 damage
+(Lured) + Organic Whistle + Bugle + Organic Cupcake + Squirt Gun for 42 damage
+(Lured) + Organic Whistle + Bugle + Fruit Pie Slice + Organic Glass of Water for 42 damage
+(Lured) + Organic Whistle + Bugle + Organic Fruit Pie Slice + Glass of Water for 42 damage
+(Lured) + Organic Whistle + Bugle + Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Organic Whistle + Bugle + Organic Glass of Water + Flower Pot for 42 damage
+(Lured) + Organic Whistle + Bugle + Organic Sandbag for 42 damage
+(Lured) + Organic Whistle + Organic Bugle + Cupcake + Squirt Gun for 42 damage
+(Lured) + Organic Whistle + Organic Bugle + Organic Cupcake + Organic Flower Pot for 42 damage
+(Lured) + Organic Whistle + Organic Bugle + Fruit Pie Slice + Glass of Water for 42 damage
+(Lured) + Organic Whistle + Organic Bugle + Organic Cream Pie Slice for 42 damage
+(Lured) + Organic Whistle + Organic Bugle + Glass of Water + Flower Pot for 42 damage
+(Lured) + Organic Whistle + Organic Bugle + Sandbag for 42 damage
+(Lured) + Organic Whistle + Aoogah + Organic Squirt Gun for 42 damage
+(Lured) + Organic Whistle + Organic Aoogah + Organic Cupcake + Organic Squirting Flower for 42 damage
+(Lured) + Organic Whistle + Organic Aoogah + Organic Squirting Flower + Organic Squirting Flower for 42 damage
+(Lured) + Organic Whistle + Organic Aoogah + Squirt Gun for 42 damage
+(Lured) + Organic Whistle + Elephant Trunk + Organic Cupcake for 42 damage
+(Lured) + Organic Whistle + Organic Elephant Trunk + Squirting Flower for 42 damage
+(Lured) + Organic Whistle + Cupcake + Cupcake + Organic Sandbag for 42 damage
+(Lured) + Organic Whistle + Cupcake + Organic Cupcake + Sandbag for 42 damage
+(Lured) + Organic Whistle + Cupcake + Organic Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+(Lured) + Organic Whistle + Cupcake + Organic Fruit Pie Slice + Organic Squirt Gun for 42 damage
+(Lured) + Organic Whistle + Cupcake + Organic Cream Pie Slice + Organic Squirting Flower for 42 damage
+(Lured) + Organic Whistle + Cupcake + Organic Glass of Water + Organic Sandbag for 42 damage
+(Lured) + Organic Whistle + Organic Cupcake + Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+(Lured) + Organic Whistle + Organic Cupcake + Fruit Pie Slice + Organic Squirt Gun for 42 damage
+(Lured) + Organic Whistle + Organic Cupcake + Organic Fruit Pie Slice + Squirt Gun for 42 damage
+(Lured) + Organic Whistle + Organic Cupcake + Cream Pie Slice + Organic Squirting Flower for 42 damage
+(Lured) + Organic Whistle + Organic Cupcake + Organic Cream Pie Slice + Squirting Flower for 42 damage
+(Lured) + Organic Whistle + Organic Cupcake + Glass of Water + Organic Sandbag for 42 damage
+(Lured) + Organic Whistle + Organic Cupcake + Organic Glass of Water + Organic Squirt Gun for 42 damage
+(Lured) + Organic Whistle + Organic Cupcake + Organic Glass of Water + Sandbag for 42 damage
+(Lured) + Organic Whistle + Organic Cupcake + Organic Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Organic Whistle + Fruit Pie Slice + Fruit Pie Slice + Flower Pot for 42 damage
+(Lured) + Organic Whistle + Fruit Pie Slice + Organic Fruit Pie Slice + Glass of Water for 42 damage
+(Lured) + Organic Whistle + Fruit Pie Slice + Organic Cream Pie Slice for 42 damage
+(Lured) + Organic Whistle + Fruit Pie Slice + Organic Squirting Flower + Organic Sandbag for 42 damage
+(Lured) + Organic Whistle + Fruit Pie Slice + Glass of Water + Squirt Gun for 42 damage
+(Lured) + Organic Whistle + Fruit Pie Slice + Organic Squirt Gun + Organic Flower Pot for 42 damage
+(Lured) + Organic Whistle + Fruit Pie Slice + Flower Pot + Flower Pot for 42 damage
+(Lured) + Organic Whistle + Organic Fruit Pie Slice + Cream Pie Slice for 42 damage
+(Lured) + Organic Whistle + Organic Fruit Pie Slice + Squirting Flower + Organic Sandbag for 42 damage
+(Lured) + Organic Whistle + Organic Fruit Pie Slice + Organic Squirting Flower + Sandbag for 42 damage
+(Lured) + Organic Whistle + Organic Fruit Pie Slice + Squirt Gun + Organic Flower Pot for 42 damage
+(Lured) + Organic Whistle + Organic Fruit Pie Slice + Organic Squirt Gun + Flower Pot for 42 damage
+(Lured) + Organic Whistle + Organic Fruit Pie Slice + Organic Seltzer Bottle for 42 damage
+(Lured) + Organic Whistle + Cream Pie Slice + Organic Squirting Flower + Organic Glass of Water for 42 damage
+(Lured) + Organic Whistle + Organic Cream Pie Slice + Squirting Flower + Organic Glass of Water for 42 damage
+(Lured) + Organic Whistle + Organic Cream Pie Slice + Organic Squirting Flower + Glass of Water for 42 damage
+(Lured) + Organic Whistle + Organic Cream Pie Slice + Organic Squirting Flower + Organic Flower Pot for 42 damage
+(Lured) + Organic Whistle + Organic Whole Fruit Pie + Organic Squirting Flower for 42 damage
+(Lured) + Organic Whistle + Squirting Flower + Glass of Water + Organic Sandbag for 42 damage
+(Lured) + Organic Whistle + Squirting Flower + Organic Glass of Water + Sandbag for 42 damage
+(Lured) + Organic Whistle + Squirting Flower + Squirt Gun + Squirt Gun for 42 damage
+(Lured) + Organic Whistle + Squirting Flower + Anvil for 42 damage
+(Lured) + Organic Whistle + Organic Squirting Flower + Glass of Water + Sandbag for 42 damage
+(Lured) + Organic Whistle + Organic Squirting Flower + Organic Seltzer Bottle for 42 damage
+(Lured) + Organic Whistle + Glass of Water + Glass of Water + Squirt Gun for 42 damage
+(Lured) + Organic Whistle + Glass of Water + Squirt Gun + Flower Pot for 42 damage
+(Lured) + Organic Whistle + Glass of Water + Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Organic Whistle + Organic Seltzer Bottle + Organic Flower Pot for 42 damage
+(Lured) + Organic Whistle + Flower Pot + Sandbag for 42 damage
+(Lured) + Bugle + Bugle + Cupcake + Cupcake for 42 damage
+(Lured) + Bugle + Bugle + Cupcake + Organic Glass of Water for 42 damage
+(Lured) + Bugle + Bugle + Organic Cupcake + Glass of Water for 42 damage
+(Lured) + Bugle + Bugle + Fruit Pie Slice + Organic Squirting Flower for 42 damage
+(Lured) + Bugle + Bugle + Organic Fruit Pie Slice + Squirting Flower for 42 damage
+(Lured) + Bugle + Bugle + Squirting Flower + Glass of Water for 42 damage
+(Lured) + Bugle + Bugle + Squirting Flower + Organic Flower Pot for 42 damage
+(Lured) + Bugle + Bugle + Organic Squirting Flower + Flower Pot for 42 damage
+(Lured) + Bugle + Organic Bugle + Organic Bugle for 42 damage
+(Lured) + Bugle + Organic Bugle + Cupcake + Glass of Water for 42 damage
+(Lured) + Bugle + Organic Bugle + Fruit Pie Slice + Squirting Flower for 42 damage
+(Lured) + Bugle + Organic Bugle + Squirting Flower + Flower Pot for 42 damage
+(Lured) + Bugle + Aoogah + Organic Glass of Water for 42 damage
+(Lured) + Bugle + Organic Aoogah + Glass of Water for 42 damage
+(Lured) + Bugle + Cupcake + Fruit Pie Slice + Organic Flower Pot for 42 damage
+(Lured) + Bugle + Cupcake + Organic Fruit Pie Slice + Flower Pot for 42 damage
+(Lured) + Bugle + Organic Cupcake + Fruit Pie Slice + Flower Pot for 42 damage
+(Lured) + Bugle + Organic Cupcake + Organic Fruit Pie Slice + Organic Glass of Water for 42 damage
+(Lured) + Bugle + Organic Cupcake + Organic Squirting Flower + Organic Sandbag for 42 damage
+(Lured) + Bugle + Organic Cupcake + Glass of Water + Squirt Gun for 42 damage
+(Lured) + Bugle + Organic Cupcake + Organic Squirt Gun + Organic Flower Pot for 42 damage
+(Lured) + Bugle + Organic Cupcake + Flower Pot + Flower Pot for 42 damage
+(Lured) + Bugle + Fruit Pie Slice + Organic Fruit Pie Slice + Organic Squirting Flower for 42 damage
+(Lured) + Bugle + Fruit Pie Slice + Squirting Flower + Organic Squirt Gun for 42 damage
+(Lured) + Bugle + Fruit Pie Slice + Organic Squirting Flower + Squirt Gun for 42 damage
+(Lured) + Bugle + Fruit Pie Slice + Glass of Water + Organic Glass of Water for 42 damage
+(Lured) + Bugle + Fruit Pie Slice + Seltzer Bottle for 42 damage
+(Lured) + Bugle + Organic Fruit Pie Slice + Organic Fruit Pie Slice + Squirting Flower for 42 damage
+(Lured) + Bugle + Organic Fruit Pie Slice + Squirting Flower + Squirt Gun for 42 damage
+(Lured) + Bugle + Organic Fruit Pie Slice + Glass of Water + Glass of Water for 42 damage
+(Lured) + Bugle + Organic Fruit Pie Slice + Organic Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Bugle + Cream Pie Slice + Squirting Flower + Flower Pot for 42 damage
+(Lured) + Bugle + Organic Cream Pie Slice + Organic Squirt Gun for 42 damage
+(Lured) + Bugle + Whole Fruit Pie + Squirting Flower for 42 damage
+(Lured) + Bugle + Squirting Flower + Squirt Gun + Organic Flower Pot for 42 damage
+(Lured) + Bugle + Squirting Flower + Organic Squirt Gun + Flower Pot for 42 damage
+(Lured) + Bugle + Squirting Flower + Organic Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Bugle + Organic Squirting Flower + Organic Squirting Flower + Organic Sandbag for 42 damage
+(Lured) + Bugle + Organic Squirting Flower + Squirt Gun + Flower Pot for 42 damage
+(Lured) + Bugle + Organic Squirting Flower + Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Bugle + Glass of Water + Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Bugle + Glass of Water + Organic Glass of Water + Flower Pot for 42 damage
+(Lured) + Bugle + Squirt Gun + Organic Sandbag for 42 damage
+(Lured) + Bugle + Organic Squirt Gun + Sandbag for 42 damage
+(Lured) + Bugle + Seltzer Bottle + Flower Pot for 42 damage
+(Lured) + Organic Bugle + Organic Bugle + Organic Squirt Gun for 42 damage
+(Lured) + Organic Bugle + Aoogah + Glass of Water for 42 damage
+(Lured) + Organic Bugle + Organic Aoogah + Organic Cupcake for 42 damage
+(Lured) + Organic Bugle + Organic Elephant Trunk for 42 damage
+(Lured) + Organic Bugle + Cupcake + Fruit Pie Slice + Flower Pot for 42 damage
+(Lured) + Organic Bugle + Cupcake + Organic Fruit Pie Slice + Organic Glass of Water for 42 damage
+(Lured) + Organic Bugle + Cupcake + Organic Squirting Flower + Organic Sandbag for 42 damage
+(Lured) + Organic Bugle + Cupcake + Glass of Water + Squirt Gun for 42 damage
+(Lured) + Organic Bugle + Cupcake + Organic Squirt Gun + Organic Flower Pot for 42 damage
+(Lured) + Organic Bugle + Cupcake + Flower Pot + Flower Pot for 42 damage
+(Lured) + Organic Bugle + Organic Cupcake + Organic Cupcake + Organic Fruit Pie Slice for 42 damage
+(Lured) + Organic Bugle + Organic Cupcake + Organic Cupcake + Organic Squirt Gun for 42 damage
+(Lured) + Organic Bugle + Organic Cupcake + Fruit Pie Slice + Organic Glass of Water for 42 damage
+(Lured) + Organic Bugle + Organic Cupcake + Organic Fruit Pie Slice + Glass of Water for 42 damage
+(Lured) + Organic Bugle + Organic Cupcake + Organic Cream Pie Slice for 42 damage
+(Lured) + Organic Bugle + Organic Cupcake + Squirting Flower + Organic Sandbag for 42 damage
+(Lured) + Organic Bugle + Organic Cupcake + Organic Squirting Flower + Sandbag for 42 damage
+(Lured) + Organic Bugle + Organic Cupcake + Squirt Gun + Organic Flower Pot for 42 damage
+(Lured) + Organic Bugle + Organic Cupcake + Organic Squirt Gun + Flower Pot for 42 damage
+(Lured) + Organic Bugle + Organic Cupcake + Organic Seltzer Bottle for 42 damage
+(Lured) + Organic Bugle + Fruit Pie Slice + Organic Fruit Pie Slice + Squirting Flower for 42 damage
+(Lured) + Organic Bugle + Fruit Pie Slice + Squirting Flower + Squirt Gun for 42 damage
+(Lured) + Organic Bugle + Fruit Pie Slice + Glass of Water + Glass of Water for 42 damage
+(Lured) + Organic Bugle + Fruit Pie Slice + Organic Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Organic Bugle + Organic Fruit Pie Slice + Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Organic Bugle + Organic Fruit Pie Slice + Organic Glass of Water + Flower Pot for 42 damage
+(Lured) + Organic Bugle + Organic Fruit Pie Slice + Organic Sandbag for 42 damage
+(Lured) + Organic Bugle + Cream Pie Slice + Organic Squirt Gun for 42 damage
+(Lured) + Organic Bugle + Organic Cream Pie Slice + Organic Squirting Flower + Organic Squirting Flower for 42 damage
+(Lured) + Organic Bugle + Organic Cream Pie Slice + Squirt Gun for 42 damage
+(Lured) + Organic Bugle + Squirting Flower + Organic Squirting Flower + Organic Sandbag for 42 damage
+(Lured) + Organic Bugle + Squirting Flower + Glass of Water + Organic Squirt Gun for 42 damage
+(Lured) + Organic Bugle + Squirting Flower + Organic Glass of Water + Squirt Gun for 42 damage
+(Lured) + Organic Bugle + Squirting Flower + Squirt Gun + Flower Pot for 42 damage
+(Lured) + Organic Bugle + Squirting Flower + Seltzer Bottle for 42 damage
+(Lured) + Organic Bugle + Squirting Flower + Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Organic Bugle + Organic Squirting Flower + Organic Squirting Flower + Sandbag for 42 damage
+(Lured) + Organic Bugle + Organic Squirting Flower + Glass of Water + Squirt Gun for 42 damage
+(Lured) + Organic Bugle + Glass of Water + Glass of Water + Organic Glass of Water for 42 damage
+(Lured) + Organic Bugle + Glass of Water + Glass of Water + Flower Pot for 42 damage
+(Lured) + Organic Bugle + Squirt Gun + Organic Squirt Gun for 42 damage
+(Lured) + Organic Bugle + Squirt Gun + Sandbag for 42 damage
+(Lured) + Organic Bugle + Fire Hose for 42 damage
+(Lured) + Organic Bugle + Anvil for 42 damage
+(Lured) + Aoogah + Cupcake + Cupcake + Organic Flower Pot for 42 damage
+(Lured) + Aoogah + Cupcake + Organic Cupcake + Flower Pot for 42 damage
+(Lured) + Aoogah + Cupcake + Organic Fruit Pie Slice + Organic Squirting Flower for 42 damage
+(Lured) + Aoogah + Cupcake + Squirting Flower + Squirt Gun for 42 damage
+(Lured) + Aoogah + Cupcake + Glass of Water + Glass of Water for 42 damage
+(Lured) + Aoogah + Cupcake + Organic Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Aoogah + Organic Cupcake + Organic Cupcake + Organic Cupcake for 42 damage
+(Lured) + Aoogah + Organic Cupcake + Organic Cupcake + Organic Glass of Water for 42 damage
+(Lured) + Aoogah + Organic Cupcake + Fruit Pie Slice + Organic Squirting Flower for 42 damage
+(Lured) + Aoogah + Organic Cupcake + Organic Fruit Pie Slice + Squirting Flower for 42 damage
+(Lured) + Aoogah + Organic Cupcake + Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Aoogah + Organic Cupcake + Organic Glass of Water + Flower Pot for 42 damage
+(Lured) + Aoogah + Organic Cupcake + Organic Sandbag for 42 damage
+(Lured) + Aoogah + Fruit Pie Slice + Organic Fruit Pie Slice for 42 damage
+(Lured) + Aoogah + Fruit Pie Slice + Squirting Flower + Organic Glass of Water for 42 damage
+(Lured) + Aoogah + Fruit Pie Slice + Organic Squirting Flower + Glass of Water for 42 damage
+(Lured) + Aoogah + Fruit Pie Slice + Organic Squirting Flower + Organic Flower Pot for 42 damage
+(Lured) + Aoogah + Organic Fruit Pie Slice + Squirting Flower + Glass of Water for 42 damage
+(Lured) + Aoogah + Organic Fruit Pie Slice + Squirting Flower + Organic Flower Pot for 42 damage
+(Lured) + Aoogah + Organic Fruit Pie Slice + Organic Squirting Flower + Flower Pot for 42 damage
+(Lured) + Aoogah + Cream Pie Slice + Organic Glass of Water for 42 damage
+(Lured) + Aoogah + Organic Cream Pie Slice + Glass of Water for 42 damage
+(Lured) + Aoogah + Squirting Flower + Squirting Flower + Organic Squirt Gun for 42 damage
+(Lured) + Aoogah + Squirting Flower + Organic Squirting Flower + Squirt Gun for 42 damage
+(Lured) + Aoogah + Squirting Flower + Glass of Water + Organic Glass of Water for 42 damage
+(Lured) + Aoogah + Squirting Flower + Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Aoogah + Squirting Flower + Organic Glass of Water + Flower Pot for 42 damage
+(Lured) + Aoogah + Organic Squirting Flower + Glass of Water + Glass of Water for 42 damage
+(Lured) + Aoogah + Organic Squirting Flower + Glass of Water + Flower Pot for 42 damage
+(Lured) + Aoogah + Glass of Water + Organic Squirt Gun for 42 damage
+(Lured) + Aoogah + Glass of Water + Sandbag for 42 damage
+(Lured) + Aoogah + Organic Glass of Water + Squirt Gun for 42 damage
+(Lured) + Aoogah + Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Organic Aoogah + Cupcake + Cupcake + Flower Pot for 42 damage
+(Lured) + Organic Aoogah + Cupcake + Organic Cupcake + Organic Glass of Water for 42 damage
+(Lured) + Organic Aoogah + Cupcake + Fruit Pie Slice + Organic Squirting Flower for 42 damage
+(Lured) + Organic Aoogah + Cupcake + Organic Fruit Pie Slice + Squirting Flower for 42 damage
+(Lured) + Organic Aoogah + Cupcake + Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Organic Aoogah + Cupcake + Organic Glass of Water + Flower Pot for 42 damage
+(Lured) + Organic Aoogah + Cupcake + Organic Sandbag for 42 damage
+(Lured) + Organic Aoogah + Organic Cupcake + Organic Cupcake + Glass of Water for 42 damage
+(Lured) + Organic Aoogah + Organic Cupcake + Fruit Pie Slice + Squirting Flower for 42 damage
+(Lured) + Organic Aoogah + Organic Cupcake + Glass of Water + Flower Pot for 42 damage
+(Lured) + Organic Aoogah + Organic Cupcake + Sandbag for 42 damage
+(Lured) + Organic Aoogah + Fruit Pie Slice + Squirting Flower + Glass of Water for 42 damage
+(Lured) + Organic Aoogah + Fruit Pie Slice + Squirting Flower + Organic Flower Pot for 42 damage
+(Lured) + Organic Aoogah + Fruit Pie Slice + Organic Squirting Flower + Flower Pot for 42 damage
+(Lured) + Organic Aoogah + Organic Fruit Pie Slice + Squirting Flower + Flower Pot for 42 damage
+(Lured) + Organic Aoogah + Cream Pie Slice + Glass of Water for 42 damage
+(Lured) + Organic Aoogah + Squirting Flower + Glass of Water + Flower Pot for 42 damage
+(Lured) + Elephant Trunk + Cupcake + Organic Cupcake + Organic Squirting Flower for 42 damage
+(Lured) + Elephant Trunk + Cupcake + Organic Fruit Pie Slice for 42 damage
+(Lured) + Elephant Trunk + Cupcake + Squirting Flower + Glass of Water for 42 damage
+(Lured) + Elephant Trunk + Cupcake + Squirting Flower + Organic Flower Pot for 42 damage
+(Lured) + Elephant Trunk + Cupcake + Organic Squirting Flower + Flower Pot for 42 damage
+(Lured) + Elephant Trunk + Organic Cupcake + Organic Cupcake + Squirting Flower for 42 damage
+(Lured) + Elephant Trunk + Organic Cupcake + Fruit Pie Slice for 42 damage
+(Lured) + Elephant Trunk + Organic Cupcake + Squirting Flower + Flower Pot for 42 damage
+(Lured) + Elephant Trunk + Fruit Pie Slice + Squirting Flower + Organic Squirting Flower for 42 damage
+(Lured) + Elephant Trunk + Fruit Pie Slice + Organic Flower Pot for 42 damage
+(Lured) + Elephant Trunk + Organic Fruit Pie Slice + Squirting Flower + Squirting Flower for 42 damage
+(Lured) + Elephant Trunk + Organic Fruit Pie Slice + Flower Pot for 42 damage
+(Lured) + Elephant Trunk + Cream Pie Slice + Squirting Flower for 42 damage
+(Lured) + Elephant Trunk + Squirting Flower + Squirting Flower + Organic Glass of Water for 42 damage
+(Lured) + Elephant Trunk + Squirting Flower + Squirting Flower + Organic Flower Pot for 42 damage
+(Lured) + Elephant Trunk + Squirting Flower + Organic Squirting Flower + Glass of Water for 42 damage
+(Lured) + Elephant Trunk + Squirting Flower + Organic Squirting Flower + Flower Pot for 42 damage
+(Lured) + Elephant Trunk + Squirting Flower + Organic Squirt Gun for 42 damage
+(Lured) + Elephant Trunk + Organic Squirting Flower + Squirt Gun for 42 damage
+(Lured) + Elephant Trunk + Glass of Water + Organic Glass of Water for 42 damage
+(Lured) + Elephant Trunk + Seltzer Bottle for 42 damage
+(Lured) + Organic Elephant Trunk + Cupcake + Cupcake + Squirting Flower for 42 damage
+(Lured) + Organic Elephant Trunk + Cupcake + Organic Squirt Gun for 42 damage
+(Lured) + Organic Elephant Trunk + Organic Cupcake + Organic Squirting Flower + Organic Squirting Flower for 42 damage
+(Lured) + Organic Elephant Trunk + Organic Cupcake + Squirt Gun for 42 damage
+(Lured) + Organic Elephant Trunk + Fruit Pie Slice + Organic Glass of Water for 42 damage
+(Lured) + Organic Elephant Trunk + Organic Fruit Pie Slice + Glass of Water for 42 damage
+(Lured) + Organic Elephant Trunk + Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Organic Elephant Trunk + Organic Glass of Water + Flower Pot for 42 damage
+(Lured) + Organic Elephant Trunk + Organic Sandbag for 42 damage
+(Lured) + Cupcake + Cupcake + Cupcake + Organic Flower Pot for 42 damage
+(Lured) + Cupcake + Cupcake + Organic Cupcake + Organic Glass of Water for 42 damage
+(Lured) + Cupcake + Cupcake + Fruit Pie Slice + Squirting Flower for 42 damage
+(Lured) + Cupcake + Cupcake + Squirting Flower + Organic Squirt Gun for 42 damage
+(Lured) + Cupcake + Cupcake + Organic Squirting Flower + Squirt Gun for 42 damage
+(Lured) + Cupcake + Cupcake + Glass of Water + Organic Glass of Water for 42 damage
+(Lured) + Cupcake + Cupcake + Seltzer Bottle for 42 damage
+(Lured) + Cupcake + Organic Cupcake + Organic Cupcake + Glass of Water for 42 damage
+(Lured) + Cupcake + Organic Cupcake + Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Cupcake + Organic Cupcake + Organic Glass of Water + Flower Pot for 42 damage
+(Lured) + Cupcake + Organic Cupcake + Organic Sandbag for 42 damage
+(Lured) + Cupcake + Fruit Pie Slice + Squirting Flower + Flower Pot for 42 damage
+(Lured) + Cupcake + Organic Fruit Pie Slice + Organic Squirting Flower + Organic Squirting Flower for 42 damage
+(Lured) + Cupcake + Organic Fruit Pie Slice + Squirt Gun for 42 damage
+(Lured) + Cupcake + Squirting Flower + Glass of Water + Sandbag for 42 damage
+(Lured) + Cupcake + Squirting Flower + Organic Seltzer Bottle for 42 damage
+(Lured) + Cupcake + Organic Squirting Flower + Organic Glass of Water + Organic Squirt Gun for 42 damage
+(Lured) + Cupcake + Organic Squirting Flower + Organic Squirt Gun + Organic Flower Pot for 42 damage
+(Lured) + Cupcake + Organic Glass of Water + Organic Glass of Water + Organic Glass of Water for 42 damage
+(Lured) + Cupcake + Organic Glass of Water + Organic Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Cupcake + Organic Glass of Water + Flower Pot + Flower Pot for 42 damage
+(Lured) + Cupcake + Organic Seltzer Bottle + Flower Pot for 42 damage
+(Lured) + Cupcake + Organic Fire Hose for 42 damage
+(Lured) + Cupcake + Organic Anvil for 42 damage
+(Lured) + Organic Cupcake + Organic Cupcake + Organic Cupcake + Organic Squirting Flower for 42 damage
+(Lured) + Organic Cupcake + Organic Cupcake + Glass of Water + Flower Pot for 42 damage
+(Lured) + Organic Cupcake + Organic Cupcake + Sandbag for 42 damage
+(Lured) + Organic Cupcake + Fruit Pie Slice + Organic Squirting Flower + Organic Squirting Flower for 42 damage
+(Lured) + Organic Cupcake + Fruit Pie Slice + Squirt Gun for 42 damage
+(Lured) + Organic Cupcake + Organic Fruit Pie Slice + Squirting Flower + Organic Squirting Flower for 42 damage
+(Lured) + Organic Cupcake + Organic Fruit Pie Slice + Organic Flower Pot for 42 damage
+(Lured) + Organic Cupcake + Squirting Flower + Squirt Gun + Organic Flower Pot for 42 damage
+(Lured) + Organic Cupcake + Squirting Flower + Organic Squirt Gun + Flower Pot for 42 damage
+(Lured) + Organic Cupcake + Squirting Flower + Organic Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Organic Cupcake + Organic Squirting Flower + Organic Squirting Flower + Organic Sandbag for 42 damage
+(Lured) + Organic Cupcake + Organic Squirting Flower + Squirt Gun + Flower Pot for 42 damage
+(Lured) + Organic Cupcake + Organic Squirting Flower + Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Organic Cupcake + Glass of Water + Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Organic Cupcake + Glass of Water + Organic Glass of Water + Flower Pot for 42 damage
+(Lured) + Organic Cupcake + Squirt Gun + Organic Sandbag for 42 damage
+(Lured) + Organic Cupcake + Organic Squirt Gun + Sandbag for 42 damage
+(Lured) + Organic Cupcake + Seltzer Bottle + Flower Pot for 42 damage
+(Lured) + Fruit Pie Slice + Fruit Pie Slice + Glass of Water for 42 damage
+(Lured) + Fruit Pie Slice + Organic Fruit Pie Slice + Organic Squirting Flower for 42 damage
+(Lured) + Fruit Pie Slice + Squirting Flower + Organic Squirting Flower + Organic Squirt Gun for 42 damage
+(Lured) + Fruit Pie Slice + Squirting Flower + Organic Glass of Water + Organic Glass of Water for 42 damage
+(Lured) + Fruit Pie Slice + Squirting Flower + Organic Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Fruit Pie Slice + Organic Squirting Flower + Organic Squirting Flower + Squirt Gun for 42 damage
+(Lured) + Fruit Pie Slice + Organic Squirting Flower + Glass of Water + Organic Glass of Water for 42 damage
+(Lured) + Fruit Pie Slice + Organic Squirting Flower + Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Fruit Pie Slice + Organic Squirting Flower + Organic Glass of Water + Flower Pot for 42 damage
+(Lured) + Fruit Pie Slice + Glass of Water + Organic Sandbag for 42 damage
+(Lured) + Fruit Pie Slice + Organic Glass of Water + Organic Squirt Gun for 42 damage
+(Lured) + Fruit Pie Slice + Organic Glass of Water + Sandbag for 42 damage
+(Lured) + Fruit Pie Slice + Organic Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Organic Fruit Pie Slice + Organic Fruit Pie Slice + Squirting Flower for 42 damage
+(Lured) + Organic Fruit Pie Slice + Squirting Flower + Glass of Water + Flower Pot for 42 damage
+(Lured) + Cream Pie Slice + Squirting Flower + Squirting Flower + Organic Squirting Flower for 42 damage
+(Lured) + Cream Pie Slice + Squirting Flower + Organic Glass of Water for 42 damage
+(Lured) + Cream Pie Slice + Organic Squirting Flower + Glass of Water for 42 damage
+(Lured) + Cream Pie Slice + Organic Squirting Flower + Organic Flower Pot for 42 damage
+(Lured) + Organic Cream Pie Slice + Squirting Flower + Squirting Flower + Squirting Flower for 42 damage
+(Lured) + Organic Cream Pie Slice + Squirting Flower + Glass of Water for 42 damage
+(Lured) + Organic Cream Pie Slice + Squirting Flower + Organic Flower Pot for 42 damage
+(Lured) + Organic Cream Pie Slice + Organic Squirting Flower + Flower Pot for 42 damage
+(Lured) + Squirting Flower + Squirting Flower + Organic Squirting Flower + Organic Sandbag for 42 damage
+(Lured) + Squirting Flower + Organic Squirting Flower + Organic Squirting Flower + Sandbag for 42 damage
+(Lured) + Squirting Flower + Organic Squirting Flower + Organic Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Squirting Flower + Organic Squirting Flower + Flower Pot + Organic Flower Pot for 42 damage
+(Lured) + Squirting Flower + Organic Glass of Water + Organic Sandbag for 42 damage
+(Lured) + Squirting Flower + Flower Pot + Flower Pot + Flower Pot for 42 damage
+(Lured) + Squirting Flower + Organic Flower Pot + Organic Sandbag for 42 damage
+(Lured) + Organic Squirting Flower + Organic Squirting Flower + Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Organic Squirting Flower + Glass of Water + Organic Sandbag for 42 damage
+(Lured) + Organic Squirting Flower + Organic Glass of Water + Sandbag for 42 damage
+(Lured) + Organic Squirting Flower + Organic Squirt Gun + Organic Flower Pot for 42 damage
+(Lured) + Organic Squirting Flower + Flower Pot + Sandbag for 42 damage
+(Lured) + Glass of Water + Anvil for 42 damage
+(Lured) + Organic Glass of Water + Organic Glass of Water + Organic Flower Pot for 42 damage
+(Lured) + Squirt Gun + Flower Pot + Flower Pot for 42 damage
+(Lured) + Seltzer Bottle + Flower Pot for 42 damage
