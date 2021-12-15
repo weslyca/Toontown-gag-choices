@@ -1,4 +1,4 @@
-Lure + Seltzer Bottle for 32 damage
 Fire Hose for 30 damage
-Organic Fire Hose for 33 damage
+Lure + Seltzer Bottle for 32 damage
 (Lured) + Seltzer Bottle for 32 damage
+Organic Fire Hose for 33 damage

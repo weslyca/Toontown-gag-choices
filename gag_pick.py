@@ -161,11 +161,11 @@ for trap in gags[:lure_index]:
 
 # lure
 round[0] = gags[lure_index]
-for idx2, second in enumerate(gags[sound_index:]):
+for idx2, second in enumerate(gags[throw_index:]): #ignoring sound
     round[1] = second
-    for idx3, third in enumerate(gags[sound_index+idx2:]):
+    for idx3, third in enumerate(gags[throw_index+idx2:]):
         round[2] = third
-        for fourth in gags[sound_index+idx2+idx3:]:
+        for fourth in gags[throw_index+idx2+idx3:]:
             round[3] = fourth
             damage = simulate_attack(round)
             # print(round)
@@ -205,11 +205,15 @@ for idx1, first in enumerate(gags[throw_index:]):
 # for r in combinations[3]:
     # format_round(r[0], r[1])
 
+
+for i in range(1, 21):
+    combinations[i].sort(key=lambda x: x[1])
+
+
 # with open("test_common_gags", 'w') as f:
 #     i = 8
 #     for r in combinations[i]:
 #         f.write(format_round(r[0], r[1]))
-
 for i in range(1, 21):
     if i < 10:
         r = f'level0{i}.txt'
